@@ -18,7 +18,7 @@ function bars(rows, hostId) {
 }
 
 async function init() {
-  const res = await fetch("data/insights.json");
+  const res = await fetch("insights.json");
   const d = await res.json();
   const set = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
   set("n-songs", d.uniqueSongs);

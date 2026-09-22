@@ -2,7 +2,7 @@ function $(sel, root = document) { return root.querySelector(sel); }
 function $$(sel, root = document) { return Array.from(root.querySelectorAll(sel)); }
 
 async function loadSongs() {
-  const res = await fetch("data/songs.json");
+  const res = await fetch("songs.json");
   if (!res.ok) throw new Error("Could not load the song list.");
   return res.json();
 }

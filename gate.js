@@ -19,13 +19,17 @@ async function submitGate(ev) {
   ev.preventDefault();
   const input = document.getElementById("pw");
   const err = document.getElementById("gate-err");
-  const hex = await sha256hex(input.value.trim());
-  if (hex === PASS_HASH) {
-    sessionStorage.setItem(GATE_KEY, PASS_HASH);
-    hideGate();
-  } else if (err) {
-    err.textContent = "That password is not right.";
-    input.select();
+  try {
+    const hex = await sha256hex(input.value.trim());
+    if (hex === PASS_HASH) {
+      sessionStorage.setItem(GATE_KEY, PASS_HASH);
+      hideGate();
+    } else if (err) {
+      err.textContent = "That password is not right.";
+      input.select();
+    }
+  } catch (e) {
+    if (err) err.textContent = "Could not check the password in this browser.";
   }
 }
 

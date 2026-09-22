@@ -9,6 +9,7 @@ async function sha256hex(text) {
 function hideGate() {
   const el = document.getElementById("gate");
   if (el) el.classList.add("hidden");
+  document.documentElement.classList.add("unlocked");
 }
 
 async function checkStored() {

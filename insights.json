@@ -1,213 +1,55 @@
 {
-  "asOf": "22 Sept 2026",
+  "asOf": "23 Sept 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
   "graded": 0,
   "notGraded": 194,
-  "setlistMentionsRaw": 969,
+  "setlistMentionsRaw": 965,
   "timesLoggedSum": 965,
   "families": [
-    {
-      "name": "Modern",
-      "count": 59
-    },
-    {
-      "name": "Hymn",
-      "count": 36
-    },
-    {
-      "name": "Sovereign Grace",
-      "count": 35
-    },
-    {
-      "name": "Chorus",
-      "count": 14
-    },
-    {
-      "name": "Modern hymn",
-      "count": 12
-    },
-    {
-      "name": "Vineyard",
-      "count": 11
-    },
-    {
-      "name": "CityAlight",
-      "count": 9
-    },
-    {
-      "name": "Getty",
-      "count": 8
-    },
-    {
-      "name": "Hymn / Christmas",
-      "count": 5
-    },
-    {
-      "name": "Shane & Shane / Worship Initiative",
-      "count": 3
-    },
-    {
-      "name": "Chorus medley",
-      "count": 2
-    }
+    {"name": "Modern", "count": 59},
+    {"name": "Hymn", "count": 36},
+    {"name": "Sovereign Grace", "count": 35},
+    {"name": "Chorus", "count": 14},
+    {"name": "Modern hymn", "count": 12},
+    {"name": "Vineyard", "count": 11},
+    {"name": "CityAlight", "count": 9},
+    {"name": "Getty", "count": 8},
+    {"name": "Hymn / Christmas", "count": 5},
+    {"name": "Shane & Shane / Worship Initiative", "count": 3},
+    {"name": "Chorus medley", "count": 2}
   ],
   "eras": [
-    {
-      "name": "Before 1900 (hymns)",
-      "count": 30
-    },
-    {
-      "name": "1900–1989",
-      "count": 31
-    },
-    {
-      "name": "1990–1999",
-      "count": 27
-    },
-    {
-      "name": "2000–2009",
-      "count": 44
-    },
-    {
-      "name": "2010–2019",
-      "count": 44
-    },
-    {
-      "name": "2020–2025",
-      "count": 16
-    },
-    {
-      "name": "Unknown / traditional",
-      "count": 2
-    }
+    {"name": "Before 1900 (hymns)", "count": 30},
+    {"name": "1900–1989", "count": 31},
+    {"name": "1990–1999", "count": 27},
+    {"name": "2000–2009", "count": 44},
+    {"name": "2010–2019", "count": 44},
+    {"name": "2020–2025", "count": 16},
+    {"name": "Unknown / traditional", "count": 2}
+  ],
+  "recommendations": [
+    {"name": "Excellent / Prefer", "count": 0},
+    {"name": "Strong", "count": 0},
+    {"name": "Acceptable with notes", "count": 0},
+    {"name": "Weak", "count": 0},
+    {"name": "Avoid", "count": 0}
   ],
   "mostLogged": [
-    {
-      "title": "King Forevermore (God the Uncreated One)",
-      "id": "king-forevermore-god-the-uncreated-one",
-      "timesLogged": 16,
-      "writers": "Aaron Keyes / Pete James"
-    },
-    {
-      "title": "Your Will Be Done",
-      "id": "your-will-be-done",
-      "timesLogged": 15,
-      "writers": "Jonny Robinson / Rich Thompson (CityAlight)"
-    },
-    {
-      "title": "Abide",
-      "id": "abide",
-      "timesLogged": 14,
-      "writers": "Aaron Williams / Aaron Keyes / Jake Fauber (The Worship Initiative / Shane & Shane circle)"
-    },
-    {
-      "title": "He Is Worthy",
-      "id": "he-is-worthy",
-      "timesLogged": 14,
-      "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)"
-    },
-    {
-      "title": "His Mercy Is More",
-      "id": "his-mercy-is-more",
-      "timesLogged": 14,
-      "writers": "Matt Boswell / Matt Papa"
-    },
-    {
-      "title": "Jesus, Your Mercy",
-      "id": "jesus-your-mercy",
-      "timesLogged": 14,
-      "writers": "Bob Kauflin / Jordan Kauflin / Nathan Stiff (Sovereign Grace)"
-    },
-    {
-      "title": "Behold Him",
-      "id": "behold-him",
-      "timesLogged": 12,
-      "writers": "Paul Baloche / Mitch Wong"
-    },
-    {
-      "title": "Build My Life",
-      "id": "build-my-life",
-      "timesLogged": 12,
-      "writers": "Pat Barrett / Matt Redman / Brett Younker / Kirby Kaple / Karl Martin"
-    },
-    {
-      "title": "Living Hope",
-      "id": "living-hope",
-      "timesLogged": 12,
-      "writers": "Phil Wickham / Brian Johnson"
-    },
-    {
-      "title": "All I Have Is Christ",
-      "id": "all-i-have-is-christ",
-      "timesLogged": 11,
-      "writers": "Jordan Kauflin (Sovereign Grace)"
-    },
-    {
-      "title": "From Everlasting (Psalm 90)",
-      "id": "from-everlasting-psalm-90",
-      "timesLogged": 11,
-      "writers": "Lisa Clow / Lacy Condy (Sovereign Grace)"
-    },
-    {
-      "title": "It Was Finished Upon That Cross",
-      "id": "it-was-finished-upon-that-cross",
-      "timesLogged": 11,
-      "writers": "Jonny Robinson / Rich Thompson / Nigel Hendroff (CityAlight)"
-    },
-    {
-      "title": "My Soul Will Wait (Psalm 62)",
-      "id": "my-soul-will-wait-psalm-62",
-      "timesLogged": 11,
-      "writers": "Bob Kauflin / David Zimmer (Sovereign Grace)"
-    },
-    {
-      "title": "All Things",
-      "id": "all-things",
-      "timesLogged": 10,
-      "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)"
-    },
-    {
-      "title": "As the Deer",
-      "id": "as-the-deer",
-      "timesLogged": 10,
-      "writers": "Martin Nystrom"
-    },
-    {
-      "title": "Behold Our God",
-      "id": "behold-our-god",
-      "timesLogged": 10,
-      "writers": "Jonathan Baird / Meghan Baird / Ryan Baird / Stephen Altrogge (Sovereign Grace)"
-    },
-    {
-      "title": "Yet Not I but Through Christ in Me",
-      "id": "yet-not-i-but-through-christ-in-me",
-      "timesLogged": 10,
-      "writers": "Jonny Robinson / Rich Thompson / Michael Farren (CityAlight)"
-    },
-    {
-      "title": "All Creatures of Our God and King",
-      "id": "all-creatures-of-our-god-and-king",
-      "timesLogged": 9,
-      "writers": "St. Francis of Assisi; tr. William H. Draper"
-    },
-    {
-      "title": "All Glory Be to Christ",
-      "id": "all-glory-be-to-christ",
-      "timesLogged": 9,
-      "writers": "Dustin Kensrue (tune AULD LANG SYNE)"
-    },
-    {
-      "title": "Ancient of Days",
-      "id": "ancient-of-days",
-      "timesLogged": 9,
-      "writers": "Jonny Robinson / Rich Thompson / Michael Farren / Jesse Reeves (CityAlight)"
-    }
-  ],
-  "notes": [
-    "Counts come from dated setlists 2023 through Sept 2026.",
-    "Times logged measure how often the room sang the song. They do not measure lyrical quality.",
-    "Family names the writing lane of the text, not the cover artist.",
-    "No grade reports are published yet. Identification is complete."
+    {"title": "King Forevermore (God the Uncreated One)", "id": "king-forevermore-god-the-uncreated-one", "timesLogged": 16, "writers": "Aaron Keyes / Pete James"},
+    {"title": "Your Will Be Done", "id": "your-will-be-done", "timesLogged": 15, "writers": "Jonny Robinson / Rich Thompson (CityAlight)"},
+    {"title": "Abide", "id": "abide", "timesLogged": 14, "writers": "Aaron Williams / Aaron Keyes / Jake Fauber (The Worship Initiative / Shane & Shane circle)"},
+    {"title": "He Is Worthy", "id": "he-is-worthy", "timesLogged": 14, "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)"},
+    {"title": "His Mercy Is More", "id": "his-mercy-is-more", "timesLogged": 14, "writers": "Matt Boswell / Matt Papa"},
+    {"title": "Jesus, Your Mercy", "id": "jesus-your-mercy", "timesLogged": 14, "writers": "Bob Kauflin / Jordan Kauflin / Nathan Stiff (Sovereign Grace)"},
+    {"title": "Behold Him", "id": "behold-him", "timesLogged": 12, "writers": "Paul Baloche / Mitch Wong"},
+    {"title": "Build My Life", "id": "build-my-life", "timesLogged": 12, "writers": "Pat Barrett / Matt Redman / Brett Younker / Kirby Kaple / Karl Martin"},
+    {"title": "Living Hope", "id": "living-hope", "timesLogged": 12, "writers": "Phil Wickham / Brian Johnson"},
+    {"title": "All I Have Is Christ", "id": "all-i-have-is-christ", "timesLogged": 11, "writers": "Jordan Kauflin (Sovereign Grace)"},
+    {"title": "From Everlasting (Psalm 90)", "id": "from-everlasting-psalm-90", "timesLogged": 11, "writers": "Lisa Clow / Lacy Condy (Sovereign Grace)"},
+    {"title": "It Was Finished Upon That Cross", "id": "it-was-finished-upon-that-cross", "timesLogged": 11, "writers": "Jonny Robinson / Rich Thompson / Nigel Hendroff (CityAlight)"},
+    {"title": "My Soul Will Wait (Psalm 62)", "id": "my-soul-will-wait-psalm-62", "timesLogged": 11, "writers": "Bob Kauflin / David Zimmer (Sovereign Grace)"},
+    {"title": "All Things", "id": "all-things", "timesLogged": 10, "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)"},
+    {"title": "As the Deer", "id": "as-the-deer", "timesLogged": 10, "writers": "Martin Nystrom"}
   ]
 }

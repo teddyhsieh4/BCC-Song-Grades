@@ -43,7 +43,7 @@ GitHub Pages, `main` branch, site root. No bundler. No framework.
 | `songs.json` | 194 identified songs. Source of truth *on the site* |
 | `insights.json` | Summary counts for charts |
 | `RUBRIC.md` | Binding grading standard for agents |
-| `README.md` | Short human intro. Path notes there may be stale |
+| `README.md` | Short human intro. Paths match the flattened root layout |
 
 Ignore stray `download` files in the repo root. Do not add more of them.
 

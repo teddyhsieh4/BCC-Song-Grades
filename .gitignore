@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.local
+.env.*.local
+*.xlsx
+*.xls
+chord-sheets/
+private/
+raw-exports/
+reports/*.md
+!reports/.gitkeep
+!reports/README.md

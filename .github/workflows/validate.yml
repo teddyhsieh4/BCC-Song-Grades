@@ -1,0 +1,26 @@
+name: Validate catalog
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Validate live catalog
+        run: node scripts/validate.js songs.json
+      - name: Validate sample catalog
+        run: node scripts/validate.js data/sample/songs.json
+      - name: Reject Sheet URLs and plaintext password markers
+        run: |
+          if git grep -n "docs.google.com/spreadsheets" -- ':!.github/workflows/validate.yml' ':!docs/**'; then
+            echo "A Google Sheet URL landed in the repo. Remove it."
+            exit 1
+          fi
+          echo "No Sheet URL found."

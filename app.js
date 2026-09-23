@@ -14,6 +14,9 @@ function esc(s) {
 }
 
 function statusLabel(song) {
+  if (typeof BCC_GRADES !== "undefined" && BCC_GRADES.displayLabel) {
+    return BCC_GRADES.displayLabel(song);
+  }
   if (song.recommendation) return song.recommendation;
   return "Not yet graded";
 }

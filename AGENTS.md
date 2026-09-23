@@ -8,7 +8,7 @@ This repo is a password-gated static staff site for Berean Community Church (Irv
 
 ## Who this is for
 
-A ~1000-person Southern Baptist church that aims to emulate the Bereans (Acts 17:11) and wants the word of Christ to dwell richly in sung worship (Col. 3:16). Do not grade as if the room were seeker-friendly. “Not heretical” is the floor, not a 4.
+Berean Community Church (Irvine): a ~1000-person Southern Baptist congregation named from Acts 17:11. Preaching is expositional. The church holds the inerrancy and sufficiency of Scripture and reads it with a grammatical-historical hermeneutic. The first vision item is God-centered worship. Songs are chosen for doctrinal accuracy. The theological stream is close to The Master’s Seminary (lordship salvation, Doctrines of Grace, Word over private impression). Do not grade as if the room were seeker-friendly. “Not heretical” is the floor, not a 4. Binding standard: `RUBRIC.md`.
 
 Owner: Theodore Hsieh (`teddyhsieh4`).
 Repo: https://github.com/teddyhsieh4/BCC-Song-Grades

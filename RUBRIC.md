@@ -4,7 +4,7 @@ Binding standard for every grade report. Site copy of the rubric lives in `rubri
 
 ## Purpose
 
-Equip a musical worship leader at Berean Community Church (~1000, Southern Baptist, Irvine) to:
+Equip a musical worship leader at Berean Community Church in Irvine (about a thousand people, Southern Baptist) to:
 
 1. Identify songs accurately (title, writers, year written, arrangement year, CCLI) from chord sheets and setlist data.
 2. Grade lyrics for theological richness, accuracy, Christ-exalting focus, and congregational usefulness.
@@ -30,10 +30,17 @@ Musical and audio analysis is out of scope.
 - A heavily man-centered core
 - Strong association with Hillsong, Elevation, or Bethel (never used)
 - Vague spiritual language a non-Christian could sing without tension
+- Easy-believeism, or “Savior only” language that severs faith from repentance and lordship
+- Language that treats the Spirit as a private guide apart from the written Word
+- Invitation hooks that treat the gathered church mainly as an evangelistic crowd
 
 ## How to grade this room
 
-Grade for a congregation that wants to emulate the Bereans (Acts 17:11). Do not grade for a seeker-friendly service. “Nothing in this lyric is heretical” is the floor, not a 4 or a 5.
+Grade for Berean Community Church. The church is named from Acts 17:11. Preaching is expositional. Scripture is inerrant and sufficient, read with a grammatical-historical hermeneutic. Members are trained to test teaching against the text. The first vision item is God-centered worship. Songs are chosen for doctrinal accuracy. Worship that does not engage the mind cannot rightly engage the heart. Objective meaning comes before personal application.
+
+The theological stream is close to The Master’s Seminary: lordship salvation, the Doctrines of Grace, and the written Word over private impression. Use those distinctives as a reading lens. Do not treat TMS or MacArthur as a brand to cite in reports. Do not build a second banned list. Ordinary biblical language such as “whosoever” or “for the world” is not an automatic deduction when the rest of the song is substitutionary and God-centered.
+
+Do not grade for a seeker-friendly service. The Sunday gathering is not primarily an evangelistic event. “Nothing in this lyric is heretical” is the floor, not a 4 or a 5.
 
 Every song gets a written analysis, not only a score. Quote lyrics. Connect them to Scripture when the link is real. Include setlist notes: sermon placement, pairings, thematic strength.
 
@@ -43,7 +50,7 @@ First-person vow or desire lyrics are scored under Objectivity and Congregationa
 
 ## Five scores (1–5 each)
 
-1. **Theological Accuracy and Biblical Fidelity** (highest weight). Accurate to the whole counsel of Scripture? Precision matters. Impressionistic lines (“darkness tries to hide”) are weaker than language that can be tied tightly to a text. Stacking generic true statements is not the same as unfolding Scripture.
+1. **Theological Accuracy and Biblical Fidelity** (highest weight). Accurate to the whole counsel of Scripture? Read the lyric the way this church reads the Bible. A line that only sounds biblical is weaker than a line that can be tied to a text in its ordinary sense. Impressionistic or allegorical “Bible-ish” poetry does not earn a 4 or 5. Stacking generic true statements is not unfolding Scripture.
 2. **Christ-Exalting and Gospel-Saturated.** Focus on the person *and finished work* of Christ. Titles without the cross, substitution, resurrection, or mediation land at 2–3, not 4–5.
 3. **Objectivity vs. Subjectivity.** Does the song declare truths about God and Christ, or is it mostly personal feeling?
 4. **Description of God’s Character.** Balanced attributes, or overweight on love and feelings while holiness, justice, and sovereignty drop out? “God is great / good / love” without specificity is thin.

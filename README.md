@@ -1,6 +1,6 @@
 # BCC Song Grades
 
-Staff site for Berean Community Church song identification and lyrical grades.
+Staff site for Berean Community Church song identification and lyrical grades. Grades follow the church’s own standard: God-centered gathered worship, doctrinal accuracy, Col. 3:16, and Acts 17:11. The full standard is in `RUBRIC.md`.
 
 Live site: https://teddyhsieh4.github.io/BCC-Song-Grades/
 

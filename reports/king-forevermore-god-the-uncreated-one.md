@@ -269,6 +269,4 @@ Printed originals are commonly in F. Several BCC labels are in E.
 
 ## Why this overall label
 
-In this rubric a 5 is dense and precise in the ordinary meaning of the texts it echoes. This hymn is dense on who God is and on the events of the gospel. It is less precise on the curse line and on “all is love,” and it never quite says whose sin is borne.
-
-Those are notes for the leader, not reasons to put the song away. Sung complete, it does what this church asks of a regular-use text: it teaches, it names God as He is, and it puts the Lamb and the empty tomb in the congregation’s mouth.
+This hymn stays at Strong because it is rich on who God is and on the events of the gospel, and a little loose in a few places. The curse line is compressed. “All is love” is vague. The lyrics never quite say whose sin is borne.

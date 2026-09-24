@@ -9,7 +9,7 @@ async function loadSongs() {
 
 function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    "&": "&", "<": "<", ">": ">", '"': """, "'": "&#39;"
   }[c]));
 }
 
@@ -53,6 +53,15 @@ function renderMarkdown(src) {
       out.push(html);
       continue;
     }
+    if (/^\*\*[^*]+\*\*:/.test(line)) {
+      const items = [];
+      while (i < lines.length && /^\*\*[^*]+\*\*:/.test(lines[i])) {
+        items.push("<p>" + inlineMd(lines[i]) + "</p>");
+        i += 1;
+      }
+      out.push(items.join("\n"));
+      continue;
+    }
     if (/^[-*]\s+/.test(line)) {
       const items = [];
       while (i < lines.length && /^[-*]\s+/.test(lines[i])) {
@@ -73,7 +82,7 @@ function renderMarkdown(src) {
     }
     const para = [line];
     i += 1;
-    while (i < lines.length && lines[i].trim() !== "" && !/^#{1,4}\s/.test(lines[i]) && !/^---+$/.test(lines[i].trim()) && !/^\|/.test(lines[i]) && !/^[-*]\s+/.test(lines[i]) && !/^\d+\.\s+/.test(lines[i])) {
+    while (i < lines.length && lines[i].trim() !== "" && !/^#{1,4}\s/.test(lines[i]) && !/^---+$/.test(lines[i].trim()) && !/^\|/.test(lines[i]) && !/^[-*]\s+/.test(lines[i]) && !/^\d+\.\s+/.test(lines[i]) && !/^\*\*[^*]+\*\*:/.test(lines[i])) {
       para.push(lines[i]);
       i += 1;
     }
@@ -194,7 +203,7 @@ async function initSong() {
     </dl>
     ${s.variants ? `<p><strong>Setlist variants.</strong> ${esc(s.variants)}</p>` : ""}
     ${s.notes ? `<div class="note">${esc(s.notes)}</div>` : ""}
-    <div class="note">This page does not reprint the full lyric. CCLI covers congregational use (service slides, SongSelect, the church chord sheet), not a lyrics catalog on this site. Grade reports quote short lines for analysis only. Use SongSelect or the band chart for the complete text.</div>
+    <div class="note">This page does not reprint the full lyric. CCLI covers congregational use (service slides, SongSelect, printed charts), not a lyrics catalog on this site. Grade reports quote short lines for analysis only. Use SongSelect or a printed chart for the complete text.</div>
     <h2>Grade report</h2>
     <div id="report-body"><p class="empty">Looking for a report…</p></div>
     <p><a href="index.html">Back to the catalog</a></p>
@@ -203,13 +212,13 @@ async function initSong() {
   try {
     const md = await loadReport(s);
     if (!md) {
-      body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the church chord sheet (or a confirmed published text of this same setting) and then posted here.</p>";
+      body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
       return;
     }
     const draft = /Draft grade/i.test(md) || s.status !== "graded";
-    body.innerHTML = (draft ? '<p class="note">Draft on file. Scores are not official until the church chord sheet is checked and the catalog is marked graded.</p>' : "") + renderMarkdown(md);
+    body.innerHTML = (draft ? '<p class="note">Draft on file. Scores become official when Theodore approves them and the catalog is marked graded.</p>' : "") + renderMarkdown(md);
   } catch (err) {
-    body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the church chord sheet (or a confirmed published text of this same setting) and then posted here.</p>";
+    body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
   }
 }
 

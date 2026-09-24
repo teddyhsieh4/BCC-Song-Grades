@@ -18,6 +18,10 @@ This folder is a static site. No build step. GitHub Pages serves the `main` bran
 
 Site files sit at that root (`index.html`, `style.css`, `gate.js`, `app.js`, `songs.json`, `insights.json`). Supporting files live under `lib/`, `scripts/`, `data/`, `docs/`, and `reports/`.
 
+## Lyrics
+
+This site does not store or display full copyrighted lyrics. CCLI covers congregational use (service slides, SongSelect, printed charts), not reprinting a song’s complete text on a website. Grade reports may quote short lines for analysis. Use SongSelect or the church chord sheet for the full lyric.
+
 ## Staff password
 
 The shared password is stored only as a SHA-256 hash in `gate.js`. Ask Theodore for the password. Do not commit the plaintext password to this README.

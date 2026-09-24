@@ -118,6 +118,7 @@ async function initSong() {
     </dl>
     ${s.variants ? `<p><strong>Setlist variants.</strong> ${esc(s.variants)}</p>` : ""}
     ${s.notes ? `<div class="note">${esc(s.notes)}</div>` : ""}
+    <div class="note">This page does not reprint the full lyric. CCLI covers congregational use (service slides, SongSelect, the church chord sheet), not a lyrics catalog on this site. Grade reports quote short lines for analysis only. Use SongSelect or the band chart for the complete text.</div>
     <h2>Grade report</h2>
     <p>No published grade yet. Identification is complete. The report will be written from the church chord sheet (or a confirmed published text of this same setting) and then posted here.</p>
     <p><a href="index.html">Back to the catalog</a></p>

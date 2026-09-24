@@ -1,6 +1,6 @@
 # King Forevermore (God the Uncreated One)
 
-**Status:** Draft grade. Identification is high-confidence. Publish only after the church chord sheet is checked against the quoted text.
+**Status:** Draft grade. Identification is high-confidence. Official when Theodore approves the scores and the catalog row is marked graded.
 
 **Source:** published Aaron Keyes / Pete James setting (Getty *Sing!* hymnal track, Worship Initiative Vol. 28, Common Hymnal). User note, 2026-09-23: the church sings this same text.
 
@@ -261,7 +261,7 @@ The congregation may believe all of those things that morning. This lyric will n
 
 Treat every “King Forevermore” / “God the Uncreated One” log as this one song. That is already the catalog rule.
 
-Check the CCLI on the chord sheet. SongSelect 7057478 is the Keyes / James text. The catalog number 7064739 looks like a one-digit mistype. Do not invent a second song around the wrong number.
+Correct the CCLI on the live catalog when convenient. SongSelect 7057478 is the Keyes / James text. The catalog number 7064739 looks like a one-digit mistype. Do not invent a second song around the wrong number.
 
 Printed originals are commonly in F. Several BCC labels are in E.
 

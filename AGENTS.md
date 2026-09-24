@@ -82,7 +82,7 @@ An export from the Sheet must not overwrite grade fields. A grade must not inven
 - Repertoire membership can be `active`, `retired`, or `not-in-repertoire` on `repertoireStatus` when that field is present. Grade progress uses `status`: `not-graded` or `graded`. Do not delete a row to retire a song.
 - When a grade is published, store `rubricVersion` and `gradeDate` (`YYYY-MM-DD`) on the song row. Log the change in `data/grade-history.json`.
 - The church chord sheet is the authority for which text we grade. Web lyrics may inform a draft only when CCLI and setting are already confirmed.
-- Do not put full copyrighted lyrics in the repo.
+- Do not put full copyrighted lyrics in the repo. Song pages and footers should keep saying so: CCLI does not cover a lyrics dump on this site; reports quote short lines only.
 - Do not invent CCLI numbers.
 - Hillsong, Elevation, and Bethel songs are never used. Do not add them.
 

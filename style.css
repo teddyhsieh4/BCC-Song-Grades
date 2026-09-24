@@ -76,7 +76,12 @@ article.page h1, article.page .lede { text-align: left; margin-left: 0; }
 .prose p, .prose li { font-size: 1.05rem; }
 .prose h2 { margin-top: 1.8rem; font-size: 1.25rem; color: var(--navy); }
 .prose h3 { margin-top: 1.3rem; font-size: 1.05rem; }
-.prose ul { padding-left: 1.2rem; }
+.prose ul, .prose ol { padding-left: 1.2rem; }
+.prose table { width: 100%; border-collapse: collapse; margin: 1rem 0 1.4rem; font-size: 0.95rem; }
+.prose th, .prose td { border: 1px solid var(--rule); padding: 0.4rem 0.55rem; text-align: left; vertical-align: top; }
+.prose th { background: #eef3f8; color: var(--navy); font-weight: 650; }
+.prose hr { border: 0; border-top: 1px solid var(--rule); margin: 1.6rem 0; }
+.prose code { font-size: 0.9em; background: #eef3f8; padding: 0.05rem 0.3rem; border-radius: 3px; }
 .note { background: #eef3f8; border-left: 3px solid var(--blue); padding: 0.8rem 1rem; margin: 1.2rem 0; }
 .idgrid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.6rem 1.4rem; margin: 1.4rem 0 1.8rem; font-size: 0.98rem; }
 .idgrid dt { color: var(--muted); font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; margin-top: 0.4rem; }

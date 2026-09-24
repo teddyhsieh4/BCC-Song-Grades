@@ -13,6 +13,82 @@ function esc(s) {
   }[c]));
 }
 
+function inlineMd(text) {
+  let s = esc(text);
+  s = s.replace(/`([^`]+)`/g, "<code>$1</code>");
+  s = s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  s = s.replace(/(^|[^*])\*([^\*\n]+)\*/g, "$1<em>$2</em>");
+  return s;
+}
+
+function renderMarkdown(src) {
+  const lines = String(src || "").replace(/\r\n/g, "\n").split("\n");
+  const out = [];
+  let i = 0;
+  while (i < lines.length) {
+    const line = lines[i];
+    if (line.trim() === "") { i += 1; continue; }
+    if (/^---+$/.test(line.trim())) { out.push("<hr>"); i += 1; continue; }
+    const h = line.match(/^(#{1,4})\s+(.*)$/);
+    if (h) {
+      const n = h[1].length;
+      out.push("<h" + n + ">" + inlineMd(h[2]) + "</h" + n + ">");
+      i += 1;
+      continue;
+    }
+    if (/^\|/.test(line) && i + 1 < lines.length && /^\|\s*-/.test(lines[i + 1])) {
+      const rows = [];
+      while (i < lines.length && /^\|/.test(lines[i])) {
+        rows.push(lines[i]);
+        i += 1;
+      }
+      const cells = (row) => row.split("|").slice(1, -1).map((c) => c.trim());
+      const head = cells(rows[0]);
+      const body = rows.slice(2).map(cells);
+      let html = "<table><thead><tr>" + head.map((c) => "<th>" + inlineMd(c) + "</th>").join("") + "</tr></thead><tbody>";
+      body.forEach((r) => {
+        html += "<tr>" + r.map((c) => "<td>" + inlineMd(c) + "</td>").join("") + "</tr>";
+      });
+      html += "</tbody></table>";
+      out.push(html);
+      continue;
+    }
+    if (/^[-*]\s+/.test(line)) {
+      const items = [];
+      while (i < lines.length && /^[-*]\s+/.test(lines[i])) {
+        items.push("<li>" + inlineMd(lines[i].replace(/^[-*]\s+/, "")) + "</li>");
+        i += 1;
+      }
+      out.push("<ul>" + items.join("") + "</ul>");
+      continue;
+    }
+    if (/^\d+\.\s+/.test(line)) {
+      const items = [];
+      while (i < lines.length && /^\d+\.\s+/.test(lines[i])) {
+        items.push("<li>" + inlineMd(lines[i].replace(/^\d+\.\s+/, "")) + "</li>");
+        i += 1;
+      }
+      out.push("<ol>" + items.join("") + "</ol>");
+      continue;
+    }
+    const para = [line];
+    i += 1;
+    while (i < lines.length && lines[i].trim() !== "" && !/^#{1,4}\s/.test(lines[i]) && !/^---+$/.test(lines[i].trim()) && !/^\|/.test(lines[i]) && !/^[-*]\s+/.test(lines[i]) && !/^\d+\.\s+/.test(lines[i])) {
+      para.push(lines[i]);
+      i += 1;
+    }
+    out.push("<p>" + inlineMd(para.join(" ")) + "</p>");
+  }
+  return out.join("\n");
+}
+
+async function loadReport(song) {
+  const path = song.report || ("reports/" + song.id + ".md");
+  const res = await fetch(path);
+  if (!res.ok) return null;
+  return res.text();
+}
+
 function statusLabel(song) {
   if (typeof BCC_GRADES !== "undefined" && BCC_GRADES.displayLabel) {
     return BCC_GRADES.displayLabel(song);
@@ -120,9 +196,21 @@ async function initSong() {
     ${s.notes ? `<div class="note">${esc(s.notes)}</div>` : ""}
     <div class="note">This page does not reprint the full lyric. CCLI covers congregational use (service slides, SongSelect, the church chord sheet), not a lyrics catalog on this site. Grade reports quote short lines for analysis only. Use SongSelect or the band chart for the complete text.</div>
     <h2>Grade report</h2>
-    <p>No published grade yet. Identification is complete. The report will be written from the church chord sheet (or a confirmed published text of this same setting) and then posted here.</p>
+    <div id="report-body"><p class="empty">Looking for a report…</p></div>
     <p><a href="index.html">Back to the catalog</a></p>
   `;
+  const body = $("#report-body");
+  try {
+    const md = await loadReport(s);
+    if (!md) {
+      body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the church chord sheet (or a confirmed published text of this same setting) and then posted here.</p>";
+      return;
+    }
+    const draft = /Draft grade/i.test(md) || s.status !== "graded";
+    body.innerHTML = (draft ? '<p class="note">Draft on file. Scores are not official until the church chord sheet is checked and the catalog is marked graded.</p>' : "") + renderMarkdown(md);
+  } catch (err) {
+    body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the church chord sheet (or a confirmed published text of this same setting) and then posted here.</p>";
+  }
 }
 
 document.addEventListener("DOMContentLoaded", () => {

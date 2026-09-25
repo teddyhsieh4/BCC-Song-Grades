@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Read this file first. Then read `RUBRIC.md` before writing or scoring any song.
+Read this file first. Then read `RUBRIC.md` before writing or scoring any song. Before writing or revising a grade report, also read `skills/bcc-prose/SKILL.md`.
 
 `CLAUDE.md` is one line pointing here. Other tools should do the same. Do not fork instructions into a second brief.
 
@@ -51,6 +51,7 @@ GitHub Pages, `main` branch, site root. No bundler. No framework.
 | `scripts/build-insights.js` | Rebuilds `insights.json` from `songs.json` |
 | `RUBRIC.md` | Binding grading standard for agents |
 | `README.md` | Short human intro |
+| `skills/bcc-prose/` | Prose cadence skill for agents |
 
 After you change CSS or JS, bump the `?v=` query on every HTML page that loads that file. GitHub Pages and browsers cache hard.
 
@@ -116,7 +117,7 @@ Known Prefer-lane examples: *Before the Throne*, *Yet Not I*, *In Christ Alone*,
 
 ## Prose
 
-Write like a pastor-musician briefing a colleague.
+Write like a pastor-musician briefing a colleague. Full cadence rules live in `skills/bcc-prose/SKILL.md`.
 
 Do not use em dashes. Do not stack “not this, but that.” Do not use stock AI cadence (“at its core,” “unpacks,” “rich tapestry,” and the rest listed in `RUBRIC.md`).
 

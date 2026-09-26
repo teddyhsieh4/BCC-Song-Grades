@@ -1,9 +1,9 @@
 {
-  "asOf": "23 Sept 2026",
+  "asOf": "26 Sept 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
-  "graded": 0,
-  "notGraded": 194,
+  "graded": 1,
+  "notGraded": 193,
   "setlistMentionsRaw": 965,
   "timesLoggedSum": 965,
   "families": [
@@ -30,7 +30,7 @@
   ],
   "recommendations": [
     {"name": "Excellent / Prefer", "count": 0},
-    {"name": "Strong", "count": 0},
+    {"name": "Strong", "count": 1},
     {"name": "Acceptable with notes", "count": 0},
     {"name": "Weak", "count": 0},
     {"name": "Avoid", "count": 0}

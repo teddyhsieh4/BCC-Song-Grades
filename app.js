@@ -4,12 +4,22 @@ function $$(sel, root = document) { return Array.from(root.querySelectorAll(sel)
 async function loadSongs() {
   const res = await fetch("songs.json");
   if (!res.ok) throw new Error("Could not load the song list.");
-  return res.json();
+  const songs = await res.json();
+  try {
+    const extraRes = await fetch("data/published-grades.json");
+    if (extraRes.ok) {
+      const extra = await extraRes.json();
+      return songs.map((s) => extra[s.id] ? Object.assign({}, s, extra[s.id]) : s);
+    }
+  } catch (err) {
+    /* overlay is optional */
+  }
+  return songs;
 }
 
 function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) => ({
-    "&": "&", "<": "<", ">": ">", '"': """, "'": "&#39;"
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
   }[c]));
 }
 
@@ -82,7 +92,7 @@ function renderMarkdown(src) {
     }
     const para = [line];
     i += 1;
-    while (i < lines.length && lines[i].trim() !== "" && !/^#{1,4}\s/.test(lines[i]) && !/^---+$/.test(lines[i].trim()) && !/^\|/.test(lines[i]) && !/^[-*]\s+/.test(lines[i]) && !/^\d+\.\s+/.test(lines[i]) && !/^\*\*[^*]+\*\*:/.test(lines[i])) {
+    while (i < lines.length && lines[i].trim() !== "" && !/^#{1,4}\s/.test(lines[i]) && !/^---+$/.test(lines[i].trim()) && !/^\|/.test(lines[i]) && !/^[-*]\s+/.test(lines[i]) && !/^\d+\.\s+/.test(lines[i])) {
       para.push(lines[i]);
       i += 1;
     }
@@ -215,7 +225,7 @@ async function initSong() {
       body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
       return;
     }
-    const draft = /Draft grade/i.test(md) || s.status !== "graded";
+    const draft = /Draft grade/i.test(md) || (s.status !== "graded" && !/Published grade/i.test(md));
     body.innerHTML = (draft ? '<p class="note">Draft on file. Scores become official when Theodore approves them and the catalog is marked graded.</p>' : "") + renderMarkdown(md);
   } catch (err) {
     body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";

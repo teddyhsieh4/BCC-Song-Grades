@@ -11,7 +11,7 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:ital,wght@0,500;0,650;1,500&display=swap" rel="stylesheet">
   <base href="/BCC-Song-Grades/">
-  <link rel="stylesheet" href="style.css?v=12">
+  <link rel="stylesheet" href="style.css?v=13">
 </head>
 <body>
 <div id="gate">
@@ -40,14 +40,14 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
 <article class="page prose">
   <p class="kicker">How we grade</p>
   <h1>The rubric</h1>
-  <p class="lede">Lyrics are the main thing. Music serves the text. Reports ask whether a song helps this church worship in spirit and in truth (John 4:24), let the word of Christ dwell richly (Col. 3:16), and test what it sings the way the Bereans tested teaching (Acts 17:11).</p>
+  <p class="lede">Lyrics come first. Music serves the text. A report asks whether the song helps this church worship in spirit and in truth (John 4:24), lets the word of Christ dwell richly (Col. 3:16), and can be tested against Scripture the way the Bereans tested teaching (Acts 17:11).</p>
 
   <h2>This church</h2>
   <p>Berean Community Church in Irvine is a Southern Baptist congregation of about a thousand people. Preaching is expositional. The church holds the inerrancy and sufficiency of Scripture and reads it with a grammatical-historical hermeneutic. Members are trained to study the text for themselves. The first vision item is God-centered worship. Songs are chosen for doctrinal accuracy. Worship that does not engage the mind cannot rightly engage the heart. Objective meaning comes before personal application.</p>
-  <p>The theological stream is close to The Master’s Seminary: lordship salvation, the Doctrines of Grace, and the written Word over private impression. Those distinctives shape how we read a lyric. They do not create a second banned list, and they do not belong as branding on a song page.</p>
+  <p>The theological stream is close to The Master’s Seminary: lordship salvation, the Doctrines of Grace, and the written Word over private impression. Those distinctives are a reading lens for lyrics. Song pages do not treat TMS as a brand. The banned ministries remain Hillsong, Elevation, and Bethel.</p>
 
   <h2>Guiding principles</h2>
-  <p>Evaluation stays close to Bob Kauflin’s <em>Worship Matters</em>. A song should help the congregation remember, proclaim, and celebrate God’s worthiness, works, and Word. Affection grows when the lyric first tells the truth about God and the gospel. Prefer language that is God-centered, corporate, clear, and theologically substantial. Vague spirituality and songs that live mainly in private feeling sit lower. The Sunday gathering is not primarily an evangelistic event, so a seeker-shaped hook is not the same thing as congregational usefulness here.</p>
+  <p>Evaluation stays close to Bob Kauflin’s <em>Worship Matters</em>. A song should help the congregation remember, proclaim, and celebrate God’s worthiness, works, and Word. Affection grows when the lyric first tells the truth about God and the gospel. Prefer language that is God-centered, corporate, clear, and theologically substantial. Vague spirituality, and songs that live mainly in private feeling, sit lower. The Sunday gathering is the church at worship. Congregational usefulness here means the lyric can teach and admonish the body. A hook that works in a seeker room can still be thin for this one.</p>
 
   <h2>Red flags (Avoid, or heavy caution)</h2>
   <ul>
@@ -64,7 +64,7 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
   </ul>
 
   <h2>Five scores (1–5 each)</h2>
-  <p>Orthodoxy is the starting line. A lyric can be free of heresy and still land at a 3.</p>
+  <p>Freedom from heresy is the floor. A lyric can be true and still score a 3 if it is thin.</p>
   <ol>
     <li><strong>Theological Accuracy and Biblical Fidelity</strong> (highest weight). Does the song stay true to the whole counsel of Scripture? Read the lyric the way this church reads the Bible. A line that only sounds biblical is weaker than a line you can pin to a text in its ordinary sense. Impressionistic or allegorical “Bible-ish” poetry does not earn a 4 or 5.</li>
     <li><strong>Christ-Exalting and Gospel-Saturated.</strong> Does the lyric hold both the person and the finished work of Christ? Titles without the cross, substitution, resurrection, or mediation usually land at 2 or 3.</li>
@@ -77,29 +77,60 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
   <ul>
     <li><strong>5</strong> dense, precise, Scripture-shaped; models what this church wants to sing</li>
     <li><strong>4</strong> solid and usable; minor gaps, still teaches</li>
-    <li><strong>3</strong> true but thin, vague, or incomplete; easier for a seeker room than for a Berean one</li>
+    <li><strong>3</strong> true but thin, vague, or incomplete; seeker-accessible more than Berean-rigorous</li>
     <li><strong>2</strong> serious omission or imbalance (missing gospel, or mushy poetry in place of doctrine)</li>
     <li><strong>1</strong> error, man-centered core, or disqualifying confusion</li>
   </ul>
   <p>Use the full range. Do not inflate.</p>
 
   <h2>Overall recommendation</h2>
-  <ul>
-    <li><strong>Excellent / Prefer</strong> gold-standard texts; feature freely (Getty, CityAlight, Sovereign Grace, <em>In Christ Alone</em>, <em>Before the Throne</em>, <em>Is He Worthy</em>, <em>Yet Not I</em>, and songs like them)</li>
-    <li><strong>Strong</strong> rich enough to use regularly; small notes only</li>
-    <li><strong>Acceptable with notes</strong> orthodox and usable sparingly when the rest of the set supplies what the song lacks</li>
-    <li><strong>Weak</strong> popular, generically true, low rigor; do not feature. At most a brief filler after Scripture has already done the work. <em>How Great Is Our God</em> (Tomlin / Cash / Reeves, CCLI 4348399) is the calibration example of Weak.</li>
-    <li><strong>Avoid</strong> red-flag theology or banned-ministry association</li>
+  <p>These five labels are the official titles on song pages. The chip colors match the catalog.</p>
+  <ul class="grade-defs">
+    <li>
+      <div class="grade-head">
+        <span class="badge prefer">Excellent / Prefer</span>
+        <span class="grade-action">Feature freely</span>
+      </div>
+      <div>Gold-standard texts. Use them as the regular diet. Getty, CityAlight, Sovereign Grace, and hymns of that weight such as <em>In Christ Alone</em>, <em>Before the Throne</em>, <em>Is He Worthy</em>, and <em>Yet Not I</em>.</div>
+    </li>
+    <li>
+      <div class="grade-head">
+        <span class="badge strong">Strong</span>
+        <span class="grade-action">Use regularly</span>
+      </div>
+      <div>Rich enough for ordinary rotation. Small notes only.</div>
+    </li>
+    <li>
+      <div class="grade-head">
+        <span class="badge acceptable">Acceptable with notes</span>
+        <span class="grade-action">Spare use only</span>
+      </div>
+      <div>Orthodox and usable when the rest of the set supplies what this text lacks.</div>
+    </li>
+    <li>
+      <div class="grade-head">
+        <span class="badge weak">Weak</span>
+        <span class="grade-action">Do not feature</span>
+      </div>
+      <div>Popular, generically true, low rigor. At most a brief filler after Scripture has already done the work. <em>How Great Is Our God</em> (Tomlin / Cash / Reeves, CCLI 4348399) is the calibration example of Weak.</div>
+    </li>
+    <li>
+      <div class="grade-head">
+        <span class="badge avoid">Avoid</span>
+        <span class="grade-action">Do not use</span>
+      </div>
+      <div>Red-flag theology or banned-ministry association.</div>
+    </li>
   </ul>
   <p>If a song works mainly because it is easy, emotional, and broadly theistic, keep it at Weak or low Acceptable.</p>
 
   <h2>How a report is written</h2>
-  <p>Every song gets a written analysis, not only a score. Quote lyrics. Connect them to Scripture. Include setlist notes: sermon placement, pairings, thematic strength.</p>
-  <p>The church chord sheet is the authority for which text we grade. Web lyrics may draft a report for a stable, high-confidence setting. The published page waits on confirmation that BCC sings that same text.</p>
-  <p>Full lyrics stay off the site. CCLI covers congregational use, not a lyrics catalog here. Reports quote short lines for analysis. Use SongSelect or the band chart for the complete text.</p>
+  <p>Every song gets a written analysis, not only a score. Quote lyrics. Connect them to Scripture when the link is real. Include setlist notes: sermon placement, pairings, thematic strength.</p>
+  <p>Grade the published text of the catalog setting. The page becomes official when Theodore approves the scores and overall label. A chord sheet is not required for that yes.</p>
+  <p>Full lyrics stay off the site. CCLI covers congregational use, not a lyrics catalog here. Reports quote short lines for analysis. Use SongSelect or a printed chart for the complete text.</p>
 </article>
 </main>
-<footer>Official rubric text lives with the project. Last tightened 23 Sept 2026. Full lyrics stay off these pages.</footer>
+<footer>Official rubric text lives with the project. Last tightened 27 Sept 2026. Full lyrics stay off these pages.</footer>
 <script src="gate.js?v=6"></script>
 </body>
 </html>

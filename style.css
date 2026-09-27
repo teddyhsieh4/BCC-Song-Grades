@@ -82,6 +82,28 @@ select { color: var(--muted); }
   margin: 0.7rem 0 1.1rem;
 }
 .grade-line .grade-action { color: var(--muted); font-size: 0.95rem; }
+.grade-defs {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0 1.4rem;
+}
+.grade-defs li {
+  display: grid;
+  grid-template-columns: 13.5rem 1fr;
+  gap: 0.55rem 1rem;
+  align-items: start;
+  padding: 0.9rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.grade-defs li:last-child { border-bottom: 0; }
+.grade-defs .grade-head {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.35rem;
+}
+.grade-defs .grade-action { color: var(--muted); font-size: 0.88rem; }
+.grade-defs .badge { white-space: normal; text-align: center; }
 article.page { padding-top: 1.8rem; }
 article.page h1, article.page .lede { text-align: left; margin-left: 0; }
 .prose p, .prose li { font-size: 1.05rem; }
@@ -123,4 +145,5 @@ footer { max-width: 980px; margin: 2.5rem auto 0; padding: 1.2rem 1.25rem 2rem; 
   .idgrid { grid-template-columns: 1fr; }
   .barline { grid-template-columns: 1fr 2rem; }
   .barline .label { grid-column: 1 / -1; }
+  .grade-defs li { grid-template-columns: 1fr; }
 }

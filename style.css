@@ -124,6 +124,54 @@ article.page h1, article.page .lede { text-align: left; margin-left: 0; }
 .bar { background: #e4ebf2; height: 0.7rem; border-radius: 99px; overflow: hidden; }
 .bar > i { display: block; height: 100%; background: var(--navy); }
 .barline .c { color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+h2.with-info {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+.info-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.7rem;
+  height: 1.7rem;
+  border: 1.5px solid var(--muted);
+  border-radius: 50%;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-family: "Source Sans 3", "Segoe UI", sans-serif;
+  font-style: italic;
+  line-height: 1;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+.info-btn:hover {
+  color: var(--navy);
+  border-color: var(--navy);
+  text-decoration: none;
+}
+.family-defs {
+  margin: 1.4rem 0 1.8rem;
+}
+.family-defs > div {
+  padding: 0.95rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.family-defs > div:last-child { border-bottom: 0; }
+.family-defs dt {
+  font-weight: 650;
+  color: var(--navy);
+  font-size: 1.02rem;
+  margin: 0 0 0.25rem;
+}
+.family-defs dd {
+  margin: 0;
+  color: var(--ink);
+  font-size: 1.02rem;
+}
+.back-link { margin-top: 1.6rem; }
+.kicker a { color: inherit; }
 footer { max-width: 980px; margin: 2.5rem auto 0; padding: 1.2rem 1.25rem 2rem; color: var(--muted); font-size: 0.88rem; border-top: 1px solid var(--rule); }
 #gate {
   position: fixed; inset: 0; background: var(--navy); z-index: 50;

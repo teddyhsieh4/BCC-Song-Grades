@@ -19,7 +19,7 @@ async function loadSongs() {
 
 function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    "&": "&", "<": "<", ">": ">", '"': """, "'": "&#39;"
   }[c]));
 }
 
@@ -116,6 +116,20 @@ function statusLabel(song) {
   return "Not yet graded";
 }
 
+function badgeClass(song) {
+  if (typeof BCC_GRADES !== "undefined" && BCC_GRADES.badgeClass) {
+    return BCC_GRADES.badgeClass(song);
+  }
+  return song && song.recommendation ? "strong" : "wait";
+}
+
+function actionLine(song) {
+  if (typeof BCC_GRADES !== "undefined" && BCC_GRADES.actionLine) {
+    return BCC_GRADES.actionLine(song);
+  }
+  return song && song.recommendation ? "" : "Identification only";
+}
+
 function haystack(song) {
   return [
     song.title, song.writers, song.ccli, song.family, song.year,
@@ -140,7 +154,7 @@ function renderList(songs) {
         <h2>${esc(s.title)}</h2>
         <p class="meta">${esc(s.writers)}${s.year ? " · " + esc(s.year) : ""}${s.ccli ? " · CCLI " + esc(s.ccli) : ""} · ${s.timesLogged} logged</p>
       </div>
-      <span class="badge wait">${esc(statusLabel(s))}</span>
+      <span class="badge ${badgeClass(s)}">${esc(statusLabel(s))}</span>
     </a>
   `).join("");
 }
@@ -203,13 +217,13 @@ async function initSong() {
     <p class="kicker">${esc(s.family || "Song")}</p>
     <h1>${esc(s.title)}</h1>
     <p class="lede">${esc(s.writers)}</p>
+    <p class="grade-line"><span class="badge ${badgeClass(s)}">${esc(statusLabel(s))}</span><span class="grade-action">${esc(actionLine(s))}</span></p>
     <dl class="idgrid">
       <div><dt>Year written</dt><dd>${esc(s.year || "None on file")}</dd></div>
       <div><dt>CCLI</dt><dd>${s.ccli ? esc(s.ccli) : "None on file"}</dd></div>
       <div><dt>Times logged (2023–Sept 2026)</dt><dd>${s.timesLogged}</dd></div>
       <div><dt>Years seen</dt><dd>${esc(s.yearsSeen || "None on file")}</dd></div>
       <div><dt>ID confidence</dt><dd>${esc(s.confidence)}</dd></div>
-      <div><dt>Grade</dt><dd>${esc(statusLabel(s))}</dd></div>
     </dl>
     ${s.variants ? `<p><strong>Setlist variants.</strong> ${esc(s.variants)}</p>` : ""}
     ${s.notes ? `<div class="note">${esc(s.notes)}</div>` : ""}

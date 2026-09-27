@@ -18,9 +18,15 @@ async function loadSongs() {
 }
 
 function esc(s) {
-  return String(s ?? "").replace(/[&<>"']/g, (c) => ({
-    "&": "&", "<": "<", ">": ">", '"': """, "'": "&#39;"
-  }[c]));
+  const amp = String.fromCharCode(38);
+  const map = {
+    "&": amp + "amp;",
+    "<": amp + "lt;",
+    ">": amp + "gt;",
+    '"': amp + "quot;",
+    "'": amp + "#39;"
+  };
+  return String(s ?? "").replace(/[&<>"']/g, (c) => map[c]);
 }
 
 function inlineMd(text) {

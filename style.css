@@ -74,7 +74,7 @@ select { color: var(--muted); }
 .badge.wait { color: #5c6777; border-color: #c5ced8; background: #e8edf2; }
 .badge.prefer { color: #3a2c08; background: #d4af37; border-color: #8b6914; }
 .badge.strong { color: #fff; background: #1f6b45; border-color: #185536; }
-.badge.acceptable { color: #5a3d08; background: #e3b341; border-color: #b8860b; }
+.badge.acceptable { color: #5a3d08; background: #f6ebb0; border-color: #c9a227; }
 .badge.weak { color: #fff; background: #5c6777; border-color: #4a5462; }
 .badge.avoid { color: #fff; background: #9b2c2c; border-color: #7a1f1f; }
 .grade-line {

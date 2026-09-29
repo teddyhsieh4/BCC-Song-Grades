@@ -11,7 +11,7 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:ital,wght@0,500;0,650;1,500&display=swap" rel="stylesheet">
   <base href="/BCC-Song-Grades/">
-  <link rel="stylesheet" href="style.css?v=15">
+  <link rel="stylesheet" href="style.css?v=17">
 </head>
 <body>
 <div id="gate">
@@ -47,10 +47,10 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
     <div class="stat"><b id="n-sum">965</b><span>Logs on unique rows</span></div>
     <div class="stat"><b>0</b><span>Needs research</span></div>
   </div>
-  <div class="note">Family is grouped by who wrote the song, not by an artist who later covered it. If Shane &amp; Shane arranged someone else’s text (Is He Worthy), the song stays in the original family.</div>
+  <div class="note">Family is grouped by who wrote the song, not by an artist who later covered it. If Shane & Shane arranged someone else’s text (Is He Worthy), the song stays in the original family.</div>
 
   <h2 class="with-info">By song family
-    <a class="info-btn" href="families.html" title="What the family labels mean" aria-label="What the family labels mean">i</a>
+    <button type="button" class="info-btn" id="family-info-btn" title="What the family labels mean" aria-label="What the family labels mean" aria-haspopup="dialog" aria-controls="family-info">i</button>
   </h2>
   <div class="chart" id="family-bars"></div>
 
@@ -62,8 +62,67 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
   <div class="list" id="top-list"></div>
 </article>
 </main>
+<div class="dialog-root" id="family-info" hidden>
+  <div class="dialog-backdrop" data-close-family-info></div>
+  <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="family-info-title" tabindex="-1">
+    <div class="dialog-head">
+      <h2 id="family-info-title">What the family labels mean</h2>
+      <button type="button" class="dialog-close" data-close-family-info aria-label="Close">×</button>
+    </div>
+    <div class="dialog-body">
+      <p class="lede">Family is who wrote the text we sing. A later cover or arrangement does not move the song. These labels are for diet, not for grade.</p>
+      <div class="note">Is He Worthy stays Modern hymn (Peterson), even when Shane & Shane arranged it. Behold the Lamb (Passion) stays Modern. The Getty communion hymn is Getty.</div>
+      <dl class="family-defs">
+        <div>
+          <dt>Modern</dt>
+          <dd>Contemporary congregational songs from the 1990s onward that do not belong to a named house below. Tomlin, Redman, Wickham, Passion writers, and similar CCLI staples sit here.</dd>
+        </div>
+        <div>
+          <dt>Hymn</dt>
+          <dd>Texts that entered the church’s hymnody before the modern worship industry. Watts, Wesley, Crosby, traditional Irish and English sources, and the usual Sunday hymnal core.</dd>
+        </div>
+        <div>
+          <dt>Sovereign Grace</dt>
+          <dd>Songs written for Sovereign Grace Music. Psalm settings from that house stay here even when another band recorded them.</dd>
+        </div>
+        <div>
+          <dt>Chorus</dt>
+          <dd>Short 1980s–90s congregational choruses. Maranatha, Integrity, Vineyard-adjacent communion pieces, and similar one-page texts fold into this line.</dd>
+        </div>
+        <div>
+          <dt>Modern hymn</dt>
+          <dd>Recent texts written in hymn form or with that density: Boswell/Papa, Keyes, Peterson, Townend-adjacent pieces that are not Getty or CityAlight catalog. Cover versions stay in this family.</dd>
+        </div>
+        <div>
+          <dt>Vineyard</dt>
+          <dd>Songs first written in the Vineyard stream. Includes May the Words, Holy Holy Holy (Vineyard), Make Us a Prayer, and the other Vineyard titles in our list.</dd>
+        </div>
+        <div>
+          <dt>CityAlight</dt>
+          <dd>Songs written by the CityAlight team (Robinson, Thompson, and co-writers on those texts).</dd>
+        </div>
+        <div>
+          <dt>Getty</dt>
+          <dd>Keith and Kristyn Getty texts, including Townend co-writes published as Getty songs (In Christ Alone, Speak O Lord, The Power of the Cross).</dd>
+        </div>
+        <div>
+          <dt>Hymn / Christmas</dt>
+          <dd>Classic nativity and incarnation hymns we keep on the Christmas setlists. Same rule as Hymn; tagged so the diet chart can separate seasonal use.</dd>
+        </div>
+        <div>
+          <dt>Shane & Shane / Worship Initiative</dt>
+          <dd>Texts written in the Worship Initiative circle and published that way. In this catalog: Abide, All Sufficient Merit, and Psalm 90 (Satisfy Us with Your Love). Arrangements of other writers do not land here.</dd>
+        </div>
+        <div>
+          <dt>Chorus medley</dt>
+          <dd>Two short choruses we treat as one setlist row (As We Seek / Jesus Draw Me Close; The Steadfast Love of the Lord / As We Gather).</dd>
+        </div>
+      </dl>
+    </div>
+  </div>
+</div>
 <footer>Built from BCC Song List V2 setlists, 2023 through Sept 2026. Full lyrics stay off these pages.</footer>
 <script src="gate.js?v=6"></script>
-<script src="insights.js?v=6"></script>
+<script src="insights.js?v=7"></script>
 </body>
 </html>

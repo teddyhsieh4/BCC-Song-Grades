@@ -42,4 +42,35 @@ async function init() {
   }
 }
 
-document.addEventListener("DOMContentLoaded", () => init());
+function familyInfoDialog() {
+  const root = document.getElementById("family-info");
+  const openBtn = document.getElementById("family-info-btn");
+  if (!root || !openBtn) return;
+  const panel = root.querySelector(".dialog");
+
+  function open() {
+    root.hidden = false;
+    document.body.classList.add("dialog-open");
+    openBtn.setAttribute("aria-expanded", "true");
+    if (panel) panel.focus();
+  }
+  function close() {
+    root.hidden = true;
+    document.body.classList.remove("dialog-open");
+    openBtn.setAttribute("aria-expanded", "false");
+    openBtn.focus();
+  }
+
+  openBtn.addEventListener("click", open);
+  root.querySelectorAll("[data-close-family-info]").forEach((el) => {
+    el.addEventListener("click", close);
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !root.hidden) close();
+  });
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  init();
+  familyInfoDialog();
+});

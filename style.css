@@ -138,6 +138,7 @@ h2.with-info {
   border: 1.5px solid var(--muted);
   border-radius: 50%;
   color: var(--muted);
+  background: transparent;
   font-size: 0.78rem;
   font-weight: 700;
   font-family: "Source Sans 3", "Segoe UI", sans-serif;
@@ -145,6 +146,8 @@ h2.with-info {
   line-height: 1;
   text-decoration: none;
   flex-shrink: 0;
+  cursor: pointer;
+  padding: 0;
 }
 .info-btn:hover {
   color: var(--navy);
@@ -171,6 +174,65 @@ h2.with-info {
   font-size: 1.02rem;
 }
 .back-link { margin-top: 1.6rem; }
+body.dialog-open { overflow: hidden; }
+.dialog-root[hidden] { display: none !important; }
+.dialog-root {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.25rem;
+}
+.dialog-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(18, 28, 42, 0.45);
+}
+.dialog {
+  position: relative;
+  z-index: 1;
+  width: min(36rem, 100%);
+  max-height: min(88vh, 40rem);
+  overflow: auto;
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  box-shadow: 0 18px 40px rgba(18, 28, 42, 0.18);
+  padding: 1.15rem 1.2rem 1.3rem;
+  outline: none;
+}
+.dialog-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin-bottom: 0.55rem;
+}
+.dialog-head h2 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: var(--navy);
+}
+.dialog-close {
+  flex-shrink: 0;
+  width: 2rem;
+  height: 2rem;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 1.45rem;
+  line-height: 1;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.dialog-close:hover { color: var(--navy); background: #eef3f8; }
+.dialog .lede { font-size: 1rem; max-width: none; }
+.dialog .note { margin-top: 0.9rem; }
+.dialog .family-defs { margin: 0.6rem 0 0; }
+.dialog .family-defs > div { padding: 0.75rem 0; }
+.dialog .family-defs dt, .dialog .family-defs dd { font-size: 0.98rem; }
 .kicker a { color: inherit; }
 footer { max-width: 980px; margin: 2.5rem auto 0; padding: 1.2rem 1.25rem 2rem; color: var(--muted); font-size: 0.88rem; border-top: 1px solid var(--rule); }
 #gate {

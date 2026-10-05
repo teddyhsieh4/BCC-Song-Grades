@@ -111,6 +111,8 @@ Five scores, 1–5: Theological Accuracy (highest weight), Christ-Exalting and G
 
 Overall: Excellent / Prefer, Strong, Acceptable with notes, Weak, Avoid.
 
+On Weak and Avoid only, the report adds Alternative song suggestions: three or four titles that cover the same theme, mixing songs already logged with songs not in the catalog. New titles still come from usable families. Omit that heading on every other label. See `RUBRIC.md`.
+
 Calibration Weak: *How Great Is Our God* (Tomlin / Cash / Reeves, CCLI 4348399).
 
 Known Prefer-lane examples: *Before the Throne*, *Yet Not I*, *In Christ Alone*, *Is He Worthy* (Peterson), many SGM / CityAlight / Getty texts.
@@ -127,7 +129,7 @@ Quote a line, say what it does, name Scripture only when the link is real.
 
 One logical change per commit. Short subject line.
 
-Prefixes: `feat:`, `fix:`, `refactor:`, `style:`, `chore:`, `grade:`, `rubric:`, `catalog:`, `docs:`, `test:`.
+Prefixes: `feat:`, `fix:`, `refactor:`, `style:`, `chore:`, `docs:`, `test:`, plus `grade:` (new or changed grade), `rubric:` (rubric wording), `catalog:` (identity data).
 
 A `grade:` commit should name the song, the old and new label, and why.
 

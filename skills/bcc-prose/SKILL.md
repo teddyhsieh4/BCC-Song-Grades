@@ -46,7 +46,7 @@ Optional check: `python scripts/lint_prose.py <file.md>`
 - Use church words: sin, cross, substitution, resurrection, congregation, thin, vague, useful, weak.
 - Let the grade rest on evidence.
 - Years seen are a snapshot. Say “at least X years.”
-- Other catalog titles appear only as setlist pairings when this text leaves a gap. Do not use other songs as foils.
+- Other catalog titles appear only as setlist pairings when this text leaves a gap, and in Alternative song suggestions when the label is Weak or Avoid. Do not use other songs as foils in the rest of the report.
 - Do not add “not Hillsong / Elevation / Bethel” on a clean song.
 
 ## Hard bans
@@ -63,7 +63,7 @@ Optional check: `python scripts/lint_prose.py <file.md>`
 
 Keep the heading order in `reports/TEMPLATE.md`:
 
-Thesis; overall recommendation; scores; voice and addressee; how the text moves; lines you cannot cut; gospel inventory; Trinity; other-worshiper test; unbiblical / non-biblical / thin; five categories; tone; what the congregation never says; setlist and diet; identification; why this label.
+Thesis; overall recommendation; alternative song suggestions (Weak and Avoid only; omit the heading otherwise); scores; voice and addressee; how the text moves; lines you cannot cut; gospel inventory; Trinity; other-worshiper test; unbiblical / non-biblical / thin; five categories; tone; what the congregation never says; setlist and diet; identification; why this label.
 
 Heading text is “Lines you cannot cut,” not “load-bearing.”
 

@@ -28,7 +28,9 @@ Avoid in authorial prose: robust, seamless, tapestry, journey, unpack, resonate,
 
 ## Label sentences
 
-The overall label is one of five official strings. After it, write 3–6 sentences a leader can act on: how often, which stanza must stay, what caps the label.
+The overall label is one of five official strings. After it, write 3–6 sentences a leader can act on: how often, which stanza must stay, and the main reason for the label. Say that reason in ordinary words. Do not write “what caps the label,” “the line that sets the cap,” or a metaphor for the house the lyric never reaches.
+
+On Weak and Avoid only, the next heading is Alternative song suggestions. Name three or four replacements and what each one confesses. Mix songs already logged with songs not in the catalog. Mark which is which. Omit that heading on every other label.
 
 ## Clean-song rule
 

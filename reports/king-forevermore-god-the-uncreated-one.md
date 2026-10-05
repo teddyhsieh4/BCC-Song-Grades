@@ -159,7 +159,7 @@ The events named there are the heart of the gospel story:
 
 “Rescued by the Father’s hand” needs a careful reading. Isaiah 53:10 and Acts 2:23 already say the cross was by God’s definite plan. “Rescued” here is the resurrection, the Father’s public vindication of the Son. The hymn never mentions wrath, and that missing word is one reason this category is a 4.
 
-The finished work is present as a sequence of deeds. The meaning of those deeds for the people singing is lighter. The lyric never says “our sin,” “in our place,” or a living High Priest who intercedes now (Hebrews 7:25). A taught congregation will hear “for us” from the rest of the service. Heard only on its own, stanza 3 can still sound like the biography of a sinless hero whom the Father raised. Calling Him the Lamb points toward substitution without stating it.
+The finished work is present as a sequence of deeds. The lyric names those deeds and does not say what they mean for the people singing. It never says “our sin,” “in our place,” or a living High Priest who intercedes now (Hebrews 7:25). A taught congregation will hear “for us” from the rest of the service. Heard only on its own, stanza 3 can still sound like the biography of a sinless hero whom the Father raised. Calling Him the Lamb points toward substitution without stating it.
 
 Stanza 4 finally names Him: “at the name of Jesus Christ / King of kings forever” (Philippians 2:9–11; Revelation 19:16). The name comes after holiness and justice.
 

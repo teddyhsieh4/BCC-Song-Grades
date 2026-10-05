@@ -22,7 +22,7 @@ Do not stack generic true statements and call it fidelity.
 
 Prefer: thin, vague, useful, weak, spare, feature, omit, name, ground. Do not use “cap” for the label. Say the main reason for the grade.
 
-Avoid in authorial prose: robust, seamless, tapestry, journey, unpack, resonate, space, invite (as a vibe word).
+Avoid in authorial prose: robust, seamless, tapestry, journey, unpack, resonate, space, invite (as a vibe word). Also avoid critic metaphors: doctrinal spine, the engine of the song, atmosphere as a grade word, the lyric never gets there, what caps the label. If the lyric itself says rock, weight, throne, or blood, quote it. Do not add a second metaphor to explain the quote.
 
 “Invite” is fine when the lyric itself is an invitation and you are describing that fact.
 

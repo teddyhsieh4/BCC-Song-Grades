@@ -12,5 +12,19 @@
       "congregationalUsefulness": 5
     },
     "note": "Official grade. Usefulness raised to 5 after length and image notes were dropped."
+  },
+  {
+    "id": "build-my-life",
+    "date": "2026-10-05",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Weak on the missing gospel. Alternative song suggestions included."
   }
 ]

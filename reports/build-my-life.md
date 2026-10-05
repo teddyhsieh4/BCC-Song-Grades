@@ -1,6 +1,6 @@
 # Build My Life
 
-**Status:** Draft grade. Identification is high-confidence. Official when Theodore approves the scores and the catalog row is marked graded.
+**Status:** Published grade. Official. Theodore approved the scores and the Weak label on 2026-10-05.
 
 **Source:** published Pat Barrett / Matt Redman / Brett Younker / Kirby Kaple / Karl Martin text (Housefires origin, 2016). Read 2026-09-24. Prose pass 2026-09-29.
 

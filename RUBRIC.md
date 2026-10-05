@@ -6,7 +6,7 @@ Binding standard for every grade report. Site copy of the rubric lives in `rubri
 
 Equip a musical worship leader at Berean Community Church in Irvine (about a thousand people, Southern Baptist) to:
 
-1. Identify songs accurately (title, writers, year written, arrangement year, CCLI) from chord sheets and setlist data.
+1. Identify songs accurately (title, writers, year written, arrangement year, CCLI) from the live catalog and setlist data.
 2. Grade lyrics for theological richness, accuracy, Christ-exalting focus, and congregational usefulness.
 3. Keep a catalog of the church’s actual repertoire so sets can serve verse-by-verse preaching.
 4. Watch the diet: richness vs thinness, families, era, themes.
@@ -44,7 +44,7 @@ Do not grade for a seeker-friendly service. The Sunday gathering is not primaril
 
 Every song gets a written analysis, not only a score. Quote lyrics. Connect them to Scripture when the link is real. Include setlist notes: sermon placement, pairings, thematic strength.
 
-The church chord sheet is the authority for which text we grade. Web lyrics may draft a report only for a stable, high-confidence setting. The published page waits on confirmation that BCC sings that same text.
+Grade the published text of the catalog setting (title, writers, CCLI already on the song row). The published page waits on Theodore’s official yes, not on a chord-sheet check.
 
 First-person vow or desire lyrics are scored under Objectivity and Congregational Usefulness. Psalms model honest thirst. High-claim present-tense vows without gospel grounding, or flattening lament into sweet arrival, cap a song. Songs that need a weekly “only sing if you mean it” disclaimer are usually Weak or Acceptable with notes.
 
@@ -75,6 +75,18 @@ Use the full range. Do not inflate.
 - **Avoid** red-flag theology or banned-ministry association
 
 If a song thrives mainly because it is easy, emotional, and broadly theistic, cap it at Weak or low Acceptable.
+
+## Alternative song suggestions
+
+Write this section only when the overall label is Weak or Avoid. Omit the heading on Excellent / Prefer, Strong, and Acceptable with notes. Do not leave it blank.
+
+Give three or four other songs the church can sing in place of this one. Draw them from the existing catalog. Usable families are hymn, modern hymn, Getty, CityAlight, Sovereign Grace, and any other row that is not Hillsong, Elevation, or Bethel. Do not suggest a title from a banned ministry because the theme happens to match.
+
+Match the theme the weak or banned song is reaching for: the doctrine, the sermon text, or the job the song was doing in the set. For each suggestion, name the title, writers, family, and catalog CCLI, then say in a sentence or two what that lyric actually confesses. A hymn or a modern hymn may be the right replacement. Do not write a rule that prefers one era over another.
+
+These titles are replacements. They are not foils for the rest of the report. Outside this section, other songs still appear only as setlist pairings.
+
+Worked example: the draft grade of *Build My Life* (Barrett / Redman / Younker / Kaple / Martin, CCLI 7070345) is Weak. The lyric reaches for worthiness, a unique Savior, and a life set on a firm foundation, and never names the cross. That report suggests *The Solid Rock (My Hope Is Built)*, *How Firm a Foundation*, *In Christ Alone*, and *All I Have Is Christ*. The same batch’s *Living Hope* is Avoid on the Bethel credit (Wickham / Brian Johnson, CCLI 7106807). That report would point the resurrection-hope theme at *Christ Our Hope in Life and Death*, *In Christ Alone*, *Yet Not I but Through Christ in Me*, and *The Solid Rock*. Do not point it at *Christ Is Risen* (Wickham / Johnson / Brock). That title carries the same association.
 
 ## Known strong examples
 
@@ -111,18 +123,23 @@ Do not use:
 - Stock AI cadence: “At its core,” “It’s important to note,” “In a world where,” “Let’s dive in,” “a tapestry of,” “a journey of,” “unpacks,” “speaks into,” “leans into,” “sits with,” “holds space,” “invites us,” “nothing short of,” “stands as a testament,” “rich tapestry,” “breathes life,” “deeply resonant,” “profoundly,” “robust yet accessible,” “both/and” filler.
 - Inflated adjectives that do not add a theological point.
 - Parallel slogan pairs written for punch rather than precision.
+- Staccato label sentences used as paragraphs: “The song teaches.” “Grammar is loose.” “Concrete history.” “Reverent.”
+- “That is an X, not a Y” as a punch line.
+- Rubric shop-talk in the body (“the cap sits inside the lyric,” “that silence is part of the 4”) except when stating the actual score.
 
 Do:
 
-- Short, concrete sentences.
+- Write in ordinary paragraphs, the way you would talk after rehearsal. Most sentences should carry a claim and a reason, or a claim and a verse.
+- Mix sentence length. A short sentence can land a point. Do not make three-word sentences the default texture of the page.
 - Quote the lyric, say what it does or fails to do, name the Scripture if the connection is real.
+- Do not use other songs as foils in a report. Calibrate privately. Other titles appear only as setlist pairings when this text leaves a gap, and in Alternative song suggestions when the label is Weak or Avoid.
 - Ordinary church words: sin, cross, substitution, resurrection, congregation, thin, vague, useful, weak.
 - Let the grade rest on evidence.
 - Scannable reports: headings, scores, then paragraphs a busy leader can skim.
 
-## Workflow for a new title or chart
+## Workflow for a new title
 
-1. Identify title, writers, year, arrangement, CCLI from the church chart when you have it.
-2. Write the full grade against this rubric.
+1. Identify title, writers, year, arrangement, CCLI from the live catalog.
+2. Write the full grade against this rubric, using the heading order in `reports/TEMPLATE.md`.
 3. Note how it fits (or does not fit) typical sermon themes.
-4. Do not publish to the site until Theodore approves.
+4. Leave it as a draft until Theodore gives an official yes on the scores and overall label. That yes is what flips `songs.json` to `graded`.

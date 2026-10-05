@@ -30,6 +30,8 @@ Avoid in authorial prose: robust, seamless, tapestry, journey, unpack, resonate,
 
 The overall label is one of five official strings. After it, write 3–6 sentences a leader can act on: how often, which stanza must stay, what caps the label.
 
+On Weak and Avoid only, the next heading is Alternative song suggestions. Name three or four catalog replacements and what each one confesses. Omit that heading on every other label.
+
 ## Clean-song rule
 
 If Hillsong, Elevation, or Bethel are not in the credits, do not mention them.

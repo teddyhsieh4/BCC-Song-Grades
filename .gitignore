@@ -10,3 +10,5 @@ raw-exports/
 reports/*.md
 !reports/.gitkeep
 !reports/README.md
+!reports/TEMPLATE.md
+!reports/build-my-life.md

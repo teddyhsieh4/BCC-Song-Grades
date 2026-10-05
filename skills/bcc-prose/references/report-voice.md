@@ -20,7 +20,7 @@ Do not stack generic true statements and call it fidelity.
 
 ## Diction
 
-Prefer: thin, vague, useful, weak, spare, feature, cap, omit, name, ground.
+Prefer: thin, vague, useful, weak, spare, feature, omit, name, ground. Do not use “cap” for the label. Say the main reason for the grade.
 
 Avoid in authorial prose: robust, seamless, tapestry, journey, unpack, resonate, space, invite (as a vibe word).
 

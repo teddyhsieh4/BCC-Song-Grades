@@ -111,7 +111,7 @@ Five scores, 1–5: Theological Accuracy (highest weight), Christ-Exalting and G
 
 Overall: Excellent / Prefer, Strong, Acceptable with notes, Weak, Avoid.
 
-On Weak and Avoid only, the report adds Alternative song suggestions: three or four catalog titles from usable families that cover the same theme. Omit that heading on every other label. See `RUBRIC.md`.
+On Weak and Avoid only, the report adds Alternative song suggestions: three or four titles that cover the same theme, mixing songs already logged with songs not in the catalog. New titles still come from usable families. Omit that heading on every other label. See `RUBRIC.md`.
 
 Calibration Weak: *How Great Is Our God* (Tomlin / Cash / Reeves, CCLI 4348399).
 

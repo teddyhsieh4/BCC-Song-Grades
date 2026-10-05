@@ -31,21 +31,25 @@ Jesus is worthy of song, praise, and breath, the only One who can save, holy and
 
 Do not feature it. The church has already sung it for at least four years (12 logs in the 2023–2026 snapshot). That history does not raise the lyric. If it is used at all, put it after Scripture and another song have already named sin and the cross, and keep it short.
 
-What caps the label is the missing gospel. Jesus is “the only One who could ever save,” and then the song never says from what, by what, or at what cost. The chorus is a request for inner experience. The bridge is a first-person vow built on “Your love” as a foundation. Matthew 7’s house is built on hearing and doing Jesus’ words. This lyric never gets there.
+The main reason for Weak is the missing gospel. Jesus is “the only One who could ever save,” and the song never says from what, by what, or at what cost. The chorus asks for an inner experience. The bridge is a first-person vow that treats “Your love” as the foundation. Matthew 7 ties a wise life to hearing and doing Jesus’ words. This lyric names love and stops.
 
 ---
 
 ## Alternative song suggestions
 
-The lyric is reaching for worthiness, a Savior with no rival, and a life set on a firm foundation. The catalog already has texts that carry those themes and also name the work of Christ. Four to put in the rotation instead:
+The lyric is reaching for worthiness, a Savior with no rival, and a life set on a firm foundation. Two of these the church has already sung. Two are not in the catalog, and would be new to the congregation. All four name the work of Christ that this lyric leaves out.
 
-**The Solid Rock (My Hope Is Built)** (Edward Mote / William Bradbury, hymn, CCLI 25417). The congregation stands on Christ’s blood and righteousness. “On Christ the solid rock I stand” is the foundation line this bridge is aiming at, and the verse keeps the cross in view.
+**Already sung**
 
-**How Firm a Foundation** (Rippon’s Selection, hymn, CCLI 107816). The rock is what God has spoken. The singer is told not to fear, because the Lord will not forsake His own. That is a different claim from a vow to build a life on love.
+**The Solid Rock (My Hope Is Built)** (Edward Mote / William Bradbury, hymn, CCLI 25417). Logged 9 times across at least four years in this snapshot. The congregation stands on Christ’s blood and righteousness. “On Christ the solid rock I stand” is the foundation line this bridge is trying to say, and the verse keeps the cross in view.
 
-**In Christ Alone** (Keith Getty / Stuart Townend, Getty, CCLI 3350395). The cornerstone line keeps the “only Savior” claim, then stays with the cross, the wrath borne, and the resurrection. Use it when the sermon is Matthew 7 or 1 Corinthians 3:11.
+**In Christ Alone** (Keith Getty / Stuart Townend, Getty, CCLI 3350395). Logged 8 times across at least four years. The cornerstone line keeps the “only Savior” claim, then stays with the cross, the wrath borne, and the resurrection. Use it when the sermon is Matthew 7 or 1 Corinthians 3:11.
 
-**All I Have Is Christ** (Jordan Kauflin, Sovereign Grace, CCLI 5174122). The life in view is a life given, from sin and ruin to Christ as treasure. It covers the “build my life” desire and does not leave the gospel unnamed.
+**Not yet logged**
+
+**Christ Is Mine Forevermore** (Jonny Robinson / Rich Thompson, CityAlight, CCLI 7036096). Not in the catalog. The life in view belongs to Christ: bought, kept, and raised. It covers the “build my life” desire and names the cross and the resurrection. A fair introduction when the church is ready to retire this title.
+
+**The Church’s One Foundation** (Samuel J. Stone, hymn, CCLI 55377). Not in the catalog. The foundation is Christ, the chief cornerstone, in the sense of Ephesians 2:20. The song is about the church, so it is a better fit when the sermon is the church built on Christ than when the sermon is only a private vow. It still says what this bridge does not.
 
 ---
 
@@ -78,7 +82,7 @@ It does not move far.
 3. **Chorus request.** Holy, no one like You. Open my eyes. Fill me with Your heart. Lead me in Your love to those around me.
 4. **Bridge vow.** I will build my life on Your love. I will trust and not be shaken.
 
-The last two movements are where the song wants to live. They are also where the doctrine thins out. The refrain does not deepen the claim of verse 2. It changes the subject from Jesus’ worth to the singer’s formation.
+The last two movements are where the song spends its time. They are also where the doctrine thins out. The refrain does not add to the claim of verse 2. It moves from Jesus’ worth to the singer’s formation.
 
 ---
 
@@ -86,9 +90,7 @@ The last two movements are where the song wants to live. They are also where the
 
 There is no stanza that, if kept, would raise the gospel score. Verse 2 is the strongest block, and it is still only titles plus “save.”
 
-**The line that sets the cap** is the bridge: “I will build my life upon Your love, it is a firm foundation.” If the band loops that line, the room is being asked to treat “love” as the rock. That is the opposite of what the grade needs.
-
-Cutting the bridge would leave a shorter, still thin praise song. That is the least damaging cut.
+The bridge is the line that holds the song at Weak: “I will build my life upon Your love, it is a firm foundation.” If the band loops that line, the room is treating “love” as the rock. Matthew 7 puts the wise life on hearing and doing Jesus’ words. Cutting the bridge would leave a shorter praise song that is still thin. That is the smaller loss.
 
 ---
 
@@ -149,7 +151,7 @@ The name of Jesus can be swapped for another cherished name in the chorus and br
 
 **Bridge.** Matthew 7:24–25: the wise man hears Jesus’ words and does them. The rock is that hearing and doing. Psalm 62: the rock is God Himself. This lyric makes “Your love” the firm foundation. God’s love is real (1 John 4:10), and 1 John defines it by the sending of the Son as propitiation. The bridge never gets to that definition. Read in this church’s ordinary sense of Matthew 7, the line is the wrong foundation even though every word is pious.
 
-That is why the category is a 3. The lines that can be tied to a text are true and underfed. The foundation line is the one that will not bear weight.
+That is why the category is a 3. The lines that can be tied to a text are true, and they stop short. The foundation line does not match Matthew 7.
 
 ---
 
@@ -157,17 +159,17 @@ That is why the category is a 3. The lines that can be tied to a text are true a
 
 Jesus is named. He is called the only Savior. Titles without the finished work stay in the 2–3 range. There is no cross, no blood, no sin, no resurrection, no wrath, no place-taking. “Save” is the entire gospel vocabulary.
 
-The chorus then turns the gaze from His work to our formation. The bridge turns it to our vow. Christ is the object of worth and the atmosphere of love. He is not preached.
+The chorus then turns from His work to our formation. The bridge turns to our vow. Christ is named as worthy. His death and resurrection are not preached.
 
 ---
 
 ## Objectivity vs. Subjectivity: 2
 
-Verse 1–2 declare worth. From the chorus on, the engine is the singer’s interior life: open my eyes, fill me, lead me, I will build, I will not be shaken.
+Verse 1–2 declare worth. From the chorus on, the song is mostly the singer’s inner life: open my eyes, fill me, lead me, I will build, I will not be shaken.
 
-The vow is present-tense and high-claim. “I will build my life upon Your love” and “I will not be shaken” need a congregation that can say them as fruit of a gospel already heard. On their own they are the kind of lines that force a weekly “only sing if you mean it” speech. That is one of the caps this church uses.
+The vow is present-tense and high-claim. “I will build my life upon Your love” and “I will not be shaken” need a congregation that has already heard the gospel. On their own they push the leader to say, before the song, that people should sing them only if they mean them. That is one reason this church keeps a song like this out of the regular rotation.
 
-There is no romance in the boyfriend sense. The subjectivity problem is formation-and-vow language standing where doctrine should stand.
+There is no romance in the boyfriend sense. The problem is formation-and-vow language standing where doctrine should stand.
 
 ---
 
@@ -231,4 +233,4 @@ Kirby Kaple later recorded in the Bethel world. She is a writer on this title. T
 
 ## Why this overall label
 
-True fragments, a Savior named without His work, and a vow built on “love.” Matthew 7 builds the house on hearing and doing Jesus’ words. That is the Weak band for this church: usable only as brief filler after Scripture has already done the work, and better replaced.
+True fragments, a Savior named without His work, and a vow built on “love.” Matthew 7 ties the wise life to hearing and doing Jesus’ words. Weak means brief filler after Scripture has already done the work, and better replaced.

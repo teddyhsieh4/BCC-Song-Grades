@@ -40,7 +40,7 @@ One or two sentences. What argument does this lyric make?
 
 One of: Excellent / Prefer · Strong · Acceptable with notes · Weak · Avoid
 
-Then 3–6 sentences a leader can act on: use it how often, which stanza must stay, what caps the label.
+Then 3–6 sentences a leader can act on: use it how often, which stanza must stay, and the main reason for the label. Say that reason in ordinary words. Do not write “what caps the label” or “the line that sets the cap.”
 
 ---
 
@@ -48,7 +48,7 @@ Then 3–6 sentences a leader can act on: use it how often, which stanza must st
 
 Include this heading only when the overall label is Weak or Avoid. Omit it on every other label. Do not leave an empty heading.
 
-Three or four catalog songs that cover the theme this lyric is reaching for. Acceptable families only: hymn, modern hymn, Getty, CityAlight, Sovereign Grace, and other rows that are not Hillsong, Elevation, or Bethel. Do not suggest a banned-ministry title because the theme matches.
+Three or four songs that cover the theme this lyric is reaching for. Mix titles the church has already logged with titles that are not in the catalog, so a Weak or Avoid song can also be a door for a better text the congregation has not sung. New titles still have to come from usable families: hymn, modern hymn, Getty, CityAlight, Sovereign Grace, and other writers who are not Hillsong, Elevation, or Bethel. Do not suggest a banned-ministry title because the theme matches. Mark each suggestion as already sung or not yet logged.
 
 For each suggestion: title, writers, family, and the CCLI already on the catalog row. Then one or two sentences on the doctrine or text it actually sings. A hymn may be the right pick. Do not say that hymns outrank other usable families.
 
@@ -194,4 +194,4 @@ One song or two. CCLI mismatches. Keys on file. Arrangement year. Variant titles
 
 ## Why this overall label
 
-Restate the cap in two or three sentences. No comparison to other graded titles.
+Restate the reason for the label in two or three sentences. No comparison to other graded titles.

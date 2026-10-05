@@ -69,6 +69,8 @@ Heading text is “Lines you cannot cut,” not “load-bearing.”
 
 Leave a heading in place even when the note is short.
 
+Do not add a Status line under the title. Do not write “Draft grade,” “Published grade,” or an approval sentence in the report. Publication is the file being on the site with the catalog row marked graded. The write-up starts at Source, then the identification list.
+
 ## Priority when rules collide
 
 1. Accuracy (lyric, writers, CCLI, theology)

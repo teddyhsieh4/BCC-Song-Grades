@@ -1,7 +1,5 @@
 # King Forevermore (God the Uncreated One)
 
-**Status:** Published grade. Official.
-
 **Source:** published Aaron Keyes / Pete James setting (Getty *Sing!* hymnal track, Worship Initiative Vol. 28, Common Hymnal). User note, 2026-09-23: the church sings this same text.
 
 - **Slug:** `king-forevermore-god-the-uncreated-one`

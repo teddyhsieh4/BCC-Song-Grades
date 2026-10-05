@@ -248,13 +248,16 @@ async function initSong() {
   `;
   const body = $("#report-body");
   try {
+    if (s.status !== "graded") {
+      body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
+      return;
+    }
     const md = await loadReport(s);
     if (!md) {
       body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
       return;
     }
-    const draft = /Draft grade/i.test(md) || (s.status !== "graded" && !/Published grade/i.test(md));
-    body.innerHTML = (draft ? '<p class="note">Draft on file. Scores become official when Theodore approves them and the catalog is marked graded.</p>' : "") + renderMarkdown(md);
+    body.innerHTML = renderMarkdown(md);
   } catch (err) {
     body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
   }

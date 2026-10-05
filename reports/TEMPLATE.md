@@ -8,11 +8,12 @@ Leave a heading in place even when the note is short. A busy leader should be ab
 
 Write the body in ordinary paragraphs. Do not fill headings with three-word label sentences.
 
+Do not put a Status line in the report. A grade is published when the report file is on the site and the catalog row is `graded`. If it is not published, the song page does not show a report. The write-up itself does not announce that.
+
 ---
 
 # Official title (as in the catalog)
 
-**Status:** Draft grade / Published grade.  
 **Source:** published text of the catalog setting (title, writers, CCLI). Note the date the text was read.
 
 - **Slug:**

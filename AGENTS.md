@@ -89,7 +89,7 @@ An export from the Sheet must not overwrite grade fields. A grade must not inven
 
 Published grades: none yet. Song pages should say so until a report is approved.
 
-When reports exist, prefer `reports/<slug>.md` (or `.html`) plus fields on the `songs.json` row (`status`, `recommendation`). Keep quotes short.
+When a grade is published, the song page loads `reports/<slug>.md` and the row in `songs.json` carries `status: graded` plus `recommendation`. Unpublished drafts stay off the site. The report file does not include a Status line. Keep quotes short.
 
 ## Gate honesty
 
@@ -124,6 +124,8 @@ Write like a pastor-musician briefing a colleague. Full cadence rules live in `s
 Do not use em dashes. Do not stack “not this, but that.” Do not use stock AI cadence (“at its core,” “unpacks,” “rich tapestry,” and the rest listed in `RUBRIC.md`).
 
 Quote a line, say what it does, name Scripture only when the link is real.
+
+Do not open a report with a Status line (Draft grade, Published grade, or an approval sentence). If the report is on the song page, it is the published grade. If it is not published, the page does not show a report.
 
 ## Commits and pull requests
 

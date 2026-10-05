@@ -136,6 +136,7 @@ Do:
 - Ordinary church words: sin, cross, substitution, resurrection, congregation, thin, vague, useful, weak.
 - Let the grade rest on evidence.
 - Scannable reports: headings, scores, then paragraphs a busy leader can skim.
+- Do not put a Status line in the report. Draft versus published is not part of the write-up. A published grade is the report on the song page. An unpublished grade is not shown.
 
 ## Workflow for a new title
 

@@ -2,8 +2,8 @@
   "asOf": "5 Oct 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
-  "graded": 1,
-  "notGraded": 193,
+  "graded": 2,
+  "notGraded": 192,
   "setlistMentionsRaw": 965,
   "timesLoggedSum": 965,
   "families": [
@@ -89,7 +89,7 @@
     },
     {
       "name": "Strong",
-      "count": 0
+      "count": 1
     },
     {
       "name": "Acceptable with notes",

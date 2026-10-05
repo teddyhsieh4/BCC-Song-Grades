@@ -125,7 +125,8 @@ Do not use:
 - Parallel slogan pairs written for punch rather than precision.
 - Staccato label sentences used as paragraphs: “The song teaches.” “Grammar is loose.” “Concrete history.” “Reverent.”
 - “That is an X, not a Y” as a punch line.
-- Rubric shop-talk in the body (“the cap sits inside the lyric,” “that silence is part of the 4”) except when stating the actual score.
+- Rubric shop-talk in the body (“the cap sits inside the lyric,” “that silence is part of the 4,” “doctrinal spine,” “the engine of the song”) except when stating the actual score.
+- Unusual metaphors for the critique. Say what the line claims and what it leaves out. A metaphor already in the quoted lyric or in the cited text may stay in the quotation.
 
 Do:
 

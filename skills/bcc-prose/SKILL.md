@@ -55,6 +55,7 @@ Optional check: `python scripts/lint_prose.py <file.md>`
 - Negative parallelism as a tic: “not X, but Y,” “this, not that,” “less a hammer, more a scalpel.” State the claim once.
 - Stock cadence listed in `references/patterns.md` (delve, tapestry, unpacks, leans into, at its core, it’s important to note, stands as a testament, and the rest of that list).
 - Inflated adjectives that add no theological point.
+- Unusual metaphors for the critique. Say the claim. Do not write “doctrinal spine,” “the engine,” “atmosphere” as a grade word, “the lyric never gets there,” “what caps the label,” or “the line that sets the cap.” A metaphor already in the quoted lyric or in the cited text may stay in the quotation.
 - Parallel slogan pairs written for punch.
 - Fake first-person color: “I remember when we sang this,” “the room always goes quiet.” If a fact is not in the catalog or the user’s note, omit it.
 - ASD-STE100 as a standing voice. Do not shrink substitution, mediation, inerrancy, lament, or “whosoever” to aircraft-manual English.

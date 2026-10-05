@@ -6,7 +6,7 @@ Calibrate scores privately against `RUBRIC.md`. Do not use other songs as foils 
 
 Leave a heading in place even when the note is short. A busy leader should be able to skim the same spots every time.
 
-Write the body in ordinary paragraphs. Do not fill headings with three-word label sentences.
+Write the body in ordinary paragraphs. Do not fill headings with three-word label sentences. Say what the lyric claims, what it leaves out, and why that matters for this church. Do not explain the grade with an unusual metaphor. “Doctrinal spine,” “the engine of the song,” “atmosphere,” “the lyric never gets there,” and “what caps the label” are critic talk. Quote the line, then say the plain claim. A metaphor that is already in the lyric, or in the Scripture text you are citing, may stay inside the quotation.
 
 Do not put a Status line in the report. A grade is published when the report file is on the site and the catalog row is `graded`. If it is not published, the song page does not show a report. The write-up itself does not announce that.
 

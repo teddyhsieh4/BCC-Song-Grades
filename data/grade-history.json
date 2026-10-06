@@ -26,5 +26,19 @@
       "congregationalUsefulness": 3
     },
     "note": "Official grade. Weak on the missing gospel. Alternative song suggestions included."
+  },
+  {
+    "id": "living-hope",
+    "date": "2026-10-06",
+    "action": "published",
+    "recommendation": "Avoid",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Avoid on the Brian Johnson / Bethel Music Publishing credit. Lyric scores left as graded."
   }
 ]

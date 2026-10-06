@@ -1,6 +1,6 @@
 # Living Hope
 
-**Source:** published Phil Wickham / Brian Johnson text (2017). Read 2026-09-24. Prose pass 2026-09-29.
+**Source:** published Phil Wickham / Brian Johnson text (2017). Read 2026-09-24. Prose pass 2026-10-06.
 
 - **Slug:** `living-hope`
 - **Catalog ID:** 121
@@ -63,7 +63,7 @@ The lyric is reaching for a chasm closed by the cross, and for a living hope in 
 | Description of God’s Character | 3 |
 | Congregational Usefulness and Clarity | 4 |
 
-Rubric version: v1. Draft date: 2026-09-24. Prose pass: 2026-09-29. Overall label is Avoid on association, not on these numbers.
+Rubric version: v1. Draft date: 2026-09-24. Prose pass: 2026-10-06.
 
 ---
 
@@ -87,9 +87,7 @@ The song starts with the sinner’s inability and ends with the resurrection. Th
 
 ## Lines you cannot cut
 
-On the words alone, verse 2 and verse 3 are the stanzas the grade would depend on: incarnation-as-descent, “wear my sin,” the cross, forgiveness, the buried body breathing.
-
-The association question does not have a stanza you can cut. The credit applies to the whole title.
+Verse 2 and verse 3 are the stanzas this score depends on: the descent, “wear my sin,” the cross, forgiveness, and the buried body that began to breathe.
 
 **The lines that need a careful ear** are “spoke Your name into the night” and “wear my sin.” See the accuracy section.
 
@@ -124,7 +122,7 @@ Jesus Christ is named repeatedly. “God of ages” is the One who stepped down,
 
 Not the whole song. Verse 2 names the descent, sin worn, shame borne, the cross, forgiveness. Verse 3 names a buried body that began to breathe. The chorus names salvation in Jesus’ name.
 
-Verse 1 is softer. A desperate theist could sing a chasm, a mountain, and a name spoken into the night. That is one more reason the later verses matter for the words. It does not change the Bethel credit.
+Verse 1 is softer. A desperate theist could sing a chasm, a mountain, and a name spoken into the night. That is one more reason the later verses matter.
 
 ---
 
@@ -152,11 +150,9 @@ The main claims are sound. The category is a 4 because the verb is “wear,” w
 
 ## Christ-Exalting and Gospel-Saturated: 4
 
-On the words alone this is a gospel narrative: inability, descent, sin, shame, cross, forgiveness, burial, resurrection, hope. Jesus is named as the hope, not only as a title.
+The lyric tells a gospel story. The sinner cannot cross the distance. The Son comes down, takes sin and shame, and the cross is where forgiveness is spoken. The body is buried and raised. Jesus is named as the hope, not only given a title.
 
-On the words alone, substitution is implied, wrath is unnamed, and the chorus uses freedom-and-chains language while the cross language is already in verse 2. “You have broken every chain / there’s salvation in Your name” is true (Acts 4:12; Acts 12 imagery) and thinner than verse 2.
-
-None of that reaches the association rule. The Avoid is the credit line.
+Substitution is implied, not stated. Wrath is not named. The chorus says “You have broken every chain / there’s salvation in Your name.” That is true (Acts 4:12). It is thinner than verse 2, which already named the cross. The category is a 4 for that reason.
 
 ---
 
@@ -178,15 +174,15 @@ That list is real. Holiness, justice, and wrath are missing. Love appears as lov
 
 ## Congregational Usefulness and Clarity: 4
 
-The words are clear and already known (at least four years in the snapshot). Keys on file are often B. As a piece of congregational writing the lyric would be usable. The category grades the text’s usefulness. It cannot override a ban on the title.
-
-If the song were ever sung, verse 2 and verse 3 would have to stay, and the chain-breaking chorus would have to be kept from eating the hour. That advice is now moot. The title should come out of the rotation.
+The words are clear, and the church already knows them (at least four years in the snapshot). Keys on file are often B. As congregational writing, the lyric would teach. Verse 2 and verse 3 carry the gospel. The chain-breaking chorus should not be the only thing the room remembers.
 
 ---
 
 ## Tone
 
-Earnest, rising, built for a last chorus. Not sensual. Not cute. The risk in the words is ungrounded triumph: “broken every chain” sung past the point where verse 2’s cross is still in view. That is a tone problem in many rooms. It is not the reason for Avoid.
+The song is earnest. It builds, and it is written to land on a big last chorus. It is not romantic, and it is not playful.
+
+“You have broken every chain” is the line most likely to be shouted. It is not bare triumph. The same chorus names the One who set me free, salvation in His name, and “Jesus Christ, my living hope.” Verse 2 has already put that freedom at the cross. Celebrating the chains is celebrating what he did. That lessens the risk. A room can still remember the hook and forget the verse, but the lyric itself keeps the two together.
 
 ---
 
@@ -195,9 +191,7 @@ Earnest, rising, built for a last chorus. Not sensual. Not cute. The risk in the
 They never say wrath, “in my place,” or justification.  
 They never name the Father or the Spirit.  
 They never say “we.”  
-They never name repentance as a word.
-
-Those gaps would have been pairing notes. They are not the ban.
+They never say repentance as a word.
 
 ---
 
@@ -205,7 +199,7 @@ Those gaps would have been pairing notes. They are not the ban.
 
 **When it serves the sermon.** It should not be scheduled.
 
-**Gaps the rest of the hour must cover.** The whole title is the gap. Use a different resurrection-and-hope text from the catalog when the sermon is 1 Peter 1, 1 Corinthians 15, or the empty tomb.
+**Gaps the rest of the hour must cover.** Do not fill a resurrection slot with this title. When the sermon is 1 Peter 1, 1 Corinthians 15, or the empty tomb, use another resurrection-and-hope text from the catalog.
 
 **What it adds to the year’s diet.** It should add nothing going forward. What it has added historically is a popular Easter chorus with a Bethel credit.
 

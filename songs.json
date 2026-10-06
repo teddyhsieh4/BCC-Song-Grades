@@ -2325,11 +2325,21 @@
     "timesLogged": 12,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Living Hope; Living hope; Living hope (B); Living Hope (B)",
-    "notes": "Brian Johnson / Bethel co-write \u2014 banned-association review at grading.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Brian Johnson co-write. Bethel Music Publishing holds half the song. Avoid on that association.",
+    "status": "graded",
+    "recommendation": "Avoid",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/living-hope.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-06",
+    "sourceChart": "Published Phil Wickham / Brian Johnson text, CCLI 7106807. Read 2026-09-24. Theodore approved 2026-10-06."
   },
   {
     "id": "lord-i-need-you",

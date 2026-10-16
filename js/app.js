@@ -22,8 +22,14 @@ function esc(s) {
 }
 
 function statusLabel(song) {
+  if (typeof BCC_GRADES !== "undefined" && BCC_GRADES.displayLabel) return BCC_GRADES.displayLabel(song);
   if (song.recommendation) return song.recommendation;
   return "Not yet graded";
+}
+
+function badgeClass(song) {
+  if (typeof BCC_GRADES !== "undefined" && BCC_GRADES.badgeClass) return BCC_GRADES.badgeClass(song);
+  return "wait";
 }
 
 function haystack(song) {
@@ -50,7 +56,7 @@ function renderList(songs) {
         <h2>${esc(s.title)}</h2>
         <p class="meta">${esc(s.writers)}${s.year ? " · " + esc(s.year) : ""}${s.ccli ? " · CCLI " + esc(s.ccli) : ""} · ${s.timesLogged} logged</p>
       </div>
-      <span class="badge wait">${esc(statusLabel(s))}</span>
+      <span class="badge ${badgeClass(s)}">${esc(statusLabel(s))}</span>
     </a>
   `).join("");
 }
@@ -60,11 +66,17 @@ function applyFilters(all) {
   const family = $("#family")?.value || "";
   const era = $("#era")?.value || "";
   const status = $("#status")?.value || "";
+  const labels = (typeof BCC_GRADES !== "undefined" && BCC_GRADES.OVERALL_LABELS) ? BCC_GRADES.OVERALL_LABELS : [
+    "Excellent / Prefer", "Strong", "Acceptable with notes", "Weak", "Avoid"
+  ];
   return all.filter((s) => {
     if (family && s.family !== family) return false;
     if (era && s.era !== era) return false;
-    if (status === "graded" && s.status !== "graded") return false;
-    if (status === "not-graded" && s.status !== "not-graded") return false;
+    if (status) {
+      if (status === "graded" && s.status !== "graded") return false;
+      else if (status === "not-graded" && s.status !== "not-graded") return false;
+      else if (labels.indexOf(status) !== -1 && s.recommendation !== status) return false;
+    }
     if (q && !haystack(s).includes(q)) return false;
     return true;
   });

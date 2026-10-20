@@ -1,7 +1,18 @@
 function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    "&": "&", "<": "<", ">": ">", '"': """, "'": "&#39;"
   }[c]));
+}
+
+function statusLabel(song) {
+  if (typeof BCC_GRADES !== "undefined" && BCC_GRADES.displayLabel) return BCC_GRADES.displayLabel(song);
+  if (song.recommendation) return song.recommendation;
+  return "Not yet graded";
+}
+
+function badgeClass(song) {
+  if (typeof BCC_GRADES !== "undefined" && BCC_GRADES.badgeClass) return BCC_GRADES.badgeClass(song);
+  return "wait";
 }
 
 function bars(rows, hostId) {
@@ -36,7 +47,10 @@ async function init() {
           <h2>${esc(s.title)}</h2>
           <p class="meta">${esc(s.writers)}</p>
         </div>
-        <span class="badge">${s.timesLogged} logs</span>
+        <div class="badges">
+          <span class="badge">${s.timesLogged} logs</span>
+          <span class="badge ${badgeClass(s)}">${esc(statusLabel(s))}</span>
+        </div>
       </a>
     `).join("");
   }

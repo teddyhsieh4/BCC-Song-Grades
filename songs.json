@@ -3322,9 +3322,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Your will be done; Your Will Be Done; Your Will be Done; Your Will Be Done (C); Your will be done - C; Your will be done (C)",
     "notes": "CityAlight Passion-week song is the standard match in this repertoire.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2020\u20132025",
-    "report": null
+    "report": "reports/your-will-be-done.md",
+    "gradeDate": "2026-10-20",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "rubricVersion": "v1",
+    "sourceChart": "Published CityAlight text (cityalight.com; There Is One Gospel, 2022). Read 2026-09-24. Prose pass 2026-09-29. Revised 2026-10-20."
   }
 ]

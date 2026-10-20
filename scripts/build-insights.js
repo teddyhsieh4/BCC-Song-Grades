@@ -45,7 +45,8 @@ const mostLogged = songs
     title: s.title,
     id: s.id,
     timesLogged: s.timesLogged || 0,
-    writers: s.writers || ""
+    writers: s.writers || "",
+    recommendation: s.recommendation || null
   }));
 
 const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"];

@@ -109,91 +109,106 @@
       "title": "King Forevermore (God the Uncreated One)",
       "id": "king-forevermore-god-the-uncreated-one",
       "timesLogged": 16,
-      "writers": "Aaron Keyes / Pete James"
+      "writers": "Aaron Keyes / Pete James",
+      "recommendation": "Strong"
     },
     {
       "title": "Your Will Be Done",
       "id": "your-will-be-done",
       "timesLogged": 15,
-      "writers": "Jonny Robinson / Rich Thompson (CityAlight)"
+      "writers": "Jonny Robinson / Rich Thompson (CityAlight)",
+      "recommendation": null
     },
     {
       "title": "Abide",
       "id": "abide",
       "timesLogged": 14,
-      "writers": "Aaron Williams / Aaron Keyes / Jake Fauber (The Worship Initiative / Shane & Shane circle)"
+      "writers": "Aaron Williams / Aaron Keyes / Jake Fauber (The Worship Initiative / Shane & Shane circle)",
+      "recommendation": null
     },
     {
       "title": "He Is Worthy",
       "id": "he-is-worthy",
       "timesLogged": 14,
-      "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)"
+      "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)",
+      "recommendation": null
     },
     {
       "title": "His Mercy Is More",
       "id": "his-mercy-is-more",
       "timesLogged": 14,
-      "writers": "Matt Boswell / Matt Papa"
+      "writers": "Matt Boswell / Matt Papa",
+      "recommendation": null
     },
     {
       "title": "Jesus, Your Mercy",
       "id": "jesus-your-mercy",
       "timesLogged": 14,
-      "writers": "Bob Kauflin / Jordan Kauflin / Nathan Stiff (Sovereign Grace)"
+      "writers": "Bob Kauflin / Jordan Kauflin / Nathan Stiff (Sovereign Grace)",
+      "recommendation": null
     },
     {
       "title": "Behold Him",
       "id": "behold-him",
       "timesLogged": 12,
-      "writers": "Paul Baloche / Mitch Wong"
+      "writers": "Paul Baloche / Mitch Wong",
+      "recommendation": null
     },
     {
       "title": "Build My Life",
       "id": "build-my-life",
       "timesLogged": 12,
-      "writers": "Pat Barrett / Matt Redman / Brett Younker / Kirby Kaple / Karl Martin"
+      "writers": "Pat Barrett / Matt Redman / Brett Younker / Kirby Kaple / Karl Martin",
+      "recommendation": "Weak"
     },
     {
       "title": "Living Hope",
       "id": "living-hope",
       "timesLogged": 12,
-      "writers": "Phil Wickham / Brian Johnson"
+      "writers": "Phil Wickham / Brian Johnson",
+      "recommendation": "Avoid"
     },
     {
       "title": "All I Have Is Christ",
       "id": "all-i-have-is-christ",
       "timesLogged": 11,
-      "writers": "Jordan Kauflin (Sovereign Grace)"
+      "writers": "Jordan Kauflin (Sovereign Grace)",
+      "recommendation": null
     },
     {
       "title": "From Everlasting (Psalm 90)",
       "id": "from-everlasting-psalm-90",
       "timesLogged": 11,
-      "writers": "Lisa Clow / Lacy Condy (Sovereign Grace)"
+      "writers": "Lisa Clow / Lacy Condy (Sovereign Grace)",
+      "recommendation": null
     },
     {
       "title": "It Was Finished Upon That Cross",
       "id": "it-was-finished-upon-that-cross",
       "timesLogged": 11,
-      "writers": "Jonny Robinson / Rich Thompson / Nigel Hendroff (CityAlight)"
+      "writers": "Jonny Robinson / Rich Thompson / Nigel Hendroff (CityAlight)",
+      "recommendation": null
     },
     {
       "title": "My Soul Will Wait (Psalm 62)",
       "id": "my-soul-will-wait-psalm-62",
       "timesLogged": 11,
-      "writers": "Bob Kauflin / David Zimmer (Sovereign Grace)"
+      "writers": "Bob Kauflin / David Zimmer (Sovereign Grace)",
+      "recommendation": null
     },
     {
       "title": "All Things",
       "id": "all-things",
       "timesLogged": 10,
-      "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)"
+      "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)",
+      "recommendation": null
     },
     {
       "title": "As the Deer",
       "id": "as-the-deer",
       "timesLogged": 10,
-      "writers": "Martin Nystrom"
+      "writers": "Martin Nystrom",
+      "recommendation": null
     }
   ]
 }

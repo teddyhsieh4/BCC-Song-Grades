@@ -1,7 +1,6 @@
 function esc(s) {
-  return String(s ?? "").replace(/[&<>"']/g, (c) => ({
-    "&": "&", "<": "<", ">": ">", '"': """, "'": "&#39;"
-  }[c]));
+  const map = { "&": "&" + "amp;", "<": "&" + "lt;", ">": "&" + "gt;", '"': "&" + "quot;", "'": "&#" + "39;" };
+  return String(s ?? "").replace(/[&<>"']/g, (c) => map[c]);
 }
 
 function statusLabel(song) {

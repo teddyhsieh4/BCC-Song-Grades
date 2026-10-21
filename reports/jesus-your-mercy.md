@@ -29,7 +29,7 @@ Jesus’ mercy is the sinner’s only plea, only boast, only rest, and only joy,
 
 Feature it. Sing all four verses. The chorus is the substitution stanza, and verse 1 is the verse that kills self-righteousness: “The best of my works pierced Your hands and Your feet.” Keep both.
 
-The church has already sung it for at least four years (14 logs in the 2023–2026 snapshot). This is a model mercy-and-substitution text for this room.
+The church has already sung it for at least four years (14 logs in the 2023–2026 snapshot). This is a model mercy-and-substitution song for this room.
 
 ---
 
@@ -68,7 +68,7 @@ The chorus does not change, and it should not. It is the reason the four claims 
 
 ## Lines you cannot cut
 
-**Do not drop the chorus.** “Bore my sin / took my place when I stood condemned” is substitution in the people’s mouth. Without it the verses are a warm attachment to mercy.
+**Do not drop the chorus.** “Bore my sin / took my place when I stood condemned” is substitution in the people’s mouth. Without it the verses are affection for mercy without the cross.
 
 **Do not drop verse 1.** “I have no defense, my guilt runs too deep / the best of my works pierced Your hands and Your feet” is the end of works-righteousness. A cut that leaves only verses 3–4 plus the last hook turns the hymn into comfort without the plea.
 
@@ -113,7 +113,7 @@ No. Verse 1 names guilt and the piercing of Jesus’ hands and feet. The chorus 
 
 **Non-biblical.** None of weight.
 
-**Thin.** Resurrection is unnamed. The Spirit is unnamed. Wrath is present as “condemned” and not as the word. Those are silences inside a full substitution text.
+**Thin.** Resurrection is unnamed. The Spirit is unnamed. Wrath is present as “condemned” and not as the word. Those absences do not take away from the song.
 
 ---
 
@@ -127,9 +127,9 @@ No. Verse 1 names guilt and the piercing of Jesus’ hands and feet. The chorus 
 
 **Verse 3.** Rest under fear and enemies is Psalm 23, Psalm 27, and Psalm 56. “In life and in death” is Romans 8:38–39 and Philippians 1:20–21.
 
-**Verse 4.** Mercy as a treasure no power can destroy is Matthew 6:19–21 and 1 Peter 1:3–5. Joy here is attached to that treasure, not to a mood.
+**Verse 4.** Mercy as a treasure no power can destroy is Matthew 6:19–21 and 1 Peter 1:3–5. Joy here is attached to that treasure, not to a feeling.
 
-The lyric reads these texts in their ordinary sense. There is no impressionistic fog.
+The lyric reads these texts in their ordinary sense. The lines are plain.
 
 ---
 
@@ -153,7 +153,7 @@ The score is a 4 because of the voice. The “I” is doing what a psalm of test
 
 Named: mercy (the governing attribute), King, the One who bears sin, the One who takes the condemned place, goodness toward the singer, comfort in life and death, a treasure that cannot be destroyed.
 
-Unnamed: holiness as a word, wrath as a word, Fatherhood, the Spirit, justice except as “condemned.” The portrait is weighted toward mercy, and mercy is defined by substitution. That is enough for a 4. A 5 would have named more of the attributes that make mercy necessary.
+Unnamed: holiness as a word, wrath as a word, Fatherhood, the Spirit, justice except as “condemned.” The account is weighted toward mercy, and mercy is defined by substitution. That is enough for a 4. A 5 would have named more of the attributes that make mercy necessary.
 
 ---
 
@@ -193,13 +193,13 @@ They never name repentance as a word, or a present High Priest.
 
 **What it adds to the year’s diet.** Substitution in plain speech, the end of boasting in works, mercy as plea and rest. It will not supply an empty-tomb stanza or a doctrine-of-God hymn.
 
-**What not to do.** Do not program verses 3–4 plus a long last chorus and skip verse 1. That cut keeps the comfort and loses the plea.
+**What not to do.** Do not sing verses 3–4 plus a long last chorus and skip verse 1. That cut keeps the comfort and loses the plea.
 
 ---
 
 ## Identification notes
 
-Official SGM / SongSelect number is **7138116**. The catalog row currently has 7132960. Treat 7138116 as the CCLI to print. Do not invent a second song around the older number.
+Official SGM / SongSelect number is **7138116**. Writers are Bob Kauflin, Jordan Kauflin, and Nathan Stiff. Same lyric.
 
 Catalog year written is 2017. The published copyright and *The Glorious Christ* album are 2019. Same lyric. Same writers.
 
@@ -207,4 +207,4 @@ Catalog year written is 2017. The published copyright and *The Glorious Christ* 
 
 ## Why this overall label
 
-The hymn states substitution, guilt, and the end of works in sentences a congregation can sing. First-person voice and a mercy-weighted portrait keep two categories at 4. They do not cap the whole song.
+The hymn states substitution, guilt, and the end of works in sentences a congregation can sing. First-person voice and a mercy-weighted account keep two categories at 4. They do not lower the overall label.

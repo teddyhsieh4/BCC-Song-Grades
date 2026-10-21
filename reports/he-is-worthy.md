@@ -136,7 +136,7 @@ The lyric reads these texts in their ordinary sense. The one compression is “c
 
 The hymn is about Jesus from the first line. Incarnation, the coming for rebels, the Lamb, Calvary, debt, resurrection, and reign are all in the people’s mouth. The Name is lifted after those works have been named.
 
-This category stays at 4 because the lyric never says substitution or wrath in those words. “Canceling our debt” is the right metaphor (Colossians 2). A taught room will hear “for us.” The lyric never says He stood in our place or bore wrath. Titles are here, and the work is here. The meaning of the work for the people singing is one step short of explicit.
+This category stays at 4 because the lyric never says substitution or wrath in those words. “Canceling our debt” is the right metaphor (Colossians 2). A taught room will hear “for us.” The lyric never says He stood in our place or bore wrath. The titles and the events are named. What those events did for the people singing is not said in plain words.
 
 Keep verse 3. If it goes, this category falls.
 
@@ -181,7 +181,7 @@ No disclaimer is required. The people are confessing Christ’s worth and work, 
 
 ## Tone
 
-Reverent, public, and glad. “Worthy!” is an answer to named holiness, not a volume cue. “Beautiful beyond our highest thought” is the one warmer line. It comes after the majesty lines. It does not replace them.
+Reverent, public, and glad. “Worthy!” is an answer to named holiness, not a volume cue. “Beautiful beyond our highest thought” is the one line that speaks of beauty rather than majesty. It comes after the majesty lines. It does not replace them.
 
 The church is not asked to make Him worthy. Verse 1 already said He is.
 
@@ -199,7 +199,7 @@ They never name the burial.
 
 ## Setlist notes
 
-**When it serves the sermon.** John 1. John 1:29. Revelation 4–5. Philippians 2. Colossians 2. 1 Corinthians 15. Isaiah 6. A call to worship that tells the room who is being addressed. A response after the sermon has named sin more personally than verse 2 does.
+**When it serves the sermon.** John 1. John 1:29. Revelation 4–5. Philippians 2. Colossians 2. 1 Corinthians 15. Isaiah 6. A call to worship that tells the room who is being addressed. A response after the sermon has named personal sin and guilt.
 
 **Gaps the rest of the hour must cover.** A personal confession of sin. Wrath and substitution in plain words when the text is Isaiah 53 or Romans 3. The Spirit, when the day’s text is John 14–16.
 

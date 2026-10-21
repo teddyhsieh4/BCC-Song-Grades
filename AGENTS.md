@@ -159,3 +159,11 @@ node scripts/build-insights.js
 ```
 
 GitHub Actions runs the validator on pull requests.
+
+## Escape function (do not break this)
+
+`app.js` and `insights.js` each have an `esc()` helper that builds HTML entities at runtime (`&` + `amp;`, etc.). Do not rewrite it with literal `&` or `<` strings in the source.
+
+When an agent writes a JS file through a tool that base64-encodes or re-encodes content, literal entities get decoded or stripped. The resulting script fails to parse. Catalog and Insights then render blank.
+
+Keep the runtime construction. If you must touch `esc()`, copy the existing pattern exactly. After any JS change, hard-refresh and confirm the page still draws its lists. Bump the `?v=` cache string on the HTML that loads the file.

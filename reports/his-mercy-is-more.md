@@ -67,7 +67,7 @@ The hymn begins with the size of mercy and ends with the price of mercy. The ref
 
 ## Lines you cannot cut
 
-**Do not drop verse 3.** Without blood and cost, “His mercy is more” can sound like leniency. Verse 3 is what keeps mercy from becoming mood.
+**Do not drop verse 3.** Without blood and cost, “His mercy is more” can sound like leniency. Verse 3 is what keeps mercy from sounding like mere kindness.
 
 **Do not drop “our sins they are many.”** That line is the honest half of the refrain. A band that sings only “praise the Lord, His mercy is more” has cut the confession.
 
@@ -96,7 +96,7 @@ No single line is false. The line that needs a careful ear is “What love could
 
 ## Persons of the Trinity named
 
-The Father is named in verse 2 (“What Father so tender”). The Son is never named. His work is present as “His blood” and “His life.” The Spirit is unnamed. “Praise the Lord” is the covenant name in English dress, not a third distinct person in this text.
+The Father is named in verse 2 (“What Father so tender”). The Son is never named. His work is present as “His blood” and “His life.” The Spirit is unnamed. “Praise the Lord” is the covenant name in ordinary English, not a third distinct person in this text.
 
 ---
 
@@ -128,15 +128,15 @@ The name of Jesus can be absent and the third verse still will not fit another r
 
 **Verse 3.** “What riches of kindness He lavished on us” is Ephesians 1:7–8 and 2:7. “His blood was the payment, His life was the cost” is 1 Peter 1:18–19, Mark 10:45, and 1 Corinthians 6:20. “We stood ’neath a debt we could never afford” is Colossians 2:14 and Romans 6:23. The people singing are debtors. Mercy is not a discount. It is a payment.
 
-The lyric reads these texts in their ordinary sense. The only doctrinal load it asks the room to carry is the remember / omniscient pairing, and it carries both sides in the same couplet.
+The lyric reads these texts in their ordinary sense. The only pairing the room has to hold together is the remember / omniscient pairing, and it carries both sides in the same couplet.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 4
 
-The finished work is in verse 3: blood, life as cost, unpayable debt. Sin is named in every refrain. That is more gospel than a title list.
+The finished work is in verse 3: blood, life as cost, unpayable debt. Sin is named in every refrain. That is the gospel the song actually teaches.
 
-What keeps this category at 4 is the missing name of Jesus and the missing resurrection. The rubric warns against titles without the work. This hymn has the work without the name. A congregation that already knows whose blood it is will hear Jesus. Heard alone, verses 1–2 could be sung about the Father’s general kindness. Verse 3 is what ties kindness to atonement. Keep it.
+This category stays at 4 because the name of Jesus and the resurrection are missing. The rubric warns against titles without the finished work. This hymn has the finished work without the name. A congregation that already knows whose blood it is will hear Jesus. Heard alone, verses 1–2 could be sung about the Father’s general kindness. Verse 3 is what ties kindness to atonement. Keep it.
 
 Wrath, the cross as a word, and the empty tomb are also absent. The payment metaphor assumes them. It does not preach them.
 
@@ -170,7 +170,7 @@ Holiness and wrath are implied by debt and by “vilest,” and never named. The
 
 Plain words. A refrain a child can keep. The church already knows it (at least four years in the snapshot). Keys on file include D, Eb, and E.
 
-Three verses will run long only if the band repeats the last refrain past the point of sense. If a cut is forced, do not cut verse 3, and do not cut “our sins they are many.”
+Three verses will run long only if the band repeats the last refrain more times than the words need. If a cut is forced, do not cut verse 3, and do not cut “our sins they are many.”
 
 The lyric already puts confession in the people’s mouth. You do not need a speech about meaning it.
 
@@ -180,7 +180,7 @@ The lyric already puts confession in the people’s mouth. You do not need a spe
 
 Glad and sober at once. The refrain is a shout. The verses keep naming sin, roaming, vileness, and debt. That mix is the right tone for mercy. Nothing cute, nothing sensual, nothing flippant.
 
-The room is not asked to confer mercy on God. It is asked to praise the mercy He has already shown.
+The room is not asked to give mercy to God. It is asked to praise the mercy He has already shown.
 
 ---
 
@@ -203,7 +203,7 @@ They never name justification as a word (they do sing that He does not count the
 
 **What it adds to the year’s diet.** Repeated confession of “our sins,” mercy larger than that confession, and blood as payment. It will not supply resurrection, the name of Jesus, or a doctrine-of-God hymn beyond mercy and fatherhood.
 
-**What not to do.** Do not program verses 1–2 and a long tag. Do not use the refrain under prayer while skipping the payment stanza.
+**What not to do.** Do not sing verses 1–2 and a long tag. Do not use the refrain under prayer while skipping the payment stanza.
 
 ---
 

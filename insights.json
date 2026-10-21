@@ -1,9 +1,9 @@
 {
-  "asOf": "6 Oct 2026",
+  "asOf": "21 Oct 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
-  "graded": 3,
-  "notGraded": 191,
+  "graded": 10,
+  "notGraded": 184,
   "setlistMentionsRaw": 965,
   "timesLoggedSum": 965,
   "families": [
@@ -85,15 +85,15 @@
   "recommendations": [
     {
       "name": "Excellent / Prefer",
-      "count": 0
+      "count": 5
     },
     {
       "name": "Strong",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Acceptable with notes",
-      "count": 0
+      "count": 1
     },
     {
       "name": "Weak",
@@ -117,42 +117,42 @@
       "id": "your-will-be-done",
       "timesLogged": 15,
       "writers": "Jonny Robinson / Rich Thompson (CityAlight)",
-      "recommendation": null
+      "recommendation": "Excellent / Prefer"
     },
     {
       "title": "Abide",
       "id": "abide",
       "timesLogged": 14,
       "writers": "Aaron Williams / Aaron Keyes / Jake Fauber (The Worship Initiative / Shane & Shane circle)",
-      "recommendation": null
+      "recommendation": "Acceptable with notes"
     },
     {
       "title": "He Is Worthy",
       "id": "he-is-worthy",
       "timesLogged": 14,
       "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)",
-      "recommendation": null
+      "recommendation": "Excellent / Prefer"
     },
     {
       "title": "His Mercy Is More",
       "id": "his-mercy-is-more",
       "timesLogged": 14,
       "writers": "Matt Boswell / Matt Papa",
-      "recommendation": null
+      "recommendation": "Excellent / Prefer"
     },
     {
       "title": "Jesus, Your Mercy",
       "id": "jesus-your-mercy",
       "timesLogged": 14,
       "writers": "Bob Kauflin / Jordan Kauflin / Nathan Stiff (Sovereign Grace)",
-      "recommendation": null
+      "recommendation": "Excellent / Prefer"
     },
     {
       "title": "Behold Him",
       "id": "behold-him",
       "timesLogged": 12,
       "writers": "Paul Baloche / Mitch Wong",
-      "recommendation": null
+      "recommendation": "Strong"
     },
     {
       "title": "Build My Life",
@@ -173,7 +173,7 @@
       "id": "all-i-have-is-christ",
       "timesLogged": 11,
       "writers": "Jordan Kauflin (Sovereign Grace)",
-      "recommendation": null
+      "recommendation": "Excellent / Prefer"
     },
     {
       "title": "From Everlasting (Psalm 90)",

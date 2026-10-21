@@ -29,7 +29,7 @@ The singer was a rebel running a hell-bound race, unable even to want Christ unl
 
 Feature it. Sing all three verses. Verse 2 is the gospel stanza: helpless, led to the cross, suffered in my place, bore the wrath reserved for me. Verse 1 is the doctrine of inability. Verse 3 is lordship after grace. The three belong together.
 
-The church has already sung it for at least four years (11 logs in the 2023–2026 snapshot). This is one of the texts that can teach a Sunday, not only decorate one.
+The church has already sung it for at least four years (11 logs in the 2023–2026 snapshot). This is one of the songs that can teach a Sunday.
 
 ---
 
@@ -114,7 +114,7 @@ No. A moralist cannot sing “I would refuse You still,” “hell-bound race,�
 
 **Non-biblical.** None that change the grade. “Darkest night” and “hell-bound race” are ordinary conversion images, not decoration for their own sake.
 
-**Thin.** Resurrection, incarnation, and the Spirit are simply absent. For a conversion hymn that already carries wrath and substitution, those are the silences to cover elsewhere, not defects in the lines that are here.
+**Thin.** Resurrection, incarnation, and the Spirit are absent. For a conversion hymn that already carries wrath and substitution, those absences do not take away from the song.
 
 ---
 
@@ -134,7 +134,7 @@ The lyric reads these texts the way this church reads them: inability, wrath, su
 
 The finished work is explicit. Place-taking. Wrath reserved for me, borne by Him. The cross as the place He led the helpless. The chorus then says the only right thing after that: all I have is Christ, Jesus is my life (Philippians 1:21; Colossians 3:4).
 
-Lordship is verse 3, and it comes after ransom. The hymn does not offer a Saviour who never becomes Lord. What is missing is the resurrection. That is a real inventory gap. It does not empty the gospel that is already here.
+Lordship is verse 3, and it comes after ransom. The hymn does not offer a Saviour who never becomes Lord. What is missing is the resurrection. That is a real gap. It does not take away from the gospel that is already here.
 
 ---
 
@@ -159,7 +159,7 @@ The score is a 4 because a full room is still singing a private conversion. That
 | Father who uses a ransomed life | Fatherhood and providence | Rom 12:1 |
 | the One worth boasting in | sufficiency of Christ | Gal 6:14 |
 
-Holiness is present as wrath and as “Your will.” Mercy is present as the prior love and the cross. Justice is present as wrath reserved and borne. The portrait is small in word-count and wide in range.
+Holiness is present as wrath and as “Your will.” Mercy is present as the prior love and the cross. Justice is present as wrath reserved and borne. The word count is small. The range is wide.
 
 ---
 
@@ -199,7 +199,7 @@ They never say the word “justified.”
 
 **What it adds to the year’s diet.** Inability, wrath, substitution, lordship after grace, one boast. It will not supply an empty-tomb stanza.
 
-**What not to do.** Do not program verse 3 and the chorus as a closing tag while skipping verse 2. That leaves surrender without the wrath-bearing that makes surrender possible.
+**What not to do.** Do not sing verse 3 and the chorus as a closing tag while skipping verse 2. That leaves surrender without the wrath-bearing that makes surrender possible.
 
 ---
 

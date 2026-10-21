@@ -27,7 +27,7 @@ The Father’s will is the good the church asks for, because the Son already pra
 
 **Excellent / Prefer**
 
-Feature it. Sing all four verses. Each refrain changes, and the changes carry the argument: we walk as Jesus walked, He bore our sin in the garden prayer, we will rise as He rose, and the church now prays the same words together.
+Feature it. Sing all four verses. Each refrain changes, and the changes carry the argument: we walk as Jesus walked, He prayed the Father’s will in the garden and bore our sin on the cross, we will rise as He rose, and the church now prays the same words together.
 
 The church has already sung it for at least four years (15 logs in the 2023–2026 snapshot). Keep verse 2 and its refrain. That is where obedience, the cross, and “my sin” meet.
 
@@ -68,11 +68,7 @@ The song starts in the Lord’s Prayer and ends with the gathered church still p
 
 ## Lines you cannot cut
 
-**Do not drop verse 2 and the refrain that follows it.** “The fearful weight of true obedience / it was held by him alone,” then “What wondrous faith, to bear that cross / to bear my sin, what wondrous love.” Without that block the song is a sincere prayer for guidance with a resurrection stanza later. The substitution line is here.
-
-**Do not drop verse 4** if the hour is sending people out. That is the only corporate stanza.
-
-No single line is false enough to sink the song.
+All four verses are essential in sequence. Do not drop any of them. No single line is false enough to sink the song.
 
 ---
 
@@ -115,7 +111,7 @@ Verse 1 plus the first refrain could be sung by a moral theist who admires Jesus
 
 **Non-biblical.** None that change the grade. The images stay inside Gethsemane, the cross, the throne, and the church’s going out.
 
-**Thin.** Incarnation, wrath, and justification are simply absent. The Spirit is unnamed. Those are silences, not soft lines.
+**Thin.** Incarnation, wrath, and justification are absent. The Spirit is unnamed. These absences do not take away from the song.
 
 ---
 
@@ -133,7 +129,7 @@ Verse 1 plus the first refrain could be sung by a moral theist who admires Jesus
 
 **Verse 4.** “Lead us daily in the fight / that all the world might see Your glory” is John 17:4, 18 and Matthew 5:16. The gathering is not turned into an evangelistic show. “In this Name we overcome” is John 16:33 and Revelation 12:11. “You shall see us safely home” is John 10:28–29 and 1 Peter 1:5.
 
-The text reads the way this church reads those passages. The grammar is clean.
+The text reads the way this church reads those passages. The grammar holds.
 
 ---
 
@@ -164,7 +160,7 @@ The vows are grounded. “Still I will trust” follows “when I am lost.” �
 | see us safely home | preserving care | Jn 10:28–29 |
 | Your glory / Your Name | glory and name | Jn 17; Phil 2:9–11 |
 
-Holiness, justice, and wrath are not named. The garden and the cross imply them. The score stays at 4 because the attributes that are named are specific, and because holiness is simply unsaid.
+Holiness, justice, and wrath are not named. The garden and the cross imply them. The score stays at 4 because the attributes that are named are specific.
 
 ---
 
@@ -182,7 +178,7 @@ Several old setlists mark C. That is a key choice. It does not change the words.
 
 Reverent. The opening is a prayer, not a hook about the singer’s passion. “Be still my soul” serves the petition. Verse 3 names fear and doubt without turning them into the point. Verse 4 is the church going out.
 
-The room is not asked to confer on God a will He already has. It asks to be brought under that will.
+The room is not asked to give God a will He already has. It asks to be brought under that will.
 
 ---
 
@@ -205,7 +201,7 @@ The sermon or another song will have to carry those when the day’s text needs 
 
 **What it adds to the year’s diet.** Gethsemane, the Lord’s Prayer, substitution in the people’s mouth, and a corporate last stanza. It will not supply the Spirit’s work or a full doctrine-of-God hymn.
 
-**What not to do.** Do not program verses 1 and 3 plus a long tag and skip the garden. Do not use the last hook as walk-out music while dropping verse 2.
+**What not to do.** Do not sing verses 1 and 3 plus a long tag and skip the garden. Do not use the last hook as walk-out music while dropping verse 2.
 
 ---
 

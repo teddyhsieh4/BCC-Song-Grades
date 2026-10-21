@@ -27,9 +27,9 @@ The eternal Son made the world, became a child, lived among sinners, paid a bloo
 
 **Strong**
 
-Use it regularly, and keep the second half of verse 2 (the criminal’s end, the debt, the rising). If that block is dropped, the remaining song is a title list with an infancy line and a ministry line.
+Use it regularly. Keep the second half of verse 2: He chose a criminal’s end, paid the debt with blood, and rose. Without those lines the song is titles, a childhood line, and a ministry line.
 
-The church has sung it for at least three years in the 2023–2026 snapshot (12 logs, first appearing in 2024). It is God-centered and clear. It stays at Strong because a few images are decorative, substitution is stated as payment, and the bridge can run long as a holy-holy stack.
+The church has sung it for at least three years in the 2023–2026 snapshot (12 logs, first appearing in 2024). It is God-centered and clear. It stays at Strong. A few images are decorative. The cross is named as paying a debt, not as bearing sin in our place. The bridge can run long on “holy, holy.”
 
 ---
 
@@ -60,7 +60,7 @@ Two long verses (often printed as four short ones), two chorus shapes, then a ho
 1. **Eternity and incarnation.** Before light, maker of living things, heard the cry, left the throne, woke as a child, became like the least.
 2. **Ministry, cross, resurrection.** Dined with sinners, healed, is in our midst now, chose a criminal’s end, paid the debt with blood, buried death as He rose.
 
-Chorus 1 names Jesus as Son of God, Messiah, Lamb, roaring Lion. Chorus 2 adds Alpha and Omega, risen Savior. The bridge is Isaiah 6 / Revelation 4 language. The song begins before creation and ends with beholding the risen One. The second verse is what pays off the titles.
+Chorus 1 names Jesus as Son of God, Messiah, Lamb, roaring Lion. Chorus 2 adds Alpha and Omega, risen Savior. The bridge is Isaiah 6 / Revelation 4 language. The song begins before creation and ends with beholding the risen One. The second verse is what gives the titles their meaning.
 
 ---
 
@@ -115,7 +115,7 @@ The first half of verse 1 (“before there was light,” “made every living th
 
 **Non-biblical.** “Walked across the pages of time” is decoration. Scripture says He made the ages (Hebrews 1:2). It does not say He walked across a book called Time. The image does not teach a false doctrine. It also does not teach a real one.
 
-**Thin.** “Even now He is in our midst” is Matthew 18:20 and Revelation 1:13 in a soft line. True, and easy to hear as a mood line rather than a claim about Christ’s presence with the church. “The Lamb, the roaring Lion” is Revelation 5:5–6 as titles. The work those titles belong to has to come from the verse around them.
+**Thin.** “Even now He is in our midst” is Matthew 18:20 and Revelation 1:13. True, and easy to hear as a mood line rather than a claim about Christ’s presence with the church. “The Lamb, the roaring Lion” is Revelation 5:5–6 as titles. The work those titles belong to has to come from the verse around them.
 
 ---
 
@@ -123,7 +123,7 @@ The first half of verse 1 (“before there was light,” “made every living th
 
 **Verse 1.** “He who was before there was light” is John 1:1–3 and Genesis 1:3: the Son is not a creature inside the first day. “He who made every living thing” is John 1:3 and Colossians 1:16. “Left His throne to wake as a child / He became like the least of us” is Philippians 2:6–8 and Luke 2. That is incarnation in ordinary words.
 
-“Walked across the pages of time” is the line that keeps this category at 4. It is Bible-ish. It is not a sentence you can tie to a text in its ordinary sense.
+“Walked across the pages of time” is the line that keeps this category at 4. It sounds biblical. It is not a sentence you can tie to a text in its ordinary sense.
 
 **Verse 2.** “Dined with sinners and saints” is Mark 2:15–17. “Healed the blind, the lost and the lame” is the ministry in the Gospels. “Even now He is in our midst” is Matthew 18:20 and Matthew 28:20. “Chose a criminal’s end” is Luke 23:32–33 and Philippians 2:8. “Paid with blood to settle our debt” is 1 Peter 1:18–19 and Colossians 2:14. “Buried death as He rose to life” is the resurrection, compressed.
 
@@ -153,7 +153,7 @@ The lyric points at Christ. “Behold Him” and “be still” are commands to 
 
 Named: eternal, Creator, incarnate humility, healer, present, the One who pays a blood-debt, risen, Lamb, Lion, Alpha and Omega, holy, worthy.
 
-Unnamed: Fatherhood, the Spirit, wrath, justice as a word. Love as a word is also unnamed, which is unusual and not a defect. The portrait is a sequence of works. It is not a balanced attribute list. Holiness arrives in the bridge, after the works. That is enough for a 4.
+Unnamed: Fatherhood, the Spirit, wrath, justice as a word. Love as a word is also unnamed, which is unusual and not a defect. The song names a sequence of works. It is not a balanced attribute list. Holiness arrives in the bridge, after the works. That is enough for a 4.
 
 ---
 
@@ -171,7 +171,7 @@ The popular recording features another singer. That is a recording fact. It does
 
 Reverent, with a quiet command at the center: be still and behold. That is a good tone if the band actually leaves space for the words. It goes wrong if “be still” is sung at full volume as a hook.
 
-Nothing sensual. Nothing cute. The room is not asked to confer worth on Him. The bridge ascribes worth He already has.
+Nothing sensual. Nothing cute. The room is not asked to give Him worth. The bridge ascribes worth He already has.
 
 ---
 
@@ -193,13 +193,13 @@ They never name a present High Priest.
 
 **What it adds to the year’s diet.** Incarnation-to-resurrection narrative, “behold” as the congregation’s work, holy-holy language. It will not supply repentance or “our sin” as a confession.
 
-**What not to do.** Do not program verse 1, the titles, and a long bridge. That cut leaves Creator-child-Lion without Calvary.
+**What not to do.** Do not sing verse 1, the titles, and a long bridge. That cut leaves Creator-child-Lion without Calvary.
 
 ---
 
 ## Identification notes
 
-Official Integrity / SongSelect number is **7133698**. The catalog row currently has 7133721. Treat 7133698 as the CCLI to print. Same writers, same lyric.
+Official Integrity / SongSelect number is **7133698**. Writers are Paul Baloche and Mitch Wong. Same lyric.
 
 The widely streamed recording features Kim Walker-Smith. She is not a writer. Credits remain Baloche / Wong and Integrity. The banned-ministry rule is triggered by credits, not by a featured vocal on someone else’s track.
 

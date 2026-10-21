@@ -40,5 +40,103 @@
       "congregationalUsefulness": 4
     },
     "note": "Official grade. Avoid on the Brian Johnson / Bethel Music Publishing credit. Lyric scores left as graded."
+  },
+  {
+    "id": "abide",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "all-i-have-is-christ",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "behold-him",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "he-is-worthy",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "his-mercy-is-more",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "jesus-your-mercy",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "your-will-be-done",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch-2 review."
   }
 ]

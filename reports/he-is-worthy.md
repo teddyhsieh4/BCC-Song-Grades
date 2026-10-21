@@ -29,7 +29,7 @@ The Son of God is holy and worthy. The Word made flesh came for rebels, the Lamb
 
 Feature it. Sing all three verses and the bridge. Verse 3 is the Calvary-and-resurrection stanza. Verse 2 is the incarnation-and-sinners stanza. If either is dropped, the remaining song is a true worthiness refrain with less gospel in it.
 
-The church has already sung it for at least four years (14 logs in the 2023–2026 snapshot). This is a regular-use text, not a filler.
+The church has already sung it for at least four years (14 logs in the 2023–2026 snapshot). This is a regular-use song.
 
 ---
 
@@ -114,7 +114,7 @@ Verse 1 plus the first half of the chorus (“all glory and honor… be to Your 
 
 **Non-biblical.** “Beautiful beyond our highest thought” is praise language, not a claim that needs a verse number.
 
-**Thin.** Wrath is unnamed. “In our place” is implied by debt and by the Lamb, not stated. Burial is skipped between death and rising. Those are omissions inside an otherwise dense text.
+**Thin.** Wrath is unnamed. “In our place” is implied by debt and by the Lamb, not stated. Burial is skipped between death and rising. Those absences do not take away from the song.
 
 ---
 
@@ -136,7 +136,7 @@ The lyric reads these texts in their ordinary sense. The one compression is “c
 
 The hymn is about Jesus from the first line. Incarnation, the coming for rebels, the Lamb, Calvary, debt, resurrection, and reign are all in the people’s mouth. The Name is lifted after those works have been named.
 
-What keeps this category at 4 is the missing word of substitution and wrath. “Canceling our debt” is the right metaphor (Colossians 2). A taught room will hear “for us.” The lyric never says He stood in our place or bore wrath. Titles are here, and the work is here. The meaning of the work for the people singing is one step short of explicit.
+This category stays at 4 because the lyric never says substitution or wrath in those words. “Canceling our debt” is the right metaphor (Colossians 2). A taught room will hear “for us.” The lyric never says He stood in our place or bore wrath. Titles are here, and the work is here. The meaning of the work for the people singing is one step short of explicit.
 
 Keep verse 3. If it goes, this category falls.
 
@@ -144,7 +144,7 @@ Keep verse 3. If it goes, this category falls.
 
 ## Objectivity vs. Subjectivity: 5
 
-The hymn declares who Christ is and what He did. The congregation answers with ascription. “We lift high the Name of Jesus” is corporate praise, not a report of inner weather. There is no first-person vow that needs a disclaimer, and no romance.
+The hymn declares who Christ is and what He did. The congregation answers with ascription. “We lift high the Name of Jesus” is corporate praise, not a report of how the room feels. There is no first-person vow that needs a disclaimer, and no romance.
 
 ---
 
@@ -163,7 +163,7 @@ The hymn declares who Christ is and what He did. The congregation answers with a
 | none beside You | uniqueness | Isa 45:5–6 |
 | glory, honor, power, praise | worth | Rev 5:12–13 |
 
-Love as a word is never used. Mercy and grace are shown in the acts. Holiness leads every verse. That is a balanced portrait of the Son.
+Love as a word is never used. Mercy and grace are shown in the acts. Holiness leads every verse. The account of the Son is balanced.
 
 The Spirit and the Father are unnamed. The character score remains a 5 because what is said of the Son is specific and weighted toward holiness and worth, not toward mood.
 

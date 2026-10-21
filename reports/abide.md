@@ -27,9 +27,9 @@ The believer’s whole life, from daily bread through death and resurrection, ha
 
 **Acceptable with notes**
 
-Use it sparingly, and keep the last verse. That is the only place the lyric names being raised with Christ. The rest is true dependence language built on John 14–15.
+Use it sparingly. The song is true dependence language built on John 14–15, but it lacks sin, the cross, and substitution. The last verse is the only place it names being raised with Christ.
 
-The church has already sung it for at least four years (14 logs in the 2023–2026 snapshot). It should not carry a Sunday by itself. Pair it after a text that has already named sin and the cross. Do not let “Where Your Spirit leads as I’m following” drift into private-impression talk.
+The church has already sung it for at least four years (14 logs in the 2023–2026 snapshot). It should not carry a Sunday by itself. Pair it after a song that has already named sin and the cross. Do not let “Where Your Spirit leads as I’m following” drift into private-impression talk.
 
 ---
 
@@ -114,7 +114,7 @@ Much of it, yes. A vague theist can sing dependence for breath, bread, sunrise, 
 
 **Non-biblical.** “The well that never runs dry” is an image drawn from John 4 and 7, not a new claim. “Song in the night” is Job 35:10 and Psalm 42 color.
 
-**Thin.** The whole middle of the gospel is missing: sin, cross, substitution, wrath. “Victories still in front of me” is true and underfed. It never says what kind of victory.
+**Thin.** The whole middle of the gospel is missing: sin, cross, substitution, wrath. “Victories still in front of me” is true but vague. It never says what kind of victory.
 
 ---
 
@@ -202,12 +202,10 @@ If this is the only sung prayer before the sermon, the hour has not yet put the 
 
 ## Identification notes
 
-Official SongSelect / CCLI sessions number is **7168160**. The catalog row currently has 7161600, which looks like a transposed typo of the same digits. Do not invent a second song around the older number.
-
-Writers are Aaron Williams, Aaron Keyes, and Jake Fauber. Later live features (CAIN, Jon Reddick) do not change the text. Family stays Shane & Shane / Worship Initiative, which is the lane the church already uses.
+Official SongSelect / CCLI sessions number is **7168160**. Writers are Aaron Williams, Aaron Keyes, and Jake Fauber. Later live features (CAIN, Jon Reddick) do not change the text. Family stays Shane & Shane / Worship Initiative, which is the lane the church already uses.
 
 ---
 
 ## Why this overall label
 
-The lyric is orthodox John 15 dependence with one resurrection line. It is true and underfed on the gospel, and it lives in first-person need. That is Acceptable with notes: usable when the rest of the hour supplies sin and the cross, not a song to feature.
+The lyric is orthodox John 15 dependence with one resurrection line. It is true but thin on the gospel, and it lives in first-person need. That is Acceptable with notes: usable when the rest of the hour supplies sin and the cross, not a song to feature.

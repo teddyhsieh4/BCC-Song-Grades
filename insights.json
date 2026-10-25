@@ -1,0 +1,214 @@
+{
+  "asOf": "25 Oct 2026",
+  "uniqueSongs": 194,
+  "highConfidence": 194,
+  "graded": 24,
+  "notGraded": 170,
+  "setlistMentionsRaw": 965,
+  "timesLoggedSum": 965,
+  "families": [
+    {
+      "name": "Modern",
+      "count": 59
+    },
+    {
+      "name": "Hymn",
+      "count": 36
+    },
+    {
+      "name": "Sovereign Grace",
+      "count": 35
+    },
+    {
+      "name": "Chorus",
+      "count": 14
+    },
+    {
+      "name": "Modern hymn",
+      "count": 12
+    },
+    {
+      "name": "Vineyard",
+      "count": 11
+    },
+    {
+      "name": "CityAlight",
+      "count": 9
+    },
+    {
+      "name": "Getty",
+      "count": 8
+    },
+    {
+      "name": "Hymn / Christmas",
+      "count": 5
+    },
+    {
+      "name": "Shane & Shane / Worship Initiative",
+      "count": 3
+    },
+    {
+      "name": "Chorus medley",
+      "count": 2
+    }
+  ],
+  "eras": [
+    {
+      "name": "Before 1900 (hymns)",
+      "count": 30
+    },
+    {
+      "name": "1900\u20131989",
+      "count": 31
+    },
+    {
+      "name": "1990\u20131999",
+      "count": 27
+    },
+    {
+      "name": "2000\u20132009",
+      "count": 44
+    },
+    {
+      "name": "2010\u20132019",
+      "count": 44
+    },
+    {
+      "name": "2020\u20132025",
+      "count": 16
+    },
+    {
+      "name": "Unknown / traditional",
+      "count": 2
+    }
+  ],
+  "recommendations": [
+    {
+      "name": "Excellent / Prefer",
+      "count": 14
+    },
+    {
+      "name": "Strong",
+      "count": 7
+    },
+    {
+      "name": "Acceptable with notes",
+      "count": 1
+    },
+    {
+      "name": "Weak",
+      "count": 1
+    },
+    {
+      "name": "Avoid",
+      "count": 1
+    }
+  ],
+  "mostLogged": [
+    {
+      "title": "King Forevermore (God the Uncreated One)",
+      "id": "king-forevermore-god-the-uncreated-one",
+      "timesLogged": 16,
+      "writers": "Aaron Keyes / Pete James",
+      "recommendation": "Strong"
+    },
+    {
+      "title": "Your Will Be Done",
+      "id": "your-will-be-done",
+      "timesLogged": 15,
+      "writers": "Jonny Robinson / Rich Thompson (CityAlight)",
+      "recommendation": "Excellent / Prefer"
+    },
+    {
+      "title": "Abide",
+      "id": "abide",
+      "timesLogged": 14,
+      "writers": "Aaron Williams / Aaron Keyes / Jake Fauber (The Worship Initiative / Shane & Shane circle)",
+      "recommendation": "Acceptable with notes"
+    },
+    {
+      "title": "He Is Worthy",
+      "id": "he-is-worthy",
+      "timesLogged": 14,
+      "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)",
+      "recommendation": "Excellent / Prefer"
+    },
+    {
+      "title": "His Mercy Is More",
+      "id": "his-mercy-is-more",
+      "timesLogged": 14,
+      "writers": "Matt Boswell / Matt Papa",
+      "recommendation": "Excellent / Prefer"
+    },
+    {
+      "title": "Jesus, Your Mercy",
+      "id": "jesus-your-mercy",
+      "timesLogged": 14,
+      "writers": "Bob Kauflin / Jordan Kauflin / Nathan Stiff (Sovereign Grace)",
+      "recommendation": "Excellent / Prefer"
+    },
+    {
+      "title": "Behold Him",
+      "id": "behold-him",
+      "timesLogged": 12,
+      "writers": "Paul Baloche / Mitch Wong",
+      "recommendation": "Strong"
+    },
+    {
+      "title": "Build My Life",
+      "id": "build-my-life",
+      "timesLogged": 12,
+      "writers": "Pat Barrett / Matt Redman / Brett Younker / Kirby Kaple / Karl Martin",
+      "recommendation": "Weak"
+    },
+    {
+      "title": "Living Hope",
+      "id": "living-hope",
+      "timesLogged": 12,
+      "writers": "Phil Wickham / Brian Johnson",
+      "recommendation": "Avoid"
+    },
+    {
+      "title": "All I Have Is Christ",
+      "id": "all-i-have-is-christ",
+      "timesLogged": 11,
+      "writers": "Jordan Kauflin (Sovereign Grace)",
+      "recommendation": "Excellent / Prefer"
+    },
+    {
+      "title": "From Everlasting (Psalm 90)",
+      "id": "from-everlasting-psalm-90",
+      "timesLogged": 11,
+      "writers": "Lisa Clow / Lacy Condy (Sovereign Grace)",
+      "recommendation": "Strong"
+    },
+    {
+      "title": "It Was Finished Upon That Cross",
+      "id": "it-was-finished-upon-that-cross",
+      "timesLogged": 11,
+      "writers": "Jonny Robinson / Rich Thompson / Nigel Hendroff (CityAlight)",
+      "recommendation": "Excellent / Prefer"
+    },
+    {
+      "title": "My Soul Will Wait (Psalm 62)",
+      "id": "my-soul-will-wait-psalm-62",
+      "timesLogged": 11,
+      "writers": "Bob Kauflin / David Zimmer (Sovereign Grace)",
+      "recommendation": "Strong"
+    },
+    {
+      "title": "All Things",
+      "id": "all-things",
+      "timesLogged": 10,
+      "writers": "Nathan Stiff / David Zimmer (Sovereign Grace)",
+      "recommendation": "Strong"
+    },
+    {
+      "title": "As the Deer",
+      "id": "as-the-deer",
+      "timesLogged": 10,
+      "writers": "Martin Nystrom",
+      "recommendation": null
+    }
+  ]
+}

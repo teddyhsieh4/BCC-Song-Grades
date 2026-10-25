@@ -1,0 +1,338 @@
+[
+  {
+    "id": "king-forevermore-god-the-uncreated-one",
+    "date": "2026-09-26",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Usefulness raised to 5 after length and image notes were dropped."
+  },
+  {
+    "id": "build-my-life",
+    "date": "2026-10-05",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Weak on the missing gospel. Alternative song suggestions included."
+  },
+  {
+    "id": "living-hope",
+    "date": "2026-10-06",
+    "action": "published",
+    "recommendation": "Avoid",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Avoid on the Brian Johnson / Bethel Music Publishing credit. Lyric scores left as graded."
+  },
+  {
+    "id": "abide",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "all-i-have-is-christ",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "behold-him",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "he-is-worthy",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "his-mercy-is-more",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "jesus-your-mercy",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "your-will-be-done",
+    "date": "2026-10-20",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch-2 review."
+  },
+  {
+    "id": "all-things",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "ancient-of-days",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "behold-our-god",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "christ-our-wisdom",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "come-thou-fount-of-every-blessing",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "from-everlasting-psalm-90",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 3,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "glorious-christ",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "here-is-love-vast-as-the-ocean",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "i-will-glory-in-my-redeemer",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "it-was-finished-upon-that-cross",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "let-your-kingdom-come",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "my-soul-will-wait-psalm-62",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "the-solid-rock-my-hope-is-built",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "yet-not-i-but-through-christ-in-me",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Published from existing draft report."
+  }
+]

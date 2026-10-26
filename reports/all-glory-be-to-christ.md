@@ -1,0 +1,1 @@
+$(cat /tmp/all-glory-be-to-christ.md)

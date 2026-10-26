@@ -335,5 +335,33 @@
       "godsCharacter": 5,
       "congregationalUsefulness": 5
     }
+  },
+  "as-the-deer": {
+    "status": "graded",
+    "recommendation": "Weak",
+    "report": "reports/as-the-deer.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    }
+  },
+  "all-creatures-of-our-god-and-king": {
+    "status": "graded",
+    "recommendation": "Strong",
+    "report": "reports/all-creatures-of-our-god-and-king.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 3,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    }
   }
 }

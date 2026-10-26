@@ -2,8 +2,8 @@
   "asOf": "25 Oct 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
-  "graded": 24,
-  "notGraded": 170,
+  "graded": 26,
+  "notGraded": 168,
   "setlistMentionsRaw": 965,
   "timesLoggedSum": 965,
   "families": [
@@ -89,7 +89,7 @@
     },
     {
       "name": "Strong",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Acceptable with notes",
@@ -97,7 +97,7 @@
     },
     {
       "name": "Weak",
-      "count": 1
+      "count": 2
     },
     {
       "name": "Avoid",
@@ -208,7 +208,7 @@
       "id": "as-the-deer",
       "timesLogged": 10,
       "writers": "Martin Nystrom",
-      "recommendation": null
+      "recommendation": "Weak"
     }
   ]
 }

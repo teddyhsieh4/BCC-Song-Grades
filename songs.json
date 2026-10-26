@@ -855,10 +855,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "All Glory be to Christ; All Glory Be To Christ; All Glory be to Christ - D; All Glory be to Christ (D); All Glory be to Christ?; All glory be to Christ (D-E)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2010–2019",
-    "report": null
+    "report": "reports/all-glory-be-to-christ.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-10-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "all-hail-the-power-of-jesus-name",

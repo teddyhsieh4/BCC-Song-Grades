@@ -59,7 +59,6 @@ Relative URLs must work under `/BCC-Song-Grades/`. There is a `<base href="/BCC-
 
 ## Rules that are easy to break
 
-- Published grades require the church chord sheet (or a confirmed published text of that same setting).
 - The overall label must be one of the five official labels in `lib/grades.js` and `RUBRIC.md`.
 - Never change a published grade without asking.
 - Join reports, insights, and setlist history on song `id`, never on title. Titles collide.
@@ -82,7 +81,7 @@ An export from the Sheet must not overwrite grade fields. A grade must not inven
 - Give every song a permanent `id` that is not its title. Do not rename slugs once links exist.
 - Repertoire membership can be `active`, `retired`, or `not-in-repertoire` on `repertoireStatus` when that field is present. Grade progress uses `status`: `not-graded` or `graded`. Do not delete a row to retire a song.
 - When a grade is published, store `rubricVersion` and `gradeDate` (`YYYY-MM-DD`) on the song row. Log the change in `data/grade-history.json`.
-- The church chord sheet is the authority for which text we grade. Web lyrics may inform a draft only when CCLI and setting are already confirmed.
+- The church chord sheet is preferred for identifying which text we grade. When no chart is on file, a confirmed published text of the same setting (CCLI + writers) is enough. Web lyrics may inform a draft only when CCLI and setting are already confirmed.
 - Do not put full copyrighted lyrics in the repo. Song pages and footers should keep saying so: CCLI does not cover a lyrics dump on this site; reports quote short lines only.
 - Do not invent CCLI numbers.
 - Hillsong, Elevation, and Bethel songs are never used. Do not add them.

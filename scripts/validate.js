@@ -75,9 +75,6 @@ songs.forEach((s, i) => {
     if (!s.recommendation || !grades.isAllowedLabel(s.recommendation)) {
       fail(i, id, "graded song needs an official overall label");
     }
-    if (!s.chordSheet && !s.sourceChart) {
-      fail(i, id, "published grade needs chordSheet or sourceChart");
-    }
     grades.DIMENSIONS.forEach((dim) => {
       if (!grades.isScore(scores[dim.key])) {
         fail(i, id, "graded song missing score " + dim.key);

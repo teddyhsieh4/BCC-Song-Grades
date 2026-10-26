@@ -334,5 +334,19 @@
       "congregationalUsefulness": 5
     },
     "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "all-glory-be-to-christ",
+    "date": "2026-10-26",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Batch 4. Next highest-logged ungraded song."
   }
 ]

@@ -1,9 +1,9 @@
 {
-  "asOf": "25 Oct 2026",
+  "asOf": "26 Oct 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
-  "graded": 26,
-  "notGraded": 168,
+  "graded": 27,
+  "notGraded": 167,
   "setlistMentionsRaw": 965,
   "timesLoggedSum": 965,
   "families": [
@@ -58,23 +58,23 @@
       "count": 30
     },
     {
-      "name": "1900\u20131989",
+      "name": "1900–1989",
       "count": 31
     },
     {
-      "name": "1990\u20131999",
+      "name": "1990–1999",
       "count": 27
     },
     {
-      "name": "2000\u20132009",
+      "name": "2000–2009",
       "count": 44
     },
     {
-      "name": "2010\u20132019",
+      "name": "2010–2019",
       "count": 44
     },
     {
-      "name": "2020\u20132025",
+      "name": "2020–2025",
       "count": 16
     },
     {
@@ -85,7 +85,7 @@
   "recommendations": [
     {
       "name": "Excellent / Prefer",
-      "count": 14
+      "count": 15
     },
     {
       "name": "Strong",

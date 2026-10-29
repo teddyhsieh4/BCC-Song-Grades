@@ -115,17 +115,25 @@
     "title": "In Remembrance of Me / Do This in Remembrance",
     "writers": "Cheri Keaggy",
     "year": "1993",
-    "ccli": "451069",
+    "ccli": "1849290",
     "family": "Chorus",
     "confidence": "High",
     "timesLogged": 8,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Do This in Remembrance; Do this in remembrance (Communion); Do This In Remembrance of Me; In Remembrance of Me (Communion); Do this in remembrance; In remembrance of Me - C; In Remembrance of me (D); In remembrance of me (Communion) - C",
     "notes": "Cheri Keaggy “In Remembrance of Me / Do This in Remembrance of Me.” If a dated setlist used a different communion text (Courtney/Red 1972), grade that chart separately.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "1990–1999",
-    "report": null
+    "report": "reports/in-remembrance-of-me-do-this-in-remembrance.md",
+    "gradeDate": "2026-10-28",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 4,
+      "character": 3,
+      "usefulness": 3
+    }
   },
   {
     "id": "it-is-good-to-praise-the-lord",
@@ -1095,10 +1103,18 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Before the Throne of God Above; Before the Throne of God; Before the throne of God (C); Before the Throne (C); Before the Throne of God Above - C",
     "notes": "Text 1863; widely used Cook melody 1997. Project gold-standard example.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/before-the-throne-of-god-above.md",
+    "gradeDate": "2026-10-28",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "character": 5,
+      "usefulness": 5
+    }
   },
   {
     "id": "behold-our-god",
@@ -1226,17 +1242,25 @@
     "title": "Christ Our Hope in Life and Death",
     "writers": "Keith Getty / Matt Boswell / Jordan Kauflin / Matt Merker / Matt Papa",
     "year": "2020",
-    "ccli": "7147880",
+    "ccli": "7147502",
     "family": "Getty",
     "confidence": "High",
     "timesLogged": 8,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Christ Our Hope In Life and Death; Christ Our Hope in Life and Death; Christ Our Hope in Life And Death; Christ our hope in life and death - D; Christ our hope in life and death (E)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2020–2025",
-    "report": null
+    "report": "reports/christ-our-hope-in-life-and-death.md",
+    "gradeDate": "2026-10-28",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "character": 4,
+      "usefulness": 5
+    }
   },
   {
     "id": "christ-our-wisdom",
@@ -1438,10 +1462,18 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Everlasting God; Everlasting God - G#; Everlasting God (A)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "2000–2009",
-    "report": null
+    "report": "reports/everlasting-god.md",
+    "gradeDate": "2026-10-28",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 4,
+      "character": 3,
+      "usefulness": 3
+    }
   },
   {
     "id": "forever-grateful",
@@ -1636,17 +1668,25 @@
     "title": "He Is Our God",
     "writers": "Bob Kauflin / Jon Althoff (Sovereign Grace)",
     "year": "2017",
-    "ccli": "7053061",
+    "ccli": "7096633",
     "family": "Sovereign Grace",
     "confidence": "High",
     "timesLogged": 8,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "He is Our God; He is our God; He is our God (Ab); He is Our God (G#) <-- Ab; He is Our God (G#)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Strong",
     "era": "2010–2019",
-    "report": null
+    "report": "reports/he-is-our-god.md",
+    "gradeDate": "2026-10-28",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "character": 4,
+      "usefulness": 5
+    }
   },
   {
     "id": "he-knows-my-name",
@@ -1677,10 +1717,18 @@
     "yearsSeen": "2025, 2026",
     "variants": "He will be; He Will Be; He Will Be - A; He Will Be (Bb)",
     "notes": "Fits 2025–2026 appearance pattern.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Strong",
     "era": "2020–2025",
-    "report": null
+    "report": "reports/he-will-be.md",
+    "gradeDate": "2026-10-28",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "character": 4,
+      "usefulness": 5
+    }
   },
   {
     "id": "he-will-hold-me-fast",
@@ -2088,17 +2136,25 @@
     "title": "I Will Offer Up My Life",
     "writers": "Matt Redman",
     "year": "1994",
-    "ccli": "1083794",
+    "ccli": "1083764",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 8,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "I Will Offer Up My Life; I Will Offer My Up Life; I Will Offer Up My Life (D); I will offer up my life (D)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "1990–1999",
-    "report": null
+    "report": "reports/i-will-offer-up-my-life.md",
+    "gradeDate": "2026-10-28",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "character": 3,
+      "usefulness": 3
+    }
   },
   {
     "id": "i-will-sing-the-wondrous-story",
@@ -2122,17 +2178,25 @@
     "title": "I Will Trust My Savior Jesus",
     "writers": "CityAlight (Jonny Robinson / Rich Thompson / Tiarne Tranter)",
     "year": "2018",
-    "ccli": "7122062",
+    "ccli": "7121855",
     "family": "CityAlight",
     "confidence": "High",
     "timesLogged": 8,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "I will trust my savior; I will trust my Savior Jesus; I Will Trust My Savior Jesus; I will trust my savior Jesus (C); I Will Trust My Savior Jesus (C)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2010–2019",
-    "report": null
+    "report": "reports/i-will-trust-my-savior-jesus.md",
+    "gradeDate": "2026-10-28",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "character": 3,
+      "usefulness": 3
+    }
   },
   {
     "id": "id-rather-have-jesus",
@@ -2163,10 +2227,18 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "In Christ alone; In Christ Alone; In Christ alone (D); In Christ alone (E)",
     "notes": "Project gold-standard example.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2000–2009",
-    "report": null
+    "report": "reports/in-christ-alone.md",
+    "gradeDate": "2026-10-28",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "character": 5,
+      "usefulness": 5
+    }
   },
   {
     "id": "in-his-time",

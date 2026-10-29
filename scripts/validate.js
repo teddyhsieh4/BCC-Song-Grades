@@ -12,6 +12,14 @@ if (!fs.existsSync(abs)) {
 }
 
 const raw = fs.readFileSync(abs, "utf8");
+const size = Buffer.byteLength(raw, "utf8");
+
+// Reject placeholder or truncated catalog files
+if (raw.includes("PLACEHOLDER") || size < 100000) {
+  console.error(file, "looks truncated or contains a placeholder string (size:", size, "bytes).");
+  process.exit(1);
+}
+
 let songs;
 try {
   songs = JSON.parse(raw);
@@ -22,6 +30,11 @@ try {
 
 if (!Array.isArray(songs)) {
   console.error(file, "must be an array of song objects.");
+  process.exit(1);
+}
+
+if (songs.length < 180) {
+  console.error(file, "has too few songs (", songs.length, "). Expected at least 180.");
   process.exit(1);
 }
 
@@ -89,4 +102,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log("OK", file, "(" + songs.length + " songs)");
+console.log("OK", file, "(" + songs.length + " songs,", size, "bytes)");

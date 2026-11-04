@@ -9,7 +9,7 @@
 - **Arrangement year:** not on file
 - **Family:** Getty
 - **Era:** 2010–2019
-- **CCLI:** 7063694 (SongSelect; catalog row currently lists 7065022)
+- **CCLI:** 7063694
 - **Times logged (2023–Sept 2026):** 7
 - **Years seen:** 2023, 2024, 2025, 2026 (at least four years in this window)
 - **Setlist variants:** The Lord is My Salvation; Lord is My Salvation; The Lord is My Salvation (A); The Lord is My Salvation (Ab); The Lord is My Salvation - A; The Lord is my Salvation (A)
@@ -157,7 +157,7 @@ The cross and the blood are not named. Explicit call to repentance is absent. Pa
 
 ## Identification notes
 
-One song. Catalog CCLI 7065022 does not match published SongSelect and Getty sources, which list 7063694. Confirm the number against the chord sheet in use. Variants on file are title capitalization and key notes (A, Ab), not different texts. Arrangement year is not on file.
+One song. Official CCLI is 7063694 (SongSelect and Getty sources). The catalog row currently lists 7065022; update the catalog to match SongSelect. Variants on file are title capitalization and key notes (A, Ab), not different texts. Arrangement year is not on file.
 
 ---
 

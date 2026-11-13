@@ -1,1 +1,468 @@
-$(cat /tmp/published-grades-batch6.json)
+{
+  "king-forevermore-god-the-uncreated-one": {
+    "status": "graded",
+    "recommendation": "Strong",
+    "ccli": "7057478",
+    "report": "reports/king-forevermore-god-the-uncreated-one.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-09-26",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "living-hope": {
+    "status": "graded",
+    "recommendation": "Avoid",
+    "report": "reports/living-hope.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-06",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    }
+  },
+  "abide": {
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
+    "report": "reports/abide.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-20",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    }
+  },
+  "all-i-have-is-christ": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/all-i-have-is-christ.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-20",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "behold-him": {
+    "status": "graded",
+    "recommendation": "Strong",
+    "report": "reports/behold-him.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-20",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    }
+  },
+  "he-is-worthy": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/he-is-worthy.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-20",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "his-mercy-is-more": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/his-mercy-is-more.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-20",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    }
+  },
+  "jesus-your-mercy": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/jesus-your-mercy.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-20",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    }
+  },
+  "your-will-be-done": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/your-will-be-done.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-20",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    }
+  },
+  "build-my-life": {
+    "status": "graded",
+    "recommendation": "Weak",
+    "report": "reports/build-my-life.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-05",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    }
+  },
+  "all-things": {
+    "status": "graded",
+    "recommendation": "Strong",
+    "report": "reports/all-things.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    }
+  },
+  "ancient-of-days": {
+    "status": "graded",
+    "recommendation": "Strong",
+    "report": "reports/ancient-of-days.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "behold-our-god": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/behold-our-god.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "christ-our-wisdom": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/christ-our-wisdom.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "come-thou-fount-of-every-blessing": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/come-thou-fount-of-every-blessing.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    }
+  },
+  "from-everlasting-psalm-90": {
+    "status": "graded",
+    "recommendation": "Strong",
+    "report": "reports/from-everlasting-psalm-90.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 3,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    }
+  },
+  "glorious-christ": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/glorious-christ.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "here-is-love-vast-as-the-ocean": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/here-is-love-vast-as-the-ocean.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "i-will-glory-in-my-redeemer": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/i-will-glory-in-my-redeemer.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "it-was-finished-upon-that-cross": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/it-was-finished-upon-that-cross.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    }
+  },
+  "let-your-kingdom-come": {
+    "status": "graded",
+    "recommendation": "Strong",
+    "report": "reports/let-your-kingdom-come.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    }
+  },
+  "my-soul-will-wait-psalm-62": {
+    "status": "graded",
+    "recommendation": "Strong",
+    "report": "reports/my-soul-will-wait-psalm-62.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    }
+  },
+  "the-solid-rock-my-hope-is-built": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/the-solid-rock-my-hope-is-built.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "yet-not-i-but-through-christ-in-me": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/yet-not-i-but-through-christ-in-me.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "as-the-deer": {
+    "status": "graded",
+    "recommendation": "Weak",
+    "report": "reports/as-the-deer.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    }
+  },
+  "all-creatures-of-our-god-and-king": {
+    "status": "graded",
+    "recommendation": "Strong",
+    "report": "reports/all-creatures-of-our-god-and-king.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-10-25",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 3,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    }
+  },
+  "speak-o-lord": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/speak-o-lord.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-03",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    }
+  },
+  "the-lord-is-my-salvation": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "ccli": "7063694",
+    "report": "reports/the-lord-is-my-salvation.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-04",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "jesus-thank-you": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/jesus-thank-you.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-04",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "now-why-this-fear": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/now-why-this-fear.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-05",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "the-glory-of-the-cross": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "ccli": "2986533",
+    "report": "reports/the-glory-of-the-cross.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-06",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "o-for-a-thousand-tongues-to-sing": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/o-for-a-thousand-tongues-to-sing.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-06",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "you-made-us-your-own": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "ccli": "5605079",
+    "report": "reports/you-made-us-your-own.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-13",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  }
+}

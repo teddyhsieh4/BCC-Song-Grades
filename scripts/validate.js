@@ -105,3 +105,5 @@ if (errors.length) {
 }
 
 console.log("OK", file, "(" + songs.length + " songs,", size, "bytes)");
+
+// Sample catalogs are exempt from live-catalog size and count rules.

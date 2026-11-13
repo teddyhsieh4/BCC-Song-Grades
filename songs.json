@@ -140,8 +140,8 @@
       "theologicalAccuracy": 3,
       "christExalting": 3,
       "objectivity": 4,
-      "character": 3,
-      "usefulness": 3
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
     }
   },
   {
@@ -1175,8 +1175,8 @@
       "theologicalAccuracy": 5,
       "christExalting": 5,
       "objectivity": 5,
-      "character": 5,
-      "usefulness": 5
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
     }
   },
   {
@@ -1330,8 +1330,8 @@
       "theologicalAccuracy": 5,
       "christExalting": 5,
       "objectivity": 5,
-      "character": 4,
-      "usefulness": 5
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
     }
   },
   {
@@ -1561,8 +1561,8 @@
       "theologicalAccuracy": 3,
       "christExalting": 2,
       "objectivity": 4,
-      "character": 3,
-      "usefulness": 3
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
     }
   },
   {
@@ -1774,8 +1774,8 @@
       "theologicalAccuracy": 4,
       "christExalting": 4,
       "objectivity": 5,
-      "character": 4,
-      "usefulness": 5
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
     }
   },
   {
@@ -1816,8 +1816,8 @@
       "theologicalAccuracy": 4,
       "christExalting": 3,
       "objectivity": 4,
-      "character": 4,
-      "usefulness": 5
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
     }
   },
   {
@@ -2251,8 +2251,8 @@
       "theologicalAccuracy": 3,
       "christExalting": 3,
       "objectivity": 2,
-      "character": 3,
-      "usefulness": 3
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
     }
   },
   {
@@ -2293,8 +2293,8 @@
       "theologicalAccuracy": 3,
       "christExalting": 3,
       "objectivity": 2,
-      "character": 3,
-      "usefulness": 3
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
     }
   },
   {
@@ -2335,8 +2335,8 @@
       "theologicalAccuracy": 5,
       "christExalting": 5,
       "objectivity": 4,
-      "character": 5,
-      "usefulness": 5
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
     }
   },
   {

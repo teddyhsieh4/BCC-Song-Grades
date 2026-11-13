@@ -140,8 +140,8 @@
       "theologicalAccuracy": 3,
       "christExalting": 3,
       "objectivity": 4,
-      "character": 3,
-      "usefulness": 3
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
     }
   },
   {
@@ -1175,8 +1175,8 @@
       "theologicalAccuracy": 5,
       "christExalting": 5,
       "objectivity": 5,
-      "character": 5,
-      "usefulness": 5
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
     }
   },
   {
@@ -1330,8 +1330,8 @@
       "theologicalAccuracy": 5,
       "christExalting": 5,
       "objectivity": 5,
-      "character": 4,
-      "usefulness": 5
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
     }
   },
   {
@@ -1561,8 +1561,8 @@
       "theologicalAccuracy": 3,
       "christExalting": 2,
       "objectivity": 4,
-      "character": 3,
-      "usefulness": 3
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
     }
   },
   {
@@ -1774,8 +1774,8 @@
       "theologicalAccuracy": 4,
       "christExalting": 4,
       "objectivity": 5,
-      "character": 4,
-      "usefulness": 5
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
     }
   },
   {
@@ -1816,8 +1816,8 @@
       "theologicalAccuracy": 4,
       "christExalting": 3,
       "objectivity": 4,
-      "character": 4,
-      "usefulness": 5
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
     }
   },
   {
@@ -2251,8 +2251,8 @@
       "theologicalAccuracy": 3,
       "christExalting": 3,
       "objectivity": 2,
-      "character": 3,
-      "usefulness": 3
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
     }
   },
   {
@@ -2293,8 +2293,8 @@
       "theologicalAccuracy": 3,
       "christExalting": 3,
       "objectivity": 2,
-      "character": 3,
-      "usefulness": 3
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
     }
   },
   {
@@ -2335,8 +2335,8 @@
       "theologicalAccuracy": 5,
       "christExalting": 5,
       "objectivity": 4,
-      "character": 5,
-      "usefulness": 5
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
     }
   },
   {
@@ -2496,10 +2496,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Jesus Thank You; Jesus, Thank you; Jesus Thank You (G); Jesus Thank you (G)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2000–2009",
-    "report": null
+    "report": "reports/jesus-thank-you.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-04",
+    "rubricVersion": "v1"
   },
   {
     "id": "jesus-theres-no-one-like-you",
@@ -2866,10 +2875,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Now why this fear; Now Why This Fear; Now why this fear (B)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2010–2019",
-    "report": null
+    "report": "reports/now-why-this-fear.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-05",
+    "rubricVersion": "v1"
   },
   {
     "id": "o-come-all-ye-faithful",
@@ -2900,10 +2918,19 @@
     "yearsSeen": "2024, 2025, 2026",
     "variants": "O for a Thousand Tongues to Sing; O for a thousand tongues; O for a thousand tongues (G); O For A Thousand Tongues (F)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/o-for-a-thousand-tongues-to-sing.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-06",
+    "rubricVersion": "v1"
   },
   {
     "id": "o-great-god",
@@ -3165,27 +3192,45 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Speak O Lord; Speak O Lord (A); Speak O Lord (B)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2000–2009",
-    "report": null
+    "report": "reports/speak-o-lord.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-03",
+    "rubricVersion": "v1"
   },
   {
     "id": "the-glory-of-the-cross",
     "title": "The Glory of the Cross",
     "writers": "Bob Kauflin (Sovereign Grace)",
-    "year": "2008",
-    "ccli": "5162676",
+    "year": "2000",
+    "ccli": "2986533",
     "family": "Sovereign Grace",
     "confidence": "High",
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "The Glory of the Cross; Glory of the Cross; Glory of the Cross (F); The Glory of the Cross (F)",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Official CCLI is 2986533 (SongSelect). Catalog previously listed 5162676. Published year is 2000.",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2000–2009",
-    "report": null
+    "report": "reports/the-glory-of-the-cross.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-06",
+    "rubricVersion": "v1"
   },
   {
     "id": "the-heart-of-worship",
@@ -3209,17 +3254,26 @@
     "title": "The Lord Is My Salvation",
     "writers": "Keith Getty / Kristyn Getty / Nathan Nockels / Jonas Myrin",
     "year": "2016",
-    "ccli": "7065022",
+    "ccli": "7063694",
     "family": "Getty",
     "confidence": "High",
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "The Lord is My Salvation; Lord is My Salvation; The Lord is My Salvation (A); The Lord is My Salvation (Ab); The Lord is My Salvation - A; The Lord is my Salvation (A)",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Official CCLI is 7063694 (SongSelect). Catalog previously listed 7065022.",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2010–2019",
-    "report": null
+    "report": "reports/the-lord-is-my-salvation.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-04",
+    "rubricVersion": "v1"
   },
   {
     "id": "the-new-doxology",
@@ -3659,19 +3713,28 @@
   {
     "id": "you-made-us-your-own",
     "title": "You Made Us Your Own",
-    "writers": "McKenzie Fuller / David Zimmer / Bob Kauflin (Sovereign Grace)",
-    "year": "2021",
-    "ccli": "7168823",
+    "writers": "Steve Cook / Vikki Cook / Bob Kauflin (Sovereign Grace)",
+    "year": "2009",
+    "ccli": "5605079",
     "family": "Sovereign Grace",
     "confidence": "High",
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "You Made Us Your Own; You Made Us Your Own (B); You made us your own (C); You made us your own; You Made Us Your Own (C)",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "2020–2025",
-    "report": null
+    "notes": "Published sources: Steve & Vikki Cook / Bob Kauflin, 2009, CCLI 5605079. Catalog previously listed different writers/year/CCLI.",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "era": "2000–2009",
+    "report": "reports/you-made-us-your-own.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-13",
+    "rubricVersion": "v1"
   },
   {
     "id": "your-grace-finds-me",

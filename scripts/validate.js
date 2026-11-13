@@ -14,8 +14,9 @@ if (!fs.existsSync(abs)) {
 const raw = fs.readFileSync(abs, "utf8");
 const size = Buffer.byteLength(raw, "utf8");
 
-// Reject placeholder or truncated catalog files
-if (raw.includes("PLACEHOLDER") || size < 100000) {
+// Reject placeholder or truncated live catalog. Sample catalogs are small by design.
+const isLive = file === "songs.json" || file.endsWith("/songs.json") && !file.includes("sample");
+if (raw.includes("PLACEHOLDER") || (isLive && size < 100000)) {
   console.error(file, "looks truncated or contains a placeholder string (size:", size, "bytes).");
   process.exit(1);
 }

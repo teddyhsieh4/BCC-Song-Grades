@@ -363,5 +363,106 @@
       "godsCharacter": 4,
       "congregationalUsefulness": 5
     }
+  },
+  "speak-o-lord": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/speak-o-lord.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-03",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    }
+  },
+  "the-lord-is-my-salvation": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "ccli": "7063694",
+    "report": "reports/the-lord-is-my-salvation.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-04",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "jesus-thank-you": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/jesus-thank-you.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-04",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "now-why-this-fear": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/now-why-this-fear.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-05",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "the-glory-of-the-cross": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "ccli": "2986533",
+    "report": "reports/the-glory-of-the-cross.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-06",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "o-for-a-thousand-tongues-to-sing": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "report": "reports/o-for-a-thousand-tongues-to-sing.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-06",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
+  },
+  "you-made-us-your-own": {
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "ccli": "5605079",
+    "report": "reports/you-made-us-your-own.md",
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-13",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    }
   }
 }

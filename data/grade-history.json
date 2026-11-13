@@ -334,5 +334,103 @@
       "congregationalUsefulness": 5
     },
     "note": "Official grade. Published from existing draft report."
+  },
+  {
+    "id": "speak-o-lord",
+    "date": "2026-11-03",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 6."
+  },
+  {
+    "id": "the-lord-is-my-salvation",
+    "date": "2026-11-04",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 6. CCLI corrected to SongSelect 7063694."
+  },
+  {
+    "id": "jesus-thank-you",
+    "date": "2026-11-04",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 6."
+  },
+  {
+    "id": "now-why-this-fear",
+    "date": "2026-11-05",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 6."
+  },
+  {
+    "id": "the-glory-of-the-cross",
+    "date": "2026-11-06",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 6. CCLI and year corrected to SongSelect."
+  },
+  {
+    "id": "o-for-a-thousand-tongues-to-sing",
+    "date": "2026-11-06",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 6."
+  },
+  {
+    "id": "you-made-us-your-own",
+    "date": "2026-11-13",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 6. Writers/year/CCLI corrected to published 2009 sources."
   }
 ]

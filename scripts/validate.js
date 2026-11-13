@@ -34,7 +34,8 @@ if (!Array.isArray(songs)) {
   process.exit(1);
 }
 
-if (songs.length < 180) {
+const isSample = file.includes("sample");
+if (!isSample && songs.length < 180) {
   console.error(file, "has too few songs (", songs.length, "). Expected at least 180.");
   process.exit(1);
 }

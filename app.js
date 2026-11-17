@@ -7,11 +7,17 @@ async function loadSongs() {
   return res.json();
 }
 
+/* Working-memo sentences from the catalog Sheet ("Writer confirmed by you.") stay off the site. */
+const MEMO_SENTENCE = /\b(?:confirmed by you|implied by your|(?:to )?match(?:es)? your|previous (?:row|ccli)|corrected to)\b/i;
+
 function songNote(s) {
-  const note = String(s.notes || "").trim();
+  const raw = String(s.notes || "").trim();
+  if (!raw) return "";
+  if (/logged under both titles/i.test(raw)) return "";
+  if (/treat as one song/i.test(raw)) return "";
+  const parts = raw.match(/[^.!?]+(?:[.!?]+[\u201d"\u2019)]*|$)\s*/g) || [raw];
+  const note = parts.filter((p) => !MEMO_SENTENCE.test(p)).join("").trim();
   if (!note) return "";
-  if (/logged under both titles/i.test(note)) return "";
-  if (/treat as one song/i.test(note)) return "";
   return `<div class="note">${esc(note)}</div>`;
 }
 

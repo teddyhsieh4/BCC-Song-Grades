@@ -8,7 +8,7 @@ Live site: https://teddyhsieh4.github.io/BCC-Song-Grades/
 
 - Catalog of 194 identified songs from setlists 2023 through Sept 2026
 - Rubric page
-- Insights page (family, era, most-logged titles)
+- Insights page (grade mix, family, era, most-logged titles)
 - Song pages (identification now; grade reports as they are written)
 - `AGENTS.md` for coding tools, `RUBRIC.md` for the grading standard
 - `lib/grades.js` for shared labels and score rules

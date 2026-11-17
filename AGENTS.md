@@ -36,7 +36,7 @@ GitHub Pages, `main` branch, site root. No bundler. No framework.
 |---|---|
 | `index.html` | Catalog (default page) |
 | `rubric.html` | Human-readable rubric |
-| `insights.html` | Family / era / most-logged charts |
+| `insights.html` | Grade mix / family / era / most-logged charts |
 | `song.html` | One song. Reads `?id=` from `songs.json` |
 | `style.css` | Navy bulletin theme |
 | `gate.js` | Client-side password. Hash only. Never commit the plaintext |
@@ -86,7 +86,7 @@ An export from the Sheet must not overwrite grade fields. A grade must not inven
 - Do not invent CCLI numbers.
 - Hillsong, Elevation, and Bethel songs are never used. Do not add them.
 
-Published grades: none yet. Song pages should say so until a report is approved.
+Published grades: a growing share of the catalog has an approved report. `insights.json` carries the current count (`graded`). A song without an approved report says so on its page.
 
 When a grade is published, the song page loads `reports/<slug>.md` and the row in `songs.json` carries `status: graded` plus `recommendation`. Unpublished drafts stay off the site. The report file does not include a Status line. Keep quotes short.
 
@@ -140,7 +140,7 @@ Pull request outline lives in `.github/pull_request_template.md`. Do not duplica
 
 1. Identification of the existing list: done.
 2. Written grades of high-use songs, from church charts: current work.
-3. Diet view on Insights that includes grade mix: after some reports exist.
+3. Diet view on Insights that includes grade mix: grade-count chart is live. A view weighted by how often songs are sung is still to come.
 4. Any “paste a chart, draft a grade” helper: later, and only against this catalog.
 
 New song discovery waits until the current list is graded.

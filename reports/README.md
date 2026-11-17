@@ -10,8 +10,4 @@ Do not put a Status line in the report. Publication is not a sentence in the wri
 
 `reports/*.md` stays ignored so unpublished drafts are not committed by accident. Exceptions: `README.md`, `TEMPLATE.md`, and published grades.
 
-Current files on this branch:
-
-- `TEMPLATE.md` (heading order for every new report)
-- `king-forevermore-god-the-uncreated-one.md` (published)
-- `build-my-life.md` (published Weak; worked example for Alternative song suggestions)
+Every published report in this folder has a matching `songs.json` row marked `graded`. `TEMPLATE.md` sets the heading order for new reports. `build-my-life.md` (published Weak) is the worked example for Alternative song suggestions.

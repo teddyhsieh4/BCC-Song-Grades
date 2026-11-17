@@ -28,6 +28,8 @@ The shared password is stored only as a SHA-256 hash in `gate.js`. Ask Theodore 
 
 The gate is a simple front door. It is not bank-grade security. Files next to the site can be fetched without the password.
 
+After the right password, the browser remembers it on that device for 30 days, then asks again. Changing the password (a new hash in `gate.js`) makes every device ask again. To forget it sooner, clear the site's data in the browser settings.
+
 ## Updating the list
 
 Replace `songs.json` identity fields from the live catalog spreadsheet. Do not let that export overwrite published scores or labels. Keep slugs stable when a title has not changed, so old song links still work.

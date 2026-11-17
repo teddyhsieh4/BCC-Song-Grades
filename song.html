@@ -2,7 +2,10 @@
 <html lang="en">
 <head>
   <script>
-if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.classList.add("unlocked");
+try {
+  var r = JSON.parse(localStorage.getItem("bcc-song-grades-remember") || "null");
+  if (sessionStorage.getItem("bcc-song-grades-ok") || (r && r.until > Date.now())) document.documentElement.classList.add("unlocked");
+} catch (e) {}
 </script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -40,7 +43,7 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
   <article class="page prose" id="song"><p class="empty">Loading…</p></article>
 </main>
 <footer>Staff tool. Full lyrics stay off these pages to keep copyright exposure low. Reports quote short lines only.</footer>
-<script src="gate.js?v=11"></script>
+<script src="gate.js?v=12"></script>
 <script src="lib/grades.js?v=12"></script>
 <script src="app.js?v=22"></script>
 </body>

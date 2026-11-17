@@ -2,7 +2,10 @@
 <html lang="en">
 <head>
   <script>
-if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.classList.add("unlocked");
+try {
+  var r = JSON.parse(localStorage.getItem("bcc-song-grades-remember") || "null");
+  if (sessionStorage.getItem("bcc-song-grades-ok") || (r && r.until > Date.now())) document.documentElement.classList.add("unlocked");
+} catch (e) {}
 </script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">

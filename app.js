@@ -151,14 +151,11 @@ function renderList(songs) {
     return;
   }
   if (count) count.textContent = songs.length + (songs.length === 1 ? " song" : " songs");
-  host.innerHTML = songs.map((s, i) => `
+  host.innerHTML = songs.map((s) => `
     <a class="row" href="song.html?id=${encodeURIComponent(s.id)}">
-      <span class="n">${i + 1}</span>
-      <div>
-        <h2>${esc(s.title)}</h2>
-        <p class="meta">${esc(s.writers)}${s.year ? " · " + esc(s.year) : ""}${s.ccli ? " · CCLI " + esc(s.ccli) : ""} · ${s.timesLogged} logged</p>
-      </div>
+      <h2>${esc(s.title)}</h2>
       <span class="badge ${badgeClass(s)}">${esc(statusLabel(s))}</span>
+      <p class="meta">${esc(s.writers)}${s.year ? " · " + esc(s.year) : ""}${s.ccli ? " · CCLI " + esc(s.ccli) : ""} · ${s.timesLogged} logged</p>
     </a>
   `).join("");
 }
@@ -179,6 +176,30 @@ function applyFilters(all) {
   });
 }
 
+function gradeRank(song) {
+  const labels = (typeof BCC_GRADES !== "undefined" && BCC_GRADES.OVERALL_LABELS) || [];
+  const i = labels.indexOf(song.recommendation);
+  return i === -1 ? -1 : i;
+}
+
+function sortSongs(songs, how) {
+  const byTitle = (a, b) => a.title.localeCompare(b.title);
+  const list = songs.slice();
+  if (how === "logged") return list.sort((a, b) => (b.timesLogged || 0) - (a.timesLogged || 0) || byTitle(a, b));
+  if (how === "grade") {
+    /* Avoid first, then Weak, up to Excellent / Prefer. Ungraded songs go last. */
+    return list.sort((a, b) => {
+      const ra = gradeRank(a);
+      const rb = gradeRank(b);
+      if (ra === -1 && rb === -1) return byTitle(a, b);
+      if (ra === -1) return 1;
+      if (rb === -1) return -1;
+      return rb - ra || byTitle(a, b);
+    });
+  }
+  return list.sort(byTitle);
+}
+
 function fillSelect(sel, values, blank) {
   if (!sel) return;
   sel.innerHTML = `<option value="">${blank}</option>` +
@@ -195,8 +216,8 @@ async function initHome() {
     "Before 1900 (hymns)", "1900–1989", "1990–1999", "2000–2009", "2010–2019", "2020–2025", "Unknown / traditional"
   ].filter((e) => eras.includes(e)), "All eras");
 
-  const draw = () => renderList(applyFilters(all));
-  ["q", "family", "era", "status"].forEach((id) => {
+  const draw = () => renderList(sortSongs(applyFilters(all), $("#sort")?.value || "az"));
+  ["q", "family", "era", "status", "sort"].forEach((id) => {
     const el = document.getElementById(id);
     if (el) el.addEventListener("input", draw);
     if (el) el.addEventListener("change", draw);
@@ -206,6 +227,105 @@ async function initHome() {
   $("#stat-logs") && ($("#stat-logs").textContent = String(all.reduce((n, s) => n + (s.timesLogged || 0), 0)));
   draw();
 }
+
+const PINNED_SECTIONS = ["Thesis", "Overall recommendation", "Alternative song suggestions", "Setlist notes"];
+const NO_REPORT = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
+
+function trimEdges(lines) {
+  const blank = (l) => /^(-{3,})?$/.test(l.trim());
+  while (lines.length && blank(lines[0])) lines.shift();
+  while (lines.length && blank(lines[lines.length - 1])) lines.pop();
+  return lines;
+}
+
+/* Split a report into the part before the first "## " heading and one entry per "## " section. */
+function splitReport(md) {
+  const lines = String(md || "").replace(/\r\n/g, "\n").split("\n");
+  const intro = [];
+  const sections = [];
+  let current = null;
+  lines.forEach((line) => {
+    const m = line.match(/^##\s+(.*)$/);
+    if (m) {
+      current = { title: m[1].trim(), lines: [] };
+      sections.push(current);
+    } else if (current) {
+      current.lines.push(line);
+    } else if (!/^#\s/.test(line)) {
+      intro.push(line);
+    }
+  });
+  sections.forEach((sec) => { sec.body = trimEdges(sec.lines).join("\n"); });
+  return { intro: trimEdges(intro).join("\n"), sections };
+}
+
+function isPinned(title) {
+  return PINNED_SECTIONS.some((p) => title.toLowerCase().startsWith(p.toLowerCase()));
+}
+
+function scoreBars(song) {
+  if (!song.scores || typeof BCC_GRADES === "undefined" || !BCC_GRADES.DIMENSIONS) return "";
+  const max = BCC_GRADES.SCORE_MAX || 5;
+  const rows = BCC_GRADES.DIMENSIONS.filter((d) => Number.isInteger(song.scores[d.key])).map((d) => {
+    const v = song.scores[d.key];
+    return `<div class="scoreline">
+      <span class="label">${esc(d.label)}</span>
+      <span class="meter"><i style="width:${(v / max) * 100}%"></i></span>
+      <span class="c">${v} / ${max}</span>
+    </div>`;
+  });
+  return rows.length ? `<div class="scorebars" aria-label="Scores">${rows.join("")}</div>` : "";
+}
+
+function detailsBlock(title, html) {
+  return `<details class="rsec"><summary>${inlineMd(title)}</summary><div class="rbody">${html}</div></details>`;
+}
+
+function renderReport(md) {
+  const { intro, sections } = splitReport(md);
+  const pinned = PINNED_SECTIONS
+    .map((p) => sections.find((sec) => sec.title.toLowerCase().startsWith(p.toLowerCase())))
+    .filter(Boolean);
+  const rest = sections.filter((sec) => !isPinned(sec.title));
+  const top = pinned.map((sec) => `<section class="rtop"><h2>${inlineMd(sec.title)}</h2>${renderMarkdown(sec.body)}</section>`).join("");
+  const more = rest.length ? `
+    <div class="more-head">
+      <h2>Full report</h2>
+      <button type="button" class="linkbtn" id="toggle-all">Open all</button>
+    </div>
+    ${rest.map((sec) => detailsBlock(sec.title, renderMarkdown(sec.body))).join("")}` : "";
+  return { html: top + more, intro };
+}
+
+function songDetails(s, reportIntro) {
+  return detailsBlock("Song details", `
+    <dl class="idgrid">
+      <div><dt>Year written</dt><dd>${esc(s.year || "None on file")}</dd></div>
+      <div><dt>CCLI</dt><dd>${s.ccli ? esc(s.ccli) : "None on file"}</dd></div>
+      <div><dt>Times logged (2023–Sept 2026)</dt><dd>${s.timesLogged}</dd></div>
+      <div><dt>Years seen</dt><dd>${esc(s.yearsSeen || "None on file")}</dd></div>
+      <div><dt>ID confidence</dt><dd>${esc(s.confidence)}</dd></div>
+    </dl>
+    ${s.variants ? `<p><strong>Setlist variants.</strong> ${esc(s.variants)}</p>` : ""}
+    ${songNote(s)}
+    ${reportIntro ? renderMarkdown(reportIntro) : ""}
+  `);
+}
+
+function wireToggleAll(root) {
+  const btn = $("#toggle-all", root);
+  if (!btn) return;
+  const all = () => $$("#report-body details.rsec", root);
+  const sync = () => { btn.textContent = all().every((d) => d.open) ? "Close all" : "Open all"; };
+  btn.addEventListener("click", () => {
+    const open = !all().every((d) => d.open);
+    all().forEach((d) => { d.open = open; });
+    sync();
+  });
+  all().forEach((d) => d.addEventListener("toggle", sync));
+}
+
+const LYRICS_NOTE = '<div class="note">This page does not reprint the full lyric. CCLI covers congregational use (service slides, SongSelect, printed charts), not a lyrics catalog on this site. Grade reports quote short lines for analysis only. Use SongSelect or a printed chart for the complete text.</div>';
 
 async function initSong() {
   const id = new URLSearchParams(location.search).get("id");
@@ -218,40 +338,46 @@ async function initSong() {
     return;
   }
   document.title = s.title + " · BCC Song Grades";
-  host.innerHTML = `
+  const head = `
     <p class="kicker">${esc(s.family || "Song")}</p>
     <h1>${esc(s.title)}</h1>
     <p class="lede">${esc(s.writers)}</p>
     <p class="grade-line"><span class="badge ${badgeClass(s)}">${esc(statusLabel(s))}</span><span class="grade-action">${esc(actionLine(s))}</span></p>
-    <dl class="idgrid">
-      <div><dt>Year written</dt><dd>${esc(s.year || "None on file")}</dd></div>
-      <div><dt>CCLI</dt><dd>${s.ccli ? esc(s.ccli) : "None on file"}</dd></div>
-      <div><dt>Times logged (2023–Sept 2026)</dt><dd>${s.timesLogged}</dd></div>
-      <div><dt>Years seen</dt><dd>${esc(s.yearsSeen || "None on file")}</dd></div>
-      <div><dt>ID confidence</dt><dd>${esc(s.confidence)}</dd></div>
-    </dl>
-    ${s.variants ? `<p><strong>Setlist variants.</strong> ${esc(s.variants)}</p>` : ""}
-    ${songNote(s)}
-    <div class="note">This page does not reprint the full lyric. CCLI covers congregational use (service slides, SongSelect, printed charts), not a lyrics catalog on this site. Grade reports quote short lines for analysis only. Use SongSelect or a printed chart for the complete text.</div>
-    <h2>Grade report</h2>
-    <div id="report-body"><p class="empty">Looking for a report…</p></div>
-    <p><a href="index.html">Back to the catalog</a></p>
   `;
-  const body = $("#report-body");
-  try {
-    if (s.status !== "graded") {
-      body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
-      return;
-    }
-    const md = await loadReport(s);
-    if (!md) {
-      body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
-      return;
-    }
-    body.innerHTML = renderMarkdown(md);
-  } catch (err) {
-    body.innerHTML = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
+
+  let md = null;
+  if (s.status === "graded") {
+    try { md = await loadReport(s); } catch (err) { md = null; }
   }
+
+  if (!md) {
+    host.innerHTML = head + `
+      <dl class="idgrid">
+        <div><dt>Year written</dt><dd>${esc(s.year || "None on file")}</dd></div>
+        <div><dt>CCLI</dt><dd>${s.ccli ? esc(s.ccli) : "None on file"}</dd></div>
+        <div><dt>Times logged (2023–Sept 2026)</dt><dd>${s.timesLogged}</dd></div>
+        <div><dt>Years seen</dt><dd>${esc(s.yearsSeen || "None on file")}</dd></div>
+        <div><dt>ID confidence</dt><dd>${esc(s.confidence)}</dd></div>
+      </dl>
+      ${s.variants ? `<p><strong>Setlist variants.</strong> ${esc(s.variants)}</p>` : ""}
+      ${songNote(s)}
+      ${LYRICS_NOTE}
+      <h2>Grade report</h2>
+      <div id="report-body">${NO_REPORT}</div>
+      <p><a href="index.html">Back to the catalog</a></p>
+    `;
+    return;
+  }
+
+  const report = renderReport(md);
+  host.innerHTML = head + `
+    ${scoreBars(s)}
+    <div id="report-body">${report.html}</div>
+    ${songDetails(s, report.intro)}
+    ${LYRICS_NOTE}
+    <p class="back-link"><a href="index.html">Back to the catalog</a></p>
+  `;
+  wireToggleAll(host);
 }
 
 document.addEventListener("DOMContentLoaded", () => {

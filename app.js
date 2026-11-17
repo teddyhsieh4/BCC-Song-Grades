@@ -206,6 +206,32 @@ function fillSelect(sel, values, blank) {
     values.map((v) => `<option value="${esc(v)}">${esc(v)}</option>`).join("");
 }
 
+const CATALOG_STATE_KEY = "bcc-catalog-state";
+
+/* Keep search and filters in the address bar, and remember the list order for Previous / Next on song pages. */
+function rememberCatalog(fields, list) {
+  const qs = new URLSearchParams();
+  fields.forEach((id) => {
+    const el = document.getElementById(id);
+    const v = el ? el.value.trim() : "";
+    if (v && !(id === "sort" && v === "az")) qs.set(id, v);
+  });
+  const search = qs.toString() ? "?" + qs.toString() : "";
+  try { history.replaceState(null, "", "index.html" + search); } catch (err) { /* ignore */ }
+  try {
+    sessionStorage.setItem(CATALOG_STATE_KEY, JSON.stringify({ search, ids: list.map((s) => s.id) }));
+  } catch (err) { /* storage can be unavailable */ }
+}
+
+function readCatalogState() {
+  try {
+    const raw = sessionStorage.getItem(CATALOG_STATE_KEY);
+    const state = raw ? JSON.parse(raw) : null;
+    if (state && Array.isArray(state.ids)) return state;
+  } catch (err) { /* ignore */ }
+  return null;
+}
+
 async function initHome() {
   const all = await loadSongs();
   all.sort((a, b) => a.title.localeCompare(b.title));
@@ -216,8 +242,22 @@ async function initHome() {
     "Before 1900 (hymns)", "1900–1989", "1990–1999", "2000–2009", "2010–2019", "2020–2025", "Unknown / traditional"
   ].filter((e) => eras.includes(e)), "All eras");
 
-  const draw = () => renderList(sortSongs(applyFilters(all), $("#sort")?.value || "az"));
-  ["q", "family", "era", "status", "sort"].forEach((id) => {
+  const FIELDS = ["q", "family", "era", "status", "sort"];
+  const params = new URLSearchParams(location.search);
+  FIELDS.forEach((id) => {
+    const el = document.getElementById(id);
+    const v = params.get(id);
+    if (!el || v === null) return;
+    if (el.tagName === "SELECT" && ![...el.options].some((o) => o.value === v)) return;
+    el.value = v;
+  });
+
+  const draw = () => {
+    const list = sortSongs(applyFilters(all), $("#sort")?.value || "az");
+    renderList(list);
+    rememberCatalog(FIELDS, list);
+  };
+  FIELDS.forEach((id) => {
     const el = document.getElementById(id);
     if (el) el.addEventListener("input", draw);
     if (el) el.addEventListener("change", draw);
@@ -229,7 +269,6 @@ async function initHome() {
 }
 
 const PINNED_SECTIONS = ["Thesis", "Overall recommendation", "Alternative song suggestions", "Setlist notes"];
-const NO_REPORT = "<p>No published grade yet. Identification is complete. The report will be written from the catalog setting and posted here after approval.</p>";
 
 function trimEdges(lines) {
   const blank = (l) => /^(-{3,})?$/.test(l.trim());
@@ -304,7 +343,6 @@ function songDetails(s, reportIntro) {
       <div><dt>CCLI</dt><dd>${s.ccli ? esc(s.ccli) : "None on file"}</dd></div>
       <div><dt>Times logged (2023–Sept 2026)</dt><dd>${s.timesLogged}</dd></div>
       <div><dt>Years seen</dt><dd>${esc(s.yearsSeen || "None on file")}</dd></div>
-      <div><dt>ID confidence</dt><dd>${esc(s.confidence)}</dd></div>
     </dl>
     ${s.variants ? `<p><strong>Setlist variants.</strong> ${esc(s.variants)}</p>` : ""}
     ${songNote(s)}
@@ -325,6 +363,50 @@ function wireToggleAll(root) {
   all().forEach((d) => d.addEventListener("toggle", sync));
 }
 
+function catalogHref() {
+  const state = readCatalogState();
+  return "index.html" + (state && state.search ? state.search : "");
+}
+
+function cameFromCatalog() {
+  try {
+    const ref = new URL(document.referrer);
+    return ref.origin === location.origin && /\/(index\.html)?$/.test(ref.pathname);
+  } catch (err) {
+    return false;
+  }
+}
+
+/* Back links return to the catalog with the same search and filters. Going back in history also keeps the scroll spot. */
+function wireBackLinks(root) {
+  $$("a[data-back]", root).forEach((a) => {
+    a.setAttribute("href", catalogHref());
+    a.addEventListener("click", (e) => {
+      if (cameFromCatalog() && history.length > 1) {
+        e.preventDefault();
+        history.back();
+      }
+    });
+  });
+}
+
+/* Previous / Next follow the list the reader came from, or the full A to Z list. */
+function prevNext(all, song) {
+  const state = readCatalogState();
+  const fromList = !!(state && state.ids.includes(song.id));
+  const ids = fromList ? state.ids : all.slice().sort((a, b) => a.title.localeCompare(b.title)).map((s) => s.id);
+  const i = ids.indexOf(song.id);
+  if (i === -1 || ids.length < 2) return "";
+  const byId = new Map(all.map((s) => [s.id, s]));
+  const prev = i > 0 ? byId.get(ids[i - 1]) : null;
+  const next = i < ids.length - 1 ? byId.get(ids[i + 1]) : null;
+  const link = (s, dir) => s ? `<a class="pn-${dir}" href="song.html?id=${encodeURIComponent(s.id)}">
+      <span class="pn-dir">${dir === "prev" ? "← Previous" : "Next →"}</span>
+      <span class="pn-title">${esc(s.title)}</span></a>` : "<span></span>";
+  return `<nav class="prevnext" aria-label="More songs">${link(prev, "prev")}${link(next, "next")}</nav>
+    <p class="pn-count">${i + 1} of ${ids.length} in ${fromList ? "your catalog list" : "the catalog"}</p>`;
+}
+
 const LYRICS_NOTE = '<div class="note">This page does not reprint the full lyric. CCLI covers congregational use (service slides, SongSelect, printed charts), not a lyrics catalog on this site. Grade reports quote short lines for analysis only. Use SongSelect or a printed chart for the complete text.</div>';
 
 async function initSong() {
@@ -339,6 +421,7 @@ async function initSong() {
   }
   document.title = s.title + " · BCC Song Grades";
   const head = `
+    <p class="crumb"><a data-back href="index.html">← Catalog</a></p>
     <p class="kicker">${esc(s.family || "Song")}</p>
     <h1>${esc(s.title)}</h1>
     <p class="lede">${esc(s.writers)}</p>
@@ -357,15 +440,15 @@ async function initSong() {
         <div><dt>CCLI</dt><dd>${s.ccli ? esc(s.ccli) : "None on file"}</dd></div>
         <div><dt>Times logged (2023–Sept 2026)</dt><dd>${s.timesLogged}</dd></div>
         <div><dt>Years seen</dt><dd>${esc(s.yearsSeen || "None on file")}</dd></div>
-        <div><dt>ID confidence</dt><dd>${esc(s.confidence)}</dd></div>
       </dl>
-      ${s.variants ? `<p><strong>Setlist variants.</strong> ${esc(s.variants)}</p>` : ""}
+      <p class="no-grade">No published grade yet. The report will be posted here after approval.</p>
+      ${s.variants ? detailsBlock("Also logged as", `<p>${esc(s.variants)}</p>`) : ""}
       ${songNote(s)}
       ${LYRICS_NOTE}
-      <h2>Grade report</h2>
-      <div id="report-body">${NO_REPORT}</div>
-      <p><a href="index.html">Back to the catalog</a></p>
+      ${prevNext(all, s)}
+      <p class="back-link"><a data-back href="index.html">Back to the catalog</a></p>
     `;
+    wireBackLinks(host);
     return;
   }
 
@@ -375,9 +458,11 @@ async function initSong() {
     <div id="report-body">${report.html}</div>
     ${songDetails(s, report.intro)}
     ${LYRICS_NOTE}
-    <p class="back-link"><a href="index.html">Back to the catalog</a></p>
+    ${prevNext(all, s)}
+    <p class="back-link"><a data-back href="index.html">Back to the catalog</a></p>
   `;
   wireToggleAll(host);
+  wireBackLinks(host);
 }
 
 document.addEventListener("DOMContentLoaded", () => {

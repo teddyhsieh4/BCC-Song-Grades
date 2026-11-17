@@ -40,13 +40,16 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
 <article class="page prose">
   <p class="kicker">Repertoire snapshot · as of <span id="n-asof">22 Sept 2026</span></p>
   <h1>Insights</h1>
-  <p class="lede">These numbers come from the setlists, so they tell you how often a song shows up. They do not tell you whether the lyric is strong. Grade totals will land here after reports are published.</p>
+  <p class="lede">These numbers come from the setlists, so they tell you how often a song shows up. They do not tell you whether the lyric is strong. The grade chart counts only songs with a published report.</p>
   <div class="stats">
     <div class="stat"><b id="n-songs">194</b><span>Unique songs</span></div>
     <div class="stat"><b id="n-graded">0</b><span>Graded so far</span></div>
     <div class="stat"><b id="n-sum">965</b><span>Logs on unique rows</span></div>
-    <div class="stat"><b>0</b><span>Needs research</span></div>
+    <div class="stat"><b id="n-notgraded">136</b><span>Not yet graded</span></div>
   </div>
+  <h2>By overall grade</h2>
+  <div class="chart" id="grade-bars"></div>
+
   <div class="note">Family is grouped by who wrote the song, not by an artist who later covered it. If Shane & Shane arranged someone else’s text (Is He Worthy), the song stays in the original family.</div>
 
   <h2 class="with-info">By song family

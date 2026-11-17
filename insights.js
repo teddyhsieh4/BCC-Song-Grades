@@ -14,15 +14,15 @@ function badgeClass(song) {
   return "wait";
 }
 
-function bars(rows, hostId) {
+function bars(rows, hostId, colorFor) {
   const host = document.getElementById(hostId);
   if (!host) return;
-  const max = Math.max(...rows.map((r) => r.count), 1);
+  const max = Math.max(...rows.map((r) => r.count || 0), 1);
   host.innerHTML = rows.map((r) => `
     <div class="barline">
       <div class="label">${esc(r.name)}</div>
-      <div class="meter"><i style="width:${(r.count / max) * 100}%"></i></div>
-      <div class="c">${r.count}</div>
+      <div class="meter"><i class="${colorFor ? esc(colorFor(r.name)) : ""}" style="width:${((r.count || 0) / max) * 100}%"></i></div>
+      <div class="c">${r.count || 0}</div>
     </div>
   `).join("");
 }
@@ -35,6 +35,12 @@ async function init() {
   set("n-graded", d.graded);
   set("n-sum", d.timesLoggedSum);
   set("n-asof", d.asOf);
+  set("n-notgraded", d.notGraded);
+  const labelClass = (name) => {
+    const meta = typeof BCC_GRADES !== "undefined" && BCC_GRADES.LABEL_META ? BCC_GRADES.LABEL_META[name] : null;
+    return meta ? meta.cls : "";
+  };
+  bars(d.recommendations || [], "grade-bars", labelClass);
   bars(d.families, "family-bars");
   bars(d.eras, "era-bars");
   const top = document.getElementById("top-list");

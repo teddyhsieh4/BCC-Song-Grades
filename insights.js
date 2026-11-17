@@ -21,7 +21,7 @@ function bars(rows, hostId) {
   host.innerHTML = rows.map((r) => `
     <div class="barline">
       <div class="label">${esc(r.name)}</div>
-      <div class="bar"><i style="width:${(r.count / max) * 100}%"></i></div>
+      <div class="meter"><i style="width:${(r.count / max) * 100}%"></i></div>
       <div class="c">${r.count}</div>
     </div>
   `).join("");

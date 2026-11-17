@@ -248,7 +248,7 @@ footer { max-width: 980px; margin: 2.5rem auto 0; padding: 1.2rem 1.25rem 2rem; 
 #gate.hidden { display: none; }
 #gate .card { width: min(26rem, 100%); text-align: center; }
 #gate .kicker { color: #d7e6f5; }
-#gate h1 { color: #fff; }
+#gate h1, #gate h1 em { color: #fff; }
 #gate .lede { color: #d7e6f5; margin: 0 auto; }
 #gate form { display: flex; flex-direction: column; gap: 0.6rem; margin-top: 1.2rem; }
 #gate button { font: inherit; background: var(--blue); color: #fff; border: 0; padding: 0.65rem 1rem; cursor: pointer; border-radius: 6px; }

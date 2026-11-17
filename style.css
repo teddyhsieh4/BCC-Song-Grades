@@ -353,3 +353,9 @@ details.rsec > .rbody > :first-child { margin-top: 0; }
   .scoreline { grid-template-columns: minmax(0, 1fr) auto; gap: 0.2rem 0.6rem; font-size: 0.92rem; }
   .scoreline .meter { grid-column: 1 / -1; grid-row: 2; }
 }
+@media (max-width: 380px) {
+  header.site .bar { padding: 0.55rem 0.8rem; gap: 0.25rem; }
+  .brand { font-size: 0.9rem; }
+  nav { gap: 0; }
+  nav a { padding: 0.35rem 0.35rem; font-size: 0.88rem; }
+}

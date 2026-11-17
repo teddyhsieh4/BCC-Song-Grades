@@ -183,6 +183,7 @@ function applyFilters(all) {
     if (era && s.era !== era) return false;
     if (status === "graded" && s.status !== "graded") return false;
     if (status === "not-graded" && s.status !== "not-graded") return false;
+    if (status && status !== "graded" && status !== "not-graded" && s.recommendation !== status) return false;
     if (q && !haystack(s).includes(q)) return false;
     return true;
   });

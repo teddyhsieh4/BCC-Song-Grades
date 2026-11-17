@@ -11,7 +11,7 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&family=Source+Serif+4:ital,wght@0,500;0,650;1,500&display=swap" rel="stylesheet">
   <base href="/BCC-Song-Grades/">
-  <link rel="stylesheet" href="style.css?v=19">
+  <link rel="stylesheet" href="style.css?v=20">
 </head>
 <body>
 <div id="gate">
@@ -49,11 +49,12 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
     <div class="stat"><b id="stat-logs">965</b><span>Setlist logs</span></div>
     <div class="stat"><b>2023–26</b><span>Years covered</span></div>
   </div>
+  <div class="controls">
   <div class="search-row">
     <input id="q" type="search" placeholder="Search title, writer, CCLI, lyric note…">
-    <select id="family"></select>
-    <select id="era"></select>
-    <select id="status">
+    <select id="family" aria-label="Song family"></select>
+    <select id="era" aria-label="Era"></select>
+    <select id="status" aria-label="Grade">
       <option value="">All statuses</option>
       <option value="not-graded">Not yet graded</option>
       <option value="graded">Graded</option>
@@ -63,13 +64,19 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
       <option value="Weak">Weak</option>
       <option value="Avoid">Avoid</option>
     </select>
+    <select id="sort" aria-label="Sort">
+      <option value="az">A to Z</option>
+      <option value="logged">Most sung</option>
+      <option value="grade">Lowest grade first</option>
+    </select>
   </div>
-  <p class="lede" id="count" style="margin:0 0 0.6rem;text-align:left"></p>
-  <div class="list" id="results"></div>
+  <p class="count" id="count"></p>
+  </div>
+  <div class="list catalog" id="results"></div>
 </main>
 <footer>Staff tool. Full lyrics stay off these pages to keep copyright exposure low. Reports quote short lines only. Identification from setlists 2023 through Sept 2026.</footer>
 <script src="gate.js?v=11"></script>
 <script src="lib/grades.js?v=12"></script>
-<script src="app.js?v=19"></script>
+<script src="app.js?v=20"></script>
 </body>
 </html>

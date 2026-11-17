@@ -2,7 +2,10 @@
 <html lang="en">
 <head>
   <script>
-if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.classList.add("unlocked");
+try {
+  var r = JSON.parse(localStorage.getItem("bcc-song-grades-remember") || "null");
+  if (sessionStorage.getItem("bcc-song-grades-ok") || (r && r.until > Date.now())) document.documentElement.classList.add("unlocked");
+} catch (e) {}
 </script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -125,7 +128,7 @@ if (sessionStorage.getItem("bcc-song-grades-ok")) document.documentElement.class
   </div>
 </div>
 <footer>Built from BCC Song List V2 setlists, 2023 through Sept 2026. Full lyrics stay off these pages.</footer>
-<script src="gate.js?v=11"></script>
+<script src="gate.js?v=12"></script>
 <script src="lib/grades.js?v=12"></script>
 <script src="insights.js?v=10"></script>
 </body>

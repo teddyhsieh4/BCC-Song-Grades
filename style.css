@@ -117,6 +117,8 @@ select { color: var(--muted); }
 article.page { padding-top: 1.8rem; }
 article.page h1, article.page .lede { text-align: left; margin-left: 0; }
 .prose p, .prose li { font-size: 1.05rem; }
+/* Keep reading lines near 70 to 80 characters on wide screens. Tables keep the full width. */
+.prose p, .prose ul, .prose ol, .prose .note, .prose h2, .prose h3 { max-width: 44rem; }
 .prose h2 { margin-top: 1.8rem; font-size: 1.25rem; color: var(--navy); }
 .prose h3 { margin-top: 1.3rem; font-size: 1.05rem; }
 .prose ul, .prose ol { padding-left: 1.2rem; }

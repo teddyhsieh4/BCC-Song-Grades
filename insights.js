@@ -18,11 +18,17 @@ function bars(rows, hostId, colorFor) {
   const host = document.getElementById(hostId);
   if (!host) return;
   const max = Math.max(...rows.map((r) => r.count || 0), 1);
+  const total = rows.reduce((sum, r) => sum + (r.count || 0), 0);
+  const pct = (n) => {
+    if (!total || !n) return "0%";
+    const p = (n / total) * 100;
+    return p < 1 ? "<1%" : `${Math.round(p)}%`;
+  };
   host.innerHTML = rows.map((r) => `
     <div class="barline">
       <div class="label">${esc(r.name)}</div>
       <div class="meter"><i class="${colorFor ? esc(colorFor(r.name)) : ""}" style="width:${((r.count || 0) / max) * 100}%"></i></div>
-      <div class="c">${r.count || 0}</div>
+      <div class="c">${r.count || 0} <span class="pct">${esc(pct(r.count || 0))}</span></div>
     </div>
   `).join("");
 }

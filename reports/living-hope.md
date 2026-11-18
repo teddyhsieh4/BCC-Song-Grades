@@ -41,7 +41,7 @@ The lyric is reaching for a chasm closed by the cross, and for a living hope in 
 
 **Already sung**
 
-**Christ Our Hope in Life and Death** (Keith Getty / Matt Boswell / Jordan Kauflin / Matt Merker / Matt Papa, Getty, CCLI 7147880). Logged 8 times across at least four years. The hope is Christ in life and in death, with the resurrection named.
+**Christ Our Hope in Life and Death** (Keith Getty / Matt Boswell / Jordan Kauflin / Matt Merker / Matt Papa, Getty, CCLI 7147502). Logged 8 times across at least four years. The hope is Christ in life and in death, with the resurrection named.
 
 **Yet Not I but Through Christ in Me** (Jonny Robinson / Rich Thompson / Michael Farren, CityAlight, CCLI 7121852). Logged 10 times across at least four years. The life is Christ’s, from the cross to the grave that could not hold Him.
 

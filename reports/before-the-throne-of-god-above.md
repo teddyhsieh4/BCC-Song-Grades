@@ -27,7 +27,7 @@ The singer stands before God with a finished plea: the living High Priest who in
 
 Excellent / Prefer
 
-Feature it freely. The three stanzas move from the present intercession of the High Priest, through the finished work that silences the accuser, to the risen Lamb who is the believer’s righteousness. No stanza is optional. The text is dense enough to carry a service that is teaching Hebrews, Romans 3–8, or the priestly work of Christ. It has already been logged in at least four years of the current window.
+Feature it freely, and sing all three stanzas. The first names Christ’s present intercession, the second answers the accuser with His death, and the third rests the believer’s righteousness in the risen Lamb. It can anchor a service on Hebrews, Romans 3–8, or the priestly work of Christ. The church has sung it 8 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -43,25 +43,23 @@ Feature it freely. The three stanzas move from the present intercession of the H
 
 Rubric version v1. Grade date 2026-10-28.
 
-5 = dense and precise. 4 = solid, minor gaps. 3 = true but thin. 2 = serious omission or mushy poetry. 1 = error or disqualifying confusion.
-
 ---
 
 ## Voice and addressee
 
-First-person singular. The singer addresses no one in the second person; the lines are spoken about the High Priest and about the singer’s own standing before God. The content is objective enough that the congregation can sing it as shared confession.
+First-person singular, spoken about the High Priest and about the singer’s own standing before God. Nothing in it is private feeling, so the congregation can sing it as a shared confession.
 
 ---
 
 ## How the text moves
 
-It begins at the throne with the present ministry of the High Priest. The second stanza answers the accuser by looking to the finished death that satisfied the Just. The third stanza turns to the risen Lamb who is the believer’s righteousness and the place where the life is already hidden. Each stanza advances the claim.
+The hymn begins at the throne, where the High Priest pleads now. The second stanza answers the accuser with the finished death that satisfied God’s justice. The third looks to the risen Lamb, in whom the believer’s life is already hidden.
 
 ---
 
 ## Lines you cannot cut
 
-The second stanza (“Because the sinless Savior died / My sinful soul is counted free / For God the Just is satisfied / To look on Him and pardon me”) and the third (“Behold Him there, the risen Lamb / My perfect, spotless righteousness”). Drop either and the plea loses its ground. The first stanza alone still names the High Priest but leaves the substitution and the resurrection unsaid.
+The second stanza (“Because the sinless Savior died / My sinful soul is counted free / For God the Just is satisfied / To look on Him and pardon me”) and the third (“Behold Him there, the risen Lamb / My perfect, spotless righteousness”). The first stanza alone names the High Priest but leaves substitution and the resurrection unsaid.
 
 ---
 
@@ -92,7 +90,7 @@ The Son is named as High Priest, Savior, Lamb, and “I AM.” The Father is pre
 
 ## Could another worshiper sing this unchanged?
 
-No. The plea is the High Priest whose name is Love, the sinless Savior whose death satisfied the Just, and the risen Lamb who is the singer’s righteousness. A vague theist or moralist cannot sing the second and third stanzas without correction. Even the first stanza requires the High Priest who ever lives and pleads.
+No. Even the first stanza needs a High Priest “Who ever lives and pleads for me.” A vague theist could not sing “For God the Just is satisfied / To look on Him and pardon me” without changing it.
 
 ---
 
@@ -100,67 +98,67 @@ No. The plea is the High Priest whose name is Love, the sinless Savior whose dea
 
 - **Unbiblical:** none.
 - **Non-biblical:** none that affect the claim.
-- **Thin:** none. The lines are specific.
+- **Thin:** none.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“A great High Priest whose name is love / Who ever lives and pleads for me” follows Hebrews 7:25 and 4:14–16. “My name is graven on His hands” follows Isaiah 49:16. “Because the sinless Savior died / My sinful soul is counted free / For God the Just is satisfied / To look on Him and pardon me” states the ordinary sense of Romans 3:25–26 and 2 Corinthians 5:21. “My life is hid with Christ on high” is Colossians 3:3. The ordinary sense of the texts is in view; the poetry does not replace them with impression.
+“A great High Priest whose name is love / Who ever lives and pleads for me” is Hebrews 7:25 and 4:14–16. “My name is graven on His hands” is Isaiah 49:16. “Because the sinless Savior died / My sinful soul is counted free / For God the Just is satisfied / To look on Him and pardon me” is Romans 3:25–26 and 2 Corinthians 5:21. “My life is hid with Christ on high” is Colossians 3:3. The poetry stays close to the texts.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Christ is the High Priest who intercedes, the sinless Savior whose death ends the charge, and the risen Lamb who is the believer’s righteousness. Substitution, propitiation, resurrection, and present intercession are all stated. Titles are joined to the finished work.
+Christ is the High Priest who intercedes, the sinless Savior whose death ends the charge, and the risen Lamb who is the believer’s righteousness. Substitution, propitiation, resurrection, and present intercession are all stated.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The first person reports standing, not inner weather. “I have a strong and perfect plea,” “my sinful soul is counted free,” and “my life is hid with Christ” are objective claims about what Christ has done and where the believer now stands. Desire or vow language is absent.
+The first person speaks of the singer’s standing before God. “I have a strong and perfect plea,” “my sinful soul is counted free,” and “my life is hid with Christ” are claims about what Christ has done and where the believer stands. There are no vows.
 
 ---
 
 ## Description of God’s Character: 5
 
-God is Just and is satisfied by looking on the Son. Christ is Love, the unchangeable I AM, King of glory and of grace, the perfect righteousness of the believer, and the one who ever lives and pleads. Holiness, justice, and mercy are named together in the satisfaction of the Just and the grace of the King.
+God is the Just, and He is satisfied when He looks on the Son. Christ is Love, the unchangeable I AM, King of glory and of grace, and the believer’s righteousness. Holiness, justice, and mercy meet in one line: “For God the Just is satisfied.”
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The diction is plain. The argument is complete in three stanzas. The congregation has already sung it in multiple years. The first-person singular does not obscure the shared confession. No line requires a weekly disclaimer.
+Three stanzas carry a complete argument, and the first-person voice does not get in the way of the shared confession. The leader does not need to qualify any line. It is one of only two songs in the catalog that name Christ’s present intercession.
 
 ---
 
 ## Tone
 
-Reverent. The language stays with the throne, the plea, the satisfied Just, and the risen Lamb. It does not ask the room to confer on God what He already possesses.
+The tone is reverent and assured. The assurance rests on the plea Christ makes.
 
 ---
 
 ## What the congregation never says
 
-The Spirit’s work is not named. Explicit call to repentance is absent (the text assumes the one who already has the plea). Burial is not mentioned. Pair the song with texts or songs that name the Spirit, call for repentance, or mention burial when the sermon of the day requires them.
+The congregation never names the Spirit, the burial, or a call to repentance. The hymn assumes a believer who already has the plea. When the sermon is evangelistic, pair it with a song that calls to repentance.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Hebrews 4–10 (High Priest, access, finished work), Romans 3:21–26 or 8:31–34 (justification, no condemnation), Colossians 3 (life hidden with Christ), or any text on the present intercession of Christ.
-- **Gaps the rest of the hour must cover.** Explicit naming of the Spirit if the sermon requires it; a call to repentance if the text of the day is evangelistic or confrontational.
-- **Diet sentence.** Adds a dense, Scripture-shaped confession of the High Priest’s present work and the satisfaction of divine justice. It does not add a Spirit-focused or purely penitential song.
-- **What not to do.** Do not drop the second or third stanza. Do not tag it with a vague chorus that flattens the plea into generic praise.
+- **When it serves the sermon.** Hebrews 4–10, Romans 3:21–26 or 8:31–34, Colossians 3, or any text on Christ’s present intercession.
+- **Gaps the rest of the hour must cover.** The Spirit, if the sermon needs Him named, and a call to repentance on an evangelistic or confrontational text.
+- **Diet sentence.** Adds the High Priest’s present work and God’s satisfied justice. It is not a song of repentance.
+- **What not to do.** Do not drop the second or third stanza, and do not follow it with a vague chorus of praise that drops the plea.
 
 ---
 
 ## Identification notes
 
-One song. Catalog CCLI 2306412 matches the Vikki Cook / Sovereign Grace setting of the 1863 Bancroft text. Variants on file are title shortenings and key notes (C), not different texts. Arrangement year is 1997.
+This is one song. Catalog CCLI 2306412 matches the Vikki Cook / Sovereign Grace setting of the 1863 Bancroft text. Variants on file are title shortenings and key notes (C), not different texts. Arrangement year is 1997.
 
 ---
 
 ## Why this overall label
 
-The lyric states the High Priest’s present intercession, the satisfaction of the Just by the death of the sinless Savior, and the believer’s life already hidden with the risen Lamb. Every stanza advances a claim that can be tied to the ordinary sense of Scripture. That is why it is Excellent / Prefer.
+The hymn states Christ’s present intercession, the satisfaction of God’s justice by His death, and the believer’s life hidden in the risen Lamb. Each line ties to a text.

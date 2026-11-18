@@ -36,13 +36,13 @@ Musical and audio analysis is out of scope.
 
 ## How to grade this room
 
-Grade for Berean Community Church. The church is named from Acts 17:11. Preaching is expositional. Scripture is inerrant and sufficient, read with a grammatical-historical hermeneutic. Members are trained to test teaching against the text. The first vision item is God-centered worship. Songs are chosen for doctrinal accuracy. Worship that does not engage the mind cannot rightly engage the heart. Objective meaning comes before personal application.
+Grade for Berean Community Church, which is named from Acts 17:11. Preaching is expositional, and members are trained to test teaching against the text. Scripture is inerrant and sufficient, read with a grammatical-historical hermeneutic. The first vision item is God-centered worship, and songs are chosen for doctrinal accuracy. Worship that does not engage the mind cannot rightly engage the heart, and objective meaning comes before personal application.
 
 The theological stream is close to The Master’s Seminary: lordship salvation, the Doctrines of Grace, and the written Word over private impression. Use those distinctives as a reading lens. Do not treat TMS or MacArthur as a brand to cite in reports. Do not build a second banned list. Ordinary biblical language such as “whosoever” or “for the world” is not an automatic deduction when the rest of the song is substitutionary and God-centered.
 
 Do not grade for a seeker-friendly service. The Sunday gathering is not primarily an evangelistic event. “Nothing in this lyric is heretical” is the floor, not a 4 or a 5.
 
-Every song gets a written analysis, not only a score. Quote lyrics. Connect them to Scripture when the link is real. Include setlist notes: sermon placement, pairings, thematic strength.
+Every song gets a written analysis with its scores. Quote lyrics. Connect them to Scripture when the link is real. Include setlist notes: sermon placement, pairings, thematic strength.
 
 Grade the published text of the catalog setting (title, writers, CCLI already on the song row). The published page waits on Theodore’s official yes, not on a chord-sheet check.
 
@@ -51,7 +51,7 @@ First-person vow or desire lyrics are scored under Objectivity and Congregationa
 ## Five scores (1–5 each)
 
 1. **Theological Accuracy and Biblical Fidelity** (highest weight). Accurate to the whole counsel of Scripture? Read the lyric the way this church reads the Bible. A line that only sounds biblical is weaker than a line that can be tied to a text in its ordinary sense. Impressionistic or allegorical “Bible-ish” poetry does not earn a 4 or 5. Stacking generic true statements is not unfolding Scripture.
-2. **Christ-Exalting and Gospel-Saturated.** Focus on the person *and finished work* of Christ. Titles without the cross, substitution, resurrection, or mediation land at 2–3, not 4–5.
+2. **Christ-Exalting and Gospel-Saturated.** Focus on the person *and finished work* of Christ. Titles without the cross, substitution, resurrection, or mediation score 2–3, not 4–5.
 3. **Objectivity vs. Subjectivity.** Does the song declare truths about God and Christ, or is it mostly personal feeling?
 4. **Description of God’s Character.** Balanced attributes, or overweight on love and feelings while holiness, justice, and sovereignty drop out? “God is great / good / love” without specificity is thin.
 5. **Congregational Usefulness and Clarity.** Clear *and* doctrinally rich. Singability alone does not earn a 4 or 5.
@@ -71,7 +71,7 @@ Use the full range. Do not inflate.
 - **Excellent / Prefer** gold-standard texts; feature freely (Getty, CityAlight, Sovereign Grace, *In Christ Alone*, *Before the Throne*, *Is He Worthy*, *Yet Not I*, and songs like them)
 - **Strong** rich enough to use regularly; small notes only
 - **Acceptable with notes** orthodox and usable sparingly when the rest of the set supplies what the song lacks
-- **Weak** popular, generically true, low rigor; do not feature. At most a brief filler after Scripture has already done the work. *How Great Is Our God* (Tomlin / Cash / Reeves, CCLI 4348399) is the calibration example of Weak: true fragments, thin gospel, impressionistic light/darkness line, seeker-shaped hook.
+- **Weak** popular, generically true, low rigor; do not feature. At most a brief filler after the Scripture reading. *How Great Is Our God* (Tomlin / Cash / Reeves, CCLI 4348399) is the calibration example of Weak: true fragments, thin gospel, impressionistic light/darkness line, seeker-shaped hook.
 - **Avoid** red-flag theology or banned-ministry association
 
 If a song thrives mainly because it is easy, emotional, and broadly theistic, cap it at Weak or low Acceptable.

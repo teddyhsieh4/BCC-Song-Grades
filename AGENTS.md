@@ -40,6 +40,7 @@ GitHub Pages, `main` branch, site root. No bundler. No framework.
 | `song.html` | One song. Reads `?id=` from `songs.json` |
 | `style.css` | Navy bulletin theme |
 | `gate.js` | Client-side password. Hash only. Never commit the plaintext |
+| `theme.js` | Light / dark switch in the header |
 | `app.js` | Catalog search and song page |
 | `insights.js` | Insights charts |
 | `lib/grades.js` | Shared labels, score range, and status values |
@@ -97,7 +98,7 @@ When a grade is published, the song page loads `reports/<slug>.md` and the row i
 
 ## Visual standard / design decisions
 
-Current look (Sept 2026): navy header `#1b365d`, page `#f5f7fa`, church blue `#2e7ab8`, short gold rule, Source Sans 3. Left-aligned titles. Not cream paper, not burgundy italics (that copied another site and was rejected). Dark mode follows the device setting (`prefers-color-scheme` block in `style.css`); it keeps the navy header and the label colors.
+Current look (Sept 2026): navy header `#1b365d`, page `#f5f7fa`, church blue `#2e7ab8`, short gold rule, Source Sans 3. Left-aligned titles. Not cream paper, not burgundy italics (that copied another site and was rejected). Dark mode follows the device setting unless the visitor picks light or dark with the header switch (`theme.js`, saved on that device). Dark colors live in the `html[data-theme="dark"]` block in `style.css`; it keeps the navy header and the label colors.
 
 Overall labels share one color each in `lib/grades.js` (`LABEL_META`) and `style.css`. Label text is always shown. No A–F letters. Prefer gold `#d4af37` / `#3a2c08`. Strong forest `#1f6b45`. Acceptable amber `#e3b341`. Weak slate `#5c6777`. Avoid brick `#9b2c2c`. Ungraded cool gray. Song page puts the chip under the writers with an action line. Ask before changing any of this.
 

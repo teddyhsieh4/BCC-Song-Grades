@@ -1,4 +1,5 @@
 :root {
+  color-scheme: light;
   --bg: #f5f7fa;
   --paper: #ffffff;
   --ink: #1c2430;
@@ -43,7 +44,16 @@ header.site nav a.active { color: #fff; border-bottom-color: #d4af37; }
 :focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; }
 a:focus-visible, button:focus-visible, summary:focus-visible { border-radius: 3px; }
 input:focus-visible, select:focus-visible, textarea:focus-visible { outline-offset: 1px; }
-header.site a:focus-visible { outline: 2px solid #d4af37; outline-offset: 2px; border-radius: 3px; }
+header.site a:focus-visible, header.site button:focus-visible { outline: 2px solid #d4af37; outline-offset: 2px; border-radius: 3px; }
+/* Light / dark switch, added to the header by theme.js */
+.theme-toggle {
+  position: relative; flex: none; display: inline-flex; align-items: center; justify-content: center;
+  width: 2rem; height: 2rem; margin-left: 0.35rem; padding: 0; border: 0; border-radius: 6px;
+  background: transparent; color: #c9d7e6; cursor: pointer;
+}
+.theme-toggle::after { content: ""; position: absolute; inset: -6px -3px; }
+.theme-toggle:hover { color: #fff; background: rgba(255, 255, 255, 0.08); }
+.theme-toggle svg { width: 1.15rem; height: 1.15rem; display: block; }
 .hero { text-align: left; padding: 2.4rem 0 0.8rem; }
 .kicker { font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--blue); font-weight: 600; }
 h1 { font-size: clamp(1.9rem, 4vw, 2.6rem); font-weight: 650; letter-spacing: -0.02em; margin: 0.3rem 0 0.55rem; line-height: 1.2; color: var(--navy); }
@@ -369,9 +379,10 @@ details.rsec > .rbody > :first-child { margin-top: 0; }
 .prose h2[id] { scroll-margin-top: 1rem; }
 
 @media (max-width: 700px) {
-  header.site .bar { padding: 0.55rem 1.25rem; gap: 0.4rem; }
+  header.site .bar { padding: 0.55rem 0.9rem; gap: 0.4rem; }
   .brand { font-size: 0.95rem; }
-  header.site nav a { padding: 0.6rem 0.4rem 0.45rem; font-size: 0.92rem; }
+  header.site nav a { padding: 0.6rem 0.32rem 0.45rem; font-size: 0.92rem; }
+  .theme-toggle { margin-left: 0; width: 1.8rem; }
   .stats { grid-template-columns: repeat(2, 1fr); }
   .row { grid-template-columns: 1.8rem 1fr; }
   .row .badges { grid-column: 2; justify-self: start; align-items: flex-start; margin-top: 0.25rem; }
@@ -404,15 +415,17 @@ details.rsec > .rbody > :first-child { margin-top: 0; }
   .scoreline .meter { grid-column: 1 / -1; grid-row: 2; }
 }
 @media (max-width: 380px) {
-  header.site .bar { padding: 0.55rem 0.8rem; gap: 0.25rem; }
+  header.site .bar { padding: 0.55rem 0.6rem; gap: 0.25rem; }
   .brand { font-size: 0.9rem; }
   header.site nav { gap: 0; }
-  header.site nav a { padding: 0.6rem 0.35rem 0.45rem; font-size: 0.88rem; }
+  header.site nav a { padding: 0.6rem 0.28rem 0.45rem; font-size: 0.88rem; }
 }
 
-/* Dark mode follows the device setting. Grade chip and bar colors stay the same. */
-@media screen and (prefers-color-scheme: dark) {
-  :root {
+/* Dark mode. The early script in each page's <head> sets data-theme on <html>:
+   the visitor's saved choice from the header switch (theme.js), else the device setting.
+   Grade chip and bar colors stay the same. Screen only, so printing stays light. */
+@media screen {
+  html[data-theme="dark"] {
     color-scheme: dark;
     --bg: #10161f;
     --paper: #18212c;
@@ -426,15 +439,15 @@ details.rsec > .rbody > :first-child { margin-top: 0; }
     --warn: #e0b066;
     --tint: #1f2a37;
   }
-  header.site, #gate { background: #1b365d; }
-  header.site { box-shadow: 0 1px 0 #24466f; }
-  .stat, .list, .dialog, .linkbtn, .prevnext a, .jump a,
-  input[type="search"], input[type="password"], select, textarea { background: var(--paper); color: var(--ink); }
-  .row:hover, .prose th, .prose code, .note, .dialog-close:hover { background: var(--tint); }
-  .meter { background: #26313e; }
-  .meter > i { background: #7fa3cf; }
-  .badge.wait { color: #b4bfcc; background: #26313e; border-color: #3a4757; }
-  .dialog-backdrop { background: rgba(0, 0, 0, 0.6); }
+  html[data-theme="dark"] header.site, html[data-theme="dark"] #gate { background: #1b365d; }
+  html[data-theme="dark"] header.site { box-shadow: 0 1px 0 #24466f; }
+  html[data-theme="dark"] .stat, html[data-theme="dark"] .list, html[data-theme="dark"] .dialog, html[data-theme="dark"] .linkbtn, html[data-theme="dark"] .prevnext a, html[data-theme="dark"] .jump a,
+  html[data-theme="dark"] input[type="search"], html[data-theme="dark"] input[type="password"], html[data-theme="dark"] select, html[data-theme="dark"] textarea { background: var(--paper); color: var(--ink); }
+  html[data-theme="dark"] .row:hover, html[data-theme="dark"] .prose th, html[data-theme="dark"] .prose code, html[data-theme="dark"] .note, html[data-theme="dark"] .dialog-close:hover { background: var(--tint); }
+  html[data-theme="dark"] .meter { background: #26313e; }
+  html[data-theme="dark"] .meter > i { background: #7fa3cf; }
+  html[data-theme="dark"] .badge.wait { color: #b4bfcc; background: #26313e; border-color: #3a4757; }
+  html[data-theme="dark"] .dialog-backdrop { background: rgba(0, 0, 0, 0.6); }
 }
 
 /* Print: song reports print as a clean document. app.js opens every section before printing. */

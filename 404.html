@@ -15,7 +15,15 @@ try {
   <link rel="icon" href="favicon.ico" sizes="any">
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
-  <link rel="stylesheet" href="style.css?v=30">
+  <script>
+try {
+  var t = localStorage.getItem("bcc-song-grades-theme");
+  if (t !== "light" && t !== "dark") t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  document.documentElement.setAttribute("data-theme", t);
+} catch (e) {}
+  </script>
+  <link rel="stylesheet" href="style.css?v=31">
+  <script src="theme.js?v=1" defer></script>
 </head>
 <body>
 <main class="wrap" style="padding-top:4rem;text-align:center">

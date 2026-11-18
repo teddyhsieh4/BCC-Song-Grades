@@ -435,7 +435,21 @@ function prevNext(all, song) {
 
 const LYRICS_NOTE = '<div class="note">This page does not reprint the full lyric. CCLI covers congregational use (service slides, SongSelect, printed charts), not a lyrics catalog on this site. Grade reports quote short lines for analysis only. Use SongSelect or a printed chart for the complete text.</div>';
 
+/* Printing a song report opens every section, then puts them back. */
+function wirePrint() {
+  let closed = [];
+  window.addEventListener("beforeprint", () => {
+    closed = $$("details.rsec:not([open])");
+    closed.forEach((d) => { d.open = true; });
+  });
+  window.addEventListener("afterprint", () => {
+    closed.forEach((d) => { d.open = false; });
+    closed = [];
+  });
+}
+
 async function initSong() {
+  wirePrint();
   const id = new URLSearchParams(location.search).get("id");
   const host = $("#song");
   if (!host) return;

@@ -16,7 +16,7 @@ Live site: https://teddyhsieh4.github.io/BCC-Song-Grades/
 
 This folder is a static site. No build step. GitHub Pages serves the `main` branch from the repository root.
 
-Site files sit at that root (`index.html`, `style.css`, `gate.js`, `app.js`, `songs.json`, `insights.json`). Supporting files live under `lib/`, `scripts/`, `data/`, `docs/`, and `reports/`.
+Site files sit at that root (`index.html`, `style.css`, `gate.js`, `theme.js`, `app.js`, `songs.json`, `insights.json`). Supporting files live under `lib/`, `scripts/`, `data/`, `docs/`, and `reports/`.
 
 ## Lyrics
 
@@ -29,6 +29,8 @@ The shared password is stored only as a SHA-256 hash in `gate.js`. Ask Theodore 
 The gate is a simple front door. It is not bank-grade security. Files next to the site can be fetched without the password.
 
 After the right password, the browser remembers it on that device for 30 days, then asks again. Changing the password (a new hash in `gate.js`) makes every device ask again. To forget it sooner, clear the site's data in the browser settings.
+
+The sun / moon button in the header switches between light and dark. With no choice saved, the site follows the device setting.
 
 ## Updating the list
 
@@ -43,4 +45,4 @@ node scripts/build-insights.js
 
 Then hard-refresh the live site.
 
-When you change `style.css`, `gate.js`, `app.js`, `insights.js`, or `lib/grades.js`, bump the `?v=` query on every HTML page that loads that file.
+When you change `style.css`, `gate.js`, `theme.js`, `app.js`, `insights.js`, or `lib/grades.js`, bump the `?v=` query on every HTML page that loads that file.

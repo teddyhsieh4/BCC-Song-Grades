@@ -2,8 +2,8 @@
   "asOf": "18 Nov 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
-  "graded": 59,
-  "notGraded": 135,
+  "graded": 60,
+  "notGraded": 134,
   "setlistMentionsRaw": 965,
   "timesLoggedSum": 965,
   "families": [
@@ -97,7 +97,7 @@
     },
     {
       "name": "Weak",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Avoid",
@@ -119,15 +119,15 @@
     },
     {
       "name": "Weak",
-      "count": 30
+      "count": 37
     },
     {
       "name": "Avoid",
       "count": 12
     }
   ],
-  "loggedGraded": 535,
-  "loggedNotGraded": 430,
+  "loggedGraded": 542,
+  "loggedNotGraded": 423,
   "mostLogged": [
     {
       "title": "King Forevermore (God the Uncreated One)",

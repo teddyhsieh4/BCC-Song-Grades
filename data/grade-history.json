@@ -446,5 +446,19 @@
       "congregationalUsefulness": 3
     },
     "note": "Official grade. Song batch 7."
+  },
+  {
+    "id": "i-offer-my-life",
+    "date": "2026-11-18",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 1,
+      "objectivity": 2,
+      "godsCharacter": 2,
+      "congregationalUsefulness": 2
+    },
+    "note": "Official grade. Song batch 7. Christ, sin, and the cross never named. Alternative song suggestions included. CCLI on row (165547) pending SongSelect check; publisher line gives 1375252."
   }
 ]

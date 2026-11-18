@@ -2157,10 +2157,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "I Offer My Life; I offer my life; I offer my life - E; I Offer My Life (E)",
     "notes": "Distinct from Redman 'I Will Offer Up My Life'.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "1990–1999",
-    "report": null
+    "report": "reports/i-offer-my-life.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 1,
+      "objectivity": 2,
+      "godsCharacter": 2,
+      "congregationalUsefulness": 2
+    },
+    "gradeDate": "2026-11-18",
+    "rubricVersion": "v1"
   },
   {
     "id": "i-stand-amazed-how-marvelous",

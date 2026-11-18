@@ -27,7 +27,7 @@ The congregation is commanded to come and behold the wondrous mystery of the Kin
 
 Excellent / Prefer
 
-Feature it. The lyric names the incarnation, the sinless life, the true and better Adam, the Lord upon the tree in the stead of ruined sinners, the price of our redemption, and the resurrection so that no grave could restrain Him. Keep those lines. The whole text is dense, precise, and Scripture-shaped.
+Feature it. Keep the lines on the condescension to ransom, Christ on the tree “in the stead of ruined sinners,” and the grave that could not hold Him. Those lines carry incarnation, substitution, and resurrection in one hymn. The church has sung it 7 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,21 +47,19 @@ Rubric version v1. Grade date 2 Nov 2026.
 
 ## Voice and addressee
 
-Mostly first-person plural addressing the congregation. It is command and declaration. The congregation can own the command to come and behold the King robed in humanity, the Lord upon the tree, and the risen Christ.
+Mostly first-person plural, addressed to the congregation. It is a call to come and look at Christ, and the church sings it together.
 
 ---
 
 ## How the text moves
 
-It opens by commanding the congregation to come and behold the wondrous mystery in the dawning of the King, the theme of heaven’s praises robed in frail humanity. In our longing and darkness the light of life has come. Look to Christ who condescended and took on flesh to ransom us. Verse 2 names the perfect Son of Man, never a trace nor stain of sin in His living and suffering, the true and better Adam come to save the hell-bound man, and Christ the great and sure fulfillment of the law so that in Him we stand. Verse 3 names Christ the Lord upon the tree, in the stead of ruined sinners the Lamb hangs in victory, the price of our redemption, the Father’s plan unfolding, bringing many sons to glory. Verse 4 names the God of life slain by death, yet no grave could restrain Him. Praise the Lord, He is alive. Christ in power resurrected is the foretaste of deliverance and the unwavering hope.
+Each verse is a call to “come and behold” a different part of Christ’s work. Verse 1 is the incarnation, verse 2 His sinless life as the better Adam, and verse 3 His death in our place. The last verse is His resurrection and the hope of ours.
 
 ---
 
 ## Lines you cannot cut
 
-“Look to Christ, who condescended / Took on flesh to ransom us” and “Christ the Lord upon the tree / In the stead of ruined sinners / Hangs the Lamb in victory” and “But no grave could e’er restrain Him / Praise the Lord; He is alive!”
-
-Dropping those lines leaves the command to behold without the named condescension to ransom, the Lord upon the tree in the stead of ruined sinners, and the resurrection that no grave could restrain. The rest of the lyric still names the perfect Son of Man and the true and better Adam, but the specific gospel acts that make the mystery wondrous are in those lines.
+“Look to Christ, who condescended / Took on flesh to ransom us” and “Christ the Lord upon the tree / In the stead of ruined sinners / Hangs the Lamb in victory” and “But no grave could e’er restrain Him / Praise the Lord; He is alive!” Without them, the call to behold has nothing to look at but titles.
 
 ---
 
@@ -92,7 +90,7 @@ Christ is named as the King, the perfect Son of Man, the Lord upon the tree, and
 
 ## Could another worshiper sing this unchanged?
 
-No. The King robed in frail humanity, the Lord upon the tree in the stead of ruined sinners, the price of our redemption, and the God of life raised so that no grave could restrain Him cannot be sung by a vague theist without correction. The command to behold is tied to that finished work.
+No. A vague theist could not sing “In the stead of ruined sinners / Hangs the Lamb in victory” without changing it.
 
 ---
 
@@ -100,67 +98,67 @@ No. The King robed in frail humanity, the Lord upon the tree in the stead of rui
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** none that matter. The lyric is specific about the incarnation, the sinless life, the substitution upon the tree, the price of redemption, and the resurrection.
+- **Thin:** none that matter.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“Come behold the wondrous mystery / In the dawning of the King / He the theme of heaven’s praises / Robed in frail humanity” is the ordinary sense of John 1:14 and Philippians 2:6–7. “Look to Christ, who condescended / Took on flesh to ransom us” is the ordinary sense of Mark 10:45 and 1 Timothy 2:6. “He the perfect Son of Man / In His living, in His suffering / Never trace nor stain of sin” is the ordinary sense of Hebrews 4:15 and 1 Peter 2:22. “See the true and better Adam / Come to save the hell-bound man” is the ordinary sense of Romans 5:14–19 and 1 Corinthians 15:45. “Christ the Lord upon the tree / In the stead of ruined sinners / Hangs the Lamb in victory” is the ordinary sense of 1 Peter 2:24 and Revelation 5:12. “Slain by death the God of life / But no grave could e’er restrain Him / Praise the Lord; He is alive!” is the ordinary sense of Acts 2:24 and 1 Corinthians 15:4. The lines stay inside ordinary biblical sense. The score is 5 because the lyric names the ordinary sense of those texts.
+“Come behold the wondrous mystery / In the dawning of the King / He the theme of heaven’s praises / Robed in frail humanity” is John 1:14 and Philippians 2:6–7. “Look to Christ, who condescended / Took on flesh to ransom us” is Mark 10:45 and 1 Timothy 2:6. “He the perfect Son of Man / In His living, in His suffering / Never trace nor stain of sin” is Hebrews 4:15 and 1 Peter 2:22. “See the true and better Adam / Come to save the hell-bound man” is Romans 5:14–19 and 1 Corinthians 15:45. “Christ the Lord upon the tree / In the stead of ruined sinners / Hangs the Lamb in victory” is 1 Peter 2:24 and Revelation 5:12. “Slain by death the God of life / But no grave could e’er restrain Him / Praise the Lord; He is alive!” is Acts 2:24 and 1 Corinthians 15:4.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Christ is named as the King, the perfect Son of Man, the Lord upon the tree, and the God of life. Substitution is stated: took on flesh to ransom us, in the stead of ruined sinners. The cross is named. The resurrection is named. The song does not stop at the mystery. It preaches the finished work that makes the mystery wondrous.
+The hymn names the incarnation, the sinless life, the death “in the stead of ruined sinners,” the price of redemption, and the resurrection. Substitution is stated outright, and the hymn calls Christ the true and better Adam.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The text is command and declaration of what Christ has done. The first-person plural is corporate. There is no high-claim present-tense personal vow. The whole text rests on the King robed in humanity, the Lord upon the tree in the stead of ruined sinners, the price of our redemption, and the God of life raised so that no grave could restrain Him.
+The text is a call to look at Christ and a declaration of what He has done. The “we” is corporate, and there are no personal vows.
 
 ---
 
 ## Description of God’s Character: 4
 
-Christ is the King robed in frail humanity, the perfect Son of Man, the true and better Adam, the Lord upon the tree, the Lamb in victory, the God of life slain by death yet raised, and the one in whom we stand. The attributes are specific and tied to the incarnation, the sinless life, the substitution, and the resurrection. Holiness and justice appear as the perfect Son of Man and the price of our redemption. The score is 4 because the lyric stays focused on the work of Christ rather than a broader list of attributes.
+Christ is the King robed in humanity, the sinless Son of Man, the better Adam, the Lamb in victory, and the God of life who could not be held by death. Holiness shows in His sinless life and justice in the price of redemption. The score is 4 because the hymn names Christ’s work more than God’s attributes.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. The lyric teaches the incarnation, the sinless life, the true and better Adam, the Lord upon the tree in the stead of ruined sinners, the price of our redemption, and the resurrection so that no grave could restrain Him. The congregation can learn the ordinary sense of John 1:14, Mark 10:45, 1 Peter 2:24, and Acts 2:24 by singing these lines. The plural voice is corporate. Singability is high, and the teaching is the reason for the 5. Keep the lines about the condescension to ransom, the Lord upon the tree, and the resurrection so the mystery stays attached to the gospel.
+The repeated call to “come and behold” gives the hymn a clear shape, and the corporate voice suits the gathering. A congregation that sings it learns the incarnation, the cross, and the resurrection in order.
 
 ---
 
 ## Tone
 
-Reverent and declarative. It does not ask the room to confer on Christ what He has not already done. The intensity stays inside the incarnation, the sinless life, the substitution upon the tree, the price of redemption, and the resurrection.
+The tone is reverent and full of wonder at the incarnation, and it turns to joy at “He is alive!”
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the Spirit. That is a small gap. The main gospel elements of the incarnation, the substitution upon the tree, the price of redemption, and the resurrection are present.
+The congregation never names the Spirit. The main gospel elements are present.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** John 1, Philippians 2, Hebrews 4, Romans 5, 1 Peter 2, Acts 2, 1 Corinthians 15, any text on the incarnation, the sinless life, the substitution, or the resurrection. Especially useful after a sermon that has named the finished work of Christ.
-- **Gaps the rest of the hour must cover.** The Spirit if the service has not already supplied it.
-- **Diet sentence.** It adds a dense confession of the King robed in frail humanity, the perfect Son of Man, the Lord upon the tree in the stead of ruined sinners, the price of our redemption, and the God of life raised so that no grave could restrain Him. It does not add a full narrative of the Spirit’s ongoing work.
-- **What not to do.** Do not drop the lines about the condescension to ransom, the Lord upon the tree, and the resurrection. Do not let the command to behold stand alone without the named finished work.
+- **When it serves the sermon.** John 1, Philippians 2, Hebrews 4, Romans 5, 1 Peter 2, Acts 2, 1 Corinthians 15, or any text on the incarnation, the sinless life, substitution, or the resurrection.
+- **Gaps the rest of the hour must cover.** The Spirit, if the service has not named Him.
+- **Diet sentence.** Adds Christ as the better Adam and His death in our place, from manger to empty tomb. It adds little on the Spirit.
+- **What not to do.** Do not drop the lines on the ransom, the tree, or the resurrection, and do not sing the call to behold without them.
 
 ---
 
 ## Identification notes
 
-One song. Text and music by Matt Boswell, Matt Papa, and Michael Bleecker, 2012/2013. CCLI 7026028. Modern hymn. From the album Messenger Hymns, Vol. 2.
+This is one song. Text and music by Matt Boswell, Matt Papa, and Michael Bleecker, 2012/2013. CCLI 7026028. Modern hymn. From the album Messenger Hymns, Vol. 2.
 
 ---
 
 ## Why this overall label
 
-The lyric names the King robed in frail humanity who took on flesh to ransom us, the perfect Son of Man with never a trace nor stain of sin, the true and better Adam, Christ the Lord upon the tree in the stead of ruined sinners, the price of our redemption, and the God of life slain by death yet raised so that no grave could restrain Him. That is dense, precise, and Scripture-shaped. It is Excellent / Prefer. Feature it. Keep the lines about the condescension to ransom, the Lord upon the tree, and the resurrection.
+The hymn calls the church to look at Christ from His birth to His resurrection and states His death in the place of ruined sinners. Each line ties to a text.

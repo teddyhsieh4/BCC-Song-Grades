@@ -27,7 +27,7 @@ The singer glories in the Redeemer whose priceless blood has ransomed him. His w
 
 Excellent / Prefer
 
-Feature it. The first verse names the blood that ransomed, the sin that drove the nails, the judgment tree, the crushing of sin and death, and the Lamb who is righteousness. The later verses rest on that ground. Keep every verse; the first is required.
+Feature it, and never drop the first verse: it names the blood, the singer’s own sin as what drove the nails, and the Lamb who is his righteousness. The later verses rest on that ground. The church has sung it 9 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 22 Oct 2026.
 
 ## Voice and addressee
 
-First-person singular speaking of the Redeemer. It is testimony that declares objective facts about the blood, the nails, the judgment tree, and the Lamb. The voice can be owned by the congregation.
+First-person singular, speaking about the Redeemer. It is testimony made of objective facts, so the whole congregation can own it.
 
 ---
 
 ## How the text moves
 
-It starts with the glory in the Redeemer whose blood has ransomed, the sin that drove the nails, and the judgment tree. It moves to the crushing of the power of sin and death and the Lamb who is righteousness before the holy Judge. The second verse confesses that the life was bought and the love is owned, with faithfulness as the standing place. The third verse looks to the carrying on eagles’ wings, the crowning with lovingkindness, and the final beholding of His face. Each stanza adds a claim that rests on the finished work of the first verse.
+The first verse states the gospel: the blood, the nails, and the Lamb as righteousness. The second verse turns that into a life owned by Him. The third looks ahead to seeing His face.
 
 ---
 
@@ -61,7 +61,7 @@ It starts with the glory in the Redeemer whose blood has ransomed, the sin that 
 
 “Whose priceless blood has ransomed me / Mine was the sin that drove the bitter nails / And hung Him on that judgment tree / ... The Lamb who is my righteousness.”
 
-Dropping that stanza loses the explicit blood, the substitution, the judgment tree, and the imputation. The rest of the song rests on those lines.
+The rest of the song depends on that stanza. Without it, the later verses are devotion with no stated ground.
 
 ---
 
@@ -92,7 +92,7 @@ The Redeemer / Savior / Lamb is named. The Father and Spirit are not distinguish
 
 ## Could another worshiper sing this unchanged?
 
-No. The priceless blood that ransomed, the sin that drove the nails, the judgment tree, and the Lamb who is righteousness are required. A vague theist or moralist cannot sing these lines without correction.
+No. A vague theist or moralist could not sing “Mine was the sin that drove the bitter nails” without changing it.
 
 ---
 
@@ -100,67 +100,67 @@ No. The priceless blood that ransomed, the sin that drove the nails, the judgmen
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** none that matter in the first verse. The later verses are more general but rest on the explicit gospel of the opening.
+- **Thin:** the later verses are more general, but they rest on the first.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“Whose priceless blood has ransomed me” is 1 Peter 1:18–19 and Mark 10:45. “Mine was the sin that drove the bitter nails / And hung Him on that judgment tree” is the substitution of Isaiah 53 and 1 Peter 2:24. “Who crushed the power of sin and death” is 1 Corinthians 15:54–57 and Romans 6. “The Lamb who is my righteousness” is 2 Corinthians 5:21 and Revelation 5. The lines stay inside ordinary biblical sense.
+“Whose priceless blood has ransomed me” is 1 Peter 1:18–19 and Mark 10:45. “Mine was the sin that drove the bitter nails / And hung Him on that judgment tree” is the substitution of Isaiah 53 and 1 Peter 2:24. “Who crushed the power of sin and death” is 1 Corinthians 15:54–57 and Romans 6. “The Lamb who is my righteousness” is 2 Corinthians 5:21 and Revelation 5.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-The Redeemer is named. The blood is named. The nails are named. The judgment tree is named. The sin that drove them is named. The crushing of sin and death is named. The Lamb who is righteousness is named. The song does not stop at titles or atmosphere. It preaches the finished work.
+The first verse names the blood that ransomed, the singer’s own sin as the cause of the cross, Christ’s victory over sin and death, and the Lamb as the believer’s righteousness. Substitution and imputation are both stated.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-The lyric declares what the Redeemer has done. “I will glory” and “I’m satisfied in Him alone” are responses to those facts. The first verse is fully objective. The later verses include more of the singer’s response, which is why the score is 4 rather than 5. The vows are grounded in the blood and the Lamb.
+The first verse is entirely about what the Redeemer did. The later verses give more of the singer’s response (“I’m satisfied in Him alone”), which is why the score is 4. Those responses still rest on the blood and the Lamb.
 
 ---
 
 ## Description of God’s Character: 5
 
-The Redeemer has priceless blood that ransoms, is the one whose judgment tree bore the sin, crushed the power of sin and death, is the only Savior before the holy Judge, is the Lamb who is righteousness, bought the life, owns the love, is faithful as the standing place, holds the feet by grace, carries on eagles’ wings, crowns with lovingkindness, and waits at the gates of gold. The attributes are specific and tied to the person and finished work.
+The Redeemer ransoms by His blood, crushes sin and death, and stands as the only Savior before the holy Judge. He holds His people by grace, carries them, crowns them with lovingkindness, and waits for them at the end. Holiness, justice, grace, and faithfulness are all present.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. The claims are dense. The congregation can learn the ransom, the substitution, and the imputation by singing the first verse. The singular voice is testimony the whole church can own. Singability is high, and the teaching is the reason for the 5.
+The first verse puts personal guilt and substitution in the congregation’s mouth (“Mine was the sin”). The singular voice is testimony the whole church can own.
 
 ---
 
 ## Tone
 
-Reverent and declarative. It does not ask the room to confer on the Redeemer anything He has not already accomplished. The intensity stays inside the blood, the nails, and the Lamb.
+The tone is reverent and personal. It owns the singer’s guilt without dwelling in it, and turns quickly to glory in the Redeemer.
 
 ---
 
 ## What the congregation never says
 
-The congregation never says “we,” and it never names the Spirit. Those are small gaps. The main gospel elements are present in the first verse.
+The congregation never says “we” and never names the Spirit. The main gospel elements are in the first verse.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Any text on the cross, substitution, ransom, or justification. Especially useful after a sermon on Isaiah 53, 1 Peter 1–2, or 2 Corinthians 5.
-- **Gaps the rest of the hour must cover.** Very little. A corporate “we” song or a Spirit-focused song can sit beside it if the service needs that voice.
-- **Diet sentence.** It adds a dense confession of the Redeemer whose blood ransomed and who is the Lamb of righteousness. It does not add much on the Spirit.
-- **What not to do.** Do not drop the first verse. Do not let the later verses stand alone without the blood, the nails, and the Lamb.
+- **When it serves the sermon.** Any text on the cross, substitution, ransom, or justification, especially Isaiah 53, 1 Peter 1–2, or 2 Corinthians 5.
+- **Gaps the rest of the hour must cover.** Very little. A corporate “we” song or a song about the Spirit can sit beside it.
+- **Diet sentence.** Adds a personal confession of guilt and substitution. It adds little on the Spirit.
+- **What not to do.** Do not drop the first verse, and do not sing the later verses without it.
 
 ---
 
 ## Identification notes
 
-One song. CCLI 3337435. Steve Cook and Vikki Cook, 2000. Variants are key differences only.
+This is one song. CCLI 3337435. Steve Cook and Vikki Cook, 2000. Variants on file are key differences only.
 
 ---
 
 ## Why this overall label
 
-The lyric names the priceless blood that ransomed, the sin that drove the nails, the judgment tree, the crushing of sin and death, and the Lamb who is righteousness. That is dense, precise, and Scripture-shaped. It is Excellent / Prefer. Feature it. Keep the first verse.
+The first verse confesses the singer’s own guilt, the ransom by Christ’s blood, and the Lamb as his righteousness, and the rest of the song is built on it. Each line ties to a text.

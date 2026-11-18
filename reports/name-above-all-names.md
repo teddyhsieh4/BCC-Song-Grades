@@ -27,7 +27,7 @@ Jesus, the Son of God, descends from the brightness of His glory, takes on the n
 
 Excellent / Prefer
 
-Feature it. Verse 1 names the descent, the servant nature, the obedience to death, the Father willing to crush Him as a sacrifice for sin, the satisfaction of justice, and the victory of the resurrection. Keep that stanza. Verse 2 names the empty tomb and the Lamb once crucified. The whole text is dense and Scripture-shaped.
+Feature it, and keep verse 1: it names the Father’s will to crush the Son as a sacrifice for sin and the justice He satisfied. Verse 2 adds the empty tomb, and the chorus gives the exaltation that follows. The church has sung it 7 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 30 Oct 2026.
 
 ## Voice and addressee
 
-Mostly third-person narrative of the Son’s work, then second-person address in the chorus and bridge. It is declaration. The congregation can own the narrative of the descent, the sacrifice, and the exaltation, and the proclamation that He is Lord of all.
+The verses tell the Son’s work in the third person, and the chorus and bridge turn to address Him. The whole song is declaration that the congregation sings together.
 
 ---
 
 ## How the text moves
 
-It opens by narrating the descent: from the brightness of His glory, Jesus the Son of God descends, takes on the nature of a servant, and is obedient to death. It then names the Father’s will: “The Father willed to crush Him / As a sacrifice for sin / He satisfied God’s justice / And in victory rose again.” The chorus declares the exaltation: “You are highly exalted / Name above all names / Worthy of all praise / You are reigning in glory / Jesus, You’re the King / Over everything.” Verse 2 names the empty tomb, the Lamb once crucified, the angels’ worship, and the power, wisdom, might, and strength that belong to Him. The bridge is the corporate confession of Philippians 2: “Our knees will bow / Our tongues proclaim / That You are Lord of all.”
+The song follows Philippians 2. Verse 1 is the descent to the cross, verse 2 is the empty tomb and heaven’s worship, and the bridge ends with every knee bowing and every tongue confessing.
 
 ---
 
@@ -61,7 +61,7 @@ It opens by narrating the descent: from the brightness of His glory, Jesus the S
 
 “The Father willed to crush Him / As a sacrifice for sin / He satisfied God’s justice / And in victory rose again.”
 
-Dropping those lines leaves the descent and the servant nature without the named sacrifice for sin, the satisfaction of justice, and the victory of the resurrection. The chorus still declares the name above all names, but the gospel act that shows why the name is exalted is in those lines.
+Without those lines, the chorus calls Him the name above all names without saying why.
 
 ---
 
@@ -92,7 +92,7 @@ Jesus is named as the Son of God, the Lamb, the King. The Father is named as the
 
 ## Could another worshiper sing this unchanged?
 
-No. The descent, the servant nature, the obedience to death, the Father willing to crush Him as a sacrifice for sin, the satisfaction of justice, and the empty tomb cannot be sung by a vague theist without correction. The name above all names is tied to that finished work.
+No. A vague theist could not sing “The Father willed to crush Him / As a sacrifice for sin” without changing it.
 
 ---
 
@@ -100,67 +100,67 @@ No. The descent, the servant nature, the obedience to death, the Father willing 
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** none that matter. The lyric is specific about the descent, the sacrifice for sin, the satisfaction of justice, and the empty tomb.
+- **Thin:** none that matter.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“From the brightness of His glory / Jesus, the Son of God, descends / Takes on the nature of a servant / Jesus, obedient to death” is the ordinary sense of Philippians 2:6–8 and John 1:14. “The Father willed to crush Him / As a sacrifice for sin / He satisfied God’s justice / And in victory rose again” is the ordinary sense of Isaiah 53:10 and Romans 3:25–26. “The tomb is empty Christ has risen” is 1 Corinthians 15:4 and Luke 24:6. “Our knees will bow / Our tongues proclaim / That You are Lord of all” is Philippians 2:10–11. The lines stay inside ordinary biblical sense. The exaltation is the ordinary sense of Philippians 2:9 and Acts 2:33.
+“From the brightness of His glory / Jesus, the Son of God, descends / Takes on the nature of a servant / Jesus, obedient to death” is Philippians 2:6–8 and John 1:14. “The Father willed to crush Him / As a sacrifice for sin / He satisfied God’s justice / And in victory rose again” is Isaiah 53:10 and Romans 3:25–26. “The tomb is empty Christ has risen” is 1 Corinthians 15:4 and Luke 24:6. “Our knees will bow / Our tongues proclaim / That You are Lord of all” is Philippians 2:10–11. The exaltation is Philippians 2:9 and Acts 2:33.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Jesus is named as the Son of God, the Lamb once crucified, and the King. Incarnation is stated. Substitution is stated: sacrifice for sin, the Father willed to crush Him. The satisfaction of justice is named. The resurrection is named. The empty tomb is named. The song does not stop at the title “name above all names.” It preaches the finished work that makes the name exalted.
+The song names the incarnation, the sacrifice for sin, satisfied justice, the resurrection, the empty tomb, and the exaltation. The title “name above all names” is earned in the verses before the chorus sings it.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The text is narrative and declaration of what the Son has done and of His present exaltation. The bridge is the corporate confession that every knee will bow and every tongue proclaim that He is Lord of all. There is no high-claim present-tense personal vow. The whole text rests on what the Father willed and what the Son accomplished.
+The text tells what the Son did and declares His present exaltation. The bridge is the church’s confession that every knee will bow. There are no personal vows.
 
 ---
 
 ## Description of God’s Character: 5
 
-Jesus is the Son of God who descends from glory, takes the nature of a servant, is obedient to death, is the sacrifice for sin, satisfies justice, rises in victory, is the Lamb once crucified, is highly exalted, the name above all names, the King over everything, and the Lord of all. The Father wills the crushing as the sacrifice. The attributes are specific and tied to the descent, the sacrifice, the satisfaction of justice, and the exaltation. Holiness and justice appear as the satisfied justice and the sacrifice for sin.
+The Son descends from glory, takes a servant’s nature, obeys to death, satisfies justice, and rises to reign as King over everything. The Father wills the sacrifice. Holiness and justice are named in the sacrifice for sin.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. Verse 1 teaches the descent, the servant nature, the obedience to death, the sacrifice for sin, the satisfaction of justice, and the resurrection. The congregation can learn the finished work by singing those lines. The chorus and bridge are corporate. Singability is high, and the teaching is the reason for the 5. Keep verse 1 so the name above all names stays attached to the sacrifice and the empty tomb.
+The chorus and bridge are corporate and easy to sing. Verse 1 teaches the cross as the Father’s will and a satisfaction of justice, which is propitiation in plain words.
 
 ---
 
 ## Tone
 
-Reverent and declarative. It does not ask the room to confer on Jesus what He has not already done. The intensity stays inside the descent, the sacrifice for sin, the satisfaction of justice, and the exaltation.
+The tone is reverent and triumphant. The triumph in the chorus comes after the sacrifice in verse 1.
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the Spirit. That is a small gap. The main gospel elements of the incarnation, the sacrifice for sin, the satisfaction of justice, the resurrection, and the exaltation are present.
+The congregation never names the Spirit. The main gospel elements are present.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Philippians 2, Isaiah 53, Romans 3, Revelation 5, any text on the incarnation, the sacrifice, the satisfaction of justice, the resurrection, or the exaltation of the name. Especially useful after a sermon that has named the Father willing to crush Him and the empty tomb.
-- **Gaps the rest of the hour must cover.** The Spirit if the service has not already supplied it.
-- **Diet sentence.** It adds a dense narrative of the Son’s descent, the sacrifice for sin, the satisfaction of justice, the empty tomb, and the exaltation of the name above all names. It does not add a full narrative of the Spirit’s ongoing work.
-- **What not to do.** Do not drop verse 1. Do not let the chorus stand alone without the named sacrifice and the empty tomb.
+- **When it serves the sermon.** Philippians 2, Isaiah 53, Romans 3, Revelation 5, or any text on the incarnation, the cross, the resurrection, or the exaltation of Christ.
+- **Gaps the rest of the hour must cover.** The Spirit, if the service has not named Him.
+- **Diet sentence.** Adds Philippians 2 in song, with propitiation stated. It adds little on the Spirit.
+- **What not to do.** Do not drop verse 1, and do not sing the chorus alone.
 
 ---
 
 ## Identification notes
 
-One song. Music by Pat Sczebel and Joel Sczebel, words by Pat Sczebel, 2011. CCLI 5937668. Sovereign Grace. From the album Risen.
+This is one song. Music by Pat Sczebel and Joel Sczebel, words by Pat Sczebel, 2011. CCLI 5937668. Sovereign Grace. From the album Risen.
 
 ---
 
 ## Why this overall label
 
-The lyric names the Son’s descent from glory, the servant nature, the obedience to death, the Father willing to crush Him as a sacrifice for sin, the satisfaction of justice, the empty tomb, and the exaltation of the name above all names. That is dense, precise, and Scripture-shaped. It is Excellent / Prefer. Feature it. Keep verse 1.
+The song follows Philippians 2 from the descent to the exaltation, and it states that the Son was crushed as a sacrifice for sin and satisfied God’s justice. Each line ties to a text.

@@ -27,7 +27,7 @@ The church asks the Lord to speak through His Word so that His truth takes root,
 
 Excellent / Prefer
 
-Feature it freely when the sermon turns on the written Word, the sufficiency of Scripture, or the ordinary means by which the Spirit forms the church. The three verses move from receiving the food of the Holy Word, through obedience and the testing of thoughts in the light of purity, to renewed minds that stand on promises and walk by faith until the church is built. It has already been logged in at least four years of the current window.
+Feature it freely when the sermon turns on the written Word, the sufficiency of Scripture, or how God forms His church through ordinary means. The church has sung it 7 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -43,25 +43,23 @@ Feature it freely when the sermon turns on the written Word, the sufficiency of 
 
 Rubric version v1. Grade date 2026-11-03.
 
-5 = dense and precise. 4 = solid, minor gaps. 3 = true but thin. 2 = serious omission or mushy poetry. 1 = error or disqualifying confusion.
-
 ---
 
 ## Voice and addressee
 
-Corporate “we” and “us.” The congregation addresses the Lord directly. Every line is a petition for what God does through His Word.
+Corporate “we” and “us,” addressing the Lord directly. Every line is a petition for what God does through His Word.
 
 ---
 
 ## How the text moves
 
-It opens with the church coming to receive the food of the Holy Word, asking that truth be planted deep so that the light of Christ is seen in acts of love and deeds of faith, and that purposes are fulfilled for His glory. The second verse asks for full obedience, holy reverence, and true humility, that thoughts and attitudes be tested in the radiance of purity, that faith rise and eyes see majestic love and authority, and that words of power prevail over unbelief. The third verse asks for renewed minds that grasp unchanging plans, that by grace the people stand on promises and by faith walk as He walks with them, until the church is built and the earth is filled with glory. The claim advances from reception of the Word to obedience under purity to the long obedience that fills the earth.
+Verse 1 asks God to plant His truth in the people who come to hear it. Verse 2 asks for obedience and humility under that Word. Verse 3 asks for renewed minds and a church built up until the earth is full of His glory.
 
 ---
 
 ## Lines you cannot cut
 
-The opening petition (“Speak, O Lord, as we come to You / To receive the food of Your Holy Word. / Take Your truth, plant it deep in us”) and the close (“Speak, O Lord, till Your church is built / And the earth is filled with Your glory”). Drop the Word lines and the song loses its ground. The middle verse on obedience and purity can be shortened in a long service, but the food of the Word and the built church should stay.
+The opening petition (“Speak, O Lord, as we come to You / To receive the food of Your Holy Word. / Take Your truth, plant it deep in us”) and the close (“Speak, O Lord, till Your church is built / And the earth is filled with Your glory”). The middle verse can be shortened in a long service, but the opening and the close should stay.
 
 ---
 
@@ -92,7 +90,7 @@ The Lord is addressed throughout. Christ is named once (“the light of Christ�
 
 ## Could another worshiper sing this unchanged?
 
-No. The food of the Holy Word, the light of Christ seen in deeds of faith, and the church built for the glory of the Lord require the written Word of the triune God and the people He is forming. A vague theist cannot sing the Holy Word or the light of Christ without correction.
+No. A vague theist could not sing about “the food of Your Holy Word” and “the light of Christ” without changing them.
 
 ---
 
@@ -106,61 +104,61 @@ No. The food of the Holy Word, the light of Christ seen in deeds of faith, and t
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“Receive the food of Your Holy Word” follows the ordinary sense of Scripture as daily bread (Matthew 4:4, Deuteronomy 8:3) and as the word that dwells richly (Colossians 3:16). “Take Your truth, plant it deep in us; / Shape and fashion us in Your likeness” follows the ordinary sense of the Spirit’s transforming work through the Word (2 Corinthians 3:18, Romans 12:2). “Words of pow’r that can never fail; / Let their truth prevail over unbelief” follows the ordinary sense of the living and active Word (Hebrews 4:12). “Truths unchanged from the dawn of time / That will echo down through eternity” follows the ordinary sense of the permanence of God’s Word (Isaiah 40:8, Matthew 24:35). The ordinary sense of the texts is in view at each petition.
+“Receive the food of Your Holy Word” is Scripture as daily bread (Matthew 4:4, Deuteronomy 8:3) and as the word that dwells richly (Colossians 3:16). “Take Your truth, plant it deep in us; / Shape and fashion us in Your likeness” is the Spirit’s transforming work through the Word (2 Corinthians 3:18, Romans 12:2). “Words of pow’r that can never fail; / Let their truth prevail over unbelief” is the living and active Word (Hebrews 4:12). “Truths unchanged from the dawn of time / That will echo down through eternity” is the permanence of God’s Word (Isaiah 40:8, Matthew 24:35).
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 4
 
-Christ is named as the one whose light is seen in acts of love and deeds of faith (Matthew 5:16). The song exalts the Lord who speaks, whose truth plants, whose purity tests, and whose purposes fill the earth. The cross, substitution, and resurrection are not stated. The lyric remains Christ-exalting because the light is His and the Word is His, yet it does not preach the finished work in the way a song on the atonement does.
+Christ is named once, as the light seen in His people’s good deeds (Matthew 5:16). The song exalts the Lord who speaks, but it does not state the cross, substitution, or the resurrection, which is why this is a 4.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-Every line is a petition for what the Lord does through His Word. The congregation asks for truth planted, minds renewed, faith to rise, and the church built. There is no report of inner weather and no first-person vow that rests on the singer’s resolve. The desire language is corporate and grounded in the Word.
+Every line asks God to act through His Word: plant truth, renew minds, build the church. The requests are corporate and rest on what God has promised, not on the singers’ resolve.
 
 ---
 
 ## Description of God’s Character: 4
 
-The Lord is the one who speaks the Holy Word, whose truth shapes His people into His likeness, whose purity tests thoughts, whose love is majestic and whose authority is real, whose purposes are fulfilled for His glory, whose promises stand, and whose plans reach from the dawn of time into eternity. Holiness is present in “holy reverence” and “the radiance of Your purity.” Justice and wrath are not named. The attributes are specific to the Word and the forming of the church.
+The Lord speaks, shapes His people into His likeness, tests thoughts by His purity, and fulfills His purposes for His glory. His love is majestic, His promises stand, and His plans run from the dawn of time into eternity. Holiness is named (“the radiance of Your purity”); justice and wrath are not.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The diction is plain. The argument is complete in three verses. The congregation has already sung it in multiple years. The corporate voice and the clear movement from the food of the Word to the built church make it useful for teaching the sufficiency of Scripture and the ordinary means of sanctification.
+The corporate voice and the clear three-verse prayer make it easy to sing. It teaches the sufficiency of Scripture and how God sanctifies His people through it.
 
 ---
 
 ## Tone
 
-Reverent. The language stays with the Holy Word, the testing of thoughts in purity, and the church built for glory. It does not ask the room to confer on God what He already possesses.
+The tone is reverent and humble, the tone of people about to hear God speak.
 
 ---
 
 ## What the congregation never says
 
-The cross, the blood, the empty tomb, and the explicit naming of the Spirit are absent. Pair the song with texts or songs that name the finished work of Christ when the sermon of the day requires them.
+The congregation never names the cross, the blood, the empty tomb, or the Spirit. When the sermon needs the finished work, pair it with a song that states it, such as In Christ Alone.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** The written Word, Colossians 3:16, Romans 12:2, the ordinary means of grace, or any text on the sufficiency and transforming power of Scripture.
-- **Gaps the rest of the hour must cover.** Explicit naming of the cross and resurrection if the sermon requires them. The Spirit’s agency if the text of the day is on His work.
-- **Diet sentence.** Adds a dense, corporate petition that the Word plant truth, shape the church into the likeness of Christ, and fill the earth with glory. It does not add a song that preaches substitution or the empty tomb.
-- **What not to do.** Do not drop the opening lines on the food of the Holy Word. Do not tag it with a chorus that flattens the testing of thoughts and the built church into generic blessing.
+- **When it serves the sermon.** The written Word, Colossians 3:16, Romans 12:2, the ordinary means of grace, or any text on the sufficiency of Scripture.
+- **Gaps the rest of the hour must cover.** The cross and resurrection, and the Spirit’s work if the text is about Him.
+- **Diet sentence.** Adds a corporate prayer for the Word to form the church. It does not add the cross or the empty tomb.
+- **What not to do.** Do not drop the opening lines on the food of the Word, and do not follow it with a vague chorus of blessing.
 
 ---
 
 ## Identification notes
 
-One song. Catalog CCLI 4615235 matches published sources. Variants on file are title capitalization and key notes (A, B), not different texts. Arrangement year is not on file.
+This is one song. Catalog CCLI 4615235 matches published sources. Variants on file are title capitalization and key notes (A, B), not different texts. Arrangement year is not on file.
 
 ---
 
 ## Why this overall label
 
-The lyric asks the Lord to speak through the food of His Holy Word so that truth is planted deep, the church is shaped into His likeness, and the earth is filled with His glory. Every petition can be tied to the ordinary sense of Scripture. That is why it is Excellent / Prefer.
+The song is a corporate prayer for the Word to be planted deep, to shape the church into Christ’s likeness, and to fill the earth with God’s glory. Each petition ties to a text, and its one gap is the finished work.

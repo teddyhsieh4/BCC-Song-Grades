@@ -27,7 +27,7 @@ Hope is built on nothing less than Jesus’ blood and righteousness. All other g
 
 Excellent / Prefer
 
-Feature it. The lyric names the blood, the righteousness, the solid Rock, the unchanging grace, the oath and covenant, and the final standing before the throne in His righteousness alone. It is dense, precise, and Scripture-shaped. Keep every verse.
+Feature it, and keep every verse. The first verse names Jesus’ blood and righteousness as the only ground, and the last puts the singer before the throne in that righteousness alone. The church has sung it 9 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,21 +47,19 @@ Rubric version v1. Grade date 22 Oct 2026.
 
 ## Voice and addressee
 
-First-person singular speaking of what is held and where the singer stands. The refrain is a corporate-usable confession. It is declaration of the only ground, not a private emotional report.
+First-person singular, speaking of where the singer stands. The refrain (“On Christ, the solid Rock I stand”) is a confession the whole church can sing together. The song is a statement of the only ground of hope.
 
 ---
 
 ## How the text moves
 
-It starts with the claim that hope is built on nothing less than Jesus’ blood and righteousness, and that the sweetest frame is not trusted. The refrain confesses that the stand is on Christ the solid Rock. The second verse faces darkness that veils His face and rests on unchanging grace, with the anchor that holds within the veil. The third verse names the oath, the covenant, and the blood that support in the whelming flood. The fourth verse looks to the trumpet sound and the standing before the throne dressed in His righteousness alone. Each stanza adds a distinct claim.
+Verse 1 sets the foundation: Jesus’ blood and righteousness. Verses 2 and 3 test that foundation in darkness and flood and find it holds. Verse 4 ends at the last trumpet, with the singer standing before the throne in Christ’s righteousness.
 
 ---
 
 ## Lines you cannot cut
 
-“My hope is built on nothing less / Than Jesus’ blood and righteousness” and “Dressed in His righteousness alone, / Faultless to stand before the throne.”
-
-Dropping either loses the explicit blood, the imputation, or the final standing. The refrain is required as the governing confession.
+“My hope is built on nothing less / Than Jesus’ blood and righteousness” and “Dressed in His righteousness alone, / Faultless to stand before the throne.” The refrain must stay with them. Without the first and last verses, the song loses both the blood and the imputed righteousness.
 
 ---
 
@@ -92,7 +90,7 @@ Jesus / Christ is named. The Father and Spirit are not distinguished. The hope, 
 
 ## Could another worshiper sing this unchanged?
 
-No. Jesus’ blood and righteousness, Christ the solid Rock, and the standing dressed in His righteousness alone are required. A vague theist or moralist cannot sing these lines without correction.
+No. A vague theist or moralist could not sing “Than Jesus’ blood and righteousness” or “Dressed in His righteousness alone” without changing them.
 
 ---
 
@@ -100,67 +98,67 @@ No. Jesus’ blood and righteousness, Christ the solid Rock, and the standing dr
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** none that matter. The lyric is specific about the blood, the righteousness, the Rock, the covenant, and the final standing.
+- **Thin:** none that matter.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“My hope is built on nothing less / Than Jesus’ blood and righteousness” is 1 Corinthians 3:11 and the imputation of Romans 3–5 and 2 Corinthians 5:21. “On Christ, the solid Rock I stand” is Matthew 7:24–25 and 1 Corinthians 10:4. “My anchor holds within the veil” is Hebrews 6:19. “His oath, His covenant, His blood” is Hebrews 6–9 and the new covenant. “Dressed in His righteousness alone, / Faultless to stand before the throne” is Isaiah 61:10, Philippians 3:9, and Jude 24. The lines stay inside ordinary biblical sense.
+“My hope is built on nothing less / Than Jesus’ blood and righteousness” is 1 Corinthians 3:11 and the imputation of Romans 3–5 and 2 Corinthians 5:21. “On Christ, the solid Rock I stand” is Matthew 7:24–25 and 1 Corinthians 10:4. “My anchor holds within the veil” is Hebrews 6:19. “His oath, His covenant, His blood” is Hebrews 6–9 and the new covenant. “Dressed in His righteousness alone, / Faultless to stand before the throne” is Isaiah 61:10, Philippians 3:9, and Jude 24.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Christ is named. The blood is named. The righteousness is named. The solid Rock is named. The covenant and the blood that support are named. The final standing is in His righteousness alone. The song does not stop at titles or atmosphere. It preaches the only ground.
+The hymn puts all hope on Christ’s blood and His righteousness, and refuses every other ground (“all other ground is sinking sand”). That is justification by faith alone, sung.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The lyric declares what the hope is built on and where the stand is taken. Darkness, the stormy gale, and the whelming flood are named, but the answer is the objective blood, the unchanging grace, the oath, the covenant, and the righteousness. There are no high-claim private vows that float free of the gospel.
+The singer names darkness, storm, and flood, and each time the answer is Christ’s unchanging grace, His covenant, and His blood. There are no vows; the whole hymn is about what holds the singer.
 
 ---
 
 ## Description of God’s Character: 5
 
-Christ is the blood and the righteousness on which hope is built, the solid Rock, the one whose face may be veiled but whose grace is unchanging, the anchor within the veil, the one whose oath, covenant, and blood support, and the one in whose righteousness the singer stands faultless before the throne. Holiness, justice, faithfulness, and grace are all present and specific.
+Christ is the foundation, the solid Rock, the anchor within the veil, and the one whose oath and covenant do not fail. His grace is unchanging even when His face seems hidden. Holiness, justice, faithfulness, and grace are all present.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. The claims are dense. The congregation can learn the only ground of hope and the imputation of righteousness by singing these lines. The singular voice is testimony the whole church can own. Singability is high, and the teaching is the reason for the 5.
+The congregation already knows this hymn well, and the refrain is easy to sing. It teaches imputed righteousness and the final judgment in plain words. The singular voice is testimony the whole church can own.
 
 ---
 
 ## Tone
 
-Reverent and declarative. It does not ask the room to confer on Christ anything He has not already accomplished. The intensity stays inside the blood, the Rock, and the righteousness.
+The tone is reverent and firm. The hymn admits that darkness can veil His face, and answers with grace that does not change.
 
 ---
 
 ## What the congregation never says
 
-The congregation never says “we” for most of the song, and it never names the Spirit. Those are small gaps. The main gospel elements and the governing confession are present.
+The congregation never says “we” for most of the hymn and never names the Spirit. The main gospel elements and the governing confession are present.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** 1 Corinthians 3:11, Matthew 7, Hebrews 6, any text on the only foundation, justification, or the final standing before the throne. Especially useful after a sermon that has named the blood and the righteousness.
-- **Gaps the rest of the hour must cover.** Very little. A corporate “we” song or a Spirit-focused song can sit beside it if the service needs that voice.
-- **Diet sentence.** It adds a dense confession that hope is built on nothing less than Jesus’ blood and righteousness, and that all other ground is sinking sand. It does not add much on the Spirit.
-- **What not to do.** Do not drop the first or fourth verses. Do not let the refrain stand alone without the blood and the righteousness.
+- **When it serves the sermon.** 1 Corinthians 3:11, Matthew 7, Hebrews 6, or any text on the only foundation, justification, or the final judgment.
+- **Gaps the rest of the hour must cover.** Very little. A corporate “we” song or a song about the Spirit can sit beside it.
+- **Diet sentence.** Adds justification by Christ’s righteousness alone, from the first verse to the last judgment. It adds little on the Spirit.
+- **What not to do.** Do not drop the first or fourth verse, and do not sing the refrain alone.
 
 ---
 
 ## Identification notes
 
-One song. Text by Edward Mote, 1834. Tune by William B. Bradbury. Public domain. Variants are key differences or modern arrangements only.
+This is one song. Text by Edward Mote, 1834. Tune by William B. Bradbury. Public domain. Variants on file are key differences or modern arrangements only.
 
 ---
 
 ## Why this overall label
 
-The lyric names Jesus’ blood and righteousness as the only ground, Christ the solid Rock, the unchanging grace, the oath and covenant, and the final standing dressed in His righteousness alone. That is dense, precise, and Scripture-shaped. It is Excellent / Prefer. Feature it. Keep every verse.
+The hymn rests all hope on Jesus’ blood and righteousness and ends with the believer standing faultless in that righteousness before the throne. Each line ties to a text.

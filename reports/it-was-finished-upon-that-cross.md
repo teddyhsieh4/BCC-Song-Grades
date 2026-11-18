@@ -27,7 +27,7 @@ Jesus finished the work on the cross. The curse is broken, the pardon is full, d
 
 Excellent / Prefer
 
-Feature it. The lyric names the cross, the finished work, the curse, pardon, righteousness, and the resurrection in plain language. It is dense enough for regular use and clear enough for the congregation to sing together. Keep every verse; none of them is filler.
+Feature it, and keep every verse. It names the cross, the finished work, the broken curse, full pardon, imputed righteousness, and the resurrection in plain words. The church has sung it 11 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,21 +47,19 @@ Rubric version v1. Grade date 22 Oct 2026.
 
 ## Voice and addressee
 
-Mostly first-person singular (“me,” “I”), with a brief corporate “us” in the resurrection lines. The singer addresses Jesus and then moves to the Father. It is testimony that declares objective facts about the cross and the empty tomb.
+Mostly first-person singular (“me,” “I”), with a brief corporate “us” in the resurrection lines. The singer speaks of Jesus and then of approaching the Father. It is testimony made of objective facts about the cross and the empty tomb.
 
 ---
 
 ## How the text moves
 
-It starts with the voice of Jesus on Calvary declaring the work finished, moves through the broken curse and the clothing of righteousness, then to the defeat of death by the resurrection, and ends with the singer rejoicing in victory and going onward to glory. Each verse adds a distinct gospel claim rather than repeating the same mood.
+It starts at Calvary with Jesus declaring the work finished. It moves to the broken curse and the believer clothed in Christ’s righteousness, then to the resurrection, and ends with the believer going on to glory.
 
 ---
 
 ## Lines you cannot cut
 
-“Now the curse, it has been broken / Jesus paid the price for me / Full, the pardon he has offered / Great, the welcome that I receive / Boldly, I approach my Father / Clothed in Jesus' righteousness.”
-
-Dropping that stanza loses the explicit substitution, the curse, the pardon, and the imputation. The resurrection stanza is also required; without it the song stops at the cross.
+“Now the curse, it has been broken / Jesus paid the price for me / Full, the pardon he has offered / Great, the welcome that I receive / Boldly, I approach my Father / Clothed in Jesus' righteousness.” The resurrection stanza must stay too, or the song stops at the cross.
 
 ---
 
@@ -92,7 +90,7 @@ Jesus / Christ / the Son is named throughout. The Father is named (“approach m
 
 ## Could another worshiper sing this unchanged?
 
-No. The name of Jesus, the cross of Calvary, the broken curse, the clothing of righteousness, and the resurrection are required. A vague theist or moralist cannot sing these lines without correction.
+No. A vague theist or moralist could not sing “Jesus paid the price for me” or “Clothed in Jesus' righteousness” without changing them.
 
 ---
 
@@ -100,67 +98,67 @@ No. The name of Jesus, the cross of Calvary, the broken curse, the clothing of r
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** none that matter. The lyric is specific about the finished work.
+- **Thin:** none that matter.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“It was finished upon that cross” is John 19:30. “The curse, it has been broken / Jesus paid the price for me” is Galatians 3:13 and the substitution of Isaiah 53 and 1 Peter 2:24. “Clothed in Jesus' righteousness” is the imputation of 2 Corinthians 5:21 and Philippians 3:9. “Rose that we would be free indeed” is the resurrection of 1 Corinthians 15 and the freedom of Romans 6 and John 8:36. The lines stay inside ordinary biblical sense.
+“It was finished upon that cross” is John 19:30. “The curse, it has been broken / Jesus paid the price for me” is Galatians 3:13 and the substitution of Isaiah 53 and 1 Peter 2:24. “Clothed in Jesus' righteousness” is the imputation of 2 Corinthians 5:21 and Philippians 3:9. “Rose that we would be free indeed” is the resurrection of 1 Corinthians 15 and the freedom of Romans 6 and John 8:36.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Christ is named. The cross is named. Substitution is named. The curse is named. Righteousness is named. The resurrection is named. The song does not stop at titles or atmosphere; it preaches the finished work.
+The song names the cross, substitution (“Jesus paid the price for me”), the broken curse, imputed righteousness, and the resurrection. Few gaps are left in the gospel inventory.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-The lyric declares what Christ has done. “How I love the voice of Jesus” and “I rejoice” are responses to those facts, not the substance of the song. The first-person voice is testimony, not a private vow that the congregation must specially mean. The score is 4 rather than 5 only because the voice stays singular for most of the song.
+The lyric declares what Christ has done. “How I love the voice of Jesus” and “I rejoice” are responses to those facts. The first person is testimony, and the leader does not need to qualify it. The score is 4 only because the voice stays singular for most of the song.
 
 ---
 
 ## Description of God’s Character: 4
 
-The song shows Christ as the one who finishes the work, pays the price, breaks the curse, and rises. The Father is the one who receives the clothed sinner. Holiness and justice appear in the curse and the payment. Love is implied in the pardon and the welcome. The attributes are tied to the cross rather than listed generically.
+Christ finishes the work, pays the price, breaks the curse, and rises. The Father receives the sinner clothed in Christ’s righteousness. Holiness and justice show in the curse and the payment, and love in the pardon and the welcome.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain and the claims are dense. The congregation can learn the gospel by singing these lines. The singular voice is the main limit, but the content is corporate in its doctrine. Singability is high, and the teaching is the reason for the 5.
+The claims are dense but the words are plain, and the congregation sings it often. A congregation that sings it learns justification by Christ’s righteousness and approaches the Father with confidence.
 
 ---
 
 ## Tone
 
-Reverent and declarative. It does not ask the room to confer on Christ anything He has not already accomplished.
+The tone is reverent and joyful. The joy rests on “It was finished.”
 
 ---
 
 ## What the congregation never says
 
-The congregation never explicitly says “we” for most of the song, and it never names the Spirit. Those are small gaps. The main gospel elements are present.
+The congregation never says “we” for most of the song and never names the Spirit. The main gospel elements are present.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Any text on the cross, substitution, justification, or the resurrection. Especially useful after a sermon on John 19, Galatians 3, Romans 3–5, or 1 Corinthians 15.
-- **Gaps the rest of the hour must cover.** Very little. A corporate “we” song or a Spirit-focused song can sit beside it if the service needs that voice.
-- **Diet sentence.** It adds a clear, dense confession of the finished work of Christ. It does not add much on the Spirit or on corporate identity beyond the resurrection lines.
-- **What not to do.** Do not cut the curse/righteousness stanza or the resurrection stanza. Do not treat the opening “How I love” as the main point of the song.
+- **When it serves the sermon.** Any text on the cross, substitution, justification, or the resurrection, especially John 19, Galatians 3, Romans 3–5, or 1 Corinthians 15.
+- **Gaps the rest of the hour must cover.** Very little. A corporate “we” song or a song about the Spirit can sit beside it.
+- **Diet sentence.** Adds a clear confession of the finished work, from the cross to the resurrection. It adds little on the Spirit or the church as a body.
+- **What not to do.** Do not cut the curse-and-righteousness stanza or the resurrection stanza, and do not treat the opening “How I love” as the main point.
 
 ---
 
 ## Identification notes
 
-One song. CCLI 7171907. Writers and year confirmed from CityAlight. Variants are key differences only if present on the setlists.
+This is one song. CCLI 7171907. Writers and year confirmed from CityAlight. Variants on file are key differences only, if present on the setlists.
 
 ---
 
 ## Why this overall label
 
-The lyric names the cross, the curse, the payment, the pardon, the clothing of righteousness, and the resurrection in ordinary language. It is dense enough to feature and clear enough for the congregation to sing. That is Excellent / Prefer.
+The song states the cross, substitution, the broken curse, imputed righteousness, and the resurrection in plain words a congregation can sing. Each line ties to a text.

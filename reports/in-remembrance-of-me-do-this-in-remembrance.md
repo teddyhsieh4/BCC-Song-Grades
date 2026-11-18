@@ -28,7 +28,7 @@ The Lord says this is his body given and the cup of the new covenant, and the pe
 
 Acceptable with notes
 
-Use sparingly, and only in the communion setting after Scripture has already named the gospel clearly. The verses quote the institution words (body given, cup of the new covenant, bread of life, Son of God who died). The chorus commands the table in remembrance. The text stays short and functional for the table. It does not unfold substitution or the resurrection. That is why it stays Acceptable with notes for communion use only.
+Use it only at the Lord’s Table, after Scripture has named the gospel clearly. The verses quote the words of institution (body given, cup of the new covenant, bread of life, the Son of God who died), and the chorus gives the command to remember. It is short and serves the table, but it never states the cross, substitution, or the resurrection. The church has sung it 8 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -44,25 +44,23 @@ Use sparingly, and only in the communion setting after Scripture has already nam
 
 Rubric version v1. Grade date 2026-10-28.
 
-5 = dense and precise. 4 = solid, minor gaps. 3 = true but thin. 2 = serious omission or mushy poetry. 1 = error or disqualifying confusion.
-
 ---
 
 ## Voice and addressee
 
-The verses are the words of the Lord (“This is My body given for you”). The chorus reports the command (“He said, ‘Do this in remembrance of Me’”). The voice is the institution words and the response at the table.
+The verses speak the Lord’s words (“This is My body given for you”). The chorus reports His command (“He said, ‘Do this in remembrance of Me’”). It is the words of institution and the church’s response at the table.
 
 ---
 
 ## How the text moves
 
-It opens with the institution words: body given, cup of the new covenant, forgiveness, the way made. It calls for a look inside before eating and drinking, then the command to do this in remembrance. The second verse repeats the pattern with the bread of life and the Son of God who died. The movement stays inside the table: the words of institution, the personal look, and the command to remember.
+Each verse gives the Lord’s words over the bread and cup, then asks the singer to look inward before eating. The chorus repeats the command to remember. The song stays at the table and does not move beyond it.
 
 ---
 
 ## Lines you cannot cut
 
-The institution lines (“This is my body given for you / This is the cup that holds the blood of the new covenant”) and the command (“He said, ‘Do this in remembrance of Me’”). Drop either and the song loses its tie to the table. Even with them, the gospel remains thin.
+The institution lines (“This is my body given for you / This is the cup that holds the blood of the new covenant”) and the command (“He said, ‘Do this in remembrance of Me’”). Without them the song is no longer tied to the table. Even with them, the gospel is thin.
 
 ---
 
@@ -93,75 +91,75 @@ The Son of God is named. Christ is named as the one whose love is poured out. Th
 
 ## Could another worshiper sing this unchanged?
 
-Mostly no once the institution words are sung. A vague theist can sing the personal look and the command to remember, but the body given, the new covenant, and the Son of God who died create tension.
+Mostly not, once the institution words are sung. A vague theist could sing the inward look and the command to remember, but “the blood of the new covenant” and “the Son of God who died” would give them pause.
 
 ---
 
 ## Unbiblical, non-biblical, thin
 
 - **Unbiblical:** none.
-- **Non-biblical:** “take a long look inside and tell me what you see” is more introspective than the ordinary sense of the institution texts.
-- **Thin:** “forgiveness simple and true” and “the love of Christ poured out on you” are true and underfed. The cross is not named in the sung text.
+- **Non-biblical:** “take a long look inside and tell me what you see” is more introspective than the institution texts themselves.
+- **Thin:** “forgiveness simple and true” and “the love of Christ poured out on you” are true but thin. The cross is not named in the sung text.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 3
 
-“This is my body given for you / This is the cup that holds the blood of the new covenant” follows the ordinary sense of the institution words (Luke 22:19–20, 1 Corinthians 11:23–25). “The Son of God who died for you” is consistent with the gospel. The lines are true. They are also thin: the sung text does not name the cross, substitution, propitiation, or the resurrection.
+“This is my body given for you / This is the cup that holds the blood of the new covenant” is the words of institution (Luke 22:19–20, 1 Corinthians 11:23–25). “The Son of God who died for you” fits the gospel. The lines are true and thin: the sung text does not name the cross, substitution, propitiation, or the resurrection.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 3
 
-Christ is named as the one who gives his body, the Son of God who died, and the one whose love is poured out. Substitution is implied in “given for you” and “died for you.” Explicit language of the cross, the blood’s work, the empty tomb, or imputed righteousness is absent from the sung text. The focus stays on the table and the command to remember.
+Christ gives His body, is the Son of God who died, and pours out His love. Substitution is implied in “given for you” and “died for you.” The cross, the work of the blood, the empty tomb, and imputed righteousness are not in the sung text.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-The institution words are objective. The “long look inside” introduces subjectivity. The claims about the body, the cup, and the Son of God remain objective.
+The institution words are objective. The “long look inside” is the one subjective turn, and it is the reason this is a 4.
 
 ---
 
 ## Description of God’s Character: 3
 
-The Son of God gives his body, holds the cup of the new covenant, makes the way, and died for you. Forgiveness and love are named. Holiness, justice, and sovereignty are not named. The description stays inside the table.
+The Son gives His body, offers the cup of the new covenant, makes the way, and dies for His people. Forgiveness and love are named. Holiness, justice, and sovereignty are not.
 
 ---
 
 ## Congregational Usefulness and Clarity: 3
 
-The diction is plain. The text is short and functional for the table. The congregation has already sung it in multiple years. Singability is high. The text does not teach the gospel beyond the institution words and the command to remember. It is useful only in the communion setting after Scripture has already done the work.
+The song is short and easy to sing at the table. It teaches the words of institution and the command to remember, and little beyond them, so it is useful only at communion after the Scripture reading.
 
 ---
 
 ## Tone
 
-Reverent. The language stays with the body given, the new covenant, and the command to remember. It does not ask the room to confer on God what He already possesses.
+The tone is quiet and reverent, as fits the table.
 
 ---
 
 ## What the congregation never says
 
-The Spirit’s work is not named. The cross is not named in the sung text. Explicit substitution beyond “given for you” and “died for you” is not expanded. The resurrection is absent. Pair the song with texts or songs that name the Spirit, the cross, or the satisfaction of justice when the sermon of the day requires them.
+The congregation never names the Spirit, the cross, or the resurrection, and substitution goes no further than “given for you” and “died for you.” At the table, pair it with Behold the Lamb (Getty), which names the Lamb slain for us and the blood that cleanses.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Communion only, after the institution words have been read from 1 Corinthians 11 or the Gospels. Do not use it as a teaching song outside the table.
-- **Gaps the rest of the hour must cover.** Explicit naming of the Spirit if the sermon requires it; a fuller statement of the cross, propitiation, and the resurrection if the text of the day is the cross or the empty tomb.
-- **Diet sentence.** Adds a short, functional remembrance for the table that quotes the institution words and commands the people to do this in remembrance. It does not add a dense confession of the finished work.
-- **What not to do.** Do not drop the institution lines or the command. Do not feature it outside communion. Do not tag it with a vague bridge that keeps the song inside the personal look inside.
+- **When it serves the sermon.** Communion only, after the words of institution have been read from 1 Corinthians 11 or the Gospels. Do not use it as a teaching song away from the table.
+- **Gaps the rest of the hour must cover.** The Spirit, if the sermon needs Him named, and a fuller statement of the cross, propitiation, and the resurrection on a cross or Easter text.
+- **Diet sentence.** Adds a short song of remembrance for the table. It does not add a confession of the finished work.
+- **What not to do.** Do not drop the institution lines or the command, do not use it away from communion, and do not add a tag that dwells on the inward look.
 
 ---
 
 ## Identification notes
 
-One song as catalogued (Cheri Keaggy). Catalog CCLI will use the published number 1849290. Variants on file are title phrasing and key notes (C, D), not different texts. The church sings verses and chorus only; the published bridge is not sung. If a dated setlist used a different communion text, grade that chart separately. Arrangement year is not on file.
+This is one song as catalogued (Cheri Keaggy). The catalog uses the published CCLI 1849290. Variants on file are title phrasing and key notes (C, D), not different texts. The church sings the verses and chorus only; the published bridge is not sung. If a dated setlist used a different communion text, grade that chart separately. Arrangement year is not on file.
 
 ---
 
 ## Why this overall label
 
-The verses quote the institution words and name the Son of God who died. The chorus commands the table in remembrance. The sung text is short and functional for the table and does not unfold the finished work. That is why it is Acceptable with notes for communion use only.
+The song quotes the words of institution and the command to remember, which serves the table. It is Acceptable with notes because the sung text never states the cross, substitution, or the resurrection.

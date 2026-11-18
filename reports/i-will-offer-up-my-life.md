@@ -27,7 +27,7 @@ The singer offers life as worship in spirit and truth, then asks what can be giv
 
 Acceptable with notes
 
-Use sparingly, and only when the rest of the set has already named the gospel clearly. The second verse states the cross, the defeat of sin, and the opened gates. The first verse and chorus stay on the offering of the broken heart and the debt of love owed by the thankful heart. Present-tense vows of surrender dominate the opening. Songs that need a weekly “only sing if you mean it” disclaimer are usually capped here. The gospel lines keep it from Weak, but the personal offering language keeps it from Strong.
+Use it sparingly, and only when the rest of the set has already named the gospel clearly. The second verse names the cross, the defeat of sin, and the opened gates of heaven. The first verse and chorus are personal vows of surrender and the debt of love. The cross lines keep it above Weak, and the weight of personal vows keeps it below Strong. The church has sung it 8 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -43,25 +43,23 @@ Use sparingly, and only when the rest of the set has already named the gospel cl
 
 Rubric version v1. Grade date 2026-10-28.
 
-5 = dense and precise. 4 = solid, minor gaps. 3 = true but thin. 2 = serious omission or mushy poetry. 1 = error or disqualifying confusion.
-
 ---
 
 ## Voice and addressee
 
-First-person singular throughout (“I will offer,” “my life,” “my shame,” “this thankful heart”). The chorus addresses Jesus. The voice is personal and offering-focused.
+First-person singular throughout (“I will offer,” “my life,” “my shame,” “this thankful heart”). The chorus addresses Jesus. The subject is the singer’s offering.
 
 ---
 
 ## How the text moves
 
-It opens with the vow to offer life in spirit and truth and the sacrifice of a broken heart. The chorus asks what can be given or said in response to the faithful Friend and loving King, then names the debt of love. The second verse turns to the cost paid in death on a cross, the shame taken away, the sin defeated, and the gates opened. The movement advances from the offering to the work that makes the offering possible, then returns to the same chorus.
+The first verse offers the singer’s life and broken heart. The chorus asks what can be given to so faithful a Friend and King. The second verse gives the reason, the cross, and the song then returns to the chorus.
 
 ---
 
 ## Lines you cannot cut
 
-The second verse (“You deserve my every breath for You've paid the great cost / Giving up Your life to death, even death on a cross / You took all my shame away, there defeated my sin / Opened up the gates of heaven and have beckoned me in”). Drop it and the song is only the offering of the broken heart. Even with it, the personal vow remains the frame.
+The second verse (“You deserve my every breath for You've paid the great cost / Giving up Your life to death, even death on a cross / You took all my shame away, there defeated my sin / Opened up the gates of heaven and have beckoned me in”). Without it, the song is only an offering of the heart. Even with it, the vow is the frame of the whole song.
 
 ---
 
@@ -92,75 +90,75 @@ Jesus is addressed as Friend, King, and Savior. God is addressed as Lord. The Sp
 
 ## Could another worshiper sing this unchanged?
 
-No. The second verse requires the one who paid the cost on the cross, defeated sin, and opened the gates. A vague theist cannot sing those lines without correction. The first verse and chorus can be sung by someone who means the offering but has not yet grasped the finished work.
+Not the whole song. The second verse needs the one who died on a cross and defeated sin. The first verse and chorus could be sung by someone who means the offering but does not know the finished work.
 
 ---
 
 ## Unbiblical, non-biblical, thin
 
 - **Unbiblical:** none.
-- **Non-biblical:** “pouring out the oil of love as my worship” is poetic and underfed.
-- **Thin:** “so faithful a friend, so loving a King” is true and underfed until the second verse names the cross. The debt of love is stated without unfolding what the cross accomplished beyond shame and the open gates.
+- **Non-biblical:** “pouring out the oil of love as my worship” is a poetic image with no clear claim behind it.
+- **Thin:** “so faithful a friend, so loving a King” is true but thin until the second verse names the cross. The song says little about what the cross accomplished beyond shame removed and gates opened.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 3
 
-“Giving up Your life to death, even death on a cross” follows the ordinary sense of Philippians 2:8. “You took all my shame away, there defeated my sin” and “opened up the gates of heaven” are consistent with the gospel. The lines are true. They are also thin: the song does not name substitution, propitiation, or the resurrection as clearly as the offering of the broken heart.
+“Giving up Your life to death, even death on a cross” is Philippians 2:8. “You took all my shame away, there defeated my sin” and “opened up the gates of heaven” fit the gospel. The lines are true and thin: the song names substitution, propitiation, and the resurrection less clearly than it names the offering of the heart.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 3
 
-Jesus is named as Friend, King, and Savior. The second verse states the cost of death on a cross and the defeat of sin. Substitution is implied. Explicit language of the blood, imputed righteousness, or the empty tomb is absent. The focus stays on the response of the thankful heart.
+Jesus is Friend, King, and Savior, and the second verse names His death on a cross and the defeat of sin. Substitution is implied. The blood, imputed righteousness, and the empty tomb are absent, and most of the song is about the thankful heart’s response.
 
 ---
 
 ## Objectivity vs. Subjectivity: 2
 
-The dominant voice is first-person singular vow and offering: “I will offer up my life,” “in surrender I must give my every part,” “receive the sacrifice of a broken heart.” High-claim present-tense vows without stronger gospel grounding in the frame of the song cap the score. The second verse supplies objective claims about the cross, but the song returns to the debt owed by this thankful heart.
+Most of the song is first-person vow and offering: “I will offer up my life,” “in surrender I must give my every part,” “receive the sacrifice of a broken heart.” Those large present-tense promises are not well grounded in the rest of the song, which is why this is a 2. The second verse supplies objective claims about the cross, and then the song returns to the debt of love.
 
 ---
 
 ## Description of God’s Character: 3
 
-Jesus is faithful, loving, the King who paid the cost, defeated sin, and opened the gates. The attributes are present once the second verse is sung. Holiness, justice, and sovereignty are not named. “Friend” and “loving King” remain general until the cross is stated.
+Jesus is faithful, loving, and the King who paid the cost and opened the gates. Holiness, justice, and sovereignty are not named, and “Friend” and “loving King” stay general until the second verse.
 
 ---
 
 ## Congregational Usefulness and Clarity: 3
 
-The diction is plain. The second verse teaches the cross and the opened gates. The first verse and chorus stay on the personal offering. The congregation has already sung it in multiple years. Singability is high, but the song teaches the response more than the finished work. It is useful only after Scripture or another song has already named the gospel clearly.
+The words are easy to sing, and the second verse teaches the cross. The rest of the song teaches the response more than the finished work, so it is useful only after Scripture or another song has named the gospel clearly.
 
 ---
 
 ## Tone
 
-Reverent in the second verse. The opening is more intimate and offering-focused. No line asks the room to confer on God what He already possesses.
+The second verse is reverent. The opening is more intimate, centered on the singer’s offering.
 
 ---
 
 ## What the congregation never says
 
-The Spirit’s work is not named. Explicit substitution beyond the cost paid on the cross is not expanded. The resurrection is only implied in the opened gates. The corporate voice is absent. Pair the song with texts or songs that name the Spirit, the satisfaction of justice, or the corporate people of God when the sermon of the day requires them.
+The congregation never names the Spirit, never states substitution beyond the cost paid, and only implies the resurrection in the opened gates. It never speaks as “we.” When the sermon needs propitiation, pair it with Jesus Thank You, whose chorus states it.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** After a clear gospel text (the cross, Philippians 2, the open gates of Hebrews) when the room is ready to respond. Do not use it as the main teaching song.
-- **Gaps the rest of the hour must cover.** Explicit naming of the Spirit if the sermon requires it; a fuller statement of propitiation and the corporate body if the text of the day is Romans 3 or 1 Corinthians 12.
-- **Diet sentence.** Adds a personal response that names the cost of the cross and the opened gates. It does not add a dense, corporate confession of the finished work.
-- **What not to do.** Do not drop the second verse. Do not feature it as the opener or the closer. Do not tag it with a vague bridge that keeps the song inside the offering of the broken heart.
+- **When it serves the sermon.** After a clear gospel text (the cross, Philippians 2, the opened way into God’s presence in Hebrews) when the room is ready to respond. Do not use it as the main teaching song.
+- **Gaps the rest of the hour must cover.** The Spirit, if the sermon needs Him named, and a fuller statement of propitiation and of the church as a body on a Romans 3 or 1 Corinthians 12 Sunday.
+- **Diet sentence.** Adds a personal response that names the cross. It does not add a corporate confession of the finished work.
+- **What not to do.** Do not drop the second verse, do not use it to open or close the service, and do not add a tag that repeats the vow.
 
 ---
 
 ## Identification notes
 
-One song. Catalog CCLI updated to SongSelect 1083764. Variants on file are title capitalization and key notes (D), not different texts. Arrangement year is not on file.
+This is one song. The catalog CCLI was updated to the SongSelect number, 1083764. Variants on file are title capitalization and key notes (D), not different texts. Arrangement year is not on file.
 
 ---
 
 ## Why this overall label
 
-The second verse states the cost of death on a cross, the defeat of sin, and the opened gates. The first verse and chorus stay on the personal offering of the broken heart and the debt of love. High-claim present-tense vows frame the song. That is why it is Acceptable with notes.
+The second verse names the cross and the opened gates, but the rest of the song is personal vows of surrender that the lyric does not ground well. It is useful as a response after the gospel has been sung elsewhere.

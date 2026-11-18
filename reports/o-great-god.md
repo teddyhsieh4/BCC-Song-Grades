@@ -27,7 +27,7 @@ The singer asks the great God of highest heaven to occupy the lowly heart, own i
 
 Excellent / Prefer
 
-Feature it. Verse 2 names the former blindness, the Spirit giving life, the opened Word, and the gospel of the Son. Keep that stanza. Verse 1 grounds the request in the love that purchased the singer. The whole text is a dense prayer of regeneration and consecration the congregation can own.
+Feature it, and keep verse 2: it names the singer’s former blindness, the Spirit giving life, the Word opened, and the gospel of the Son. Verse 1 grounds the prayer in the love that purchased the singer. The church has sung it 8 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 30 Oct 2026.
 
 ## Voice and addressee
 
-First-person singular addressing God. It is a prayer of confession and request. The congregation can own the confession of former blindness and the request for the heart to be occupied and the life to be dependent on grace.
+First-person singular, addressing God. It is a prayer of confession and request, and the whole congregation can own it.
 
 ---
 
 ## How the text moves
 
-It opens by addressing the great God of highest heaven and asking Him to occupy the lowly heart, own it all, reign supreme, and conquer every rebel power so that no vice or sin remains that resists His holy war. It then recalls the purchase: “You have loved and purchased me.” Verse 2 names the former state (blinded by sin, no ears, no taste for heaven’s joys) and the change: the Spirit gave life, opened the Word, and through the gospel of the Son gave endless hope and peace. Verse 3 asks for a life dependent on grace, for the heart to be kept and the soul guarded, and for the name to be glorified through every thought and deed.
+Verse 1 asks God to take over the heart and conquer the sin that remains, because He bought it. Verse 2 remembers how the Spirit gave life through the gospel. Verse 3 asks for a life that depends on grace and glorifies His name.
 
 ---
 
@@ -61,7 +61,7 @@ It opens by addressing the great God of highest heaven and asking Him to occupy 
 
 “Then Your Spirit gave me life / Opened up Your Word to me / Through the gospel of Your Son / Gave me endless hope and peace.”
 
-Dropping verse 2 leaves the request for occupation and reign without the named means of regeneration: the Spirit, the Word, and the gospel of the Son. Verse 1 still names the purchase, but the explicit gospel act is in those lines.
+Without verse 2, the prayer asks God to reign in the heart without saying how He first gave it life.
 
 ---
 
@@ -92,7 +92,7 @@ God is addressed as the great God of highest heaven. The Spirit is named as the 
 
 ## Could another worshiper sing this unchanged?
 
-No. The blindness of sin, the Spirit giving life, the opened Word, the gospel of the Son, and the purchase cannot be sung by a vague theist without correction. The request for the heart to be occupied and for sin to be conquered is grounded in that gospel act.
+No. A vague theist could not sing “Through the gospel of Your Son” or “You have loved and purchased me” without changing them.
 
 ---
 
@@ -100,67 +100,67 @@ No. The blindness of sin, the Spirit giving life, the opened Word, the gospel of
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** none that matter. The lyric is specific about the former blindness, the Spirit’s work, the Word, the gospel of the Son, and the purchase.
+- **Thin:** none that matter.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“I was blinded by my sin / Had no ears to hear Your voice” is the ordinary sense of Ephesians 2:1–3 and 2 Corinthians 4:4. “Then Your Spirit gave me life / Opened up Your Word to me / Through the gospel of Your Son” is John 3:5–8, Ephesians 2:4–5, and Romans 10:17. “You have loved and purchased me” is 1 Corinthians 6:19–20 and Ephesians 1:7. “Own it all and reign supreme / Conquer every rebel power” is the ordinary sense of Romans 6 and the request of Psalm 51. The lines stay inside ordinary biblical sense. The text is based on the Valley of Vision prayer “Regeneration,” and the biblical claims remain clear.
+“I was blinded by my sin / Had no ears to hear Your voice” is Ephesians 2:1–3 and 2 Corinthians 4:4. “Then Your Spirit gave me life / Opened up Your Word to me / Through the gospel of Your Son” is John 3:5–8, Ephesians 2:4–5, and Romans 10:17. “You have loved and purchased me” is 1 Corinthians 6:19–20 and Ephesians 1:7. “Own it all and reign supreme / Conquer every rebel power” is Romans 6 and the request of Psalm 51. The text is based on the Valley of Vision prayer “Regeneration,” and the biblical claims remain clear.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 4
 
-The Son is named through the gospel. The purchase is named. The Spirit’s life-giving work is named. The lyric does not narrate the cross or the resurrection in detail. The score is 4 because the finished work appears as the gospel of the Son and the purchase rather than as an explicit account of the substitutionary death and empty tomb. The gospel is present and required for the song.
+The Son is named through His gospel, and the purchase is named in verse 1. The cross and resurrection are not told in detail, which is why this is a 4. The gospel is still the reason for every request in the song.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-The second stanza declares what the Spirit and the gospel have done. The first and third stanzas are requests and confessions. Those requests are grounded in the purchase and the Spirit’s work, which is why the score is 4 rather than 5. The singer does not make high-claim present-tense vows without grounding. The prayer rests on what God has already done.
+Verse 2 declares what the Spirit and the gospel have done. Verses 1 and 3 are requests, and they are why the score is 4. Each request rests on what God has already done.
 
 ---
 
 ## Description of God’s Character: 4
 
-God is the great God of highest heaven who occupies, owns, reigns, conquers, loves, purchases, and gives life by the Spirit through the gospel. He is worthy to be praised. The attributes are specific and tied to the purchase and the regenerating work. Holiness appears as the holy war against remaining sin. The score is 4 because the lyric stays focused on the regenerating and sanctifying work rather than a broader list of attributes.
+God reigns from highest heaven, loves and purchases His people, gives life by His Spirit, and wages holy war on the sin that remains in them. All three Persons are named. The score is 4 because the song stays with God’s work of new birth and holiness.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. Verse 2 teaches the former blindness, the Spirit’s life-giving work, the opened Word, and the gospel of the Son. The congregation can learn regeneration by singing those lines. The singular voice is testimony and prayer the whole church can own. Singability is high, and the teaching is the reason for the 5. Keep verse 2 so the request for occupation stays attached to the gospel.
+Verse 2 teaches regeneration plainly: blind, then given life by the Spirit through the gospel. It also names all three Persons and their work in salvation.
 
 ---
 
 ## Tone
 
-Reverent and honest. It does not ask the room to confer on God what He has not already done. The intensity stays inside the purchase, the Spirit’s work, and the request for remaining sin to be conquered.
+The tone is reverent and honest. It admits remaining sin and asks God to conquer it.
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the resurrection or the present intercession. Those are small gaps. The main gospel elements of the purchase, the Spirit giving life, and the gospel of the Son are present.
+The congregation never names the resurrection or Christ’s present intercession, and the cross is not told in detail. When the sermon needs the cross, pair it with The Glory of the Cross.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Ephesians 2, John 3, Romans 6, Psalm 51, any text on regeneration, the Spirit’s work, or the request for remaining sin to be conquered. Especially useful after a sermon that has named the former blindness and the gospel of the Son.
-- **Gaps the rest of the hour must cover.** The resurrection and a fuller naming of the cross if the service has not already supplied them.
-- **Diet sentence.** It adds a dense prayer that names the former blindness, the Spirit giving life through the gospel of the Son, and the purchase, then asks for the heart to be occupied and the life to depend on grace. It does not add a full narrative of the empty tomb.
-- **What not to do.** Do not drop verse 2. Do not let the requests of verses 1 and 3 stand alone without the named gospel of the Son.
+- **When it serves the sermon.** Ephesians 2, John 3, Romans 6, Psalm 51, or any text on regeneration, the Spirit’s work, or the fight against remaining sin.
+- **Gaps the rest of the hour must cover.** The cross and the resurrection, if the service has not named them.
+- **Diet sentence.** Adds a prayer for new birth and holiness that names all three Persons. It does not add the cross in detail or the empty tomb.
+- **What not to do.** Do not drop verse 2, and do not sing the requests in verses 1 and 3 without it.
 
 ---
 
 ## Identification notes
 
-One song. Text and music by Bob Kauflin, 2006. CCLI 4804015. Sovereign Grace. Based on the Valley of Vision prayer “Regeneration.” Variants are key differences only.
+This is one song. Text and music by Bob Kauflin, 2006. CCLI 4804015. Sovereign Grace. Based on the Valley of Vision prayer “Regeneration.” Variants on file are key differences only.
 
 ---
 
 ## Why this overall label
 
-The lyric names the former blindness of sin, the Spirit giving life, the opened Word, the gospel of the Son, and the purchase, then asks the great God of highest heaven to occupy the heart and conquer every rebel power. That is dense, precise, and Scripture-shaped. It is Excellent / Prefer. Feature it. Keep verse 2.
+The song is a prayer for God to rule the heart, grounded in the Spirit’s gift of new life through the gospel of the Son. Each line ties to a text.

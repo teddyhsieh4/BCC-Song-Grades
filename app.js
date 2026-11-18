@@ -147,6 +147,14 @@ function haystack(song) {
   ].join(" ").toLowerCase();
 }
 
+/* Graded rows show the five scores in small type, with short names. */
+function rowScores(song) {
+  if (!song.scores || typeof BCC_GRADES === "undefined" || !BCC_GRADES.DIMENSIONS) return "";
+  const parts = BCC_GRADES.DIMENSIONS.filter((d) => Number.isInteger(song.scores[d.key])).map((d) =>
+    `<span title="${esc(d.label)}"><i class="full">${esc(d.short || d.label)}</i><i class="tiny">${esc(d.tiny || d.short || d.label)}</i> <b>${song.scores[d.key]}</b></span>`);
+  return parts.length ? `<p class="row-scores" aria-label="Scores out of 5">${parts.join("")}</p>` : "";
+}
+
 function renderList(songs) {
   const host = $("#results");
   const count = $("#count");
@@ -162,6 +170,7 @@ function renderList(songs) {
       <h2>${esc(s.title)}</h2>
       <span class="badge ${badgeClass(s)}">${esc(statusLabel(s))}</span>
       <p class="meta">${esc(s.writers)}${s.year ? " · " + esc(s.year) : ""}${s.ccli ? " · CCLI " + esc(s.ccli) : ""} · ${s.timesLogged} logged</p>
+      ${rowScores(s)}
     </a>
   `).join("");
 }
@@ -201,6 +210,17 @@ function sortSongs(songs, how) {
       if (ra === -1) return 1;
       if (rb === -1) return -1;
       return rb - ra || byTitle(a, b);
+    });
+  }
+  if (how === "recent") {
+    /* Newest gradeDate first. Ungraded songs go last. */
+    return list.sort((a, b) => {
+      const da = a.status === "graded" ? a.gradeDate || "" : "";
+      const db = b.status === "graded" ? b.gradeDate || "" : "";
+      if (!da && !db) return byTitle(a, b);
+      if (!da) return 1;
+      if (!db) return -1;
+      return db.localeCompare(da) || byTitle(a, b);
     });
   }
   return list.sort(byTitle);

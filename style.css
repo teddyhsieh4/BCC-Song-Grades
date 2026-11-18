@@ -292,6 +292,11 @@ footer { max-width: 980px; margin: 2.5rem auto 0; padding: 1.2rem 1.25rem 2rem; 
 .list.catalog .row h2 { grid-column: 1; grid-row: 1; }
 .list.catalog .row .badge { grid-column: 2; grid-row: 1; justify-self: end; }
 .list.catalog .row .meta { grid-column: 1 / -1; grid-row: 2; margin: 0; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.list.catalog .row .row-scores { grid-column: 1 / -1; grid-row: 3; margin: 0.1rem 0 0; display: flex; flex-wrap: wrap; gap: 0.1rem 0.9rem; color: var(--muted); font-size: 0.8rem; }
+.row-scores span { white-space: nowrap; }
+.row-scores b { color: var(--ink); font-weight: 650; font-variant-numeric: tabular-nums; }
+.row-scores i { font-style: normal; }
+.row-scores .tiny { display: none; }
 
 /* Song page: score bars */
 .scorebars { display: grid; gap: 0.5rem; margin: 0.2rem 0 1.2rem; max-width: 40rem; }
@@ -386,6 +391,9 @@ details.rsec > .rbody > :first-child { margin-top: 0; }
   .list.catalog .row { grid-template-columns: minmax(0, 1fr) auto; gap: 0.6rem; padding: 0.7rem 0.8rem; }
   .list.catalog .row .badge { grid-column: 2; justify-self: end; margin-top: 0.1rem; white-space: normal; text-align: center; max-width: 8.5rem; }
   .list.catalog .row h2 { font-size: 1.02rem; }
+  .list.catalog .row .row-scores { gap: 0 0.7rem; flex-wrap: nowrap; overflow: hidden; }
+  .row-scores .full { display: none; }
+  .row-scores .tiny { display: inline; }
 
   /* Song page: label and number on one line, bar underneath */
   .scoreline { grid-template-columns: minmax(0, 1fr) auto; gap: 0.2rem 0.6rem; font-size: 0.92rem; }

@@ -27,7 +27,7 @@ Though the nations rage and kingdoms rise and fall, there is still one King reig
 
 Strong
 
-Use it regularly as a confession of the eternal reign of the Ancient of Days and the coming of the Saviour King. The lyric is specific about the King, the throne, and the final face to face. Pair it with a denser cross or substitution song if the service has not already named the finished work more fully. The third verse is the one that must stay.
+Use it regularly to confess the eternal reign of the Ancient of Days and the coming of the Saviour King. Keep the third verse, because it is where the Saviour King and the final face to face are named. When the service has not already named the cross, pair it with a song that does. The church has sung it 9 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 22 Oct 2026.
 
 ## Voice and addressee
 
-First-person singular speaking of the God who is the Ancient of Days. The claims are objective and can be owned by the congregation. It is declaration of the reign and the coming King.
+First-person singular, speaking about God rather than to Him. The claims are objective, so the whole congregation can own them.
 
 ---
 
 ## How the text moves
 
-It starts with the raging of nations and the rise and fall of kingdoms, set against the one King reigning over all. The chorus names that none is above or before Him, that all of time is in His hands, and that the throne remains. The second verse faces the dread of night and rests on the sure love and the knowing of the name. The third verse commits to watch and wait for the Saviour King, with joy complete standing face to face in His presence. Each stanza rests on the eternal reign.
+The first verse sets the raging nations against the one King who reigns over all, and the chorus answers that none is above or before Him and His throne remains. The second verse brings that reign into the dread of night. The third verse turns to watching for the Saviour King and standing face to face in His presence.
 
 ---
 
@@ -61,7 +61,7 @@ It starts with the raging of nations and the rise and fall of kingdoms, set agai
 
 “I will watch and wait / For the Saviour King / Then my joy complete standing face to face / In the presence of the Ancient of Days.”
 
-Without that stanza the song is a strong confession of the eternal throne. With it, the song names the coming Saviour King and the final presence. The chorus is also required as the governing claim.
+Without this stanza the song confesses the eternal throne but never names the Saviour or the final presence. The chorus must stay as well, because it carries the main claim.
 
 ---
 
@@ -86,13 +86,13 @@ Without that stanza the song is a strong confession of the eternal throne. With 
 
 ## Persons of the Trinity named
 
-God is named as the Ancient of Days. The Saviour King is named. The Spirit is not named. The lyric stays within the eternal King and the coming Saviour.
+God is named as the Ancient of Days, and the Saviour King is named. The Spirit is not named.
 
 ---
 
 ## Could another worshiper sing this unchanged?
 
-A theist who affirms one eternal King could sing most of the song. The naming of the Saviour King and the final face to face keep the whole from being usable by a vague theist without correction.
+Mostly yes. Any theist who believes in one eternal King could sing the first two verses and the chorus. The Saviour King and the final face to face in the third verse are what a vague theist would have to change.
 
 ---
 
@@ -100,58 +100,58 @@ A theist who affirms one eternal King could sing most of the song. The naming of
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** the finished work. The lyric names the Saviour King and the final presence but does not unfold the cross, the blood, or the resurrection. The reign is specific and true.
+- **Thin:** the finished work. The lyric names the Saviour King and the final presence, but not the cross, the blood, or the resurrection.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 4
 
-“The Ancient of Days” is Daniel 7. “None above Him, none before Him” is the ordinary sense of the uniqueness of God in Isaiah 40–46. “All of time in His hands” is the ordinary sense of the sovereignty of the Creator. “I will watch and wait / For the Saviour King” is the ordinary sense of the return of Christ. The lines stay inside the texts. The score is 4 rather than 5 because the finished work is not unfolded.
+“The Ancient of Days” is Daniel 7. “None above Him, none before Him” is the uniqueness of God in Isaiah 40–46. “All of time in His hands” is the Creator’s rule over history. “I will watch and wait / For the Saviour King” is the return of Christ. The score is 4 and not 5 because the finished work is not stated.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 4
 
-The Saviour King is named. The final face to face is named. The song does not stop at titles. It does not preach the cross or the blood, which is why the score is 4 rather than 5. The reign and the coming are clear.
+The Saviour King and the final face to face are named, and the reign and the coming are clear. The cross and the blood are not, which is why this is a 4.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The lyric declares the one King, the throne that remains, and the coming Saviour. “I will not fear” and “I will watch and wait” are responses to those facts. There are no private vows that float free of the reign. The voice is testimony the church can own.
+The lyric declares the one King, the throne that remains, and the coming Saviour. “I will not fear” and “I will watch and wait” answer those facts, so the first person never drifts into private vows.
 
 ---
 
 ## Description of God’s Character: 5
 
-God is the Ancient of Days. He is the one King reigning over all. None is above or before Him. All of time is in His hands. His throne shall remain and ever stand. He has all the power and all the glory. He is present in the dread of night. His love is sure. He knows the name. He is the Saviour King. The attributes are specific and tied to the eternal reign rather than listed generically.
+God is the Ancient of Days, the one King over all, with none above or before Him. Time is in His hands, His throne stands, and all power and glory are His. He is present in the dread of night, His love is sure, and He knows His people by name. Each attribute comes from the eternal reign.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. The claims are clear. The congregation can learn the eternal reign of the Ancient of Days and the coming of the Saviour King by singing these lines. Singability is high, and the teaching is real, so the score is 5.
+The words are plain and the claims are clear. A congregation that sings it learns the eternal reign of the Ancient of Days and the coming of the Saviour King, which is why it earns a 5.
 
 ---
 
 ## Tone
 
-Reverent and steady. It does not ask the room to confer on God anything He does not already possess. The intensity stays inside the throne and the coming King.
+Reverent and steady, the calm of people who know who sits on the throne.
 
 ---
 
 ## What the congregation never says
 
-The congregation never unfolds the cross, the blood, or the resurrection, and it never names the Spirit. Those confessions have to come from the rest of the service. The Saviour King and the final presence are named.
+The congregation never names the cross, the blood, the resurrection, or the Spirit. When the service needs them, pair it with In Christ Alone.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Daniel 7, any text on the eternal reign of God, the uniqueness of the King, or the return of Christ. Useful as a response after a sermon that has already named the finished work.
-- **Gaps the rest of the hour must cover.** The cross, the blood, and the resurrection if the service has not already supplied them.
-- **Diet sentence.** It adds a clear confession of the one King who is the Ancient of Days and the Saviour who is coming. It does not add a full narrative of the finished work.
-- **What not to do.** Do not drop the third verse. Do not let the chorus stand alone without the Saviour King.
+- **When it serves the sermon.** Daniel 7, or any text on God’s eternal reign, the uniqueness of the King, or the return of Christ. It works well as a response after a sermon that has named the finished work.
+- **Gaps the rest of the hour must cover.** The cross, the blood, and the resurrection, if the service has not already named them.
+- **Diet sentence.** Adds a clear confession of the one King who is the Ancient of Days and the Saviour who is coming. It does not add the finished work.
+- **What not to do.** Do not drop the third verse, and do not let the chorus stand without it.
 
 ---
 
@@ -163,4 +163,4 @@ One song. CCLI 7121851. Writers Jonny Robinson, Rich Thompson, Michael Farren, J
 
 ## Why this overall label
 
-The lyric names the one King reigning over all, the Ancient of Days whose throne remains, and the Saviour King for whom the singer watches and waits. That is enough for regular use. The absence of the cross and the blood keeps it at Strong rather than Excellent / Prefer. Keep the third verse and supply a fuller gospel confession elsewhere if the service needs it.
+The lyric names the one King over all, the Ancient of Days whose throne remains, and the Saviour King the singer waits for. That is enough for regular use. It is Strong and not Excellent / Prefer because the cross and the blood are absent.

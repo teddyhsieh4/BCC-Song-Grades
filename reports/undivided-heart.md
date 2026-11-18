@@ -27,7 +27,7 @@ The singer asks the Lord to teach His way so that the singer will walk in His tr
 
 Acceptable with notes
 
-Use it sparingly when the rest of the set supplies the gospel. The lyric is a clear prayer drawn from Psalm 86 and the first commandment. It does not name the finished work of Christ, the cross, the resurrection, or the Spirit’s work in purifying the heart. The congregation can own the request for an undivided heart, but the song does not teach why the heart can be undivided or how the fear of the Lord is possible for a sinner.
+Use it occasionally, when the rest of the set supplies the gospel. It is a clear prayer drawn from Psalm 86:11 and the first commandment. It never names Christ’s work, the cross, the resurrection, or the Spirit who purifies the heart, so it cannot say how a sinner comes to have an undivided heart. The church has sung it 7 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 2 Nov 2026.
 
 ## Voice and addressee
 
-First-person singular addressing the Lord. It is a prayer of request. The congregation can own the request for an undivided heart and the commitment to walk in the Lord’s truth. The personal lines are grounded in the ordinary request of Psalm 86, not in high-claim present-tense vows without grounding.
+First-person singular, a prayer of request addressed to the Lord. The congregation can pray it together, and its promise to walk in His truth comes straight from Psalm 86.
 
 ---
 
 ## How the text moves
 
-It opens with the request of Psalm 86:11: “Teach me Your way oh Lord / And I will walk in Your truth / Show me Your paths oh Lord / For I am devoted to You.” It continues with the request to purify the heart’s desire and the longing to be the Lord’s servant. The chorus is the repeated request: “Give me an undivided heart / That I may fear Your name / Give me an undivided heart / No other gods, no other love / No other gods before You.” The text does not move beyond the request to the finished work that makes the request possible.
+It opens by praying Psalm 86:11, asking the Lord to teach His way, and then asks Him to purify the heart’s desires. The chorus repeats the request for an undivided heart that fears His name and has no other gods. The song stays a request from start to finish.
 
 ---
 
@@ -61,7 +61,7 @@ It opens with the request of Psalm 86:11: “Teach me Your way oh Lord / And I w
 
 “No other gods, no other love / No other gods before You.”
 
-Dropping those lines leaves the request for an undivided heart without the clear naming of the first commandment. The rest of the lyric is still a clear prayer for an undivided heart and the fear of the Lord, but the exclusion of other gods is the most specific doctrinal line in the song.
+This is the first commandment, and it is the most specific doctrinal line in the song. Without it the prayer for an undivided heart is still clear, but it loses its sharpest edge.
 
 ---
 
@@ -86,13 +86,13 @@ Dropping those lines leaves the request for an undivided heart without the clear
 
 ## Persons of the Trinity named
 
-The Lord is named. The Son and the Spirit are not named. The work of the Son is not named.
+The Lord is named. The Son and the Spirit are not, and neither is the Son’s work.
 
 ---
 
 ## Could another worshiper sing this unchanged?
 
-Yes. A vague theist who fears a higher power and wants an undivided heart can sing the request without correction. The first commandment is named, but the finished work that makes the fear of the Lord possible for a sinner is not named. The song does not require the gospel of the Son.
+Yes. Anyone who fears a higher power and wants a whole heart could pray every line. The first commandment is there, but nothing requires the gospel of the Son.
 
 ---
 
@@ -100,67 +100,67 @@ Yes. A vague theist who fears a higher power and wants an undivided heart can si
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** the lyric is a clear prayer from Psalm 86 and the first commandment, but it does not name the finished work of Christ that makes the request possible. The gospel is absent.
+- **Thin:** the gospel. The prayer from Psalm 86 and the first commandment is clear, but it never names the finished work of Christ that makes the request possible.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 4
 
-“Teach me Your way oh Lord / And I will walk in Your truth” is the ordinary sense of Psalm 86:11. “Give me an undivided heart / That I may fear Your name” is the ordinary sense of Psalm 86:11 and Deuteronomy 6:5. “No other gods, no other love / No other gods before You” is the ordinary sense of Exodus 20:3 and Deuteronomy 6:14. The lines stay inside ordinary biblical sense. The score is 4 rather than 5 because the lyric does not name the finished work that makes the undivided heart possible. The request is accurate; the gospel that grounds the request is absent.
+“Teach me Your way oh Lord / And I will walk in Your truth” is Psalm 86:11. “Give me an undivided heart / That I may fear Your name” is Psalm 86:11 and Deuteronomy 6:5. “No other gods, no other love / No other gods before You” is Exodus 20:3 and Deuteronomy 6:14. Every request is accurate. The score is 4 and not 5 because the gospel that makes an undivided heart possible is missing.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 2
 
-The Lord is named. The first commandment is named. The finished work of Christ is not named. There is no cross, no substitution, no resurrection, and no naming of the Son. The score is 2 because the gospel is omitted. The song can be sung without tension by a person who does not know the finished work of the Son.
+The Lord and the first commandment are named. There is no cross, substitution, resurrection, or Son. Someone who does not know the finished work could sing it without a pause, so the score is 2.
 
 ---
 
 ## Objectivity vs. Subjectivity: 3
 
-The text is a prayer of request. The request is grounded in the ordinary language of Psalm 86 and the first commandment. The singer does not make high-claim present-tense vows without grounding. The score is 3 because the prayer does not declare what the Lord has already done in the gospel. It remains a request without the finished work that makes the request possible.
+The whole song is a request, in the words of Psalm 86 and the first commandment, and the singer makes no vow beyond the psalm’s. The score is 3 because the prayer never declares what the Lord has already done in the gospel.
 
 ---
 
 ## Description of God’s Character: 3
 
-The Lord is the one who teaches His way, shows His paths, and is to be feared. He is the one before whom there are to be no other gods. The attributes are specific to the first commandment and the fear of the Lord. The score is 3 because the lyric does not name the holiness, justice, or love that appear in the finished work of the Son. The description stays inside the request for an undivided heart.
+The Lord teaches His way, shows His paths, is to be feared, and allows no rival gods. His holiness, justice, and love as shown in the work of His Son are not named, which is why this is a 3.
 
 ---
 
 ## Congregational Usefulness and Clarity: 3
 
-The language is plain. The congregation can learn the request of Psalm 86:11 and the first commandment by singing these lines. The singular voice is a prayer the whole church can own. The score is 3 because the song does not teach the finished work that makes the undivided heart possible. It is useful when the rest of the set has already named the cross and the empty tomb. It is not useful as a song that teaches the gospel on its own.
+The words are plain, and a congregation that sings it learns Psalm 86:11 and the first commandment. It does not learn how God gives a sinner an undivided heart, so the score is 3.
 
 ---
 
 ## Tone
 
-Reverent and honest as a prayer. It does not ask the room to confer on the Lord what He has not already done. The intensity stays inside the request for an undivided heart and the exclusion of other gods.
+Reverent and earnest, a quiet prayer for a whole heart.
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the Son, the cross, the resurrection, or the Spirit. Those are not small gaps in this lyric. The main request of Psalm 86 and the first commandment are present; the gospel that grounds the request is absent.
+The congregation never names the Son, the cross, the resurrection, or the Spirit. For this lyric that is a real gap: the prayer is present, but the gospel under it is not. Pair it with O Lord, My Rock and My Redeemer.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Psalm 86, Exodus 20, Deuteronomy 6, any text on the undivided heart or the first commandment. Especially useful after a sermon that has already named the finished work of Christ and the Spirit’s work in purifying the heart.
-- **Gaps the rest of the hour must cover.** The finished work of the Son, the cross, the resurrection, and the Spirit’s work in the heart. The song does not supply them.
-- **Diet sentence.** It adds a clear prayer for an undivided heart that fears the Lord’s name and excludes other gods. It does not add the gospel of the Son that makes the request possible.
-- **What not to do.** Do not feature it as a song that teaches the gospel. Do not let it stand alone without the finished work already named in the service.
+- **When it serves the sermon.** Psalm 86, Exodus 20, Deuteronomy 6, or any text on the undivided heart or the first commandment. It fits best after a sermon that has named the finished work and the Spirit’s work in the heart.
+- **Gaps the rest of the hour must cover.** The Son’s finished work, the cross, the resurrection, and the Spirit’s work in the heart.
+- **Diet sentence.** Adds a clear prayer for a heart that fears the Lord and has no other gods. It does not add the gospel of the Son.
+- **What not to do.** Do not use it as the song that teaches the gospel, or in a set where nothing else names the cross.
 
 ---
 
 ## Identification notes
 
-One song. Text and music by Brian Doerksen, Cindy Rethmeier, and Daphne Rademaker, 1994. CCLI 755103. Vineyard. From the album Refiner’s Fire.
+One song. Text and music by Brian Doerksen, Cindy Rethmeier, and Daphne Rademaker, 1994, from the Vineyard album Refiner’s Fire. CCLI 755103.
 
 ---
 
 ## Why this overall label
 
-The lyric is a clear and accurate prayer from Psalm 86:11 and the first commandment. It does not name the finished work of Christ. That is a serious omission for this church. It is Acceptable with notes. Use it sparingly when the rest of the set has already named the cross, the empty tomb, and the Spirit’s work. Keep the lines about no other gods.
+The lyric is a clear and accurate prayer from Psalm 86:11 and the first commandment. It never names the finished work of Christ, and for this church that is a serious gap. It is Acceptable with notes: use it occasionally, with the cross named elsewhere, and keep the line about no other gods.

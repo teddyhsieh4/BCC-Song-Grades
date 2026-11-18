@@ -27,7 +27,7 @@ The singer addresses the Light of the world who stepped down into darkness, open
 
 Acceptable with notes
 
-Use it sparingly when the rest of the set supplies what the song lacks. The lyric names the Light of the world who stepped down into darkness, the King who became poor for love’s sake, and the cost of seeing the singer’s sin upon the cross. Keep those lines. The gospel is present in the named cross and the cost of the sin. The rest of the lyric is true but thinner.
+Use it occasionally, when the rest of the set supplies what it lacks. Keep the second verse and the bridge, which name the King who became poor for love’s sake and the cost of seeing the singer’s sin on the cross. The chorus is true but generic. The church has sung it 7 times across at least three years of the 2023–2026 window.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 2 Nov 2026.
 
 ## Voice and addressee
 
-Mostly first-person singular addressing the Lord. It is declaration and response. The congregation can own the confession that the Light of the world stepped down into darkness, that the King became poor for love’s sake, and that the singer will never know how much it cost to see his sin upon the cross.
+First-person singular, addressed to the Lord. It moves between declaration of what He did and the singer’s response, and the congregation can own both.
 
 ---
 
 ## How the text moves
 
-It opens by addressing the Light of the world who stepped down into darkness, opened the singer’s eyes, and is the hope of a life spent with Him. The chorus is the response: “Here I am to worship / Here I am to bow down / Here I am to say that You’re my God / You’re altogether lovely / Altogether worthy / Altogether wonderful to me.” Verse 2 names the King of all days, highly exalted, glorious in heaven above, who humbly came to the earth He created and all for love’s sake became poor. The bridge names the cost: “I’ll never know how much it cost / To see my sin upon that cross.”
+The first verse names the Light of the world who stepped down into darkness, and the second the King who came humbly to the earth He made. Each verse answers with the chorus of worship and its three “altogether” lines. The bridge names the cost of the singer’s sin at the cross.
 
 ---
 
@@ -61,7 +61,7 @@ It opens by addressing the Light of the world who stepped down into darkness, op
 
 “I’ll never know how much it cost / To see my sin upon that cross” and “Humbly You came to the earth You created / All for love’s sake became poor.”
 
-Dropping those lines leaves the response of worship without the named cost of the sin upon the cross and the King who became poor for love’s sake. The rest of the lyric still names the Light of the world and the altogether lovely, but the specific gospel act that shows why the singer is here to worship is in those lines.
+Without these lines the chorus of worship has no reason behind it. The incarnation and the cross are the only places the song says why the singer is here to worship.
 
 ---
 
@@ -86,13 +86,13 @@ Dropping those lines leaves the response of worship without the named cost of th
 
 ## Persons of the Trinity named
 
-The Lord is named as the Light of the world and the King of all days. The Father and the Spirit are not named. The work of the Son is explicit in the incarnation and the cross.
+The Lord is addressed as the Light of the world and the King of all days, and the incarnation and the cross make Him the Son. The name Jesus is never sung. The Father and the Spirit are not named.
 
 ---
 
 ## Could another worshiper sing this unchanged?
 
-No. The Light of the world who stepped down into darkness, the King who became poor for love’s sake, and the cost of seeing the singer’s sin upon the cross cannot be sung by a vague theist without correction. The response of worship is tied to that finished work.
+No. A vague theist could sing the chorus, but not a Creator who came to His own earth and became poor, or the singer’s sin seen on the cross.
 
 ---
 
@@ -100,67 +100,67 @@ No. The Light of the world who stepped down into darkness, the King who became p
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** “You’re altogether lovely / Altogether worthy / Altogether wonderful to me.” These lines are true but generic. They do not unfold a text. The gospel is present in the named cross and the cost of the sin, but the response is thinner than the named work.
+- **Thin:** “You’re altogether lovely / Altogether worthy / Altogether wonderful to me.” These lines are true but generic and do not draw on a particular text. They carry most of the singing time.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 4
 
-“Light of the world / You stepped down into darkness” is the ordinary sense of John 8:12 and Philippians 2:6–7. “Humbly You came to the earth You created / All for love’s sake became poor” is the ordinary sense of 2 Corinthians 8:9 and Philippians 2:7. “I’ll never know how much it cost / To see my sin upon that cross” is the ordinary sense of 1 Peter 2:24 and Romans 5:8. The lines stay inside ordinary biblical sense. The score is 4 rather than 5 because the response lines are generic true statements that do not unfold a text in further detail.
+“Light of the world / You stepped down into darkness” is John 8:12 and Philippians 2:6–7. “Humbly You came to the earth You created / All for love’s sake became poor” is 2 Corinthians 8:9 and Philippians 2:7. “I’ll never know how much it cost / To see my sin upon that cross” is 1 Peter 2:24 and Romans 5:8. Every claim is accurate. The score is 4 and not 5 because the chorus lines are general rather than drawn from a text.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 3
 
-The Lord is named as the Light of the world who stepped down into darkness and the King who became poor for love’s sake. The cross is named, and the cost of seeing the singer’s sin upon it is named. The score is 3 rather than 4 because the lyric does not name the Son, the resurrection, or the substitution in further detail. The gospel is present in the named cross and the cost of the sin, which is why the score is 3 rather than 2.
+The song names the incarnation, the cross, and the singer’s sin laid on it. It never names Jesus, the resurrection, or what the cross accomplished, which is why this is a 3. It is not a 2 because the cross and the singer’s sin are clearly there.
 
 ---
 
 ## Objectivity vs. Subjectivity: 3
 
-The text is declaration of what the Lord has done and of the ordinary response of worship. The first-person singular is testimony grounded in the Light of the world who stepped down into darkness and the cost of seeing the singer’s sin upon the cross. The singer does not make high-claim present-tense vows without grounding. The score is 3 because the response is thinner than the named work.
+The verses and bridge declare what the Lord did. The chorus is the singer’s response, and it fills most of the song. The response rests on the incarnation and the cross, but its share of the lyric holds the score at 3.
 
 ---
 
 ## Description of God’s Character: 3
 
-The Lord is the Light of the world who stepped down into darkness, the King of all days highly exalted, the one who humbly came to the earth He created and became poor for love’s sake, and the one whose cost is seen in the sin upon the cross. The attributes are specific in the incarnation and the cross, but the response lines are generic. Holiness and justice appear as the cost of the sin upon the cross. The score is 3 because the lyric stays focused on the response rather than a fuller description of the attributes.
+He is the Light of the world, the King of all days, highly exalted and glorious, the Creator who humbled Himself and became poor out of love. The chorus adds lovely, worthy, and wonderful, which are true but general. Holiness and justice appear only in the cost of sin at the cross, so this is a 3.
 
 ---
 
 ## Congregational Usefulness and Clarity: 3
 
-The language is plain. The lyric teaches that the Light of the world stepped down into darkness, that the King became poor for love’s sake, and that the singer will never know how much it cost to see his sin upon the cross. The congregation can learn the ordinary sense of John 8:12, 2 Corinthians 8:9, and 1 Peter 2:24 by singing these lines. The singular voice is testimony the whole church can own. Singability is high, but the teaching is thinner than the named work, which is why the score is 3. Keep the lines about the cost of the sin upon the cross and the King who became poor so the response stays attached to the gospel.
+The song is easy to sing, and the verses and bridge teach John 8:12, 2 Corinthians 8:9, and 1 Peter 2:24. The chorus teaches little and takes up most of the time, which is why the score is 3.
 
 ---
 
 ## Tone
 
-Reverent and responsive. It does not ask the room to confer on the Lord what He has not already done. The intensity stays inside the Light of the world who stepped down into darkness, the King who became poor for love’s sake, and the cost of seeing the singer’s sin upon the cross.
+Reverent and humble. The bridge is the most affecting line, and its feeling comes from the cross.
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the Son, the Spirit, or the resurrection. That is a gap. The main gospel elements of the incarnation and the cost of the sin upon the cross are present.
+The congregation never sings the name Jesus, the resurrection, the Spirit, or what the cross achieved. Pair it with Behold Our God, which names the resurrection and the reigning Christ.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** John 8, Philippians 2, 2 Corinthians 8, 1 Peter 2, any text on the Light of the world, the incarnation, or the cost of the cross. Especially useful after a sermon that has already named the finished work in further detail.
-- **Gaps the rest of the hour must cover.** The Son, the resurrection, and a fuller naming of the substitution if the service has not already supplied them. The lyric names the cross and the cost of the sin; the rest of the hour can name the empty tomb and the Son in further detail.
-- **Diet sentence.** It adds a clear confession that the Light of the world stepped down into darkness, that the King became poor for love’s sake, and that the singer will never know how much it cost to see his sin upon the cross. It does not add a full narrative of the resurrection or the Son.
-- **What not to do.** Do not drop the lines about the cost of the sin upon the cross and the King who became poor. Do not let the response of worship stand alone without the named cost.
+- **When it serves the sermon.** John 8, Philippians 2, 2 Corinthians 8, 1 Peter 2, or any text on the incarnation or the cost of the cross. It works best after a sermon that has already explained the finished work.
+- **Gaps the rest of the hour must cover.** The name of Jesus, the resurrection, and substitution, if the service has not already named them.
+- **Diet sentence.** Adds a confession that the Light of the world came down, that the Creator became poor for love, and that the singer’s sin cost Him the cross. It does not add the resurrection.
+- **What not to do.** Do not drop the second verse or the bridge, and do not repeat the chorus so long that it outweighs them.
 
 ---
 
 ## Identification notes
 
-One song. Text and music by Tim Hughes, 2000. CCLI 3266032. Modern worship. From the album Here I Am to Worship.
+One song. Text and music by Tim Hughes, 2000, from the album Here I Am to Worship. CCLI 3266032.
 
 ---
 
 ## Why this overall label
 
-The lyric names that the Light of the world stepped down into darkness, that the King became poor for love’s sake, and that the singer will never know how much it cost to see his sin upon the cross. That is solid and usable. It is Acceptable with notes. Use it sparingly when the rest of the set supplies what the song lacks. Keep the lines about the cost of the sin upon the cross and the King who became poor.
+The verses and bridge name the incarnation and the cost of the singer’s sin at the cross, and every line is true. The generic chorus takes up most of the song and leaves out the resurrection and the name of Jesus. It is Acceptable with notes: use it occasionally and keep the second verse and bridge.

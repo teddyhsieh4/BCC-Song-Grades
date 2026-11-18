@@ -9,7 +9,7 @@
 - **Arrangement year:** not on file
 - **Family:** CityAlight
 - **Era:** 2010–2019
-- **CCLI:** 7073335 (catalog; some charts list 7073332)
+- **CCLI:** 7073332
 - **Times logged (2023–Sept 2026):** 8
 - **Years seen:** at least 2023, 2024, 2025, 2026
 - **Setlist variants:** Only a Holy God; Only a Holy God (D); Only a Holy God - D
@@ -19,7 +19,7 @@
 
 ## Thesis
 
-Only a Holy God commands the hosts of heaven, makes every king bow, and can whisper so that darkness trembles. He is the beauty, splendour, and majesty that rules with justice. He is the power that can raise the dead. He is the one who could rescue from failing, who would offer His only Son, and who invites the singer to call Him Father.
+Only a Holy God commands the hosts of heaven, makes every king bow, and can whisper so that darkness trembles. He is the beauty, splendour, and majesty that rules with justice. He is the power that can raise the dead. He is the one who could rescue from failure, who would offer His only Son, and who invites the singer to call Him Father.
 
 ---
 
@@ -27,7 +27,7 @@ Only a Holy God commands the hosts of heaven, makes every king bow, and can whis
 
 Excellent / Prefer
 
-Feature it. Verse 4 names the rescue from failing, the offering of the only Son, and the invitation to call Him Father. Keep that stanza. The earlier verses declare the uniqueness of the Holy God in power, beauty, and justice. The whole text is dense and Scripture-shaped when verse 4 is kept.
+Feature it, and keep verse 4. That stanza names the rescue from failure, the Father’s offering of His only Son, and the invitation to call Him Father. The earlier verses set up that answer by confessing the Holy God’s power, beauty, and justice. The church has sung it 8 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,21 +47,21 @@ Rubric version v1. Grade date 30 Oct 2026.
 
 ## Voice and addressee
 
-Rhetorical questions addressed to the congregation, answered by the declaration “Only a Holy God.” The final verse is first-person singular. The chorus is an invitation to behold and worship. The congregation can own both the questions and the answer.
+Rhetorical questions put to the congregation, each answered “Only a Holy God.” The chorus invites the room to behold and worship, and the last verse turns to the first person. The congregation can own both the questions and the answer.
 
 ---
 
 ## How the text moves
 
-It opens with questions about who else commands the hosts of heaven, makes every king bow, and can whisper so that darkness trembles, answered by “Only a Holy God.” Verse 2 asks what other beauty demands such praises, what other splendour outshines the sun, and what other majesty rules with justice. The chorus invites the congregation to come and behold Him, the One and the Only, and to cry out and sing holy. Verse 3 asks what other glory consumes like fire, what other power can raise the dead, and what other name remains undefeated. Verse 4 asks who else could rescue from failing, who else would offer His only Son, and who else invites the singer to call Him Father, answered by “Only a Holy God / Only my Holy God.”
+Verses 1 to 3 ask who else commands heaven’s hosts, whose beauty and justice compare, and whose power raises the dead, and each answer is “Only a Holy God.” The chorus calls the room to behold Him and sing holy. Verse 4 asks the same kind of question about the gospel and ends on “Only my Holy God.”
 
 ---
 
 ## Lines you cannot cut
 
-“Who else could rescue me from my failing / Who else would offer His only Son / Who else invites me to call Him Father / Only a Holy God / Only my Holy God.”
+“Who else could rescue me from my failure / Who else would offer His only Son / Who else invites me to call Him Father / Only a Holy God / Only my Holy God.”
 
-Dropping verse 4 leaves the declarations of power, beauty, and holiness without the named rescue, the offering of the only Son, and the invitation to call Him Father. The earlier verses still declare the uniqueness of the Holy God, but the gospel act that shows why He is the singer’s Holy God is in those lines.
+Without verse 4 the song confesses God’s power, beauty, and holiness, but never the reason the singer can call Him “my Holy God.” The rescue, the gift of the Son, and the adoption are only in this verse.
 
 ---
 
@@ -70,14 +70,14 @@ Dropping verse 4 leaves the declarations of power, beauty, and holiness without 
 | Element | Present? | Where, if present |
 |---|---|---|
 | Incarnation | Implied | offer His only Son |
-| Our sin named | Yes | rescue me from my failing |
+| Our sin named | Yes | rescue me from my failure |
 | Substitution stated | Implied | offer His only Son |
-| Wrath or curse | Implied | rescue from failing |
+| Wrath or curse | Implied | rescue from failure |
 | Cross | Implied | offer His only Son |
 | Burial | No | |
 | Resurrection | Yes | power can raise the dead |
 | Reign / session | Yes | commands hosts, makes kings bow, rules with justice |
-| Repentance | Implied | rescue from failing |
+| Repentance | Implied | rescue from failure |
 | Lordship | Yes | Holy God, One and the Only |
 | Present intercession | No | |
 | Justification / imputed righteousness | Implied | rescue, call Him Father |
@@ -86,13 +86,13 @@ Dropping verse 4 leaves the declarations of power, beauty, and holiness without 
 
 ## Persons of the Trinity named
 
-God is named as Holy God, the One and the Only. The Son is named through “offer His only Son.” The Spirit is not named. The Father is named through the invitation to call Him Father.
+God is named as the Holy God, the One and the Only. The Father is named in the invitation to call Him Father, and the Son in “offer His only Son.” The Spirit is not named.
 
 ---
 
 ## Could another worshiper sing this unchanged?
 
-No. The rescue from failing, the offering of the only Son, and the invitation to call Him Father cannot be sung by a vague theist without correction. The earlier questions about power and holiness are answered by a God who has done that gospel act.
+No. A vague theist could sing the first three verses, but not the offering of the only Son or the invitation to call God Father. Verse 4 ties every earlier question to the gospel.
 
 ---
 
@@ -100,67 +100,67 @@ No. The rescue from failing, the offering of the only Son, and the invitation to
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** none that matter when verse 4 is kept. The earlier verses are specific about power, beauty, justice, and the power to raise the dead.
+- **Thin:** nothing significant, as long as verse 4 is sung. The earlier verses are specific about power, beauty, justice, and raising the dead.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“Who else commands all the hosts of heaven” is the ordinary sense of Nehemiah 9:6 and Matthew 26:53. “Who else could make every king bow down” is Philippians 2:10. “What other power can raise the dead” is Romans 8:11 and 1 Corinthians 15. “Who else would offer His only Son” is John 3:16 and Romans 8:32. “Who else invites me to call Him Father” is Romans 8:15 and Galatians 4:6. The lines stay inside ordinary biblical sense. The rhetorical form does not leave the ordinary sense of those texts.
+“Who else commands all the hosts of heaven” is Nehemiah 9:6 and Matthew 26:53. “Who else could make every king bow down” is Philippians 2:10. “What other power can raise the dead” is Romans 8:11 and 1 Corinthians 15. “Who else would offer His only Son” is John 3:16 and Romans 8:32. “Who else invites me to call Him Father” is Romans 8:15 and Galatians 4:6. The question form never bends the meaning of these texts.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 4
 
-The only Son is named. The rescue from failing is named. The invitation to call Him Father is named. The power that can raise the dead is named. The lyric does not narrate the cross or the empty tomb in detail. The score is 4 because the finished work appears as the offering of the only Son and the power to raise the dead rather than as an explicit account of the substitutionary death and resurrection. The gospel is present and required for the song.
+The only Son is named, along with the rescue from failure, the power that raises the dead, and adoption as sons. The score is 4 because the death and resurrection appear only as the offering of the Son and the power over death. The cross and the empty tomb are never named. Even so, the gospel is the answer the whole song builds toward.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The text is a series of questions answered by the declaration of the Holy God. Verse 4 is testimony, but it is testimony of what God has done: the rescue, the offering of the Son, the invitation to call Him Father. The chorus is an invitation to behold and worship. The singer does not make high-claim present-tense vows without grounding. The whole text rests on what the Holy God has done and is.
+The song is a series of questions about God, each answered with a statement about God. Verse 4 is testimony, but of what God has done: the rescue, the gift of the Son, and the invitation to call Him Father. The singer promises nothing, so the whole text rests on who God is.
 
 ---
 
 ## Description of God’s Character: 5
 
-God is Holy, the One and the Only, the one who commands the hosts, makes kings bow, causes darkness to tremble, whose beauty demands praise, whose splendour outshines the sun, whose majesty rules with justice, whose glory consumes like fire, whose power can raise the dead, and whose name remains undefeated. He is the one who rescues from failing and offers His only Son. The attributes are specific and tied to the offering of the Son and the power over death. Holiness is the repeated claim.
+God is holy, the One and the Only. He commands heaven’s hosts, makes kings bow, and silences darkness. His beauty demands praise, His majesty rules with justice, His glory consumes like fire, His power raises the dead, and His name is undefeated. He rescues failures and gives His only Son. Holiness is the claim the song keeps returning to.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. Verse 4 teaches the rescue from failing, the offering of the only Son, and the invitation to call Him Father. The congregation can learn the uniqueness of the Holy God and the gospel act that makes Him the singer’s Holy God by singing those lines. The questions and the chorus are corporate. Singability is high, and the teaching is the reason for the 5. Keep verse 4 so the declarations of power and holiness stay attached to the offering of the Son.
+The words are plain and the question-and-answer pattern is easy to follow. The 5 comes from verse 4: a congregation that sings it learns why the Holy God is their God, through the gift of His Son and the invitation to call Him Father.
 
 ---
 
 ## Tone
 
-Reverent and declarative. It does not ask the room to confer on God what He has not already done. The intensity stays inside the uniqueness of the Holy God and the offering of the only Son.
+Reverent and full of awe, with the weight of Isaiah 6 and Revelation 4.
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the Spirit or the present intercession. Those are small gaps. The main gospel elements of the offering of the only Son, the rescue from failing, and the power to raise the dead are present.
+The congregation never names the Spirit or Christ’s present intercession, and the cross is implied rather than named. When the service needs the cross spelled out, pair it with In Christ Alone.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Isaiah 6, Revelation 4, John 3:16, Romans 8, any text on the holiness of God, the uniqueness of God, or the offering of the Son. Especially useful after a sermon that has named the Holy God and the offering of His only Son.
-- **Gaps the rest of the hour must cover.** The Spirit and a fuller naming of the cross if the service has not already supplied them.
-- **Diet sentence.** It adds a dense series of questions that answer “Only a Holy God,” then names the rescue from failing, the offering of the only Son, and the invitation to call Him Father. It does not add a full narrative of the Spirit’s ongoing work.
-- **What not to do.** Do not drop verse 4. Do not let the questions about power and beauty stand alone without the named offering of the Son.
+- **When it serves the sermon.** Isaiah 6, Revelation 4, John 3:16, Romans 8, or any text on God’s holiness, His uniqueness, or the gift of His Son.
+- **Gaps the rest of the hour must cover.** The Spirit and the cross by name, if the service has not already named them.
+- **Diet sentence.** Adds a dense confession of the Holy God, answered in the end by the rescue from failure, the offering of the only Son, and adoption. It does not add the Spirit’s work.
+- **What not to do.** Do not drop verse 4, and do not let the questions about power and beauty stand without it.
 
 ---
 
 ## Identification notes
 
-One song. Text and music by Michael Farren, Dustin Smith, Jonny Robinson, and Rich Thompson, 2016. CCLI 7073335 in the catalog (some published charts list 7073332). CityAlight. Variants are key differences only.
+One song. Text and music by Michael Farren, Dustin Smith, Jonny Robinson, and Rich Thompson, 2016. CityAlight. Published sources list CCLI 7073332. The catalog had 7073335, which belongs to CityAlight’s What Love My God, and now matches. Variants are key differences only.
 
 ---
 
 ## Why this overall label
 
-The lyric asks who else commands the hosts, makes kings bow, and can raise the dead, then answers that only a Holy God could rescue from failing, would offer His only Son, and invites the singer to call Him Father. That is dense, precise, and Scripture-shaped when verse 4 is kept. It is Excellent / Prefer. Feature it. Keep verse 4.
+The lyric confesses the Holy God’s power over heaven, kings, darkness, and death, then answers that this same God rescues failures, gives His only Son, and invites us to call Him Father. That is dense and Scripture-shaped. It is Excellent / Prefer. Feature it and keep verse 4.

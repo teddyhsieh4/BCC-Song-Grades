@@ -27,7 +27,7 @@ Human effort and legacy amount to nothing unless the Lord builds the house. Life
 
 Excellent / Prefer
 
-This is a Scripture-shaped doxology set to a familiar tune. The congregation can sing Psalm 127, James 4, the Lord’s Prayer, and Revelation 21 in ordinary language. The Lamb slain for sinners is named. Use it freely as a closing song or anywhere the service needs a clear confession that Christ is King and all glory is his. The third stanza should stay.
+Use it freely, especially as a closing song or anywhere the service needs a clear confession that Christ is King and all glory is His. It sets Psalm 127, James 4, the Lord’s Prayer, and Revelation 21 to a tune the room already knows, and it names the Lamb slain for sinners. Keep the third stanza. The church has sung it 9 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -43,25 +43,23 @@ This is a Scripture-shaped doxology set to a familiar tune. The congregation can
 
 Rubric version v1. Grade date 2026-10-26.
 
-5 = dense and precise. 4 = solid, minor gaps. 3 = true but thin. 2 = serious omission or mushy poetry. 1 = error or disqualifying confusion.
-
 ---
 
 ## Voice and addressee
 
-Corporate. “We” and “our.” The lyric addresses the boaster in the second half of the first stanza and then declares truth about Christ to the congregation. It is mostly about God, with the final lines about the people of God.
+Corporate “we” and “our.” The second half of the first stanza speaks to the boaster, and the rest declares who Christ is. The closing lines turn to the people of God.
 
 ---
 
 ## How the text moves
 
-It opens with the vanity of human building (Psalm 127:1) and the brevity of life (James 4:14). The chorus turns the claim into praise: all glory to Christ the King. The second stanza takes up the Lord’s Prayer and the living water that satisfies without price. The third stanza looks to the day when the great I AM, the Lamb slain for sinners, makes all things new and dwells with his people. The refrain never changes. The stanzas move from present vanity to future glory.
+The first stanza sets the vanity of human building (Psalm 127:1) beside the brevity of life (James 4:14), and the unchanging refrain answers with all glory to Christ the King. The second stanza prays the Lord’s Prayer and offers living water without price. The third looks ahead to the Lamb slain for sinners making all things new and dwelling with His people.
 
 ---
 
 ## Lines you cannot cut
 
-The third stanza is the one that names the finished work: “The Lamb, who was for sinners, slain / Is making all things new.” Drop that and the song is still a true doxology, but it no longer puts the cross in the people’s mouth. The first stanza is the other line that must stay. Without “Unless the Lord does raise the house” the song loses its Scripture anchor.
+The third stanza names the finished work: “The Lamb, who was for sinners, slain / Is making all things new.” Without it the song is still a true doxology, but the congregation no longer sings the cross. The first stanza must stay too, because “Unless the Lord does raise the house” is the Scripture the whole song stands on.
 
 ---
 
@@ -99,59 +97,59 @@ A vague theist could sing the first stanza and the chorus if “Christ” is tre
 ## Unbiblical, non-biblical, thin
 
 - **Unbiblical:** none.
-- **Non-biblical:** “We’ll take a cup of kindness yet” is a nod to the Auld Lang Syne original. It is affectionate decoration, not a claim that can be checked by a text.
-- **Thin:** none. The lines that quote Scripture stay close to the ordinary sense of the texts.
+- **Non-biblical:** “We’ll take a cup of kindness yet” is a nod to the original Auld Lang Syne. It is affectionate decoration and makes no doctrinal claim.
+- **Thin:** none. The lines that draw on Scripture stay close to their texts.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“Unless the Lord does raise the house / In vain its builders strive” is Psalm 127:1. “A mist that vanishes at dawn” is James 4:14. “His will be done, His kingdom come / On earth as is above” is the Lord’s Prayer. “Let living water satisfy / The thirsty without price” draws on John 4 and Isaiah 55:1. “The Lamb, who was for sinners, slain / Is making all things new” and “Behold our God shall live with us” are Revelation 21. The lyric stays inside the ordinary sense of those texts.
+“Unless the Lord does raise the house / In vain its builders strive” is Psalm 127:1. “A mist that vanishes at dawn” is James 4:14. “His will be done, His kingdom come / On earth as is above” is the Lord’s Prayer. “Let living water satisfy / The thirsty without price” draws on John 4 and Isaiah 55:1. “The Lamb, who was for sinners, slain / Is making all things new” and “Behold our God shall live with us” are Revelation 21.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Christ is named as King. The third stanza names him as the Lamb slain for sinners who is making all things new. That is the finished work. The song does not stop at titles. It puts the cross and the new creation in the congregation’s mouth.
+Christ is named as King, and the third stanza names Him as the Lamb slain for sinners who is making all things new. The congregation sings both the cross and the new creation.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The lyric declares what the Lord does and who Christ is. The only first-person lines are the corporate “we” of the people of God. No personal vow or inner weather drives the song.
+The lyric declares what the Lord does and who Christ is. The only first person is the corporate “we” of the people of God, and no personal vow or feeling carries the song.
 
 ---
 
 ## Description of God’s Character: 5
 
-King, the one who raises the house, the great I AM, the Faithful and the True, the Lamb, the one who satisfies without price, the steadfast light who will dwell with his people. Holiness is present in the Lamb slain for sinners. Sovereignty is present in the house the Lord alone raises and in the rule and reign that will never end.
+Christ is King, the great I AM, the Faithful and True, the Lamb, the one who satisfies without price, and the light who will dwell with His people. Holiness is present in the Lamb slain for sinners. Sovereignty is present in the house only the Lord can raise and in a reign that will never end.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. The tune is already known. The congregation can teach itself Psalm 127, James 4, and Revelation 21 by singing. Length is short. The third stanza is the one most likely to be dropped in practice, and dropping it lowers the grade.
+The words are plain, the tune is already known, and the song is short. A congregation that sings it learns Psalm 127, James 4, and Revelation 21. Bands are most likely to drop the third stanza, and the song is weaker without it.
 
 ---
 
 ## Tone
 
-Reverent and plain. The Auld Lang Syne nod is warm without becoming cute or flippant. Nothing asks the room to confer on God what he already has.
+Reverent and warm. The Auld Lang Syne nod is affectionate without becoming cute.
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the wrath of God or the burial of Christ. It never confesses personal repentance in the first person. Those are pairing notes, not gaps that sink the song.
+The congregation never names the wrath of God, the burial of Christ, or the resurrection, and never confesses repentance in the first person. When the service needs those, pair it with In Christ Alone.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** A closing song after a sermon on Psalm 127, James 4, the Lord’s Prayer, or Revelation 21. Also works after any text that has already named the vanity of human effort and the sufficiency of Christ.
-- **Gaps the rest of the hour must cover.** Explicit resurrection language and the wrath that the Lamb bore. Pair with a hymn that says those things if the sermon has not.
-- **Diet sentence.** This title adds a clear confession that all glory belongs to Christ the King and that human building is vain. It never adds a first-person account of personal conversion.
-- **What not to do.** Do not drop the third stanza. Do not treat the song as a New Year’s novelty only. The text is not seasonal.
+- **When it serves the sermon.** A closing song after a sermon on Psalm 127, James 4, the Lord’s Prayer, or Revelation 21, or after any text that has named the vanity of human effort and the sufficiency of Christ.
+- **Gaps the rest of the hour must cover.** The resurrection and the wrath the Lamb bore, if the sermon has not named them.
+- **Diet sentence.** Adds a clear confession that human building is vain and all glory belongs to Christ the King. It does not add a first-person account of conversion.
+- **What not to do.** Do not drop the third stanza, and do not save it only for New Year. The text is not seasonal.
 
 ---
 
@@ -163,4 +161,4 @@ One song. CCLI 7004543 is the Kensrue text on the Auld Lang Syne tune. Variants 
 
 ## Why this overall label
 
-The lyric puts Psalm 127, James 4, the Lord’s Prayer, and Revelation 21 in the congregation’s mouth in ordinary language. The Lamb slain for sinners is named. That is dense, Scripture-shaped, and useful. Excellent / Prefer.
+The lyric puts Psalm 127, James 4, the Lord’s Prayer, and Revelation 21 in the congregation’s mouth in plain words, and it names the Lamb slain for sinners. That is dense, Scripture-shaped, and easy to sing. It is Excellent / Prefer.

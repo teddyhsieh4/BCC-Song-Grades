@@ -27,7 +27,7 @@ The singer is forgiven because the King was forsaken, accepted because the King 
 
 Strong
 
-Use it regularly. The verse names the exchange: forgiven because forsaken, accepted because condemned, alive because He died and rose. Keep the verse. The chorus and bridge declare the King and the joy of honoring Him. The text is solid and usable, with the main gospel elements present.
+Use it regularly, and keep the verse, because it names the exchange: forgiven because He was forsaken, accepted because He was condemned, alive because He died and rose. The chorus and bridge then declare the King and the joy of honoring Him. The church has sung it 8 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 30 Oct 2026.
 
 ## Voice and addressee
 
-First-person singular addressing the King. It is testimony and response. The congregation can own the confession of the exchange and the joy of honoring the King.
+First-person singular, addressed to the King. It is testimony and response, and the whole congregation can own both the confession of the exchange and the joy of honoring Him.
 
 ---
 
 ## How the text moves
 
-It opens by stating the exchange: “I’m forgiven because You were forsaken / I’m accepted, You were condemned / I’m alive and well / Your Spirit is within me / Because You died and rose again.” The chorus asks “Amazing love, how can it be / That You, my King, would die for me?” and answers that it is the singer’s joy to honor Him in all he does. The bridge repeats “You are my King / Jesus, You are my King.” The text returns to the verse and chorus.
+The verse states the exchange and ties the Spirit within to the death and resurrection. The chorus marvels that the King would die for the singer and answers with the joy of honoring Him. The bridge repeats “You are my King,” and the song returns to verse and chorus.
 
 ---
 
@@ -61,7 +61,7 @@ It opens by stating the exchange: “I’m forgiven because You were forsaken / 
 
 “I’m forgiven because You were forsaken / I’m accepted, You were condemned / I’m alive and well / Your Spirit is within me / Because You died and rose again.”
 
-Dropping the verse leaves the declaration that the King died for the singer and the joy of honoring Him without the named exchange of forsaken for forgiven, condemned for accepted, and death and resurrection for life. The chorus still names the death of the King, but the specific gospel exchange is in those lines.
+Without the verse, the chorus still says the King died for the singer, but the exchange itself is gone: forsaken for forgiven, condemned for accepted, death and resurrection for life.
 
 ---
 
@@ -92,7 +92,7 @@ Jesus is named as King. The Spirit is named as within the singer. The Father is 
 
 ## Could another worshiper sing this unchanged?
 
-No. The exchange of forsaken for forgiven, condemned for accepted, and the death and resurrection that make the singer alive cannot be sung by a vague theist without correction. The King who died for the singer is tied to that finished work.
+No. A vague theist cannot sing forsaken for forgiven, condemned for accepted, or a King who died and rose without correcting the words.
 
 ---
 
@@ -106,52 +106,52 @@ No. The exchange of forsaken for forgiven, condemned for accepted, and the death
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“I’m forgiven because You were forsaken / I’m accepted, You were condemned” is the ordinary sense of 2 Corinthians 5:21 and Galatians 3:13. “I’m alive and well / Your Spirit is within me / Because You died and rose again” is Romans 6:4–5 and Ephesians 1:13–14. “That You, my King, would die for me” is Romans 5:8 and 1 Peter 3:18. “You are my King” is the ordinary sense of Philippians 2:9–11 and Revelation 19:16. The lines stay inside ordinary biblical sense. The Spirit’s indwelling is named without leaving the ordinary sense of those texts.
+“I’m forgiven because You were forsaken / I’m accepted, You were condemned” is 2 Corinthians 5:21 and Galatians 3:13. “I’m alive and well / Your Spirit is within me / Because You died and rose again” is Romans 6:4–5 and Ephesians 1:13–14. “That You, my King, would die for me” is Romans 5:8 and 1 Peter 3:18. “You are my King” is Philippians 2:9–11 and Revelation 19:16.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Jesus is named as King. Substitution is stated: forgiven because He was forsaken, accepted because He was condemned, died for the singer. The resurrection is named. The Spirit is within because of that finished work. The song does not stop at titles. It preaches the exchange that makes the singer forgiven, accepted, and alive.
+Jesus is named as King, and the song says what the King did: forsaken so the singer is forgiven, condemned so the singer is accepted, dead and risen so the singer is alive. The Spirit’s presence is tied to that finished work.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-The verse declares what the King has done and what the Spirit has done. The chorus is response: the joy of honoring Him. Those claims are grounded in the exchange and the death and resurrection, which is why the score is 4 rather than 5. The singer does not make high-claim present-tense vows without grounding. The response rests on what the King has already done.
+The verse declares what the King and the Spirit have done. The chorus is response, the joy of honoring Him, and it rests on that work rather than on a vow the singer makes. That response is why the score is 4 and not 5.
 
 ---
 
 ## Description of God’s Character: 4
 
-The King is the one who was forsaken so that the singer is forgiven, condemned so that the singer is accepted, and who died and rose so that the singer is alive. He is the King who is honored. The attributes are specific and tied to the exchange and the resurrection. Holiness and justice appear as the forsaken and the condemned. The score is 4 because the lyric stays focused on the exchange and the response rather than a broader list of attributes.
+The King is forsaken, condemned, dead and risen for His people, and honored by them. Holiness and justice are present in the words forsaken and condemned. The score is 4 because the lyric stays on the exchange and does not name more of God’s attributes.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. The verse teaches the exchange, the Spirit’s indwelling, and the death and resurrection. The congregation can learn the finished work by singing those lines. The singular voice is testimony and response the whole church can own. Singability is high, and the teaching is the reason for the 5. Keep the verse so the joy of honoring the King stays attached to the exchange.
+The words are plain and easy to sing. The 5 comes from the verse: a congregation that sings it learns the exchange, the Spirit’s indwelling, and the death and resurrection.
 
 ---
 
 ## Tone
 
-Reverent and honest. It does not ask the room to confer on the King what He has not already done. The intensity stays inside the exchange, the death and resurrection, and the joy of honoring Him.
+Reverent and grateful. The wonder in the chorus answers what the verse has already said the King did.
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the Father or the present intercession. Those are small gaps. The main gospel elements of the exchange, the death, the resurrection, and the Spirit’s indwelling are present.
+The congregation never names the Father or Christ’s present intercession. The main gospel elements are present. When the hour needs those two, Before the Throne of God Above names both.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** 2 Corinthians 5:21, Galatians 3:13, Romans 6, Ephesians 1, any text on the exchange, the resurrection, or the King who died for His people. Especially useful after a sermon that has named the forsaken and the condemned.
-- **Gaps the rest of the hour must cover.** The Father and a fuller naming of present intercession if the service has not already supplied them.
-- **Diet sentence.** It adds a clear confession of the exchange: forgiven because forsaken, accepted because condemned, alive because He died and rose, with the Spirit within, then the joy of honoring the King. It does not add a full narrative of the Father’s work.
-- **What not to do.** Do not drop the verse. Do not let the chorus and bridge stand alone without the named exchange.
+- **When it serves the sermon.** 2 Corinthians 5:21, Galatians 3:13, Romans 6, Ephesians 1, or any text on the exchange, the resurrection, or the King who died for His people.
+- **Gaps the rest of the hour must cover.** The Father and Christ’s present intercession, if the service has not already named them.
+- **Diet sentence.** Adds a clear confession of the exchange, the resurrection, and the Spirit within, answered by the joy of honoring the King. It does not add the Father’s work.
+- **What not to do.** Do not drop the verse and sing only the chorus and bridge.
 
 ---
 
@@ -163,4 +163,4 @@ One song. Text and music by Billy J. Foote, 1996. CCLI 2456623. Variants are key
 
 ## Why this overall label
 
-The lyric names the exchange: forgiven because the King was forsaken, accepted because He was condemned, alive because He died and rose, with the Spirit within. That is solid, precise, and Scripture-shaped. It is Strong. Use it regularly. Keep the verse.
+The verse names the exchange, the death and resurrection, and the Spirit within in Scripture’s own terms. It is Strong. Use it regularly and keep the verse.

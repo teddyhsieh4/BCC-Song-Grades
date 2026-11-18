@@ -141,7 +141,7 @@ Pull request outline lives in `.github/pull_request_template.md`. Do not duplica
 
 1. Identification of the existing list: done.
 2. Written grades of high-use songs, from church charts: current work.
-3. Diet view on Insights that includes grade mix: grade-count chart is live. A view weighted by how often songs are sung is still to come.
+3. Diet view on Insights that includes grade mix: done. Insights shows the grade mix by song count and weighted by times sung.
 4. Any “paste a chart, draft a grade” helper: later, and only against this catalog.
 
 New song discovery waits until the current list is graded.

@@ -29,11 +29,18 @@ const familyMap = countBy("family");
 const eraMap = countBy("era");
 const recMap = new Map();
 grades.OVERALL_LABELS.forEach((l) => recMap.set(l, 0));
+// Same grade mix, but each song counts once per setlist log (timesLogged),
+// so songs we sing often weigh more.
+const recLogMap = new Map();
+grades.OVERALL_LABELS.forEach((l) => recLogMap.set(l, 0));
 let graded = 0;
+let loggedGraded = 0;
 songs.forEach((s) => {
   if (s.status === "graded") graded += 1;
   if (s.recommendation && recMap.has(s.recommendation)) {
     recMap.set(s.recommendation, recMap.get(s.recommendation) + 1);
+    recLogMap.set(s.recommendation, recLogMap.get(s.recommendation) + (s.timesLogged || 0));
+    loggedGraded += s.timesLogged || 0;
   }
 });
 
@@ -64,6 +71,9 @@ const out = {
   families: rowsFrom(familyMap),
   eras: rowsFrom(eraMap, grades.ERAS),
   recommendations: grades.OVERALL_LABELS.map((name) => ({ name, count: recMap.get(name) })),
+  recommendationsByLogs: grades.OVERALL_LABELS.map((name) => ({ name, count: recLogMap.get(name) })),
+  loggedGraded,
+  loggedNotGraded: songs.reduce((n, s) => n + (s.timesLogged || 0), 0) - loggedGraded,
   mostLogged
 };
 

@@ -27,7 +27,7 @@ The Father’s will is the good the church asks for, because the Son already pra
 
 **Excellent / Prefer**
 
-Feature it. Sing all four verses. Each refrain changes, and the changes carry the argument: we walk as Jesus walked, He prayed the Father’s will in the garden and bore our sin on the cross, we will rise as He rose, and the church now prays the same words together.
+Feature it. Sing all four verses. Each refrain changes, and the changes make the argument: we walk as Jesus walked, He prayed the Father’s will in the garden and bore our sin on the cross, we will rise as He rose, and the church now prays the same words together.
 
 The church has already sung it for at least four years (15 logs in the 2023–2026 snapshot). Keep verse 2 and its refrain. That is where obedience, the cross, and “my sin” meet.
 
@@ -55,20 +55,20 @@ Verses 1–3 speak as “I” to the Father. Verse 4 turns to “we” and “ou
 
 ## How the text moves
 
-Four verses, four different refrains, one petition held through the whole song.
+The song has four verses and four different refrains, with one petition held through the whole song.
 
-1. **The daily prayer.** Matthew 6 language, plus a confession that the heart is drawn to self-exalting.
-2. **Gethsemane.** The obedience in the garden was his alone. The next refrain names the cross and “my sin.”
-3. **Present trouble.** Lost, broken, fear, doubt. Trust in the Father, then resurrection hope: “As Jesus rose, so I shall rise.”
-4. **The church sent.** Glory and the Name, then “in this Name we overcome,” and the petition becomes corporate.
+1. **The daily prayer.** The verse uses Matthew 6 language and confesses that the heart is drawn to self-exalting.
+2. **Gethsemane.** The obedience in the garden was his alone, and the next refrain names the cross and “my sin.”
+3. **Present trouble.** The singer is lost and broken, with fear and doubt, and still trusts the Father. Then comes resurrection hope: “As Jesus rose, so I shall rise.”
+4. **The church sent.** The verse names glory and the Name, then “in this Name we overcome,” and the petition becomes corporate.
 
-The song starts in the Lord’s Prayer and ends with the gathered church still praying it. The middle two movements are the gospel.
+The song starts in the Lord’s Prayer and ends with the gathered church still praying it. The gospel is in the middle two verses.
 
 ---
 
 ## Lines you cannot cut
 
-All four verses are essential in sequence. Do not drop any of them. No single line is false enough to sink the song.
+All four verses are needed, in order, so do not drop any of them. No line in the song is false.
 
 ---
 
@@ -107,11 +107,11 @@ Verse 1 plus the first refrain could be sung by a moral theist who admires Jesus
 
 ## Unbiblical, non-biblical, thin
 
-**Unbiblical.** Nothing contradicts Scripture. “What wondrous faith, to bear that cross” gives Jesus faith as the way He went to the cross. Hebrews 12:2 already calls Him the founder and perfecter of faith. The line is compressed. It does not teach that the Son was guessing.
+**Unbiblical.** Nothing contradicts Scripture. “What wondrous faith, to bear that cross” gives Jesus faith as the way He went to the cross. Hebrews 12:2 already calls Him the founder and perfecter of faith. The line is compressed, and it does not suggest the Son was uncertain.
 
-**Non-biblical.** None that change the grade. The images stay inside Gethsemane, the cross, the throne, and the church’s going out.
+**Non-biblical.** Nothing that changes the grade. The images stay with Gethsemane, the cross, the throne, and the church’s going out.
 
-**Thin.** Incarnation, wrath, and justification are absent. The Spirit is unnamed. These absences do not take away from the song.
+**Thin.** Incarnation, wrath, and justification are absent, and the Spirit is unnamed. These absences do not take away from the song.
 
 ---
 
@@ -121,7 +121,7 @@ Verse 1 plus the first refrain could be sung by a moral theist who admires Jesus
 
 **First refrain.** “As Jesus walked, so I shall walk / held by Your same unchanging love” is 1 John 2:6 and 1 Peter 2:21, held by the love that does not change (Malachi 3:6; Romans 8:35–39). Imitation comes after that hold. “Be still my soul” is the old hymn line. Here it introduces the Gethsemane petition.
 
-**Verse 2.** “How in that garden he persisted” is Matthew 26:36–44. “The fearful weight of true obedience / it was held by him alone” is Gethsemane and Hebrews 5:7–8. No one else drinks that cup.
+**Verse 2.** “How in that garden he persisted” is Matthew 26:36–44. “The fearful weight of true obedience / it was held by him alone” is Gethsemane and Hebrews 5:7–8: no one else drinks that cup.
 
 **Second refrain.** “To bear that cross / to bear my sin” is Isaiah 53:6, 1 Peter 2:24, and 2 Corinthians 5:21 in short lines. “My hope was sure, when there my Saviour prayed” locates assurance in His prayer and work.
 
@@ -129,7 +129,7 @@ Verse 1 plus the first refrain could be sung by a moral theist who admires Jesus
 
 **Verse 4.** “Lead us daily in the fight / that all the world might see Your glory” is John 17:4, 18 and Matthew 5:16. The gathering is not turned into an evangelistic show. “In this Name we overcome” is John 16:33 and Revelation 12:11. “You shall see us safely home” is John 10:28–29 and 1 Peter 1:5.
 
-The text reads the way this church reads those passages. The grammar holds.
+The text reads the way this church reads those passages, and the grammar is sound.
 
 ---
 
@@ -137,15 +137,15 @@ The text reads the way this church reads those passages. The grammar holds.
 
 Jesus walks, persists in the garden, bears the cross and our sin, prays the Father’s will, and rises. The church then overcomes in His Name.
 
-The finished work is in the second refrain: the cross, “my sin,” “wondrous love.” The third refrain adds the resurrection and the ransomed people. Lordship is the petition itself. Wrath is never named as wrath, and there is no present High Priest. Those gaps are real. They do not empty the gospel that is here.
+The finished work is in the second refrain: the cross, “my sin,” “wondrous love.” The third refrain adds the resurrection and the ransomed people. Lordship is the petition itself. Wrath is never named as wrath, and there is no present High Priest. Those gaps are real, but the gospel that is here is complete enough for a 5.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-Much of the lyric is “I.” The content is still sound. That voice is what keeps this category at 4. The “I” confesses pride and takes Christ’s words as the congregation’s prayer, which Scripture already does.
+Much of the lyric is “I,” and that voice is the reason this category is a 4. The content is still sound. The “I” confesses pride and takes Christ’s words as the congregation’s prayer, which Scripture already does.
 
-The vows are grounded. “Still I will trust” follows “when I am lost.” “As Jesus walked, so I shall walk” follows the hold of unchanging love. Verse 4 finally puts the petition in the church’s mouth. There is no romance. The intensity is attached to Gethsemane, so verse 2 is the stanza that keeps the vows honest.
+The vows are grounded. “Still I will trust” follows “when I am lost.” “As Jesus walked, so I shall walk” follows the hold of unchanging love. Verse 4 finally puts the petition in the church’s mouth. There is no romance. The intensity is attached to Gethsemane, and verse 2 is what grounds the vows.
 
 ---
 
@@ -166,38 +166,35 @@ Holiness, justice, and wrath are not named. The garden and the cross imply them.
 
 ## Congregational Usefulness and Clarity: 5
 
-The diction is plain. The refrain is short enough to keep. The church already knows the song (at least four years in the snapshot). Four verses with changing refrains will run long if the band stacks tags. If a cut is forced, cut a repeat, not verse 2.
+The refrain is short enough to keep. The church already knows the song (at least four years in the snapshot). Four verses with changing refrains will run long if the band stacks tags. If a cut is forced, cut a repeat and keep verse 2.
 
 Keep every word on the screen through the garden stanza. That is the stanza that teaches.
 
-Several old setlists mark C. That is a key choice. It does not change the words.
+Several old setlists mark C, which is a key choice and does not change the words.
 
 ---
 
 ## Tone
 
-Reverent. The opening is a prayer, not a hook about the singer’s passion. “Be still my soul” serves the petition. Verse 3 names fear and doubt without turning them into the point. Verse 4 is the church going out.
+The tone is reverent. The opening is a prayer. “Be still my soul” serves the petition. Verse 3 names fear and doubt without turning them into the point. Verse 4 is the church going out.
 
-The room is not asked to give God a will He already has. It asks to be brought under that will.
+The room asks to be brought under the will God already has.
 
 ---
 
 ## What the congregation never says
 
-They never name the Spirit.  
-They never say wrath, curse, or “in my place” in those words (they do say “bear my sin”).  
-They never name justification or a present High Priest.  
-They never name the incarnation as such.
+The congregation never names the Spirit, justification, a present High Priest, or the incarnation as such. It never says wrath, curse, or “in my place” in those words, though it does say “bear my sin.”
 
-The sermon or another song will have to carry those when the day’s text needs them.
+The sermon or another song will have to supply those when the day’s text needs them.
 
 ---
 
 ## Setlist notes
 
-**When it serves the sermon.** Matthew 6. Matthew 26. Mark 14. Luke 22. John 17–18. Any passion-week text. Philippians 2 on obedience. Romans 6 or 1 Corinthians 15 when verse 3’s refrain can answer the sermon. A sending hymn after the sermon has already named the cross.
+**When it serves the sermon.** Matthew 6, Matthew 26, Mark 14, Luke 22, John 17–18, any passion-week text, Philippians 2 on obedience, or Romans 6 or 1 Corinthians 15 when verse 3’s refrain can answer the sermon. It also works as a sending hymn after the sermon has already named the cross.
 
-**Gaps the rest of the hour must cover.** The Spirit. Wrath and justification when the text is Romans 3 or Isaiah 53. A clearer incarnation line on a Christmas or John 1 Sunday.
+**Gaps the rest of the hour must cover.** The Spirit, wrath and justification when the text is Romans 3 or Isaiah 53, and a clearer incarnation line on a Christmas or John 1 Sunday.
 
 **What it adds to the year’s diet.** Gethsemane, the Lord’s Prayer, substitution in the people’s mouth, and a corporate last stanza. It will not supply the Spirit’s work or a full doctrine-of-God hymn.
 
@@ -215,4 +212,4 @@ Treat every “Your Will Be Done” / “Your will be done” log as this song. 
 
 ## Why this overall label
 
-The lyric puts the Father’s will, the Son’s obedience, our sin on the cross, and the resurrection under one petition, then gives that petition to the church. The first-person voice and the unnamed Spirit keep two category scores at 4. They do not cap the whole song.
+The lyric puts the Father’s will, the Son’s obedience, our sin on the cross, and the resurrection under one petition, then gives that petition to the church. The first-person voice and the unnamed Spirit keep two category scores at 4. The song as a whole is still Excellent / Prefer.

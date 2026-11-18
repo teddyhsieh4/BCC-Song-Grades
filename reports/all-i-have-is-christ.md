@@ -55,13 +55,13 @@ First person singular addressing the Lord. Verse 1–2 tell the conversion. Vers
 
 ## How the text moves
 
-Three verses, one short chorus.
+The hymn has three verses and one short chorus.
 
-1. **What we were.** Lost, sure we knew the way, promised joy by sin, already on the way to the grave, a rebel, unwilling unless loved first.
-2. **What He did.** Hell-bound race. He looked on the helpless, led to the cross, suffered in my place, bore the wrath reserved for me. Grace is now the only thing known.
-3. **What follows.** Belonging, a life that can be seen, no strength from the self to obey, the Father using a ransomed life any way He chooses, one boast.
+1. **What we were.** The singer was lost but sure of the way, promised joy by sin and already headed for the grave, a rebel who would refuse Him unless loved first.
+2. **What He did.** In the middle of a hell-bound race, He looked on the helpless, led him to the cross, suffered in his place, and bore the wrath reserved for him. Grace is now the only thing the singer knows.
+3. **What follows.** The singer belongs to Him, cannot find the strength to obey in himself, asks the Father to use a ransomed life any way He chooses, and has one boast.
 
-The chorus does not develop. It names the conclusion after each movement: Christ is all, Jesus is my life.
+The chorus stays the same and names the conclusion after each verse: Christ is all, Jesus is my life.
 
 ---
 
@@ -69,7 +69,7 @@ The chorus does not develop. It names the conclusion after each movement: Christ
 
 **Do not drop verse 2.** “You suffered in my place / You bore the wrath reserved for me” is substitution and propitiation in the people’s mouth. Without that verse the hymn is inability plus a surrender chorus.
 
-**Do not drop verse 1’s last couplet** if you can help it. “And if You had not loved me first / I would refuse You still” is 1 John 4:19 and John 6:44 in one breath. That is the line that keeps conversion from sounding like a wise choice.
+**Do not drop verse 1’s last couplet** if you can help it. “And if You had not loved me first / I would refuse You still” is 1 John 4:19 and John 6:44 in one breath. Those lines keep conversion from sounding like a wise choice.
 
 Verse 3 is the lordship stanza. Cutting it leaves a full gospel without the “now.” Prefer a shorter tag to cutting verse 3.
 
@@ -112,15 +112,15 @@ No. A moralist cannot sing “I would refuse You still,” “hell-bound race,�
 
 **Unbiblical.** Nothing contradicts Scripture.
 
-**Non-biblical.** None that change the grade. “Darkest night” and “hell-bound race” are ordinary conversion images, not decoration for their own sake.
+**Non-biblical.** Nothing that changes the grade. “Darkest night” and “hell-bound race” are ordinary conversion images.
 
-**Thin.** Resurrection, incarnation, and the Spirit are absent. For a conversion hymn that already carries wrath and substitution, those absences do not take away from the song.
+**Thin.** Resurrection, incarnation, and the Spirit are absent. For a conversion hymn that already states wrath and substitution, those absences do not take away from the song.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-**Verse 1.** “I once was lost in darkest night / yet thought I knew the way” is Proverbs 14:12 and Ephesians 2:1–3: dead, and sure we were fine. “The sin that promised joy and life / had led me to the grave” is Romans 6:23 and Genesis 3:6. “I had no hope that You would own / a rebel to Your will” is Colossians 1:21. “And if You had not loved me first / I would refuse You still” is 1 John 4:19, John 6:44, and Romans 8:7. The hymn will not let conversion start with the sinner’s good sense.
+**Verse 1.** “I once was lost in darkest night / yet thought I knew the way” is Proverbs 14:12 and Ephesians 2:1–3: we were dead and sure we were fine. “The sin that promised joy and life / had led me to the grave” is Romans 6:23 and Genesis 3:6. “I had no hope that You would own / a rebel to Your will” is Colossians 1:21. “And if You had not loved me first / I would refuse You still” is 1 John 4:19, John 6:44, and Romans 8:7. The hymn will not let conversion start with the sinner’s good sense.
 
 **Verse 2.** “As I ran my hell-bound race / indifferent to the cost” is Ephesians 2:1–3 still in motion. “You looked upon my helpless state / and led me to the cross” is Ezekiel 16:6 and Luke 19:10. “You suffered in my place” is 1 Peter 3:18 and 2 Corinthians 5:21. “You bore the wrath reserved for me” is Isaiah 53:5, Romans 5:9, and 1 Thessalonians 1:10. “Now all I know is grace” is 1 Corinthians 15:10.
 
@@ -132,15 +132,15 @@ The lyric reads these texts the way this church reads them: inability, wrath, su
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-The finished work is explicit. Place-taking. Wrath reserved for me, borne by Him. The cross as the place He led the helpless. The chorus then says the only right thing after that: all I have is Christ, Jesus is my life (Philippians 1:21; Colossians 3:4).
+The finished work is explicit: He took my place, bore the wrath reserved for me, and led the helpless to the cross. The chorus then says the only right thing after that: all I have is Christ, Jesus is my life (Philippians 1:21; Colossians 3:4).
 
-Lordship is verse 3, and it comes after ransom. The hymn does not offer a Saviour who never becomes Lord. What is missing is the resurrection. That is a real gap. It does not take away from the gospel that is already here.
+Lordship is verse 3, and it comes after ransom. The hymn does not offer a Saviour who never becomes Lord. What is missing is the resurrection. That is a real gap, but the gospel that is here is complete enough for a 5.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-The content is almost all about what God did to a rebel. The grammar is “I.” This is a testimony hymn. The affection in the chorus (“Hallelujah! All I have is Christ”) comes after wrath and substitution.
+The content is almost all about what God did to a rebel, though the grammar is “I,” as in any testimony hymn. The affection in the chorus (“Hallelujah! All I have is Christ”) comes after wrath and substitution.
 
 The score is a 4 because a full room is still singing a private conversion. That voice is legitimate for a testimony hymn. There is no romance, and no vow that needs a weekly disclaimer. Verse 3’s “I would be Yours alone” is desire after ransom, which is how the Psalms often speak.
 
@@ -159,45 +159,41 @@ The score is a 4 because a full room is still singing a private conversion. That
 | Father who uses a ransomed life | Fatherhood and providence | Rom 12:1 |
 | the One worth boasting in | sufficiency of Christ | Gal 6:14 |
 
-Holiness is present as wrath and as “Your will.” Mercy is present as the prior love and the cross. Justice is present as wrath reserved and borne. The word count is small. The range is wide.
+Holiness is present as wrath and as “Your will.” Mercy is present as the prior love and the cross. Justice is present as wrath reserved and borne. The word count is small, and the range is wide.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The diction is plain. The chorus is four lines a child can keep. The church already knows it (at least four years in the snapshot). Several old setlists mark C.
+The chorus is four lines a child can keep. The church already knows it (at least four years in the snapshot). Several old setlists mark C.
 
-Three verses are short enough to sing entire. If a cut is forced, do not cut verse 2. Drop a chorus repeat.
+Three verses are short enough to sing entire. If a cut is forced, drop a chorus repeat and keep verse 2.
 
-The lyric already includes inability, wrath, and surrender. You do not need a speech about singing only if you mean verse 3. You do need to let people actually sing verse 2 rather than rush it.
+The lyric already includes inability, wrath, and surrender. No speech is needed before verse 3, but let people sing verse 2 without rushing it.
 
 ---
 
 ## Tone
 
-Sober, then glad. Verse 1 is dark on purpose. The “Hallelujah” is the right word after wrath borne. Nothing cute. Nothing sensual. “Jesus is my life” is Colossians 3:4, not romance.
+The tone is sober, then glad. Verse 1 is dark on purpose, and the “Hallelujah” is the right word after wrath borne. Nothing is cute or sensual. “Jesus is my life” is Colossians 3:4.
 
-The room is not asked to make Christ its treasure by volume. Verse 2 already said why He is the only boast.
+Verse 2 has already said why He is the only boast, so the chorus does not depend on volume.
 
 ---
 
 ## What the congregation never says
 
-They never name the resurrection.  
-They never name the Spirit.  
-They never say “we.”  
-They never name incarnation, burial, session, or present intercession.  
-They never say the word “justified.”
+The congregation never names the resurrection, the Spirit, incarnation, burial, session, or present intercession. It never says “we” or the word “justified.”
 
 ---
 
 ## Setlist notes
 
-**When it serves the sermon.** Ephesians 2. Romans 5. Romans 8. John 6. 1 John 4. Isaiah 53. Luke 15 after the rebel has been named. A confession-and-gospel hymn. A response after an exposition of inability or wrath.
+**When it serves the sermon.** Ephesians 2, Romans 5, Romans 8, John 6, 1 John 4, Isaiah 53, or Luke 15 after the rebel has been named. Use it as a confession-and-gospel hymn, or as a response after an exposition of inability or wrath.
 
-**Gaps the rest of the hour must cover.** The resurrection on an Easter text or 1 Corinthians 15 Sunday. The Spirit when the text is Romans 8 or John 14–16. A corporate “we” if the rest of the set is also all “I.”
+**Gaps the rest of the hour must cover.** The resurrection on an Easter text or 1 Corinthians 15 Sunday, the Spirit when the text is Romans 8 or John 14–16, and a corporate “we” if the rest of the set is also all “I.”
 
-**What it adds to the year’s diet.** Inability, wrath, substitution, lordship after grace, one boast. It will not supply an empty-tomb stanza.
+**What it adds to the year’s diet.** Inability, wrath, substitution, lordship after grace, and one boast. It will not supply an empty-tomb stanza.
 
 **What not to do.** Do not sing verse 3 and the chorus as a closing tag while skipping verse 2. That leaves surrender without the wrath-bearing that makes surrender possible.
 

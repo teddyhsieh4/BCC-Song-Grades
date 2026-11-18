@@ -27,7 +27,7 @@ Hope is found in Christ alone: the incarnate one on whom every sin was laid, who
 
 Excellent / Prefer
 
-Feature it freely. The four verses move from the Cornerstone, through the incarnation and the cross where wrath was satisfied and every sin was laid on him, to the burial and resurrection, to the security that nothing can pluck from his hand. The text is dense enough to carry a service on the person and work of Christ, Romans 8, or the substitutionary atonement. It has already been logged in at least four years of the current window.
+Feature it freely. Sing all four verses: the second holds the cross and the satisfied wrath, and the third holds the burial and resurrection. It can anchor a service on the person and work of Christ, Romans 8, or substitutionary atonement. The church has sung it 8 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -43,25 +43,23 @@ Feature it freely. The four verses move from the Cornerstone, through the incarn
 
 Rubric version v1. Grade date 2026-10-28.
 
-5 = dense and precise. 4 = solid, minor gaps. 3 = true but thin. 2 = serious omission or mushy poetry. 1 = error or disqualifying confusion.
-
 ---
 
 ## Voice and addressee
 
-First-person singular (“my hope,” “I stand,” “I live,” “I am His”). The claims are shareable and the voice is confessional. The congregation can sing the lines as true of every believer in Christ.
+First-person singular (“my hope,” “I stand,” “I live,” “I am His”). Every believer in Christ can sing these lines as true of themselves, and the “I” is a confession of faith rather than a report of feeling.
 
 ---
 
 ## How the text moves
 
-It opens with hope found in Christ alone as light, strength, song, Cornerstone, and Comforter. The second verse turns to the incarnation, the gift of love and righteousness scorned by those he came to save, and the cross where the wrath of God was satisfied and every sin was laid on him. The third verse names the burial, the resurrection, the victory over the curse, and the purchase by the precious blood. The fourth verse affirms no guilt in life and no fear in death, the power of Christ, and the security that no power of hell or scheme of man can pluck from his hand until he returns or calls home. The movement advances from the person of Christ through the finished work to the present security of the people he has bought.
+Verse 1 names who Christ is to His people. Verses 2 and 3 tell what He did, from the incarnation through the cross to the empty grave. Verse 4 draws the conclusion: no guilt in life, no fear in death, and no power able to take His people from His hand.
 
 ---
 
 ## Lines you cannot cut
 
-The second verse (“Till on that cross as Jesus died, / The wrath of God was satisfied— / For every sin on Him was laid”) and the third (“There in the ground His body lay… / Then bursting forth in glorious day / Up from the grave He rose again! / … Bought with the precious blood of Christ”). Drop either and the hope loses its ground in substitution and the empty tomb. The first and fourth verses alone still name the Cornerstone and the security, but leave the cross and the resurrection unsaid.
+The second verse (“Till on that cross as Jesus died, / The wrath of God was satisfied— / For every sin on Him was laid”) and the third (“There in the ground His body lay… / Then bursting forth in glorious day / Up from the grave He rose again! / … Bought with the precious blood of Christ”). The first and fourth verses alone still name the Cornerstone and the security, but leave the cross and the resurrection unsaid.
 
 ---
 
@@ -92,7 +90,7 @@ Christ is named throughout as hope, Cornerstone, the incarnate one, the one who 
 
 ## Could another worshiper sing this unchanged?
 
-No. The second and third verses require the one who took on flesh, on whom every sin was laid, who satisfied the wrath of God, whose body lay in the ground, who rose, and who bought with his blood. A vague theist cannot sing those lines without correction.
+No. A vague theist could not sing “The wrath of God was satisfied” or “Up from the grave He rose again” without changing them.
 
 ---
 
@@ -100,67 +98,67 @@ No. The second and third verses require the one who took on flesh, on whom every
 
 - **Unbiblical:** none.
 - **Non-biblical:** none that affect the claim.
-- **Thin:** none. The lines are specific at each stage of the work.
+- **Thin:** none. Each stage of the work is named specifically.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“The wrath of God was satisfied— / For every sin on Him was laid” follows the ordinary sense of propitiation and substitution (Romans 3:25, 2 Corinthians 5:21, Isaiah 53). “There in the ground His body lay… Up from the grave He rose again” follows the ordinary sense of the burial and resurrection (1 Corinthians 15:3–4). “No power of hell, no scheme of man, can ever pluck me from His hand” follows John 10:28–29. The ordinary sense of the texts is in view at each line.
+“The wrath of God was satisfied— / For every sin on Him was laid” is propitiation and substitution (Romans 3:25, 2 Corinthians 5:21, Isaiah 53). “There in the ground His body lay… Up from the grave He rose again” is the burial and resurrection of 1 Corinthians 15:3–4. “No power of hell, no scheme of man, can ever pluck me from His hand” is John 10:28–29.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Christ is the only hope, the incarnate one, the one on whom every sin was laid, the one who satisfied wrath, the one who rose, and the one who holds his people. The cross, the blood, the burial, and the resurrection are stated. Substitution and propitiation are explicit.
+Every verse is about Christ. The song names the incarnation, the cross, the blood, the burial, and the resurrection, and it states substitution and propitiation in plain words.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-The lines declare what Christ is and what He has done. First-person singular is confessional and shareable. “My hope,” “I stand,” and “I live” rest on the finished work rather than on inner weather. Desire or vow language is absent.
+The lines declare what Christ is and what He has done. “My hope,” “I stand,” and “I live” rest on that work. There is no vow or desire language. The score is 4 because the whole song is in the singular.
 
 ---
 
 ## Description of God’s Character: 5
 
-Christ is light, strength, song, Cornerstone, Comforter, All in All, the fullness of God in flesh, the one who satisfied wrath, the risen Lord, and the one who holds. Holiness, justice (wrath satisfied), mercy (every sin laid on him), and sovereignty (commands destiny, pluck from his hand) are named. The attributes are specific and balanced.
+Christ is light, strength, song, Cornerstone, Comforter, All in All, the fullness of God in flesh, the risen Lord, and the one who holds His people. Holiness and justice (wrath satisfied), mercy (every sin laid on Him), and sovereignty (“commands my destiny”) are all named.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The diction is plain. The argument is complete in four verses. The congregation has already sung it in multiple years. The confessional voice and the clear movement from incarnation to cross to resurrection to security make it useful for teaching the whole counsel of the gospel.
+The four verses follow the order of the gospel itself, which makes the hymn easy to follow and to teach from. A congregation that sings it often learns the whole outline of Christ’s work.
 
 ---
 
 ## Tone
 
-Reverent. The language stays with the Cornerstone, the cross where wrath was satisfied, the empty grave, and the hand that holds. It does not ask the room to confer on God what He already possesses.
+The tone is reverent and confident. The confidence in verse 4 rests on the cross and the empty grave in verses 2 and 3.
 
 ---
 
 ## What the congregation never says
 
-The Spirit’s work is not named. Explicit call to repentance is absent. Pair the song with texts or songs that name the Spirit when the sermon of the day requires them.
+The congregation never names the Spirit or calls to repentance. When the sermon needs either, pair it with a text or song that names them.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** The person and work of Christ, the cross and resurrection, Romans 8 (security), or any text on substitutionary atonement.
-- **Gaps the rest of the hour must cover.** Explicit naming of the Spirit if the sermon requires it.
-- **Diet sentence.** Adds a dense, complete confession of the incarnate Christ, the satisfied wrath, the empty tomb, and the security of those bought by his blood. It does not add a Spirit-focused or purely penitential song.
-- **What not to do.** Do not drop the second or third verse. Do not tag it with a vague chorus that flattens the satisfied wrath and the empty grave into generic hope.
+- **When it serves the sermon.** The person and work of Christ, the cross and resurrection, Romans 8 on security, or any text on substitutionary atonement.
+- **Gaps the rest of the hour must cover.** The Spirit, if the sermon needs Him named.
+- **Diet sentence.** Adds a complete outline of Christ’s work, from incarnation to return. It does not add a song about the Spirit or a song of repentance.
+- **What not to do.** Do not drop the second or third verse, and do not follow it with a vague chorus about hope that drops the cross and the grave.
 
 ---
 
 ## Identification notes
 
-One song. Catalog CCLI 3350395 matches published sources. Variants on file are title capitalization and key notes (D, E), not different texts. Arrangement year is not on file.
+This is one song. Catalog CCLI 3350395 matches published sources. Variants on file are title capitalization and key notes (D, E), not different texts. Arrangement year is not on file.
 
 ---
 
 ## Why this overall label
 
-The lyric names the incarnate Christ on whom every sin was laid, the one who satisfied the wrath of God, the one who rose from the grave, and the one who holds his people until he returns. Every verse advances a claim that can be tied to the ordinary sense of Scripture. That is why it is Excellent / Prefer.
+The hymn tells the whole work of Christ in order, states substitution and propitiation, and names the empty tomb. Each line ties to a text.

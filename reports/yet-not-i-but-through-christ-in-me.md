@@ -27,7 +27,7 @@ Jesus is the gift of grace, the Redeemer, righteousness, and peace. The singer�
 
 Excellent / Prefer
 
-Feature it. The lyric names the Redeemer, the righteousness that is His, the blood and suffering for pardon, the resurrection that overthrows the grave, and the Galatians 2:20 confession that the life is Christ’s. Every verse adds a distinct claim. Keep them all.
+Feature it, and sing every verse. The third verse is where the blood, the pardon, and the resurrection are stated, and the refrain is the Galatians 2:20 confession that holds the song together. The church has sung it 10 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 22 Oct 2026.
 
 ## Voice and addressee
 
-Mostly first-person singular (“I,” “my”), with the refrain “yet not I, but through Christ in me.” The singer addresses the congregation by declaring what is held. It is testimony that keeps pointing away from the singer and toward Christ.
+Mostly first-person singular (“I,” “my”), with the refrain “yet not I, but through Christ in me.” The singer declares what he holds in front of the congregation. It is testimony that keeps pointing away from the singer and toward Christ.
 
 ---
 
 ## How the text moves
 
-It starts with the gift of grace that is Jesus the Redeemer, the righteousness, freedom, and peace that are His. The refrain holds that the hope is only Jesus and the life is bound to His. The second verse faces the dark night and the labor in weakness, with the Shepherd who defends and leads. The third verse names the pardon bought by blood and suffering and the resurrection that overthrows the grave. The fourth verse looks to the race completed before the throne, with the same confession still on the lips. Each stanza adds a gospel claim rather than repeating a mood.
+The song opens with Jesus as the gift of grace and the singer’s righteousness. It passes through the dark night and weakness, then states the cross and the empty grave in verse 3. It ends before the throne with the same confession: the life is Christ’s.
 
 ---
 
@@ -61,7 +61,7 @@ It starts with the gift of grace that is Jesus the Redeemer, the righteousness, 
 
 “For Jesus bled and suffered for my pardon / And He was raised to overthrow the grave / To this I hold, my sin has been defeated / Jesus now and ever is my plea.”
 
-Dropping that stanza loses the explicit blood, the pardon, the resurrection, and the defeat of sin. The refrain “Yet not I, but through Christ in me” is also required; without it the song loses its governing confession.
+Without that stanza, the song loses its only statement of the blood, the pardon, and the resurrection. The refrain “Yet not I, but through Christ in me” must stay too, because it is the confession the whole song is built on.
 
 ---
 
@@ -92,7 +92,7 @@ Jesus / the Saviour / Christ is named throughout. The Father and Spirit are not 
 
 ## Could another worshiper sing this unchanged?
 
-No. The name of Jesus the Redeemer, the blood and suffering for pardon, the resurrection that overthrows the grave, and the “yet not I, but through Christ in me” are required. A vague theist or moralist cannot sing these lines without correction.
+No. A vague theist or moralist could not sing “For Jesus bled and suffered for my pardon” or the Galatians 2:20 refrain without changing them.
 
 ---
 
@@ -100,67 +100,67 @@ No. The name of Jesus the Redeemer, the blood and suffering for pardon, the resu
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** none that matter. The lyric is specific about the Redeemer, the righteousness, the pardon, the resurrection, and the governing “yet not I.”
+- **Thin:** none that matter.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“Yet not I, but through Christ in me” is Galatians 2:20. “He is my joy, my righteousness, and freedom” is the imputation and freedom of 2 Corinthians 5:21, Romans 8, and Galatians 5. “Jesus bled and suffered for my pardon” is the substitution of Isaiah 53 and 1 Peter 2:24. “He was raised to overthrow the grave” is 1 Corinthians 15. “My sin has been defeated” is Romans 6 and Colossians 2. The lines stay inside ordinary biblical sense.
+“Yet not I, but through Christ in me” is Galatians 2:20. “He is my joy, my righteousness, and freedom” is the imputation and freedom of 2 Corinthians 5:21, Romans 8, and Galatians 5. “Jesus bled and suffered for my pardon” is the substitution of Isaiah 53 and 1 Peter 2:24. “He was raised to overthrow the grave” is 1 Corinthians 15. “My sin has been defeated” is Romans 6 and Colossians 2.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Christ is named. The Redeemer is named. The blood and suffering are named. The pardon is named. The resurrection is named. The righteousness is named. The song does not stop at titles or atmosphere. It preaches the finished work and then refuses to take the credit.
+The song names Christ as Redeemer and righteousness, then states His blood, His suffering for our pardon, and His resurrection. The refrain gives Him the credit for the believer’s whole life.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The lyric declares what Christ has done and what the singer holds because of Him. “To this I hold” is the language of confession, not a private vow that floats free of the gospel. The night, the weakness, and the need are named, but the answer is the objective Shepherd, the paid price, and the risen Christ. The governing line keeps pointing away from the singer.
+The lyric declares what Christ has done and what the singer holds because of Him. “To this I hold” is confession tied to the gospel. The night and the weakness are named, but the answer each time is the Shepherd, the paid price, and the risen Christ.
 
 ---
 
 ## Description of God’s Character: 5
 
-Christ is the gift of grace, the Redeemer, the righteousness, the freedom, the steadfast love, the deep and boundless peace, the Shepherd who defends and leads, the one who bled and suffered for pardon, the one who was raised to overthrow the grave, and the one who will bring the singer home and renew him day by day. The attributes are tied to the person and finished work rather than listed generically.
+Christ is the gift of grace, the Redeemer, the righteousness, the steadfast love, the boundless peace, and the Shepherd who defends and leads. He bled for pardon, was raised to overthrow the grave, and will bring the singer home.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. The claims are dense. The congregation can learn the gospel and the Galatians 2:20 confession by singing these lines. The singular voice is testimony that the whole church can own. Singability is high, and the teaching is the reason for the 5.
+The claims are dense, but the refrain is short and easy to remember. A congregation that sings it learns Galatians 2:20 and a full statement of the cross and resurrection. The singular voice is testimony the whole church can own.
 
 ---
 
 ## Tone
 
-Reverent and declarative. It does not ask the room to confer on Christ anything He has not already accomplished. The intensity stays inside the finished work and the “yet not I.”
+The tone is reverent and confident. The confidence rests on the paid price and the empty grave, and the refrain keeps it humble.
 
 ---
 
 ## What the congregation never says
 
-The congregation never says “we” for most of the song, and it never names the Spirit. Those are small gaps. The main gospel elements and the governing confession are present.
+The congregation never says “we” for most of the song and never names the Spirit. The main gospel elements and the governing confession are present.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Galatians 2:20, any text on union with Christ, justification, the cross, or the resurrection. Especially useful after a sermon that has named the finished work and now needs the congregation to confess that the life is Christ’s.
-- **Gaps the rest of the hour must cover.** Very little. A corporate “we” song or a Spirit-focused song can sit beside it if the service needs that voice.
-- **Diet sentence.** It adds a dense confession of the Redeemer’s finished work and the “yet not I, but through Christ in me.” It does not add much on the Spirit or on corporate identity beyond the testimony the church can own.
-- **What not to do.** Do not drop the third verse. Do not let the refrain stand alone without the blood, the pardon, and the resurrection.
+- **When it serves the sermon.** Galatians 2:20, any text on union with Christ, justification, the cross, or the resurrection. It is especially useful after a sermon that has named the finished work and now asks the congregation to confess that the life is Christ’s.
+- **Gaps the rest of the hour must cover.** Very little. A corporate “we” song or a song about the Spirit can sit beside it if the service needs that voice.
+- **Diet sentence.** Adds the finished work and the Galatians 2:20 confession. It does not add much on the Spirit or on the church as a body.
+- **What not to do.** Do not drop the third verse, and do not let the refrain stand alone without the blood, the pardon, and the resurrection.
 
 ---
 
 ## Identification notes
 
-One song. CCLI 7121852. Writers Jonny Robinson, Rich Thompson, Michael Farren. Year 2018. Variants are key differences only.
+This is one song. CCLI 7121852. Writers Jonny Robinson, Rich Thompson, Michael Farren. Year 2018. Variants on file are key differences only.
 
 ---
 
 ## Why this overall label
 
-The lyric names the Redeemer, the righteousness that is His, the blood and suffering for pardon, the resurrection that overthrows the grave, and the confession that the life is Christ’s. That is dense, precise, and Scripture-shaped. It is Excellent / Prefer. Feature it. Keep every verse.
+The lyric states the blood, the pardon, and the resurrection, and then gives the believer’s whole life back to Christ in the words of Galatians 2:20. Each line ties to a text.

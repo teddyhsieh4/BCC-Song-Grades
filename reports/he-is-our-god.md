@@ -27,7 +27,7 @@ There is only one God: the one who lights the heavens and commands the nations, 
 
 Strong
 
-Use it regularly. The three verses move from the Creator who lights the suns and commands the nations, to the one who came to save and conquer with kindness, to the bridge that names the King on the throne and the Lamb who was slain. The chorus stays with holiness and worthiness. The text is solid enough for regular use on texts about the uniqueness of God or the Lamb of Revelation. It has already been logged in at least four years of the current window.
+Use it regularly, especially on the uniqueness of God or the Lamb of Revelation 5. Keep the third verse and the bridge, because they are the only places the song names the saving work and the slain Lamb. The main reason it is Strong and not higher is that the cross is named through the Lamb and never unfolded. The church has sung it 8 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -43,25 +43,23 @@ Use it regularly. The three verses move from the Creator who lights the suns and
 
 Rubric version v1. Grade date 2026-10-28.
 
-5 = dense and precise. 4 = solid, minor gaps. 3 = true but thin. 2 = serious omission or mushy poetry. 1 = error or disqualifying confusion.
-
 ---
 
 ## Voice and addressee
 
-First-person plural (“our God,” “save us,” “we adore”). The questions are answered by the congregation. The chorus and bridge address God. The voice is corporate.
+First-person plural (“our God,” “save us,” “we adore”). The congregation answers the questions in the verses, and the chorus and bridge address God. The voice is corporate throughout.
 
 ---
 
 ## How the text moves
 
-It begins with the unique Creator who lights the fires of a thousand suns and commands the nations. The third verse turns to the one who would come to save when we turned away and conquer with kindness. The bridge names the King on the throne who was and is to come and the Lamb who was slain. The choruses return holiness and worthiness. The movement advances from creation and sovereignty to the saving work and the slain Lamb.
+The first two verses ask who can light the suns and command the nations. The third verse asks who would come to save those who turned away. The bridge answers with the King on the throne and the Lamb who was slain.
 
 ---
 
 ## Lines you cannot cut
 
-The third verse (“Who would come to save us / When we turned away His love / Conquer us with kindness?”) and the bridge (“Now to the King on the throne / Who was and is to come / And to the Lamb Who was slain be glory”). Drop either and the uniqueness of God stays general. The first two verses alone still name the Creator and the Commander of nations but leave the saving work and the slain Lamb unsaid.
+The third verse (“Who would come to save us / When we turned away His love / Conquer us with kindness?”) and the bridge (“Now to the King on the throne / Who was and is to come / And to the Lamb Who was slain be glory”). Without them, the song praises the one true God without saying how He saves. The first two verses alone name only the Creator and the Commander of nations.
 
 ---
 
@@ -92,7 +90,7 @@ God is addressed as the only One, holy, and worthy. The bridge names the King on
 
 ## Could another worshiper sing this unchanged?
 
-No. The third verse requires the one who came to save those who turned away and conquered with kindness. The bridge requires the Lamb who was slain. A vague theist cannot sing those lines without correction.
+Not the whole song. The first two verses could be sung by any monotheist. “And to the Lamb Who was slain be glory” in the bridge would stop them.
 
 ---
 
@@ -100,67 +98,67 @@ No. The third verse requires the one who came to save those who turned away and 
 
 - **Unbiblical:** none.
 - **Non-biblical:** none that affect the claim.
-- **Thin:** “Conquer us with kindness” is true and underfed until the bridge names the slain Lamb. The first two verses are specific about creation and sovereignty but incomplete without the third.
+- **Thin:** “Conquer us with kindness” is true but thin until the bridge names the slain Lamb. The first two verses are specific about creation and sovereignty but need the third.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 4
 
-“Who can light the fires of a thousand burning suns” follows the ordinary sense of the Creator who made the lights (Genesis 1). “Who commands the nations, building up and tearing down” follows Jeremiah 1:10 and Psalm 33. “Who would come to save us when we turned away His love” and “the Lamb Who was slain” follow the ordinary sense of the gospel and Revelation 5. The lines are accurate. They are not as dense as a full unfolding of substitution or propitiation.
+“Who can light the fires of a thousand burning suns” is the Creator who made the lights (Genesis 1). “Who commands the nations, building up and tearing down” is Jeremiah 1:10 and Psalm 33. “Who would come to save us when we turned away His love” and “the Lamb Who was slain” are the gospel and Revelation 5. Every line is accurate. The score is 4 because the saving work is stated in one line and a title, without substitution or propitiation.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 4
 
-The third verse names the one who came to save those who turned away. The bridge names the Lamb who was slain and the King on the throne. Substitution is implied in the slain Lamb. Explicit language of the cross, blood, or imputed righteousness is not expanded. The focus stays on the unique God who saves.
+The third verse names the one who came to save those who turned away, and the bridge names the slain Lamb. Substitution is implied in the slain Lamb, but the cross, the blood, and our sin are not stated. The song’s focus is the unique God who saves.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The voice is corporate and confessional. “There is only One / He is our God” and “we adore You only” declare what is true of God and of the people who belong to him. Desire or vow language is absent.
+“There is only One / He is our God” and “we adore You only” declare what is true of God and of the people who belong to Him. There is no vow or desire language, and the voice is corporate.
 
 ---
 
 ## Description of God’s Character: 4
 
-God is the only One, holy, matchless in glory, worthy, the King on the throne, and the Lamb who was slain. Sovereignty over creation and nations is named. Holiness and worthiness are stated. Justice and mercy in relation to the cross are implied rather than expanded.
+God is the only One, holy, matchless in glory, worthy, the King on the throne, and the Lamb who was slain. His rule over creation and the nations is named. Justice and mercy at the cross are implied and not stated.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The diction is plain. The argument moves from uniqueness in creation and sovereignty to the saving work and the slain Lamb. The congregation has already sung it in multiple years. The corporate voice and the repeated “He is our God” make it useful for teaching the uniqueness of God and the Lamb.
+The repeated “He is our God” is easy to sing together, and the questions are easy to follow. It teaches that there is one God who rules all things and saves through the Lamb.
 
 ---
 
 ## Tone
 
-Reverent. The language stays with the only One, holiness, the King on the throne, and the Lamb who was slain. It does not ask the room to confer on God what He already possesses.
+The tone is reverent. The questions build toward the bridge, and the feeling of the song lands on the slain Lamb.
 
 ---
 
 ## What the congregation never says
 
-The Spirit’s work is not named. Explicit substitutionary language beyond the slain Lamb is not expanded. Wrath and propitiation are not named. Pair the song with texts or songs that name the Spirit or the satisfaction of justice when the sermon of the day requires them.
+The congregation never names the Spirit, wrath, propitiation, or the cross itself beyond the slain Lamb. When the sermon needs those, pair it with a song that states them, such as In Christ Alone.
 
 ---
 
 ## Setlist notes
 
 - **When it serves the sermon.** Revelation 4–5 (the King and the slain Lamb), texts on the uniqueness of God, or the gospel response to those who turned away.
-- **Gaps the rest of the hour must cover.** Explicit naming of the Spirit if the sermon requires it; a fuller statement of propitiation if the text of the day is Romans 3 or the cross.
-- **Diet sentence.** Adds a corporate confession of the unique God who creates, commands the nations, comes to save, and is the slain Lamb. It does not add a Spirit-focused or purely penitential song.
-- **What not to do.** Do not drop the third verse or the bridge. Do not tag it with a vague chorus that flattens the slain Lamb into generic holiness.
+- **Gaps the rest of the hour must cover.** The Spirit, if the sermon needs Him named, and a fuller statement of propitiation if the text of the day is Romans 3 or the cross.
+- **Diet sentence.** Adds a corporate confession of one God who creates, rules the nations, and saves through the slain Lamb. It does not add a song about the Spirit or a song of repentance.
+- **What not to do.** Do not drop the third verse or the bridge, and do not follow it with a vague chorus about holiness that drops the Lamb.
 
 ---
 
 ## Identification notes
 
-One song. Catalog CCLI 7053061 does not match Sovereign Grace published sources, which use 7096633. Variants on file are title capitalization and key notes (Ab, G#), not different texts. Arrangement year is not on file.
+This is one song. Sovereign Grace published sources use CCLI 7096633. An older catalog row had 7053061; the catalog now matches the published number. Variants on file are title capitalization and key notes (Ab, G#), not different texts. Arrangement year is not on file.
 
 ---
 
 ## Why this overall label
 
-The lyric names the only God who lights the heavens and commands the nations, the one who came to save those who turned away, and the Lamb who was slain. The claims can be tied to the ordinary sense of Scripture. The gospel is present but not as fully unfolded as in some other Sovereign Grace texts. That is why it is Strong.
+The lyric names the one God who lights the heavens and rules the nations, and the Lamb who was slain, in lines that each tie to a text. It is Strong because the saving work is named in a verse and a title and never unfolded into the cross and our sin.

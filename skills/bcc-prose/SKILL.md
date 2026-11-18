@@ -37,7 +37,7 @@ Read `references/patterns.md` before a revision pass. Read `references/report-vo
 
 If the user only asked for a lint, report hits with line context and a suggested fix. Do not rewrite the whole file unless they asked.
 
-Optional check: `python scripts/lint_prose.py <file.md>`
+Check every new or revised report from the repo root: `python3 skills/bcc-prose/scripts/lint_prose.py reports/<song-id>.md`. Read each hit and decide whether it needs a change.
 
 ## House voice (positive)
 
@@ -55,6 +55,7 @@ Optional check: `python scripts/lint_prose.py <file.md>`
 - Negative parallelism as a tic: “not X, but Y,” “this, not that,” “less a hammer, more a scalpel.” State the claim once.
 - Stock cadence listed in `references/patterns.md` (delve, tapestry, unpacks, leans into, at its core, it’s important to note, stands as a testament, and the rest of that list).
 - Inflated adjectives that add no theological point.
+- The habits in section 7 of `references/patterns.md`, above all a sentence reused from another report or the same doctrine list restated under every heading.
 - Unusual metaphors for the critique. Say the claim. Do not write “doctrinal spine,” “the engine,” “atmosphere” as a grade word, “the lyric never gets there,” “what caps the label,” or “the line that sets the cap.” A metaphor already in the quoted lyric or in the cited text may stay in the quotation.
 - Parallel slogan pairs written for punch.
 - Fake first-person color: “I remember when we sang this,” “the room always goes quiet.” If a fact is not in the catalog or the user’s note, omit it.

@@ -8,6 +8,14 @@ Leave a heading in place even when the note is short. A busy leader should be ab
 
 Write the body in ordinary paragraphs. Do not fill headings with three-word label sentences. Say what the lyric claims, what it leaves out, and why that matters for this church. Do not explain the grade with an unusual metaphor. “Doctrinal spine,” “the engine of the song,” “atmosphere,” “the lyric never gets there,” and “what caps the label” are critic talk. Quote the line, then say the plain claim. A metaphor that is already in the lyric, or in the Scripture text you are citing, may stay inside the quotation.
 
+Write each report for its own song:
+
+- The notes under each heading below are questions to answer about this song. Do not copy their wording into the report as a finished sentence.
+- Do not reuse a sentence from another report. If a sentence would be true of most songs in the catalog, it is not telling the leader anything. Say what is true of this lyric, or leave the sentence out.
+- Name the song’s main doctrines once, in the Thesis and the gospel inventory. Later sections add what is new for that heading. Do not repeat the full list under every heading.
+- Start each section with a full sentence. Do not open with a one-word answer such as “Reverent.” or “No.” or “One song.”
+- Run `python3 skills/bcc-prose/scripts/lint_prose.py reports/<song-id>.md` before the report goes up. Read each hit and decide whether it needs a change.
+
 Do not put a Status line in the report. A grade is published when the report file is on the site and the catalog row is `graded`. If it is not published, the song page does not show a report. The write-up itself does not announce that.
 
 ---
@@ -33,7 +41,7 @@ Do not put a Status line in the report. A grade is published when the report fil
 
 ## Thesis
 
-One or two sentences. What argument does this lyric make?
+One or two sentences. What argument does this lyric make? This is the place to name its main doctrines.
 
 ---
 
@@ -41,7 +49,7 @@ One or two sentences. What argument does this lyric make?
 
 One of: Excellent / Prefer · Strong · Acceptable with notes · Weak · Avoid
 
-Then 3–6 sentences a leader can act on: use it how often, which stanza must stay, and the main reason for the label. Say that reason in ordinary words. Do not write “what caps the label” or “the line that sets the cap.”
+Then 3–6 sentences a leader can act on: use it how often, which stanza must stay, and the main reason for the label. Say that reason in ordinary words. Do not write “what caps the label” or “the line that sets the cap.” When you mention how often the church sings it, give this song’s log count and years.
 
 ---
 
@@ -67,9 +75,9 @@ This is the one place other titles may be named as replacements. The rest of the
 | Description of God’s Character | |
 | Congregational Usefulness and Clarity | |
 
-Rubric version. Grade date.
+Rubric version v1. Grade date YYYY-MM-DD.
 
-5 = dense and precise. 4 = solid, minor gaps. 3 = true but thin. 2 = serious omission or mushy poetry. 1 = error or disqualifying confusion.
+The meaning of each score is on the Rubric page. Do not paste the score key into the report.
 
 ---
 
@@ -81,13 +89,13 @@ Who speaks (I / we / none). Who is addressed (God, the congregation, an unnamed 
 
 ## How the text moves
 
-Where it starts, where it ends, and whether the refrain or later stanzas change the claim. “Starts somewhere and goes somewhere,” or does not.
+Two or three sentences. Where does the lyric start, where does it end, and does the refrain or a later stanza change the claim? Do not retell the lyric line by line.
 
 ---
 
 ## Lines you cannot cut
 
-The stanza or line the grade depends on. What happens if the band drops it. Any single line that could sink the song. Say this in ordinary words. Do not call it “load-bearing.”
+The stanza or line the grade depends on. What happens if the band drops it. Is there any single line that would change the label on its own? Say this in ordinary words. Do not call it “load-bearing.” If no line is a problem, say so once in plain words.
 
 ---
 
@@ -112,6 +120,8 @@ Check what the lyric itself says. Do not credit the sermon or the next song.
 
 Use “implied” only when the line is close and you then say why it is not explicit.
 
+The table is the record of what is named. In the prose sections, say what the lyric does with a doctrine. Do not repeat the table as a run of sentences that each end “is named” or “is not named.”
+
 ---
 
 ## Persons of the Trinity named
@@ -122,7 +132,7 @@ Father / Son / Spirit: named, titled, or unnamed. One short paragraph.
 
 ## Could another worshiper sing this unchanged?
 
-Could a vague theist, a moralist, or a member of another religion sing the whole song without correction? Could they sing the first half if a later stanza is dropped? If the name of Jesus can be swapped for another object and the lines still work, say so.
+Could a vague theist, a moralist, or a member of another religion sing the whole song as written? Could they sing the first half if a later stanza is dropped? If the name of Jesus can be swapped for another object and the lines still work, say so. Quote the line that would stop them, if there is one.
 
 ---
 
@@ -132,13 +142,15 @@ Keep these three distinct.
 
 - **Unbiblical:** contradicts Scripture.
 - **Non-biblical:** cannot be checked by a text (decoration, filler, mood).
-- **Thin:** true and underfed.
+- **Thin:** true but thin.
+
+If an entry has nothing, write “none.”
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: #
 
-Quote, say what the line claims, name Scripture only when the ordinary sense of the text is in view. Impressionistic “Bible-ish” poetry does not earn a 4 or 5.
+Quote, say what the line claims, and give the Scripture reference when the ordinary sense of the text is in view. Give the reference directly (“is Isaiah 53:10”). Do not attach a phrase about the ordinary sense to every reference. Impressionistic “Bible-ish” poetry does not earn a 4 or 5.
 
 ---
 
@@ -150,49 +162,49 @@ Titles without the finished work stay in the 2–3 range. Walk the gospel invent
 
 ## Objectivity vs. Subjectivity: #
 
-Does the lyric declare God, or does it mainly report the singer’s inner weather? First-person vow and desire language lives here.
+Does the lyric declare God, or is it mainly about the singer’s feelings? First-person vow and desire language belongs here. If there is a vow, quote it.
 
 ---
 
 ## Description of God’s Character: #
 
-Specific attributes, or only “great / good / love.” A small table is fine when the list is long. Note overweight and silence.
+Specific attributes, or only “great / good / love.” A small table is fine when the list is long. Note overweight and silence. List the attributes once. Do not add a summary sentence about how specific they are.
 
 ---
 
 ## Congregational Usefulness and Clarity: #
 
-Corporate voice, plain diction, length, which stanza is easy to drop, whether the room already knows it. Singability alone does not earn a 4 or 5.
+Corporate voice, length, which stanza is easy to drop, whether the room already knows it. Mention diction only when a word or line is hard to sing or understand. Singability alone does not earn a 4 or 5. Say what the congregation learns by singing this lyric.
 
 ---
 
 ## Tone
 
-Reverent, casual, cute, sensual, flippant, or ungrounded intensity. Does any line ask the room to confer on God what He already has?
+Reverent, casual, cute, sensual, flippant, or ungrounded intensity. Say which, and quote the line that sets the tone. If a line asks the room to confer on God what He already has, quote it. If none does, leave that question out.
 
 ---
 
 ## What the congregation never says
 
-The doctrines and confessions this lyric never puts in the people’s mouth. This is the reason for pairing, not a second score.
+The doctrines and confessions this lyric never puts in the people’s mouth. Write them as one list sentence. This is the reason for pairing, not a second score.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Texts and doctrines it can carry.
-- **Gaps the rest of the hour must cover.**
+- **When it serves the sermon.** Texts and doctrines it fits.
+- **Gaps the rest of the hour must cover.** Name one or two catalog songs that cover them when you can.
 - **Diet sentence.** What this title adds to a year’s singing. What it never adds.
-- **What not to do.** Cuts, tags, or placements that undo the grade.
+- **What not to do.** Cuts, tags, or placements that undo the grade. Name the stanza or line at risk.
 
 ---
 
 ## Identification notes
 
-One song or two. CCLI mismatches. Keys on file. Arrangement year. Variant titles from old setlists.
+Is this one song or two settings under one title? Note CCLI mismatches, keys on file, arrangement year, and variant titles from old setlists.
 
 ---
 
 ## Why this overall label
 
-Restate the reason for the label in two or three sentences. No comparison to other graded titles.
+Give the reason for the label in two or three sentences, in terms of this lyric. No comparison to other graded titles. Do not end with a sentence that only repeats the label.

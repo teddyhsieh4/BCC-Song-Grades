@@ -27,7 +27,7 @@ No one compares to the God who holds the oceans, numbers the sand, and receives 
 
 Excellent / Prefer
 
-Feature it. The lyric moves from the questions of Isaiah 40 to the cross and the resurrection in plain language. The congregation can sing both the majesty and the finished work together. Keep every verse; the third verse is required.
+Feature it. Sing every verse, and never drop the third: it is the only place the song names the cross and the resurrection. The lyric moves from the questions of Isaiah 40 to the risen Savior in plain language. The church has sung it 10 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 22 Oct 2026.
 
 ## Voice and addressee
 
-Corporate throughout (“our God,” “let us adore Him”). The questions address the congregation and then turn to the Lord in the bridge. It is declaration and invitation to adore, not private report.
+Corporate throughout (“our God,” “let us adore Him”). The questions address the congregation, and the bridge turns to the Lord. The whole song is declaration and a call to adore.
 
 ---
 
 ## How the text moves
 
-It starts with the questions of Isaiah 40 about the Creator who holds the oceans and numbers the sand. The chorus calls the congregation to behold the God seated on the throne. The second verse continues the questions about counsel, words, knowledge, and deeds. The third verse turns to the nails, the guilt borne, the eternal God humbled to the grave, and Jesus the Savior risen to reign. The bridge confesses the forever reign and the glory that fills the earth. Each section adds a distinct claim.
+Verses 1 and 2 ask the questions of Isaiah 40 about the Creator who needs no counsel. Verse 3 answers with the God who felt the nails, bore our guilt, and rose to reign. The bridge closes on His forever reign.
 
 ---
 
@@ -61,7 +61,7 @@ It starts with the questions of Isaiah 40 about the Creator who holds the oceans
 
 “Who has felt the nails upon His hands, / Bearing all the guilt of sinful man? / God eternal, humbled to the grave, / Jesus, Savior, risen now to reign!”
 
-Dropping that stanza leaves a strong creation and sovereignty song. Keeping it makes the song preach the cross and the resurrection. Both are required for the full text.
+Without that stanza the song is a strong hymn on creation and sovereignty with no cross and no resurrection.
 
 ---
 
@@ -92,7 +92,7 @@ God is named. Jesus the Savior is named. The eternal God is the one who is humbl
 
 ## Could another worshiper sing this unchanged?
 
-No. The nails, the guilt of sinful man, the grave, and the risen Savior are required. A vague theist can sing the first two verses. The third verse and the bridge force the gospel.
+Not the whole song. A vague theist can sing the first two verses. “Bearing all the guilt of sinful man” and “Jesus, Savior, risen now to reign!” in verse 3 would stop them.
 
 ---
 
@@ -100,67 +100,67 @@ No. The nails, the guilt of sinful man, the grave, and the risen Savior are requ
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** none that matter. The questions stay inside Isaiah 40. The third verse names the nails, the guilt, the grave, and the resurrection.
+- **Thin:** none that matter. The questions come straight from Isaiah 40, and verse 3 names the nails, the guilt, the grave, and the resurrection.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“Who has held the oceans in His hands? / Who has numbered every grain of sand?” is the ordinary sense of Isaiah 40:12. The questions about counsel and knowledge are Isaiah 40:13–14 and Romans 11:34. “Bearing all the guilt of sinful man” is the substitution of Isaiah 53 and 1 Peter 2:24. “God eternal, humbled to the grave” is Philippians 2:6–8. “Jesus, Savior, risen now to reign” is the resurrection and session of Acts 2 and Romans 1:4. The lines stay inside the texts.
+“Who has held the oceans in His hands? / Who has numbered every grain of sand?” is Isaiah 40:12. The questions about counsel and knowledge are Isaiah 40:13–14 and Romans 11:34. “Bearing all the guilt of sinful man” is the substitution of Isaiah 53 and 1 Peter 2:24. “God eternal, humbled to the grave” is Philippians 2:6–8. “Jesus, Savior, risen now to reign” is the resurrection and session of Acts 2 and Romans 1:4.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Jesus is named. The nails are named. The guilt is named. The grave is named. The resurrection is named. The reign is named. The song does not stop at titles or atmosphere. It moves from the Creator of Isaiah 40 to the crucified and risen Savior.
+Verse 3 names Jesus, the nails, the guilt He bore, the grave, the resurrection, and His reign. The song joins the Creator of Isaiah 40 to the crucified and risen Savior, which is the point of the whole lyric.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The lyric declares who God is and what He has done. The call to “come, let us adore Him” is response to those facts. There are no private vows or reports of the singer’s inner weather. The voice is corporate.
+The lyric declares who God is and what He has done. “Come, let us adore Him” is the congregation’s answer to those facts. There are no private vows.
 
 ---
 
 ## Description of God’s Character: 5
 
-God holds the oceans, numbers the sand, causes kings and nations to tremble, receives no counsel, knows all things, does wondrous deeds, bears the guilt of sinful man, is eternal yet humbled to the grave, is the risen Savior and King, and will reign forever. Power, knowledge, holiness, justice (in the bearing of guilt), and grace are all present and specific. The attributes are tied to the texts rather than listed generically.
+God holds the oceans, numbers the sand, makes kings and nations tremble, needs no counsel, and knows all things. He also bears the guilt of sinful man, is humbled to the grave, and reigns forever. Power, knowledge, holiness, justice, and grace are all present.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The language is plain. The questions teach. The third verse teaches the gospel. The corporate voice fits the gathering. The congregation can learn both the majesty of God and the finished work by singing these lines. Singability is high, and the teaching is the reason for the 5.
+The questions teach the doctrine of God, verse 3 teaches the gospel, and the corporate voice fits the gathering. It is a good song for showing a congregation that the God of Isaiah 40 is the God who went to the cross.
 
 ---
 
 ## Tone
 
-Reverent and declarative. It does not ask the room to confer on God anything He does not already possess. The intensity stays inside the questions of Isaiah 40 and the facts of the cross and the empty tomb.
+The tone is reverent and declarative. The questions are asked with awe, and verse 3 answers them with the cross.
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the Spirit. It never says “we” as the ones who were redeemed in so many words, though the guilt of sinful man and the call to adore are corporate. Those are small gaps. The main gospel elements are present.
+The congregation never names the Spirit and never says “we” as the redeemed in so many words, though the call to adore is corporate. The main gospel elements are present.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Isaiah 40, any text on the Creator, the sovereignty of God, or the cross and resurrection. Especially useful when the sermon has moved from the majesty of God to the humility of the cross.
-- **Gaps the rest of the hour must cover.** Very little. A Spirit-focused song or a more explicit “we” confession can sit beside it if the service needs that voice.
-- **Diet sentence.** It adds a dense confession of the Creator of Isaiah 40 who is also the crucified and risen Savior. It does not add much on the Spirit.
-- **What not to do.** Do not drop the third verse. Do not treat the first two verses as sufficient by themselves.
+- **When it serves the sermon.** Isaiah 40, any text on the Creator or the sovereignty of God, or the cross and resurrection. It is especially useful when the sermon has moved from the majesty of God to the humility of the cross.
+- **Gaps the rest of the hour must cover.** Very little. A song about the Spirit or a more explicit “we” confession can sit beside it if the service needs that voice.
+- **Diet sentence.** Adds the Creator of Isaiah 40 confessed as the crucified and risen Savior. It does not add much on the Spirit.
+- **What not to do.** Do not drop the third verse, and do not treat the first two verses as enough by themselves.
 
 ---
 
 ## Identification notes
 
-One song. CCLI 5937510. Writers and year confirmed from Sovereign Grace. Variants are key differences only.
+This is one song. CCLI 5937510. Writers and year are confirmed from Sovereign Grace. Variants on file are key differences only.
 
 ---
 
 ## Why this overall label
 
-The lyric takes the questions of Isaiah 40 and answers them with the God who felt the nails, bore the guilt, was humbled to the grave, and is risen to reign. That is dense, precise, and Scripture-shaped. It is Excellent / Prefer. Feature it. Keep every verse.
+The lyric answers the questions of Isaiah 40 with the God who felt the nails, bore our guilt, and rose to reign. It joins the doctrine of God to the gospel in plain lines, each tied to a text.

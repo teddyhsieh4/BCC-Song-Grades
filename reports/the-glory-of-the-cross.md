@@ -27,7 +27,7 @@ The glory of the cross is the wisdom that placed sin and pride on the perfect La
 
 Excellent / Prefer
 
-Feature it freely on the cross, justification, or the wisdom, righteousness, and mercy revealed at Calvary. The first verse names the perfect Lamb on whom sin and pride were placed. The second verse names the righteousness that sets the guilty free, justifies the ungodly, and satisfies holy wrath through one atoning death. The third verse names the mercy that forgives and makes the believer like the Son. It has already been logged in at least four years of the current window.
+Feature it freely on the cross, justification, or the wisdom of God in the cross. Keep the second verse every time: it is where justification and satisfied wrath are stated. The church has sung it 7 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -43,25 +43,23 @@ Feature it freely on the cross, justification, or the wisdom, righteousness, and
 
 Rubric version v1. Grade date 2026-11-06.
 
-5 = dense and precise. 4 = solid, minor gaps. 3 = true but thin. 2 = serious omission or mushy poetry. 1 = error or disqualifying confusion.
-
 ---
 
 ## Voice and addressee
 
-Mostly third-person declaration of what God has done, with first-person response in the chorus (“I gladly count my life as loss”) and in the third verse (“forgives my sin,” “makes me like Your Son”). The chorus addresses God. The claims are confessional and shareable. The congregation can sing the lines as true of every believer in Christ.
+Mostly third-person declaration of what God has done, with first-person response in the chorus (“I gladly count my life as loss”) and in the third verse (“forgives my sin,” “makes me like Your Son”). The chorus addresses God. Every believer in Christ can sing these lines as true of themselves.
 
 ---
 
 ## How the text moves
 
-It opens by asking what wisdom devised the plan that placed all sin and pride on the perfect Lamb who suffered, bled, and died, then names the wisdom of a Sovereign God whose greatness will be shown when those who crucified the Son rejoice around the throne. The chorus responds that the glory of the cross is that God sent His Son for us, and that the singer gladly counts life as loss to know that glory. The second verse asks what righteousness was revealed that sets the guilty free, justifies ungodly men, and calls the filthy clean, then names the righteousness that proved justice has been met and holy wrath is satisfied through one atoning death. The third verse asks what mercy has been proclaimed for those who believe, then names the mercy that forgives sin, makes the believer like the Son, and loves forevermore because of what God has done. The claim advances from the wisdom that placed sin on the Lamb, through the righteousness that satisfies wrath, to the mercy that forgives and conforms.
+Each verse asks a question and answers it. Verse 1 asks what wisdom placed our sin on the Lamb, verse 2 asks what righteousness sets the guilty free, and verse 3 asks what mercy is proclaimed to those who believe. The chorus gives the one answer behind all three: God sent His Son for us.
 
 ---
 
 ## Lines you cannot cut
 
-The second verse (“What righteousness was there revealed / That sets the guilty free / That justifies ungodly men / And calls the filthy clean? / A righteousness that proved to all / Your justice has been met / And holy wrath is satisfied / Through one atoning death”) and the first verse’s placement of sin and pride on the perfect Lamb. Drop the justifying righteousness, the satisfied wrath, or the sin placed on the Lamb and the glory of the cross loses its ground. The mercy lines that forgive and make like the Son should stay with them.
+The second verse (“What righteousness was there revealed / That sets the guilty free / That justifies ungodly men / And calls the filthy clean? / A righteousness that proved to all / Your justice has been met / And holy wrath is satisfied / Through one atoning death”) and the first verse’s placement of sin and pride on the perfect Lamb. Without them, the chorus praises the glory of the cross without saying what happened there. The mercy lines in verse 3 should stay with them.
 
 ---
 
@@ -92,7 +90,7 @@ The Sovereign God (Father) is named as the one whose wisdom devised the plan and
 
 ## Could another worshiper sing this unchanged?
 
-No. The perfect Lamb on whom sin and pride were placed, the righteousness that justifies the ungodly and satisfies holy wrath, and the mercy that forgives and makes like the Son require the God of the gospel. A vague theist cannot sing those lines without correction.
+No. A vague theist could not sing “That justifies ungodly men” or “holy wrath is satisfied / Through one atoning death” without changing them.
 
 ---
 
@@ -100,67 +98,67 @@ No. The perfect Lamb on whom sin and pride were placed, the righteousness that j
 
 - **Unbiblical:** none.
 - **Non-biblical:** none that affect the claim.
-- **Thin:** the empty tomb is not named. The cross, the atoning death, the satisfied wrath, and the justifying righteousness are stated; the resurrection is left for other songs.
+- **Thin:** the hymn stays at the cross and does not go on to the resurrection.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“All our sin and pride / Was placed upon the perfect Lamb / Who suffered, bled, and died” follows the ordinary sense of substitution (Isaiah 53:6, 2 Corinthians 5:21). “A righteousness that proved to all / Your justice has been met / And holy wrath is satisfied / Through one atoning death” follows the ordinary sense of propitiation and justification (Romans 3:25–26, Romans 4:5, Romans 5:9). “A mercy that forgives my sin / Then makes me like Your Son” follows the ordinary sense of forgiveness and conformity to the Son (Ephesians 1:7, Romans 8:29). The ordinary sense of the texts is in view at each claim.
+“All our sin and pride / Was placed upon the perfect Lamb / Who suffered, bled, and died” is substitution (Isaiah 53:6, 2 Corinthians 5:21). “A righteousness that proved to all / Your justice has been met / And holy wrath is satisfied / Through one atoning death” is propitiation and justification (Romans 3:25–26, Romans 4:5, Romans 5:9). “A mercy that forgives my sin / Then makes me like Your Son” is forgiveness and conformity to the Son (Ephesians 1:7, Romans 8:29).
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Christ is the perfect Lamb on whom sin and pride were placed, the Son sent for us, the one whose atoning death satisfies holy wrath and reveals the righteousness that justifies the ungodly. The cross, the blood (implied in suffered, bled, and died), and the atoning death are explicit. Substitution, propitiation, and justification are stated.
+Christ is the perfect Lamb who bore our sin and the Son sent for us. His suffering and death are named, and substitution, propitiation, and justification are all stated in plain words.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-The lines declare what God has done: the wisdom that placed sin on the Lamb, the righteousness that satisfies wrath, and the mercy that forgives and conforms. First-person language in the chorus (“I gladly count my life as loss”) and the third verse is confessional and shareable. It rests on the finished work rather than on inner weather.
+The verses declare what God has done. The first person comes in the chorus (“I gladly count my life as loss”) and in verse 3, after the cross has been described, and it is Philippians 3 language. The score is 4 because the chorus centers the singer’s response.
 
 ---
 
 ## Description of God’s Character: 5
 
-God is the Sovereign whose wisdom devised the plan, whose greatness will be shown, whose justice has been met, and whose holy wrath is satisfied. The Son is the perfect Lamb. Mercy forgives and makes like the Son. Holiness (perfect Lamb, holy wrath), justice (justice met, wrath satisfied), wisdom, sovereignty, and mercy are named. The attributes are specific and balanced.
+God is the Sovereign whose wisdom devised the plan, whose justice has been met, and whose holy wrath is satisfied. Holiness, justice, wisdom, sovereignty, and mercy are all named.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The diction is plain. The argument moves from the wisdom that placed sin on the Lamb, through the righteousness that satisfies wrath, to the mercy that forgives and conforms. The congregation has already sung it in multiple years. The confessional voice and the clear chorus make it useful for teaching substitution, justification, and propitiation.
+The question-and-answer shape makes each verse easy to follow. Singing it teaches justification and propitiation in words the congregation says together.
 
 ---
 
 ## Tone
 
-Reverent. The language stays with the wisdom of the Sovereign, the perfect Lamb, the satisfied wrath, and the justifying righteousness. It does not ask the room to confer on God what He already possesses.
+The tone is reverent and thoughtful. Each verse asks a question before it praises, which slows the room down to consider the cross.
 
 ---
 
 ## What the congregation never says
 
-The empty tomb and the explicit naming of the Spirit are absent. Pair the song with texts or songs that name the resurrection when the sermon of the day requires them.
+The congregation never names the empty tomb or the Spirit. When the sermon needs the resurrection, pair it with In Christ Alone, whose third verse names it.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** The cross, justification (Romans 3–5), the wisdom of God in the cross (1 Corinthians 1), or any text on the atoning death that satisfies wrath and justifies the ungodly.
-- **Gaps the rest of the hour must cover.** Explicit naming of the resurrection if the sermon requires the empty tomb.
-- **Diet sentence.** Adds a dense confession that the wisdom of God placed sin on the perfect Lamb, that the righteousness revealed at the cross justifies the ungodly and satisfies holy wrath, and that mercy forgives and makes like the Son. It does not add a song that names the empty tomb.
-- **What not to do.** Do not drop the second verse. Do not tag it with a chorus that flattens the satisfied wrath and the justifying righteousness into generic glory.
+- **When it serves the sermon.** The cross, justification (Romans 3–5), the wisdom of God in the cross (1 Corinthians 1), or any text on the atoning death.
+- **Gaps the rest of the hour must cover.** The resurrection, if the sermon needs the empty tomb.
+- **Diet sentence.** Adds a clear statement of justification and satisfied wrath. On Easter it needs a resurrection song beside it.
+- **What not to do.** Do not drop the second verse, and do not follow it with a chorus of general glory that drops justification and wrath.
 
 ---
 
 ## Identification notes
 
-One song. Official CCLI is 2986533 (SongSelect and Sovereign Grace sources). The catalog row currently lists 5162676; update the catalog to match SongSelect. Published year is 2000 (catalog lists 2008). Variants on file are title shortening and key notes (F), not different texts. Arrangement year is not on file.
+This is one song. Official CCLI is 2986533 (SongSelect and Sovereign Grace sources), and the published year is 2000. An older catalog row listed 5162676 and 2008; the catalog now matches SongSelect. Variants on file are title shortening and key notes (F), not different texts. Arrangement year is not on file.
 
 ---
 
 ## Why this overall label
 
-The lyric names the wisdom that placed sin and pride on the perfect Lamb, the righteousness that justifies the ungodly and satisfies holy wrath through one atoning death, and the mercy that forgives and makes the believer like the Son. Every claim can be tied to the ordinary sense of Scripture. That is why it is Excellent / Prefer.
+The hymn states substitution, justification, and satisfied wrath in plain words, and each claim ties to a text. Its only gap is the empty tomb.

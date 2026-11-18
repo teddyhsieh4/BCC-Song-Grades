@@ -1,6 +1,6 @@
 # You Made Us Your Own
 
-**Source:** Published text (lyrics and credits read 2026-11-13). Catalog writers, year, and CCLI do not match published sources (see Identification).
+**Source:** Published text (lyrics and credits read 2026-11-13). An older catalog row had different writers, year, and CCLI (see Identification).
 
 - **Slug:** you-made-us-your-own
 - **Catalog ID:** you-made-us-your-own
@@ -27,7 +27,7 @@ The Father made the ruined and guilty His own: He sought the wanderers, welcomed
 
 Excellent / Prefer
 
-Feature it freely on adoption, the Father’s love, or the blood that bought heirs. The chorus names the love like the love for the Son, the status as heirs with Christ bought by His blood, and the reality that the singers are now His children. The verses name the ruined and guilty state, the sovereign hands that beckoned, the prodigals welcomed with a feast, and the confidence to draw near. It has already been logged in at least four years of the current window.
+Feature it freely on adoption, the Father’s love, or the people bought by Christ’s blood. Keep the chorus every time, because it is where adoption and the blood are stated together. The church has sung it 7 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -43,25 +43,23 @@ Feature it freely on adoption, the Father’s love, or the blood that bought hei
 
 Rubric version v1. Grade date 2026-11-13.
 
-5 = dense and precise. 4 = solid, minor gaps. 3 = true but thin. 2 = serious omission or mushy poetry. 1 = error or disqualifying confusion.
-
 ---
 
 ## Voice and addressee
 
-First-person plural throughout (“we were ruined,” “we are heirs,” “we’re Your children”). The chorus addresses God. The claims are confessional and shareable. The congregation can sing the lines as true of every believer in Christ.
+First-person plural throughout (“we were ruined,” “we are heirs,” “we’re Your children”). The chorus addresses God. Every believer in Christ can sing these lines as true of themselves, and the “we” makes it a song of the church.
 
 ---
 
 ## How the text moves
 
-It opens with the ruined and guilty state of the singers, undone until the Father’s love reached down with sovereign hands and beckoned them to come. The second verse names the seeking of wanderers, the bringing home of prodigals, and the lavish feast that welcomed them because He made them His own. The chorus states that He has loved them as He loves the Son, that they are heirs with Christ bought by His blood, that the love shown is great, and that they are His children now. The third verse names the status as strangers to the world but not to the throne, the confidence to draw near, and the absence of fear. The fourth verse looks to the return of Christ the King, the meeting of saints never known, and the eternal amazement that He made them His own. The claim advances from the ruined state, through the sovereign seeking and the blood-bought status as heirs, to the present confidence and the future amazement at the adoption.
+The song starts with the singers ruined and guilty, and with the Father’s love reaching down to call them. It moves through the welcome of prodigals and the confidence to come near His throne. It ends at Christ’s return, still amazed that “You made us Your own.”
 
 ---
 
 ## Lines you cannot cut
 
-The chorus (“You have loved us like You love Your Son / We are heirs with Christ, bought by His blood / Oh how great the love that we’ve been shown / We’re Your children now / You made us Your own”). Drop the love like the love for the Son, the blood-bought status as heirs, or the reality of being His children and the confession of adoption loses its ground. The opening that names the ruined and guilty state should stay with it.
+The chorus (“You have loved us like You love Your Son / We are heirs with Christ, bought by His blood / Oh how great the love that we’ve been shown / We’re Your children now / You made us Your own”). Without it, the song describes a welcome without saying what it cost. The opening that names the ruined and guilty state should stay with it.
 
 ---
 
@@ -92,75 +90,75 @@ The Father is addressed as the one whose love reached down, who sought the wande
 
 ## Could another worshiper sing this unchanged?
 
-No. The ruined and guilty state, the blood that bought heirs with Christ, the love like the love for the Son, and the status as children of God require the God of the gospel. A vague theist cannot sing those lines without correction.
+No. A vague theist could not sing “We are heirs with Christ, bought by His blood” without changing it.
 
 ---
 
 ## Unbiblical, non-biblical, thin
 
 - **Unbiblical:** none.
-- **Non-biblical:** the lavish feast and the prodigals are ordinary biblical images drawn from the parable. They do not alter the claim.
-- **Thin:** the empty tomb is not named. The blood that bought the heirs and the status as children are stated; the resurrection is left for other songs.
+- **Non-biblical:** the lavish feast and the prodigals are images from the parable in Luke 15. They do not change the claim.
+- **Thin:** the song moves from the blood to adoption and Christ’s return without naming the empty tomb.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“We were ruined in our sin / We were guilty and undone / When Your love reached down / With sovereign hands / And beckoned us to come” follows the ordinary sense of the deadness of sin and the sovereign call of God (Ephesians 2:1–5, Romans 5:8). “We are heirs with Christ, bought by His blood” and “You have loved us like You love Your Son” follow the ordinary sense of adoption and the purchase by the blood (Romans 8:15–17, Ephesians 1:5–7, Galatians 4:4–7). “We are strangers to the world / But no strangers to Your throne / We draw near You now with confidence” follows the ordinary sense of access to the throne (Hebrews 4:16, Ephesians 2:18–19). The ordinary sense of the texts is in view at each claim.
+“We were ruined in our sin / We were guilty and undone / When Your love reached down / With sovereign hands / And beckoned us to come” is the deadness of sin and the sovereign call of God (Ephesians 2:1–5, Romans 5:8). “We are heirs with Christ, bought by His blood” and “You have loved us like You love Your Son” are adoption and purchase by the blood (Romans 8:15–17, Ephesians 1:5–7, Galatians 4:4–7). “We are strangers to the world / But no strangers to Your throne / We draw near You now with confidence” is access to the throne (Hebrews 4:16, Ephesians 2:18–19).
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Christ is the one whose blood bought the heirs and the King who returns. The blood, the status as heirs with Christ, and the love that matches the love for the Son are explicit. Substitution and the purchase of the children are stated.
+Christ is the one whose blood bought the heirs and the King who returns. The song names our guilt, the purchase by His blood, and our adoption, so the gospel is stated and not only implied.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-The lines declare what the Father has done: the sovereign seeking, the blood-bought status as heirs, the love like the love for the Son, and the making of the singers His own. First-person plural is confessional and shareable. Desire or vow language is absent.
+The lines declare what the Father has done, and the “we” is the whole church receiving it. There is no vow and no desire language. The score is 4 because the song dwells more on the singers’ new status than on God Himself.
 
 ---
 
 ## Description of God’s Character: 5
 
-The Father is the one whose sovereign love reached down to the ruined and guilty, who sought the wanderers and welcomed the prodigals, who loves the singers as He loves the Son, and who made them His children bought by the blood. Sovereignty, love, and the purchase of the heirs are named. Holiness and justice are present in the ruined state and the blood that bought. The attributes are specific and balanced.
+The Father’s love is sovereign: it reaches down to the ruined and seeks the wanderers. He loves His children as He loves the Son. Holiness and justice are present in the guilt named and the blood paid.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The diction is plain. The argument moves from the ruined state, through the sovereign seeking and the blood-bought status as heirs, to the present confidence and the future return. The congregation has already sung it in multiple years. The confessional voice and the clear chorus make it useful for teaching adoption and the Father’s love.
+The “we” voice suits a congregation, and the chorus is easy to remember. It teaches adoption in plain words.
 
 ---
 
 ## Tone
 
-Reverent. The language stays with the ruined state, the sovereign hands, the blood that bought the heirs, and the status as children. It does not ask the room to confer on God what He already possesses.
+The tone is reverent and warm. The warmth comes from the Father’s welcome, and verse 1’s “guilty and undone” keeps it from being sentimental.
 
 ---
 
 ## What the congregation never says
 
-The empty tomb and the explicit naming of the Spirit are absent. Pair the song with texts or songs that name the resurrection when the sermon of the day requires them.
+The congregation never names the empty tomb or the Spirit, even though Romans 8 and Galatians 4 tie adoption to the Spirit. When the sermon needs the resurrection, pair it with Yet Not I but Through Christ in Me, whose third verse names it.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Adoption (Romans 8, Galatians 4), the Father’s love, the blood that bought the heirs, or any text on the status of believers as children of God.
-- **Gaps the rest of the hour must cover.** Explicit naming of the resurrection if the sermon requires the empty tomb.
-- **Diet sentence.** Adds a dense confession that the Father loved the ruined and guilty as He loves the Son, made them heirs with Christ bought by His blood, and made them His own. It does not add a song that names the empty tomb.
-- **What not to do.** Do not drop the chorus. Do not tag it with a chorus that flattens the blood-bought status as heirs into generic belonging.
+- **When it serves the sermon.** Adoption (Romans 8, Galatians 4), the Father’s love, Luke 15, or any text on believers as children of God.
+- **Gaps the rest of the hour must cover.** The resurrection, if the sermon needs the empty tomb, and the Spirit of adoption on a Romans 8 or Galatians 4 Sunday.
+- **Diet sentence.** Adds adoption grounded in the blood. It leaves the resurrection to other songs.
+- **What not to do.** Do not drop the chorus, and do not follow it with a chorus about belonging that leaves out the blood.
 
 ---
 
 ## Identification notes
 
-One song. Published sources list writers Steve Cook / Vikki Cook / Bob Kauflin, year 2009, and CCLI 5605079. The catalog row lists McKenzie Fuller / David Zimmer / Bob Kauflin, year 2021, and CCLI 7168823. Confirm the number and writers against the chord sheet in use; update the catalog to match published sources if the 2009 text is the one being sung. Variants on file are title capitalization and key notes (B, C), not different texts. Arrangement year is not on file.
+This is one song. Published sources list writers Steve Cook / Vikki Cook / Bob Kauflin, year 2009, and CCLI 5605079. An older catalog row listed McKenzie Fuller / David Zimmer / Bob Kauflin, year 2021, and CCLI 7168823; the catalog now matches the published sources. Still check the chord sheet in use to confirm the 2009 text is the one being sung. Variants on file are title capitalization and key notes (B, C), not different texts. Arrangement year is not on file.
 
 ---
 
 ## Why this overall label
 
-The lyric names the ruined and guilty state, the sovereign love that sought and welcomed, the blood that bought heirs with Christ, and the reality that the singers are now the Father’s children. Every claim can be tied to the ordinary sense of Scripture. That is why it is Excellent / Prefer.
+The song states guilt, purchase by the blood, and adoption in a corporate voice, and each claim ties to a text. Its only gaps are the empty tomb and the Spirit.

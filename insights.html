@@ -14,7 +14,7 @@ try {
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400..700&display=swap" rel="stylesheet">
   <base href="/BCC-Song-Grades/">
-  <link rel="stylesheet" href="style.css?v=26">
+  <link rel="stylesheet" href="style.css?v=27">
 </head>
 <body>
 <div id="gate">
@@ -51,7 +51,13 @@ try {
     <div class="stat"><b id="n-notgraded">136</b><span>Not yet graded</span></div>
   </div>
   <h2>By overall grade</h2>
+  <p class="chart-note">Each graded song counts once.</p>
   <div class="chart" id="grade-bars"></div>
+
+  <h2>By overall grade, weighted by times sung</h2>
+  <p class="chart-note">Each graded song counts once for every setlist it appears in, so the songs we sing most weigh most. Shares are of the <span id="n-logged-graded">528</span> logs on graded songs.</p>
+  <div class="chart" id="grade-log-bars"></div>
+  <p class="chart-note">Songs not yet graded account for another <span id="n-logged-notgraded">437</span> of the <span id="n-logged-all">965</span> logs (<span id="n-logged-notgraded-pct">45%</span>), so this mix will shift as grading continues.</p>
 
   <div class="note">Family is grouped by who wrote the song, not by an artist who later covered it. If Shane & Shane arranged someone else’s text (Is He Worthy), the song stays in the original family.</div>
 
@@ -130,6 +136,6 @@ try {
 <footer>Built from BCC Song List V2 setlists, 2023 through Sept 2026. Full lyrics stay off these pages.</footer>
 <script src="gate.js?v=12"></script>
 <script src="lib/grades.js?v=12"></script>
-<script src="insights.js?v=11"></script>
+<script src="insights.js?v=12"></script>
 </body>
 </html>

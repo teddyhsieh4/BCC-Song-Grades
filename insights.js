@@ -47,6 +47,12 @@ async function init() {
     return meta ? meta.cls : "";
   };
   bars(d.recommendations || [], "grade-bars", labelClass);
+  bars(d.recommendationsByLogs || [], "grade-log-bars", labelClass);
+  set("n-logged-graded", d.loggedGraded);
+  const allLogs = (d.loggedGraded || 0) + (d.loggedNotGraded || 0);
+  set("n-logged-notgraded", d.loggedNotGraded);
+  set("n-logged-all", allLogs);
+  set("n-logged-notgraded-pct", allLogs ? `${Math.round((d.loggedNotGraded / allLogs) * 100)}%` : "0%");
   bars(d.families, "family-bars");
   bars(d.eras, "era-bars");
   const top = document.getElementById("top-list");

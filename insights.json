@@ -1,5 +1,5 @@
 {
-  "asOf": "13 Nov 2026",
+  "asOf": "17 Nov 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
   "graded": 58,
@@ -104,6 +104,30 @@
       "count": 1
     }
   ],
+  "recommendationsByLogs": [
+    {
+      "name": "Excellent / Prefer",
+      "count": 302
+    },
+    {
+      "name": "Strong",
+      "count": 125
+    },
+    {
+      "name": "Acceptable with notes",
+      "count": 59
+    },
+    {
+      "name": "Weak",
+      "count": 30
+    },
+    {
+      "name": "Avoid",
+      "count": 12
+    }
+  ],
+  "loggedGraded": 528,
+  "loggedNotGraded": 437,
   "mostLogged": [
     {
       "title": "King Forevermore (God the Uncreated One)",

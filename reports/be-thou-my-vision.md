@@ -27,7 +27,7 @@ The singer asks the Lord to be his vision, his best thought by day or night, his
 
 Acceptable with notes
 
-Use it sparingly when the rest of the set supplies the gospel. The lyric is a clear and ancient prayer of devotion. It names the Lord as vision, wisdom, true Word, Father, High King, and Ruler of all. It does not name the finished work of Christ, the cross, the resurrection, or the Spirit’s work in making the singer able to see or to remain faithful. The congregation can own the request that the Lord be first in the heart, but the song does not teach why the heart can be undivided or how the vision is possible for a sinner.
+Use it occasionally, when the rest of the set supplies the gospel. It is an ancient, clear prayer that the Lord be the singer’s vision, wisdom, true Word, Father, and High King. It never names the cross, the resurrection, or the Spirit, so it cannot say how a sinner comes to see God or keep Him first. The church has sung it 7 times across at least four years of the 2023–2026 window.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 2 Nov 2026.
 
 ## Voice and addressee
 
-First-person singular addressing the Lord. It is a prayer of request and devotion. The congregation can own the request that the Lord be vision, wisdom, and High King. The personal lines are grounded in the ordinary request of ancient prayer, not in high-claim present-tense vows without grounding.
+First-person singular, a prayer of request and devotion addressed to the Lord. The congregation can pray it together, and its personal lines are the old language of prayer rather than vows.
 
 ---
 
 ## How the text moves
 
-It opens with the request: “Be Thou my Vision, O Lord of my heart; / Naught be all else to me, save that Thou art. / Thou my best Thought, by day or by night, / Waking or sleeping, Thy presence my light.” It continues with the request that the Lord be wisdom and true Word, that the singer ever be with the Lord and the Lord with the singer, that the Lord be the great Father and the singer His true son, and that the Lord dwell in the singer. It asks that the Lord be battle shield and sword, dignity and delight, shelter and high tower. It declares that riches and man’s empty praise are not heeded, that the Lord is the inheritance, first in the heart, and the High King of heaven, the Treasure. It closes with the request that the singer reach heaven’s joys, that the Lord remain the vision and the Ruler of all, whatever befall.
+Each stanza asks the Lord to be something more to the singer: vision and thought, wisdom and Word, Father, shield, inheritance, and High King. A middle stanza sets aside riches and human praise. The last stanza asks to reach heaven’s joys with the Lord still ruling over all.
 
 ---
 
@@ -61,7 +61,7 @@ It opens with the request: “Be Thou my Vision, O Lord of my heart; / Naught be
 
 “Be Thou my Wisdom, and Thou my true Word” and “High King of heaven, my Treasure Thou art” and “Still be my Vision, O Ruler of all.”
 
-Dropping those lines leaves the request for vision without the named Word, the High King, and the ongoing rule. The rest of the lyric is still a clear prayer of devotion, but the true Word and the High King are the most specific doctrinal lines in the song.
+These are the most specific doctrinal lines in the hymn. Without them it is still a prayer of devotion, but it loses the Word, the High King, and His continuing rule.
 
 ---
 
@@ -86,13 +86,13 @@ Dropping those lines leaves the request for vision without the named Word, the H
 
 ## Persons of the Trinity named
 
-The Lord is named as Father and as High King. The Son and the Spirit are not named. The work of the Son is not named.
+The Lord is named as Father and as High King. “True Word” can be heard as the Son of John 1, but the Son and the Spirit are not named, and neither is the Son’s work.
 
 ---
 
 ## Could another worshiper sing this unchanged?
 
-Yes. A vague theist who wants the Lord as vision, wisdom, and High King can sing the request without correction. The true Word is named, but the finished work that makes the vision possible for a sinner is not named. The song does not require the gospel of the Son.
+Yes. Anyone who wants God as vision, wisdom, and king could pray every line. Nothing in the lyric requires the gospel of the Son.
 
 ---
 
@@ -100,67 +100,67 @@ Yes. A vague theist who wants the Lord as vision, wisdom, and High King can sing
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** the lyric is a clear prayer of devotion, but it does not name the finished work of Christ that makes the request possible. The gospel is absent.
+- **Thin:** the gospel. The prayer is clear, but it never names the finished work of Christ that makes the request possible.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 4
 
-“Be Thou my Vision, O Lord of my heart; / Naught be all else to me, save that Thou art” is the ordinary sense of Psalm 73:25 and Philippians 3:8. “Be Thou my Wisdom, and Thou my true Word” is the ordinary sense of Proverbs 2:6 and John 1:1. “Thou my great Father, I Thy true son” is the ordinary sense of Romans 8:15 and 1 John 3:1. “High King of heaven, my Treasure Thou art” and “Still be my Vision, O Ruler of all” is the ordinary sense of Psalm 47:2 and Revelation 19:16. The lines stay inside ordinary biblical sense. The score is 4 rather than 5 because the lyric does not name the finished work that makes the vision and the sonship possible. The request is accurate; the gospel that grounds the request is absent.
+“Be Thou my Vision, O Lord of my heart; / Naught be all else to me, save that Thou art” is Psalm 73:25 and Philippians 3:8. “Be Thou my Wisdom, and Thou my true Word” is Proverbs 2:6 and John 1:1. “Thou my great Father, I Thy true son” is Romans 8:15 and 1 John 3:1. “High King of heaven, my Treasure Thou art” and “Still be my Vision, O Ruler of all” are Psalm 47:2 and Revelation 19:16. Every request is accurate. The score is 4 and not 5 because the gospel that makes the request and the sonship possible is missing.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 2
 
-The Lord is named as vision, wisdom, true Word, Father, High King, and Ruler of all. The finished work of Christ is not named. There is no cross, no substitution, no resurrection, and no naming of the Son. The score is 2 because the gospel is omitted. The song can be sung without tension by a person who does not know the finished work of the Son.
+The Lord is named as vision, wisdom, Word, Father, High King, and Ruler. There is no cross, substitution, resurrection, or clear naming of the Son. Someone who does not know the finished work could sing it without a pause, so the score is 2.
 
 ---
 
 ## Objectivity vs. Subjectivity: 3
 
-The text is a prayer of request. The request is grounded in the ordinary language of devotion to the Lord as vision, wisdom, and High King. The singer does not make high-claim present-tense vows without grounding. The score is 3 because the prayer does not declare what the Lord has already done in the gospel. It remains a request without the finished work that makes the request possible.
+The whole hymn is a request, in the plain language of devotion. The singer makes no vow. The score is 3 because the prayer never declares what the Lord has already done in the gospel.
 
 ---
 
 ## Description of God’s Character: 4
 
-The Lord is the vision, the best thought, the wisdom, the true Word, the great Father, the battle shield, the inheritance, the High King of heaven, the Treasure, and the Ruler of all. The attributes are specific and tied to the rule, the Word, and the inheritance. Holiness and sovereignty appear as the High King and the Ruler of all. The score is 4 because the lyric names the High King and the true Word without naming the finished work of the Son that shows the character of the King.
+The Lord is vision, best thought, wisdom, true Word, great Father, battle shield, inheritance, High King of heaven, Treasure, and Ruler of all. His sovereignty is clear in the King and Ruler. The score is 4 because the King’s character is never shown in the work of His Son.
 
 ---
 
 ## Congregational Usefulness and Clarity: 3
 
-The language is plain. The congregation can learn the request that the Lord be vision, wisdom, true Word, and High King by singing these lines. The singular voice is a prayer the whole church can own. The score is 3 because the song does not teach the finished work that makes the vision possible. It is useful when the rest of the set has already named the cross and the empty tomb. It is not useful as a song that teaches the gospel on its own.
+The words are plain and the tune is well known. A congregation that sings it learns to pray for the Lord to be first in everything. It does not learn the finished work that makes that prayer possible, so the score is 3.
 
 ---
 
 ## Tone
 
-Reverent and honest as a prayer. It does not ask the room to confer on the Lord what He has not already done. The intensity stays inside the request that the Lord be vision, wisdom, and High King.
+Reverent and earnest, the tone of an old prayer.
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the Son, the cross, the resurrection, or the Spirit. Those are not small gaps in this lyric. The main request that the Lord be vision, wisdom, true Word, and High King is present; the gospel that grounds the request is absent.
+The congregation never names the Son, the cross, the resurrection, or the Spirit. For this lyric that is a real gap: the prayer is present, but the gospel under it is not. Pair it with Yet Not I but Through Christ in Me.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Psalm 73, Philippians 3, Proverbs 2, any text on the Lord as vision, wisdom, or High King. Especially useful after a sermon that has already named the finished work of Christ and the Spirit’s work in giving sight.
-- **Gaps the rest of the hour must cover.** The finished work of the Son, the cross, the resurrection, and the Spirit’s work in the heart. The song does not supply them.
-- **Diet sentence.** It adds a clear prayer that the Lord be vision, wisdom, true Word, Father, and High King of heaven. It does not add the gospel of the Son that makes the request possible.
-- **What not to do.** Do not feature it as a song that teaches the gospel. Do not let it stand alone without the finished work already named in the service.
+- **When it serves the sermon.** Psalm 73, Philippians 3, Proverbs 2, or any text on the Lord as vision, wisdom, or King. It fits best after a sermon that has named the finished work and the Spirit’s gift of sight.
+- **Gaps the rest of the hour must cover.** The Son’s finished work, the cross, the resurrection, and the Spirit’s work in the heart.
+- **Diet sentence.** Adds a clear prayer that the Lord be vision, wisdom, true Word, Father, and High King of heaven. It does not add the gospel of the Son.
+- **What not to do.** Do not use it as the song that teaches the gospel, or in a set where nothing else names the cross.
 
 ---
 
 ## Identification notes
 
-One song. Ancient Irish text; English translation by Mary E. Byrne (1905), versified by Eleanor Hull (1912). CCLI 30639. Tune SLANE. Public domain.
+One song. Ancient Irish text, translated into English by Mary E. Byrne (1905) and versified by Eleanor Hull (1912). Tune SLANE. Public domain. CCLI 30639.
 
 ---
 
 ## Why this overall label
 
-The lyric is a clear and accurate prayer that the Lord be vision, wisdom, true Word, Father, and High King of heaven. It does not name the finished work of Christ. That is a serious omission for this church. It is Acceptable with notes. Use it sparingly when the rest of the set has already named the cross, the empty tomb, and the Spirit’s work. Keep the lines about the true Word and the High King.
+The hymn is a clear and accurate prayer that the Lord be vision, wisdom, Word, Father, and High King. It never names the finished work of Christ, and for this church that is a serious gap. It is Acceptable with notes: use it occasionally, with the cross named elsewhere, and keep the lines about the true Word and the High King.

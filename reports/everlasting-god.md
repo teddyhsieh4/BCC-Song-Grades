@@ -33,12 +33,17 @@ Do not feature it. If it is used, put it after Scripture has already named the g
 
 ## Alternative song suggestions
 
-All four are already in the catalog and graded Strong. Each covers Isaiah 40 or God’s eternity and also names Christ’s work.
+The lyric is reaching for the everlasting, tireless God of Isaiah 40 who strengthens the weak. Two of these the church already sings. Two are not in the catalog and would be new to the congregation.
 
-- **He Is Our God** (Bob Kauflin / Jon Althoff, Sovereign Grace, CCLI 7096633, already logged). Covers the same ground as Isaiah 40 and names the Lamb who was slain.
-- **From Everlasting (Psalm 90)** (Lisa Clow / Lacy Hudson, Sovereign Grace, CCLI 7196566, already logged). Names the everlasting God from the psalm and ties our short years to the gospel.
-- **King Forevermore (God the Uncreated One)** (Aaron Keyes / Pete James, CCLI 7057478, already logged). Confesses the uncreated, everlasting King and names the cross and resurrection.
-- **Ancient of Days** (Jonny Robinson / Rich Thompson / Michael Farren / Jesse Reeves, CityAlight, CCLI 7124591, already logged). Names the everlasting Ancient of Days and the finished work.
+**Already sung**
+
+- **He Is Our God** (Bob Kauflin / Jon Althoff, Sovereign Grace, CCLI 7096633, graded Strong). Covers the same ground as Isaiah 40 and names the Lamb who was slain.
+- **King Forevermore (God the Uncreated One)** (Aaron Keyes / Pete James, Modern hymn, CCLI 7057478, graded Strong). Confesses the uncreated, everlasting King and names the cross and resurrection.
+
+**Not yet logged**
+
+- **Across the Lands** (Keith Getty / Stuart Townend, Getty, CCLI 3709898). Not in the catalog. Names Christ as the eternal Word and Creator, then His resurrection and His present intercession for His people. It joins the everlasting God of this lyric to the gospel this lyric leaves out.
+- **O God, Our Help in Ages Past** (Isaac Watts, hymn, public domain; the plain hymn’s SongSelect number is not yet confirmed). Not in the catalog. Watts’s paraphrase of Psalm 90 names God as His people’s shelter and eternal home and sets our short lives against His eternity. It does not name Christ, so pair it with a gospel song.
 
 ---
 

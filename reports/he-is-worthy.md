@@ -55,11 +55,11 @@ Verses speak about the Son in the third person, then answer “Worthy! He is wor
 
 ## How the text moves
 
-Three verses, one chorus, one bridge.
+The hymn has three verses, a chorus, and a bridge.
 
-1. **Who He is.** Holy Son of God. Majesty no one can stand before. Beauty beyond thought. Worthy.
-2. **What He became and whom He came for.** Word made flesh. King who bore pain and poverty. He claims the rebel and the wretch.
-3. **What He did and where He is now.** Lamb who died. Debt canceled at Calvary. Raised to reign.
+1. **Who He is.** He is the holy Son of God, whose majesty no one can stand before and whose beauty is beyond thought. He is worthy.
+2. **What He became and whom He came for.** He is the Word made flesh and the King who bore pain and poverty, and He claims the rebel and the wretch.
+3. **What He did and where He is now.** He is the Lamb who died, canceling the debt at Calvary, and He is raised to reign.
 
 The chorus ascribes glory, honor, power, and praise to His name and says no one can rival Him. The bridge takes the Isaiah / Revelation “holy, holy” line and adds “none beside You.” The hymn begins with the Son’s holiness and ends with Calvary, the empty grave, and the Name.
 
@@ -96,7 +96,7 @@ No single line is false.
 
 ## Persons of the Trinity named
 
-The Son is named as Son of God, Word made flesh, King, Lamb, Jesus. The Father and the Spirit are unnamed. “Lord Almighty” in the bridge is the Son being addressed with the Isaiah 6 title, which Scripture also gives to Christ. The hymn is not anti-Trinitarian. It is simply a hymn to the Son.
+The Son is named as Son of God, Word made flesh, King, Lamb, Jesus. The Father and the Spirit are unnamed. “Lord Almighty” in the bridge is the Son being addressed with the Isaiah 6 title, which Scripture also gives to Christ. The hymn is addressed to the Son and says nothing against the Father or the Spirit.
 
 ---
 
@@ -110,19 +110,19 @@ Verse 1 plus the first half of the chorus (“all glory and honor… be to Your 
 
 ## Unbiblical, non-biblical, thin
 
-**Unbiblical.** Nothing contradicts Scripture. “None can stand before His majesty” is Psalm 76:7 and Malachi 3:2, not a denial that we now come by the blood.
+**Unbiblical.** Nothing contradicts Scripture. “None can stand before His majesty” is Psalm 76:7 and Malachi 3:2, and it fits with our coming to God now by the blood.
 
-**Non-biblical.** “Beautiful beyond our highest thought” is praise language, not a claim that needs a verse number.
+**Non-biblical.** “Beautiful beyond our highest thought” is praise language that needs no verse number.
 
-**Thin.** Wrath is unnamed. “In our place” is implied by debt and by the Lamb, not stated. Burial is skipped between death and rising. Those absences do not take away from the song.
+**Thin.** Wrath is unnamed. “In our place” is implied by debt and by the Lamb and never stated. Burial is skipped between death and rising. Those absences do not take away from the song.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-**Verse 1.** “Holy, holy is the Son of God” is the holiness of the Son (John 6:69; Revelation 4–5). “None can stand before His majesty” is Psalm 76:7, Nahum 1:6, and Malachi 3:2. The line is about God as He is, not about the worshiper’s feelings.
+**Verse 1.** “Holy, holy is the Son of God” is the holiness of the Son (John 6:69; Revelation 4–5). “None can stand before His majesty” is Psalm 76:7, Nahum 1:6, and Malachi 3:2. The line is about God as He is.
 
-**Verse 2.** “Word made flesh” is John 1:14, quoted in sense. “King who bore our pain and poverty” is Isaiah 53:4 and 2 Corinthians 8:9: He was rich and became poor. “Come to claim the rebel and the wretch” is Luke 19:10 and Romans 5:6–8. The objects of His coming are named as sinners, not as people who needed a lift.
+**Verse 2.** “Word made flesh” is John 1:14, quoted in sense. “King who bore our pain and poverty” is Isaiah 53:4 and 2 Corinthians 8:9: He was rich and became poor. “Come to claim the rebel and the wretch” is Luke 19:10 and Romans 5:6–8. The people He came for are named as sinners.
 
 **Verse 3.** “Lamb who died” is John 1:29 and Revelation 5:6–9. “Canceling our debt at Calvary” is Colossians 2:13–14. “Rising from the grave to reign on high” is 1 Corinthians 15:3–4 and Acts 2:33. The sequence is the gospel sequence.
 
@@ -136,15 +136,15 @@ The lyric reads these texts in their ordinary sense. The one compression is “c
 
 The hymn is about Jesus from the first line. Incarnation, the coming for rebels, the Lamb, Calvary, debt, resurrection, and reign are all in the people’s mouth. The Name is lifted after those works have been named.
 
-This category stays at 4 because the lyric never says substitution or wrath in those words. “Canceling our debt” is the right metaphor (Colossians 2). A taught room will hear “for us.” The lyric never says He stood in our place or bore wrath. The titles and the events are named. What those events did for the people singing is not said in plain words.
+This category stays at 4 because the lyric never says substitution or wrath in those words. “Canceling our debt” is the right metaphor (Colossians 2), and a taught room will hear “for us.” The titles and the events are named. What those events did for the people singing is not said in plain words.
 
-Keep verse 3. If it goes, this category falls.
+Keep verse 3. Without it, this score drops.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The hymn declares who Christ is and what He did. The congregation answers with ascription. “We lift high the Name of Jesus” is corporate praise, not a report of how the room feels. There is no first-person vow that needs a disclaimer, and no romance.
+The hymn declares who Christ is and what He did. The congregation answers with ascription. “We lift high the Name of Jesus” is corporate praise. There is no first-person vow that needs a disclaimer, and no romance.
 
 ---
 
@@ -165,43 +165,39 @@ The hymn declares who Christ is and what He did. The congregation answers with a
 
 Love as a word is never used. Mercy and grace are shown in the acts. Holiness leads every verse. The account of the Son is balanced.
 
-The Spirit and the Father are unnamed. The character score remains a 5 because what is said of the Son is specific and weighted toward holiness and worth, not toward mood.
+The Spirit and the Father are unnamed. The character score remains a 5 because what is said of the Son is specific and weighted toward holiness and worth.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-Short verses, a clear hook, words a congregation can mean together. The church already knows it (at least four years in the snapshot). Keys on file include E and Eb.
+The verses are short, the hook is clear, and the words are ones a congregation can mean together. The church already knows it (at least four years in the snapshot). Keys on file include E and Eb.
 
 The hymn is compact enough that cutting is rarely needed. If time is tight, do not cut verse 3. Drop a bridge repeat before you drop a verse.
 
-No disclaimer is required. The people are confessing Christ’s worth and work, not promising a feeling.
+The leader does not need to qualify any line before the song, because the people are confessing Christ’s worth and work.
 
 ---
 
 ## Tone
 
-Reverent, public, and glad. “Worthy!” is an answer to named holiness, not a volume cue. “Beautiful beyond our highest thought” is the one line that speaks of beauty rather than majesty. It comes after the majesty lines. It does not replace them.
+The tone is reverent, public, and glad. “Worthy!” answers the holiness the verses have just named. “Beautiful beyond our highest thought” is the one line that speaks of beauty rather than majesty. It comes after the majesty lines and does not replace them.
 
-The church is not asked to make Him worthy. Verse 1 already said He is.
+Verse 1 has already said He is worthy, so the chorus is the church agreeing.
 
 ---
 
 ## What the congregation never says
 
-They never say “I am a sinner” in the first person (they do name “the rebel and the wretch”).  
-They never say wrath, “in our place,” or justification.  
-They never name the Father or the Spirit.  
-They never name repentance or a present High Priest.  
-They never name the burial.
+The congregation never says “I am a sinner” in the first person, though it does name “the rebel and the wretch.” It never says wrath, “in our place,” or justification, and never names the Father, the Spirit, repentance, a present High Priest, or the burial.
 
 ---
 
 ## Setlist notes
 
-**When it serves the sermon.** John 1. John 1:29. Revelation 4–5. Philippians 2. Colossians 2. 1 Corinthians 15. Isaiah 6. A call to worship that tells the room who is being addressed. A response after the sermon has named personal sin and guilt.
+**When it serves the sermon.** John 1, John 1:29, Revelation 4–5, Philippians 2, Colossians 2, 1 Corinthians 15, or Isaiah 6. It works as a call to worship that tells the room who is being addressed, and as a response after the sermon has named personal sin and guilt.
 
-**Gaps the rest of the hour must cover.** A personal confession of sin. Wrath and substitution in plain words when the text is Isaiah 53 or Romans 3. The Spirit, when the day’s text is John 14–16.
+**Gaps the rest of the hour must cover.** A personal confession of sin, wrath and substitution in plain words when the text is Isaiah 53 or Romans 3, and the Spirit when the day’s text is John 14–16.
 
 **What it adds to the year’s diet.** Holiness of the Son, worthiness language that is tied to Calvary, incarnation, debt canceled. It will not supply repentance language or the Father and the Spirit.
 

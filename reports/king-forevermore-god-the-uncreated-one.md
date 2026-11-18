@@ -29,7 +29,7 @@ The uncreated God is King forever. That same God took mortal flesh, was betrayed
 
 Use it regularly, and sing all four stanzas. Verse 3 is the gospel stanza. Drop it, and the congregation has praised an uncreated King without naming the cross, the Lamb, or the resurrection.
 
-The church has already sung the song for at least four years (16 logs in the 2023–2026 snapshot). The writing is God-centered and specific. It stays at Strong for three reasons inside the lyric: the curse line is compressed, “all is love and faith is sight” goes soft, and the gospel is told as a sequence of events, with substitution left implied.
+The church has already sung the song for at least four years (16 logs in the 2023–2026 snapshot). The writing is God-centered and specific. It stays at Strong for three reasons inside the lyric: the curse line is compressed, “all is love and faith is sight” is vague, and the gospel is told as a sequence of events, with substitution left implied.
 
 ---
 
@@ -66,13 +66,13 @@ The hymn begins with God uncreated and ends with the name of Jesus. The four sta
 
 ## Lines you cannot cut
 
-**Do not drop verse 3.** From “Mighty God in mortal flesh” through “rescued by the Father’s hand / to reign as King forever,” the hymn names incarnation, betrayal, the curse, the Lamb, burial, resurrection, and reign. Without that stanza the Christ-Exalting score falls. What remains is a true song about the Creator-King with no cross and no empty tomb.
+**Do not drop verse 3.** From “Mighty God in mortal flesh” through “rescued by the Father’s hand / to reign as King forever,” the hymn names incarnation, betrayal, the curse, the Lamb, burial, resurrection, and reign. Without that stanza the Christ-Exalting score drops, and what remains is a true song about the Creator-King with no cross and no empty tomb.
 
-**The line that keeps Theological Accuracy at 4** is “The curse of sin and centuries / did pierce the lowly Prince of Peace.” The doctrine under the line is sound. The grammar is loose, which is why the accuracy section treats it at length.
+**The curse line** is “The curse of sin and centuries / did pierce the lowly Prince of Peace.” The doctrine under it is sound, but the grammar is loose. That is the main reason Theological Accuracy is a 4, and the accuracy section explains it.
 
 **The thin line** is “All is love and faith is sight.” In context it aims at the last day. Taken alone it is vague.
 
-No single line is false enough to sink the song.
+No line in the hymn is false.
 
 ---
 
@@ -111,9 +111,9 @@ Stanzas 1 and 2 are easier to borrow. Uncreated, Author of salvation, Creator, f
 
 ## Unbiblical, non-biblical, thin
 
-**Unbiblical.** Nothing in the lyric contradicts Scripture. “Rescued by the Father’s hand” is the resurrection (Acts 2:24). Isaiah 53:10 and Acts 2:23 already place the cross under God’s definite plan, so the line is vindication of the Son, not a reversal of a death the Father never willed.
+**Unbiblical.** Nothing in the lyric contradicts Scripture. “Rescued by the Father’s hand” is the resurrection (Acts 2:24). Isaiah 53:10 and Acts 2:23 already place the cross under God’s definite plan, so “rescued” means the Father vindicating the Son whose death was already in God’s plan.
 
-**Non-biblical.** “Hung the stars like chandeliers” is decoration. Job 38 and Isaiah 40:26 already have God numbering and hanging the stars. The chandelier picture adds color. It does not smuggle in a false claim.
+**Non-biblical.** “Hung the stars like chandeliers” is decoration. Job 38 and Isaiah 40:26 already have God numbering and hanging the stars. The chandelier picture adds color and makes no false claim.
 
 **Thin.** “All is love and faith is sight.” In the stanza it follows everlasting life and is followed by “justice rolls” and the name of Jesus, so the intended sense is the last day. Taken by itself, “all is love” reduces God to a mood. The curse line is different: the content is full, and the subject of the sentence is imprecise.
 
@@ -137,7 +137,7 @@ Stanzas 1 and 2 are easier to borrow. Uncreated, Author of salvation, Creator, f
 
 **Stanza 4.** “King eternal, God of grace” is 1 Timothy 1:17 and Ephesians 2:8. “You’re holy, holy, holy Lord” is Isaiah 6:3 and Revelation 4:8, and it is the right climax for a hymn that began with God uncreated.
 
-“What joy in everlasting life / all is love and faith is sight / justice rolls and praises rise / at the name of Jesus Christ” is aimed at the last day: John 17:3, 1 Corinthians 13:12, 2 Corinthians 5:7 turned toward the day when sight replaces faith, Amos 5:24, and Philippians 2:9–11. “All is love” is the soft spot. In 1 John 4:8–10, love is defined by the sending of the Son as propitiation. The next line, “justice rolls,” keeps the stanza from collapsing into mood.
+“What joy in everlasting life / all is love and faith is sight / justice rolls and praises rise / at the name of Jesus Christ” is aimed at the last day: John 17:3, 1 Corinthians 13:12, 2 Corinthians 5:7 turned toward the day when sight replaces faith, Amos 5:24, and Philippians 2:9–11. “All is love” is the vague phrase. In 1 John 4:8–10, love is defined by the sending of the Son as propitiation. The next line, “justice rolls,” keeps the stanza from reducing God to a mood.
 
 Nothing in the lyric teaches prosperity, private revelation, or easy-believeism.
 
@@ -145,7 +145,7 @@ Nothing in the lyric teaches prosperity, private revelation, or easy-believeism.
 
 ## Christ-Exalting and Gospel-Saturated: 4
 
-Stanzas 1 and 2 never say “Jesus.” They say uncreated, Author, fortress, I Am, King. In a four-stanza hymn that works as a setup, if the later stanzas complete it. Stanza 3 does.
+Stanzas 1 and 2 never say “Jesus.” They say uncreated, Author, fortress, I Am, King. In a four-stanza hymn that works as a setup if the later stanzas complete it, and stanza 3 completes it.
 
 The events named there are the heart of the gospel story:
 
@@ -199,15 +199,13 @@ The attributes are named one by one, with more than “great” and “good.”
 | justice rolls | justice | Amos 5:24; Rev 19:2 |
 | King of kings | He rules over all | Rev 19:16 |
 
-Love appears only in the last stanza’s “all is love.” Holiness and justice are still in the hymn. The Spirit is not named. The character score remains a 5 because the attributes that are named are balanced and concrete. A hymn that named all three persons would also say what the Spirit does. This one simply does not speak of Him, and it does not say anything false about Him.
+Love appears only in the last stanza’s “all is love.” Holiness and justice are still in the hymn. The Spirit is not named. The character score remains a 5 because the attributes that are named are balanced and concrete. A hymn that named all three persons would also say what the Spirit does. This one does not speak of Him, and it says nothing false about Him.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The words are clear enough for the congregation to sing together. The refrain is short enough to remember, and the church has already sung the song for at least four years (the 2023–2026 setlist window). Four stanzas is ordinary hymn length here. The room already sings the whole text.
-
-Several old setlists mark the song in E. Printed originals are often in F. The key change does not alter the lyric.
+The words are clear enough for the congregation to sing together. The refrain is short enough to remember. Four stanzas is ordinary hymn length here, and the room already sings the whole text. The key differences on old setlists (see Identification notes) do not change the lyric.
 
 ---
 
@@ -223,26 +221,21 @@ There is no romantic intimacy language in the printed text, and no empty exclama
 
 ## What the congregation never says
 
-They never confess “our sin” or “I am a sinner.”
-They never say “in our place,” “for us,” or “the wrath of God.”
-They never name repentance.
-They never name the Spirit.
-They never name a present High Priest.
-They never name justification.
+The congregation never confesses “our sin” or “I am a sinner,” never says “in our place,” “for us,” or “the wrath of God,” and never names repentance, the Spirit, a present High Priest, or justification.
 
-The congregation may believe all of those things that morning. This lyric will not carry them. The sermon, the reading, or another song will have to.
+The people may believe all of those things that morning, but this lyric does not give them the words. The sermon, the reading, or another song will have to.
 
 ---
 
 ## Setlist notes
 
-**When it serves the sermon.** Doctrine of God. Creation. Exodus 3. Psalm 18 or 46. Psalm 90. Isaiah 6 or 9. The passion narrative. Acts 2. Revelation 4 or 19. Any text on the reign of Christ. As an opener it tells the room who is being addressed. As a response it works after the sermon has already named sin and the cross, so verse 3 is agreement rather than the only gospel in the hour.
+**When it serves the sermon.** The doctrine of God, creation, Exodus 3, Psalm 18 or 46, Psalm 90, Isaiah 6 or 9, the passion narrative, Acts 2, Revelation 4 or 19, or any text on the reign of Christ. As an opener it tells the room who is being addressed. As a response it works after the sermon has already named sin and the cross, so verse 3 is agreement rather than the only gospel in the hour.
 
-**Gaps the rest of the hour must cover.** A confession of our sin. Substitution in plain words. Wrath, justification, or present intercession when the day’s text is Romans 3, Isaiah 53, or Hebrews 7–10.
+**Gaps the rest of the hour must cover.** A confession of our sin, substitution in plain words, and wrath, justification, or present intercession when the day’s text is Romans 3, Isaiah 53, or Hebrews 7–10.
 
 **What it adds to the year’s diet.** Aseity, God’s rule over nations, a narrative passion stanza, and “holy, holy, holy.” Across a year this title will not supply justification language, repentance, or the Spirit’s work.
 
-**What not to do.** N/A. The church sings the whole hymn.
+**What not to do.** Do not cut verse 3. It is the only stanza that names the cross and the resurrection.
 
 ---
 

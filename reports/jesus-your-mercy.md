@@ -27,7 +27,7 @@ Jesus’ mercy is the sinner’s only plea, only boast, only rest, and only joy,
 
 **Excellent / Prefer**
 
-Feature it. Sing all four verses. The chorus is the substitution stanza, and verse 1 is the verse that kills self-righteousness: “The best of my works pierced Your hands and Your feet.” Keep both.
+Feature it. Sing all four verses. The chorus is the substitution stanza, and verse 1 leaves no room for self-righteousness: “The best of my works pierced Your hands and Your feet.” Keep both.
 
 The church has already sung it for at least four years (14 logs in the 2023–2026 snapshot). This is a model mercy-and-substitution song for this room.
 
@@ -55,14 +55,14 @@ First person singular addressing Jesus throughout. “My plea,” “my boast,�
 
 ## How the text moves
 
-Four verses, one chorus. Each verse names mercy as a different thing the singer lives by, then returns to the same line.
+The hymn has four verses and one chorus. Each verse names mercy as a different thing the singer lives by, then returns to the same line.
 
-1. **Plea.** No defense. Guilt too deep. Even the best works pierced His hands and feet.
-2. **Boast and hope.** The goodness claimed and the ground of hope is His mercy. Whatever else is lacking, this is what is needed.
-3. **Rest.** Fears and enemies. Comfort in life and in death.
-4. **Joy.** A treasure no power can destroy.
+1. **Plea.** The singer has no defense and guilt too deep, and even the best works pierced His hands and feet.
+2. **Boast and hope.** His mercy is the goodness claimed and the ground of hope, and whatever else is lacking, it is what the singer needs most.
+3. **Rest.** Under fears and enemies, His mercy is comfort in life and in death.
+4. **Joy.** His mercy is a treasure no power can destroy.
 
-The chorus does not change, and it should not. It is the reason the four claims are true.
+The chorus stays the same, and it is the reason the four claims are true.
 
 ---
 
@@ -103,17 +103,17 @@ Jesus is named in the first word of every verse and addressed as King. The Fathe
 
 ## Could another worshiper sing this unchanged?
 
-No. Verse 1 names guilt and the piercing of Jesus’ hands and feet. The chorus names the King who bore sin and took the condemned place. A moralist could not sing “the best of my works pierced Your hands and Your feet” without changing religions. Dropping verse 1 does not rescue the rest for another faith. The chorus would still stop it.
+No. Verse 1 names guilt and the piercing of Jesus’ hands and feet. The chorus names the King who bore sin and took the condemned place. A moralist could not sing “the best of my works pierced Your hands and Your feet” without changing religions. Even without verse 1, the chorus would stop them.
 
 ---
 
 ## Unbiblical, non-biblical, thin
 
-**Unbiblical.** Nothing contradicts Scripture. “The best of my works pierced Your hands and Your feet” is Isaiah 64:6 and Romans 3:20 taken all the way to the cross. Our righteousness is not a second way. It is part of what He bore.
+**Unbiblical.** Nothing contradicts Scripture. “The best of my works pierced Your hands and Your feet” is Isaiah 64:6 and Romans 3:20 taken all the way to the cross: even our righteousness is part of what He bore.
 
 **Non-biblical.** None of weight.
 
-**Thin.** Resurrection is unnamed. The Spirit is unnamed. Wrath is present as “condemned” and not as the word. Those absences do not take away from the song.
+**Thin.** The resurrection and the Spirit are unnamed. Wrath is present as “condemned” and not as the word. Those absences do not take away from the song.
 
 ---
 
@@ -121,75 +121,71 @@ No. Verse 1 names guilt and the piercing of Jesus’ hands and feet. The chorus 
 
 **Verse 1.** “Jesus, Your mercy is all my plea” is Luke 18:13 and Hebrews 4:16. “I have no defense, my guilt runs too deep” is Romans 3:19: every mouth stopped. “The best of my works pierced Your hands and Your feet” is the right reading of Isaiah 64:6 next to Psalm 22:16 and John 20:27. The hymn will not let the singer keep a little credit.
 
-**Verse 2.** “The goodness I claim, the grounds of my hope” is Jeremiah 9:23–24 and 1 Corinthians 1:30–31. Mercy is the boast. “Whatever I lack, it’s still what I need most” keeps mercy from becoming one blessing among others.
+**Verse 2.** “The goodness I claim, the grounds of my hope” is Jeremiah 9:23–24 and 1 Corinthians 1:30–31: mercy is the boast. “Whatever I lack, it’s still what I need most” keeps mercy from becoming one blessing among others.
 
 **Chorus.** “Bore my sin” is 1 Peter 2:24 and Isaiah 53:6. “Took my place when I stood condemned” is 2 Corinthians 5:21, Galatians 3:13, and Romans 8:1, 3. Substitution and condemnation are both in the line.
 
 **Verse 3.** Rest under fear and enemies is Psalm 23, Psalm 27, and Psalm 56. “In life and in death” is Romans 8:38–39 and Philippians 1:20–21.
 
-**Verse 4.** Mercy as a treasure no power can destroy is Matthew 6:19–21 and 1 Peter 1:3–5. Joy here is attached to that treasure, not to a feeling.
+**Verse 4.** Mercy as a treasure no power can destroy is Matthew 6:19–21 and 1 Peter 1:3–5. Joy here is attached to that treasure.
 
-The lyric reads these texts in their ordinary sense. The lines are plain.
+The lyric reads these texts in their ordinary sense.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Jesus is the subject of every verse. The chorus names the work: He bore sin, He took the place, the singer stood condemned. Hands and feet are the cross. King is lordship attached to that work, not a title floating free.
+Jesus is the subject of every verse. The chorus names the work: He bore sin, He took the place, the singer stood condemned. The hands and feet are the cross. “King” is lordship tied to that work.
 
-What is missing is the empty tomb and the word “wrath.” Those are real gaps for a full inventory. They do not pull this category down. The finished work the rubric asks for is here in plain speech.
+What is missing is the empty tomb and the word “wrath.” Those are real gaps for a full inventory, but this category is still a 5 because the finished work the rubric asks for is here in plain speech.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-The content is objective gospel. The grammar is “my.” Plea, boast, rest, joy, “how good You’ve always been to me”: the hymn is a personal appropriation of substitution.
+The content is objective gospel, though the grammar is “my.” Plea, boast, rest, joy, “how good You’ve always been to me”: the hymn is a personal appropriation of substitution.
 
-The score is a 4 because of the voice. The “I” is doing what a psalm of testimony does, and it is doing it with doctrinal sentences. It is still a room full of people singing a private case. There is no romance. There is no ungrounded vow. A disclaimer is not required.
+The score is a 4 because of the voice. The “I” is doing what a psalm of testimony does, and it is doing it with doctrinal sentences. It is still a room full of people singing a private case. There is no romance and no ungrounded vow, so the leader does not need to qualify any line.
 
 ---
 
 ## Description of God’s Character: 4
 
-Named: mercy (the governing attribute), King, the One who bears sin, the One who takes the condemned place, goodness toward the singer, comfort in life and death, a treasure that cannot be destroyed.
+The lyric names mercy (the governing attribute), King, the One who bears sin, the One who takes the condemned place, goodness toward the singer, comfort in life and death, a treasure that cannot be destroyed.
 
-Unnamed: holiness as a word, wrath as a word, Fatherhood, the Spirit, justice except as “condemned.” The account is weighted toward mercy, and mercy is defined by substitution. That is enough for a 4. A 5 would have named more of the attributes that make mercy necessary.
+It leaves holiness and wrath unnamed as words, along with Fatherhood, the Spirit, and justice except as “condemned.” The account is weighted toward mercy, and mercy is defined by substitution. That is enough for a 4. A 5 would have named more of the attributes that make mercy necessary.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The words are plain. The chorus is short. The church already knows the song (at least four years in the snapshot). Keys on file include G, Ab, A, and Bb.
+The chorus is short. The church already knows the song (at least four years in the snapshot). Keys on file include G, Ab, A, and Bb.
 
-Four verses will run long only with extra tags. If a cut is forced, drop a chorus repeat, not verse 1.
+Four verses will run long only with extra tags. If a cut is forced, drop a chorus repeat and keep verse 1.
 
-The lyric already tells the truth about guilt and works. You do not need a speech before it.
+The lyric already tells the truth about guilt and works, so no speech is needed before it.
 
 ---
 
 ## Tone
 
-Reverent and glad. Verse 1 is severe in the right way. Verses 3–4 are comfort after that severity. “Oh how good You’ve always been to me” is gratitude for mercy already shown, not a request that God match the room’s intensity.
+The tone is reverent and glad. Verse 1 is severe in the right way, and verses 3–4 are comfort after that severity. “Oh how good You’ve always been to me” is gratitude for mercy already shown.
 
-Nothing cute or sensual. The treasure language in verse 4 is 1 Peter, not romance.
+Nothing is cute or sensual. The treasure language in verse 4 comes from 1 Peter.
 
 ---
 
 ## What the congregation never says
 
-They never name the resurrection.  
-They never name the Father or the Spirit.  
-They never say “wrath.”  
-They never say “we.”  
-They never name repentance as a word, or a present High Priest.
+The congregation never names the resurrection, the Father, the Spirit, or a present High Priest, and never uses the words “wrath,” “we,” or repentance.
 
 ---
 
 ## Setlist notes
 
-**When it serves the sermon.** Romans 3. Romans 8:1–4. Galatians 2–3. 1 Peter 2:24. Isaiah 53. Luke 18:9–14. A confession hymn. A response after the sermon has exposed works-righteousness.
+**When it serves the sermon.** Romans 3, Romans 8:1–4, Galatians 2–3, 1 Peter 2:24, Isaiah 53, or Luke 18:9–14. Use it as a confession hymn, or as a response after the sermon has exposed works-righteousness.
 
-**Gaps the rest of the hour must cover.** The resurrection. The Father and the Spirit. A corporate “we” on Sundays when the rest of the set is also first-person. Wrath in so many words when the text is Romans 1–3.
+**Gaps the rest of the hour must cover.** The resurrection, the Father and the Spirit, a corporate “we” on Sundays when the rest of the set is also first-person, and wrath in so many words when the text is Romans 1–3.
 
 **What it adds to the year’s diet.** Substitution in plain speech, the end of boasting in works, mercy as plea and rest. It will not supply an empty-tomb stanza or a doctrine-of-God hymn.
 
@@ -201,7 +197,7 @@ They never name repentance as a word, or a present High Priest.
 
 Official SGM / SongSelect number is **7138116**. Writers are Bob Kauflin, Jordan Kauflin, and Nathan Stiff. Same lyric.
 
-Catalog year written is 2017. The published copyright and *The Glorious Christ* album are 2019. Same lyric. Same writers.
+Catalog year written is 2017. The published copyright and *The Glorious Christ* album are 2019, with the same lyric and the same writers.
 
 ---
 

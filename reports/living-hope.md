@@ -27,9 +27,9 @@ A chasm stood between the sinner and God. The God of ages stepped down, wore the
 
 **Avoid**
 
-Do not use it. The lyric is not the reason. Brian Johnson is a co-writer, Bethel Music Publishing owns half the song, and this church’s rule is already written: a strong association with Bethel is automatic Avoid. The ministries on that short list are never to be used.
+Do not use it. The reason is the credit line. Brian Johnson is a co-writer, Bethel Music Publishing owns half the song, and this church’s rule is already written: a strong association with Bethel is automatic Avoid. The ministries on that short list are never to be used.
 
-The church has sung it for at least four years (12 logs in the 2023–2026 snapshot). That history is why the row is in the catalog. It is not a reason to keep the title in the rotation. Replace it with a resurrection-and-hope text that does not carry this credit.
+The church has sung it for at least four years (12 logs in the 2023–2026 snapshot). That history is why the row is in the catalog, but it is no reason to keep the title in the rotation. Replace it with a resurrection-and-hope text that does not carry this credit.
 
 The scores below grade the words on their own, so the difference between the text and the ban is visible. The overall label does not follow those scores. The Bethel credit is why the label is Avoid.
 
@@ -75,13 +75,13 @@ First person singular addressing the Lord, then naming Jesus in the third person
 
 ## How the text moves
 
-Three verses and a chorus.
+The song has three verses and a chorus.
 
-1. **The distance and the cry.** Chasm, unclimbable mountain, desperation, a name spoken into the night, loving-kindness tearing through, the work finished, Jesus Christ my living hope.
-2. **The descent and the cross.** Mercy, grace, God of ages stepped down from glory, wore my sin, bore my shame, the cross has spoken, I am forgiven, the King calls me His own.
-3. **The morning.** Buried body began to breathe. The Roaring Lion declared the grave has no claim. “Jesus, Yours is the victory.”
+1. **The distance and the cry.** The singer faces a chasm and a mountain he could not climb, turns to heaven in desperation, and speaks a name into the night. Loving-kindness tears through, the work is finished, and Jesus Christ is my living hope.
+2. **The descent and the cross.** In mercy and grace the God of ages steps down from glory to wear my sin and bear my shame. The cross has spoken, I am forgiven, and the King calls me His own.
+3. **The morning.** The buried body begins to breathe, and the Roaring Lion declares that the grave has no claim. The verse ends with “Jesus, Yours is the victory.”
 
-The song starts with the sinner’s inability and ends with the resurrection. The chorus stays in the middle: set free, death lost its grip, chains broken, salvation in His name. The argument does move.
+The song starts with the sinner’s inability and ends with the resurrection. The chorus stays in the middle: set free, death lost its grip, chains broken, salvation in His name. The argument moves forward.
 
 ---
 
@@ -120,7 +120,7 @@ Jesus Christ is named repeatedly. “God of ages” is the One who stepped down,
 
 ## Could another worshiper sing this unchanged?
 
-Not the whole song. Verse 2 names the descent, sin worn, shame borne, the cross, forgiveness. Verse 3 names a buried body that began to breathe. The chorus names salvation in Jesus’ name.
+Not the whole song. Verse 2 names the descent, sin worn, shame borne, the cross, and forgiveness. Verse 3 names a buried body that began to breathe. The chorus names salvation in Jesus’ name.
 
 Verse 1 is softer. A desperate theist could sing a chasm, a mountain, and a name spoken into the night. That is one more reason the later verses matter.
 
@@ -130,9 +130,9 @@ Verse 1 is softer. A desperate theist could sing a chasm, a mountain, and a name
 
 **Unbiblical.** Nothing in the lyric contradicts Scripture.
 
-**Non-biblical.** “Tore through the shadows of my soul” is mood language. “Spoke Your name into the night” can be prayer (Psalm 50:15). It can also sound like a technique: say the Name and the chasm closes. The surrounding lines (“the work is finished”) pull it back toward the finished work. Isolated, it is a soft invitation hook.
+**Non-biblical.** “Tore through the shadows of my soul” is mood language. “Spoke Your name into the night” can be prayer (Psalm 50:15). It can also sound like a technique: say the Name and the chasm closes. The surrounding lines (“the work is finished”) pull it back toward the finished work. On its own, it reads like a soft invitation hook.
 
-**Thin.** Wrath is unnamed. “Wear my sin” is a clothing image for what 2 Corinthians 5:21 and Isaiah 53 say with “bore” and “made to be sin.” The image is close. It is also a little prettier than those texts.
+**Thin.** Wrath is unnamed. “Wear my sin” is a clothing image for what 2 Corinthians 5:21 and Isaiah 53 say with “bore” and “made to be sin.” The image is close, though a little prettier than those texts.
 
 ---
 
@@ -150,9 +150,9 @@ The main claims are sound. The category is a 4 because the verb is “wear,” w
 
 ## Christ-Exalting and Gospel-Saturated: 4
 
-The lyric tells a gospel story. The sinner cannot cross the distance. The Son comes down, takes sin and shame, and the cross is where forgiveness is spoken. The body is buried and raised. Jesus is named as the hope, not only given a title.
+The lyric tells a gospel story. The sinner cannot cross the distance. The Son comes down, takes sin and shame, and the cross is where forgiveness is spoken. The body is buried and raised. Jesus is named as the hope, and the lyric gives His works along with His titles.
 
-Substitution is implied, not stated. Wrath is not named. The chorus says “You have broken every chain / there’s salvation in Your name.” That is true (Acts 4:12). It is thinner than verse 2, which already named the cross. The category is a 4 for that reason.
+Substitution is implied and never stated. Wrath is not named. The chorus says “You have broken every chain / there’s salvation in Your name.” That is true (Acts 4:12), but thinner than verse 2, which already named the cross. The category is a 4 for that reason.
 
 ---
 
@@ -160,13 +160,13 @@ Substitution is implied, not stated. Wrath is not named. The chorus says “You 
 
 Verses 2 and 3 declare works of God. Verse 1 and the chorus report the singer’s rescue as experience: desperation, shadows of my soul, set me free, death has lost its grip on me, I’m Yours forever.
 
-That mix is why the category is a 3. The “I” is a conversion “I,” which Scripture uses. It is also the voice that makes the song feel like a testimony single. “Beautiful Savior, I’m Yours forever” is belonging language, not romance, and it still sits on the singer’s status more than on the Lord’s character.
+That mix is why the category is a 3. The “I” is a conversion “I,” which Scripture uses. It is also the voice that makes the song feel like a testimony single. “Beautiful Savior, I’m Yours forever” is belonging language with no romance in it, though it still centers on the singer’s status more than on the Lord’s character.
 
 ---
 
 ## Description of God’s Character: 3
 
-Named: living hope, loving-kindness, mercy, boundless grace, God of ages, King of kings, Savior, Roaring Lion, the One who forgives and raises the dead.
+The lyric names living hope, loving-kindness, mercy, boundless grace, God of ages, King of kings, Savior, Roaring Lion, the One who forgives and raises the dead.
 
 That list is real. Holiness, justice, and wrath are missing. Love appears as loving-kindness in verse 1 and is not defined there by the cross. The cross arrives in the next verse, which helps. The portrait is still weighted toward rescue-kindness and victory. For a resurrection hymn that is understandable. For this church’s character score it stays a 3.
 
@@ -174,7 +174,7 @@ That list is real. Holiness, justice, and wrath are missing. Love appears as lov
 
 ## Congregational Usefulness and Clarity: 4
 
-The words are clear, and the church already knows them (at least four years in the snapshot). Keys on file are often B. As congregational writing, the lyric would teach. Verse 2 and verse 3 carry the gospel. The chain-breaking chorus should not be the only thing the room remembers.
+The words are clear, and the church already knows them (at least four years in the snapshot). Keys on file are often B. As congregational writing, the lyric would teach, and the gospel is in verse 2 and verse 3. The chain-breaking chorus should not be the only thing the room remembers.
 
 ---
 
@@ -182,16 +182,13 @@ The words are clear, and the church already knows them (at least four years in t
 
 The song is earnest. It builds, and it is written to land on a big last chorus. It is not romantic, and it is not playful.
 
-“You have broken every chain” is the line most likely to be shouted. It is not bare triumph. The same chorus names the One who set me free, salvation in His name, and “Jesus Christ, my living hope.” Verse 2 has already put that freedom at the cross. Celebrating the chains is celebrating what he did. That lessens the risk. A room can still remember the hook and forget the verse, but the lyric itself keeps the two together.
+“You have broken every chain” is the line most likely to be shouted. The line does not stand alone. The same chorus names the One who set me free, salvation in His name, and “Jesus Christ, my living hope.” Verse 2 has already put that freedom at the cross. So the celebration of broken chains is a celebration of what He did, which lessens the risk. A room can still remember the hook and forget the verse, but the lyric itself keeps the two together.
 
 ---
 
 ## What the congregation never says
 
-They never say wrath, “in my place,” or justification.  
-They never name the Father or the Spirit.  
-They never say “we.”  
-They never say repentance as a word.
+The congregation never says wrath, “in my place,” or justification. It never names the Father or the Spirit, never says “we,” and never uses the word repentance.
 
 ---
 
@@ -209,7 +206,7 @@ They never say repentance as a word.
 
 ## Identification notes
 
-Phil Wickham / Brian Johnson, CCLI 7106807, 2017. Hymnary, Essential Music Publishing, and Bethel’s own resource page all list both writers. Bethel Music Publishing holds 50 percent. Brian Johnson is not an accidental name in a long list. He is a co-founder of Bethel Music.
+Phil Wickham / Brian Johnson, CCLI 7106807, 2017. Hymnary, Essential Music Publishing, and Bethel’s own resource page all list both writers. Bethel Music Publishing holds 50 percent. Brian Johnson is a co-founder of Bethel Music.
 
 That is the association the rubric already named as automatic Avoid. The catalog note flagged this review. This report is that review.
 

@@ -1,33 +1,35 @@
 # Name Above All Names
 
-**Source:** Published text (Pat Sczebel / Joel Sczebel / Sovereign Grace, 2011). Read 30 Oct 2026.
+**Source:** published text of Pat Sczebel and Joel Sczebel (Sovereign Grace, 2011). CCLI 5937668. Read 2026-11-18.
 
-- **Slug:** name-above-all-names
-- **Catalog ID:** name-above-all-names
+- **Slug:** `name-above-all-names`
+- **Catalog ID:** (row in Song Catalog)
 - **Writers:** Pat Sczebel / Joel Sczebel (Sovereign Grace)
 - **Year written:** 2011
 - **Arrangement year:** not on file
 - **Family:** Sovereign Grace
-- **Era:** 2010–2019
+- **Era:** 2010s
 - **CCLI:** 5937668
 - **Times logged (2023–Sept 2026):** 7
-- **Years seen:** at least 2023, 2024, 2025, 2026
-- **Setlist variants:** not listed beyond title
-- **Publishers / association:** Sovereign Grace Worship (ASCAP), administered by Integrity Music
+- **Years seen:** 2023, 2024, 2025, 2026
+- **Setlist variants:** Name Above All Names; Name above all names
+- **Publishers / association:** Sovereign Grace Worship
 
 ---
 
 ## Thesis
 
-Jesus, the Son of God, descends from the brightness of His glory, takes on the nature of a servant, and is obedient to death. The Father willed to crush Him as a sacrifice for sin. He satisfied God’s justice and in victory rose again. The tomb is empty. He is the Lamb once crucified, now highly exalted, the name above all names, the King over everything.
+From the brightness of His glory, Jesus the Son of God descends, takes on the nature of a servant, and is obedient to death. The Father willed to crush Him as a sacrifice for sin. He satisfied God’s justice and in victory rose again. He is highly exalted, the name above all names, worthy of all praise, reigning in glory as King over everything. The tomb is empty; Christ has risen. The Lamb once crucified is glorified in heaven. Power, wisdom, might, strength, glory, and dominion belong to the Lord of every age. Every knee will bow and every tongue proclaim that He is Lord of all.
 
 ---
 
 ## Overall recommendation
 
-Excellent / Prefer
+**Excellent / Prefer**
 
-Feature it, and keep verse 1: it names the Father’s will to crush the Son as a sacrifice for sin and the justice He satisfied. Verse 2 adds the empty tomb, and the chorus gives the exaltation that follows. The church has sung it 7 times across at least four years of the 2023–2026 window.
+Feature it. Sing both verses and the bridge. Verse 1 names the descent, the servant nature, the obedience to death, the Father’s willing to crush Him as a sacrifice for sin, the satisfying of justice, and the rising. Verse 2 names the empty tomb, the Lamb once crucified, and the heavenly glory. Without those lines the chorus is true ascription of the name that has not named the descent, the cross, or the rising.
+
+The church has sung it for at least four years (7 logs in the 2023–2026 snapshot). It is already known.
 
 ---
 
@@ -41,27 +43,29 @@ Feature it, and keep verse 1: it names the Father’s will to crush the Son as a
 | Description of God’s Character | 5 |
 | Congregational Usefulness and Clarity | 5 |
 
-Rubric version v1. Grade date 30 Oct 2026.
+Rubric version v1. Grade date 2026-11-18.
 
 ---
 
 ## Voice and addressee
 
-The verses tell the Son’s work in the third person, and the chorus and bridge turn to address Him. The whole song is declaration that the congregation sings together.
+The verses speak of Jesus in the third person. The chorus addresses Him in the second person. “You are highly exalted.” The bridge is the congregation’s future confession. The voice is corporate.
 
 ---
 
 ## How the text moves
 
-The song follows Philippians 2. Verse 1 is the descent to the cross, verse 2 is the empty tomb and heaven’s worship, and the bridge ends with every knee bowing and every tongue confessing.
+Verse 1 names the descent from glory, the taking of servant nature, the obedience to death, the Father’s willing to crush Him as a sacrifice for sin, the satisfying of justice, and the rising in victory. The chorus ascribes the high exaltation, the name above all names, the worthiness, the reigning as King, and the exaltation to the highest place. Verse 2 names the empty tomb, the risen Christ, the Lamb once crucified now glorified, and the power, wisdom, might, strength, glory, and dominion that belong to the Lord of every age. The bridge states that knees will bow and tongues proclaim that He is Lord of all. The chorus returns.
 
 ---
 
 ## Lines you cannot cut
 
-“The Father willed to crush Him / As a sacrifice for sin / He satisfied God’s justice / And in victory rose again.”
+Do not drop verse 1. “From the brightness of His glory / Jesus, the Son of God, descends / Takes on the nature of a servant / Jesus, obedient to death / The Father willed to crush Him / As a sacrifice for sin / He satisfied God’s justice / And in victory rose again” is the incarnation, the obedience to death, the Father’s will in the crushing, the sacrifice for sin, the satisfying of justice, and the rising. Without it the church has praised the name and has not named the work that placed Him above every name.
 
-Without those lines, the chorus calls Him the name above all names without saying why.
+Do not drop verse 2. “The tomb is empty Christ has risen / Jesus, the Lamb once crucified” is the empty tomb and the Lamb. Without it the exaltation has not named the rising or the crucifixion.
+
+No line is false.
 
 ---
 
@@ -69,98 +73,121 @@ Without those lines, the chorus calls Him the name above all names without sayin
 
 | Element | Present? | Where, if present |
 |---|---|---|
-| Incarnation | Yes | descends, takes on the nature of a servant |
-| Our sin named | Yes | sacrifice for sin |
-| Substitution stated | Yes | sacrifice for sin, Father willed to crush Him |
-| Wrath or curse | Yes | Father willed to crush Him, satisfied God’s justice |
-| Cross | Yes | obedient to death, sacrifice for sin |
-| Burial | Implied | the tomb is empty |
-| Resurrection | Yes | in victory rose again, the tomb is empty, Christ has risen |
-| Reign / session | Yes | reigning in glory, King over everything, exalted to the highest place |
+| Incarnation | Yes | “descends”; “Takes on the nature of a servant” |
+| Our sin named | Yes | “sacrifice for sin” |
+| Substitution stated | Yes | “sacrifice for sin”; “satisfied God’s justice” |
+| Wrath or curse | Implied | “The Father willed to crush Him”; satisfied justice |
+| Cross | Implied | obedient to death; Lamb once crucified |
+| Burial | Implied | empty tomb |
+| Resurrection | Yes | “in victory rose again”; “The tomb is empty Christ has risen” |
+| Reign / session | Yes | “reigning in glory”; “King / Over everything”; “exalted to the highest place” |
 | Repentance | No | |
-| Lordship | Yes | King, Lord of all, name above all names |
+| Lordship | Yes | Lord of all; King |
 | Present intercession | No | |
-| Justification / imputed righteousness | Implied | satisfied God’s justice |
+| Justification / imputed righteousness | Implied | satisfied God’s justice; sacrifice for sin |
 
 ---
 
 ## Persons of the Trinity named
 
-Jesus is named as the Son of God, the Lamb, the King. The Father is named as the one who willed to crush Him. The Spirit is not named. The work of the Son and the will of the Father are explicit.
+The Father is named as the One who willed to crush the Son. The Son is named as Jesus the Son of God, the servant, the Lamb once crucified, and the King. The Spirit is unnamed. The work is the Father’s will and the Son’s obedience, death, and rising.
 
 ---
 
 ## Could another worshiper sing this unchanged?
 
-No. A vague theist could not sing “The Father willed to crush Him / As a sacrifice for sin” without changing it.
+Not the whole song. Verse 1 names the descent, the obedience to death, the Father’s willing to crush Him as a sacrifice for sin, the satisfying of justice, and the rising. Verse 2 names the empty tomb and the Lamb once crucified. A vague theist could not sing those lines as written.
 
 ---
 
 ## Unbiblical, non-biblical, thin
 
-- **Unbiblical:** none.
-- **Non-biblical:** none.
-- **Thin:** none that matter.
+**Unbiblical.** None.
+
+**Non-biblical.** None.
+
+**Thin.** The Spirit is unnamed. The blood is not named in that word. The lyric does not need those details to make its claim. The claim is the descent, the crushing, the sacrifice for sin, the rising, and the name above all names.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-“From the brightness of His glory / Jesus, the Son of God, descends / Takes on the nature of a servant / Jesus, obedient to death” is Philippians 2:6–8 and John 1:14. “The Father willed to crush Him / As a sacrifice for sin / He satisfied God’s justice / And in victory rose again” is Isaiah 53:10 and Romans 3:25–26. “The tomb is empty Christ has risen” is 1 Corinthians 15:4 and Luke 24:6. “Our knees will bow / Our tongues proclaim / That You are Lord of all” is Philippians 2:10–11. The exaltation is Philippians 2:9 and Acts 2:33.
+“From the brightness of His glory / Jesus, the Son of God, descends / Takes on the nature of a servant / Jesus, obedient to death / The Father willed to crush Him / As a sacrifice for sin / He satisfied God’s justice / And in victory rose again” is Philippians 2:6–9 and Isaiah 53:10. The descent, the servant nature, the obedience to death, the Father’s will in the crushing, and the rising are the ordinary sense of those texts.
+
+“The tomb is empty Christ has risen / Jesus, the Lamb once crucified / The angels never cease to worship / Jesus, in heaven glorified” is Luke 24:6 and Revelation 5:12. The empty tomb and the glorified Lamb are the ordinary sense of those texts.
+
+“You are highly exalted / Name above all names / … Exalted to the highest place / Given the Name above all other names” is Philippians 2:9–11. The name above all names is the ordinary sense of those verses.
+
+“Our knees will bow / Our tongues proclaim / That You are Lord of all” is Philippians 2:10–11. The bowing and the confessing are the ordinary sense of those verses.
+
+The lines use the ordinary sense of those texts.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-The song names the incarnation, the sacrifice for sin, satisfied justice, the resurrection, the empty tomb, and the exaltation. The title “name above all names” is earned in the verses before the chorus sings it.
+Christ is named from the first line as the Son of God who descends, takes servant nature, is obedient to death, is crushed as a sacrifice for sin, satisfies justice, rises, is the Lamb once crucified, and is the King over everything. The work is not left as a title.
 
 ---
 
 ## Objectivity vs. Subjectivity: 5
 
-The text tells what the Son did and declares His present exaltation. The bridge is the church’s confession that every knee will bow. There are no personal vows.
+The main claim is objective. The Son descends and is obedient to death. The Father wills to crush Him. He satisfies justice and rises. He is exalted and given the name. The chorus is the congregation’s ascription in response. There is no personal vow that must be meant before the song may be sung.
 
 ---
 
 ## Description of God’s Character: 5
 
-The Son descends from glory, takes a servant’s nature, obeys to death, satisfies justice, and rises to reign as King over everything. The Father wills the sacrifice. Holiness and justice are named in the sacrifice for sin.
+| Lyric | Attribute | Text |
+|---|---|---|
+| brightness of His glory | glory | |
+| Takes on the nature of a servant; obedient to death | humility | Phil 2:7–8 |
+| The Father willed to crush Him | sovereignty, justice | Isa 53:10 |
+| As a sacrifice for sin; satisfied God’s justice | justice, mercy | Isa 53:10 |
+| in victory rose again | power over death | |
+| highly exalted; Name above all names | worthiness | Phil 2:9 |
+| reigning in glory; King over everything | kingship | |
+| power, wisdom, might, and strength | power, wisdom | Rev 5:12 |
+
+Glory, humility, sovereignty, justice, mercy, power, worthiness, and kingship are shown in the acts. Love is not left generic.
 
 ---
 
 ## Congregational Usefulness and Clarity: 5
 
-The chorus and bridge are corporate and easy to sing. Verse 1 teaches the cross as the Father’s will and a satisfaction of justice, which is propitiation in plain words.
+The verses are clear. The chorus is short. The words are ordinary. The church has already sung it. The people learn the shape of the name from the descent and the crushing as sacrifice for sin, through the empty tomb, to the exaltation and the bowing of every knee. They do not need a weekly explanation of any line.
+
+If time is short, do not drop verse 1.
 
 ---
 
 ## Tone
 
-The tone is reverent and triumphant. The triumph in the chorus comes after the sacrifice in verse 1.
+The tone is glad and sober. “You are highly exalted / Name above all names” answers the work just named. There is no intensity beyond the text.
 
 ---
 
 ## What the congregation never says
 
-The congregation never names the Spirit. The main gospel elements are present.
+The congregation never names the Spirit or the blood in that word. It never says “in our place” in those words, though “sacrifice for sin” and “satisfied God’s justice” state the same fact.
 
 ---
 
 ## Setlist notes
 
-- **When it serves the sermon.** Philippians 2, Isaiah 53, Romans 3, Revelation 5, or any text on the incarnation, the cross, the resurrection, or the exaltation of Christ.
-- **Gaps the rest of the hour must cover.** The Spirit, if the service has not named Him.
-- **Diet sentence.** Adds Philippians 2 in song, with propitiation stated. It adds little on the Spirit.
-- **What not to do.** Do not drop verse 1, and do not sing the chorus alone.
+- **When it serves the sermon.** Philippians 2, Isaiah 53, Revelation 5, or any text on the humiliation and exaltation of Christ. It works as a response after the sermon has opened the passion or the triumph.
+- **Gaps the rest of the hour must cover.** The Spirit when the day’s text requires the third Person. Explicit blood language if the sermon has required it and no other song supplies it.
+- **Diet sentence.** It adds the descent from glory, the Father’s willing to crush the Son as a sacrifice for sin, the satisfying of justice, the empty tomb, and the name above all names. It does not add the Spirit’s naming.
+- **What not to do.** Do not drop verse 1. Do not treat the chorus as a standalone tag after a thinner song. The verses supply the reason for the name.
 
 ---
 
 ## Identification notes
 
-This is one song. Music by Pat Sczebel and Joel Sczebel, words by Pat Sczebel, 2011. CCLI 5937668. Sovereign Grace. From the album Risen.
+This is Pat Sczebel and Joel Sczebel, 2011, CCLI 5937668, Sovereign Grace, from the album *Risen*. Distinct from other songs titled “Name Above All Names.” The catalog row matches the published text.
 
 ---
 
 ## Why this overall label
 
-The song follows Philippians 2 from the descent to the exaltation, and it states that the Son was crushed as a sacrifice for sin and satisfied God’s justice. Each line ties to a text.
+The lyric states the descent from glory, the obedience to death, the Father’s willing to crush the Son as a sacrifice for sin, the satisfying of justice, the empty tomb, and the name above all names in ordinary words. That is enough for regular use.

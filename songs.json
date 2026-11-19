@@ -10,10 +10,10 @@
     "timesLogged": 1,
     "yearsSeen": "2024",
     "variants": "Christ in me (D)",
-    "notes": "Maranatha/CCCM chorus: “Christ in me is to live, to die is to gain.”",
+    "notes": "Maranatha/CCCM chorus: \u201cChrist in me is to live, to die is to gain.\u201d",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -30,7 +30,7 @@
     "notes": "From SGM album Awesome God.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -44,10 +44,10 @@
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Grace; Grace - C; Grace (Bb); Grace (C)",
-    "notes": "CityAlight “Grace” (Only a Holy God). Distinct from Grace Alone.",
+    "notes": "CityAlight \u201cGrace\u201d (Only a Holy God). Distinct from Grace Alone.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/grace.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -73,7 +73,7 @@
     "notes": "Confirmed Mark Altrogge / SGM song. CCLI not in SongSelect. Year 1994 stands. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -87,10 +87,10 @@
     "timesLogged": 3,
     "yearsSeen": "2024, 2025",
     "variants": "Hail to the King; Hail to the king",
-    "notes": "Vineyard “Hail to the King” (The River Is Here / Blessed Be the Name era).",
+    "notes": "Vineyard \u201cHail to the King\u201d (The River Is Here / Blessed Be the Name era).",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -104,10 +104,10 @@
     "timesLogged": 14,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "He is worthy; He is Worthy; He is worthy (E); He is worthy - E; He is Worthy (Eb)",
-    "notes": "SGM The Glorious Christ. Distinct from Andrew Peterson “Is He Worthy.” Writers from SGM credits.",
+    "notes": "SGM The Glorious Christ. Distinct from Andrew Peterson \u201cIs He Worthy.\u201d Writers from SGM credits.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/he-is-worthy.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -130,10 +130,10 @@
     "timesLogged": 8,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Do This in Remembrance; Do this in remembrance (Communion); Do This In Remembrance of Me; In Remembrance of Me (Communion); Do this in remembrance; In remembrance of Me - C; In Remembrance of me (D); In remembrance of me (Communion) - C",
-    "notes": "Cheri Keaggy “In Remembrance of Me / Do This in Remembrance of Me.” If a dated setlist used a different communion text (Courtney/Red 1972), grade that chart separately.",
+    "notes": "Cheri Keaggy \u201cIn Remembrance of Me / Do This in Remembrance of Me.\u201d If a dated setlist used a different communion text (Courtney/Red 1972), grade that chart separately.",
     "status": "graded",
     "recommendation": "Acceptable with notes",
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": "reports/in-remembrance-of-me-do-this-in-remembrance.md",
     "gradeDate": "2026-10-28",
     "scores": {
@@ -156,10 +156,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "It is good to praise the Lord; It is Good to Praise the Lord; It is good to praise the Lord (C); It is good to praise - C",
     "notes": "Confirmed Lenny LeBlanc setting, CCLI 121782. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "1900–1989",
-    "report": null
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
+    "era": "1900\u20131989",
+    "report": "reports/it-is-good-to-praise-the-lord.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-18"
   },
   {
     "id": "jesus-youre-the-sweetest-name-of-all",
@@ -175,7 +184,7 @@
     "notes": "Confirmed Tommy Coomes 1974, CCLI 1509. John Jones is a cover/recording name only. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -192,7 +201,7 @@
     "notes": "Confirmed Rita Springer / Vineyard, CCLI 855388. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -209,7 +218,7 @@
     "notes": "Confirmed Terry Butler Vineyard Psalm 19 setting, CCLI 1773823. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -226,7 +235,7 @@
     "notes": "Confirmed Andy Park Vineyard setting, CCLI 72161. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -243,7 +252,7 @@
     "notes": "SGM Risen album.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/name-above-all-names.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -266,10 +275,10 @@
     "timesLogged": 5,
     "yearsSeen": "2023, 2024, 2026",
     "variants": "No other savior; No Other Savior; No other savior - F; No Other Saviour (F)",
-    "notes": "Confirmed Starfield “No Other Saviour,” CCLI 5683259. Confirmed from chart notes 22 Sept 2026.",
+    "notes": "Confirmed Starfield \u201cNo Other Saviour,\u201d CCLI 5683259. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -286,7 +295,7 @@
     "notes": "Confirmed John Barnett Vineyard, CCLI 675197, year 1990. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -300,10 +309,10 @@
     "timesLogged": 4,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Son of God; Son of God (E); Son of God - E",
-    "notes": "Starfield “Son of God” (Beauty in the Broken, 2006).",
+    "notes": "Starfield \u201cSon of God\u201d (Beauty in the Broken, 2006).",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -334,11 +343,20 @@
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "The Father's Love; Father's Love; The Father's Love (F/F#); The Father's Love (F -G)",
-    "notes": "SGM Sons & Daughters. Not Townend “How Deep the Father’s Love.”",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "2000–2009",
-    "report": null
+    "notes": "SGM Sons & Daughters. Not Townend \u201cHow Deep the Father\u2019s Love.\u201d",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "era": "2000\u20132009",
+    "report": "reports/the-fathers-love.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-18"
   },
   {
     "id": "undivided-heart",
@@ -351,10 +369,10 @@
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Undivided Heart; Undivided heart; Undivided Heart (F); Undivided Heart (E)",
-    "notes": "Vineyard Refiner’s Fire-era song. Co-writers from Vineyard credits.",
+    "notes": "Vineyard Refiner\u2019s Fire-era song. Co-writers from Vineyard credits.",
     "status": "graded",
     "recommendation": "Acceptable with notes",
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": "reports/undivided-heart.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -377,10 +395,10 @@
     "timesLogged": 1,
     "yearsSeen": "2024",
     "variants": "Unfailing love (F)",
-    "notes": "Tomlin “Unfailing Love” (Arriving, 2004).",
+    "notes": "Tomlin \u201cUnfailing Love\u201d (Arriving, 2004).",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -397,7 +415,7 @@
     "notes": "2024 SGM Stiff/Zimmer is the song this church has been logging since 2024. Older 1998 Altrogge SGM title shares the name but does not fit the usage window.",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": "reports/all-things.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -437,10 +455,10 @@
     "timesLogged": 4,
     "yearsSeen": "2023, 2024, 2026",
     "variants": "As we seek, Jesus draw me close; As we seek / Jesus draw me close (F); As we gather / Jesus draw me close - D",
-    "notes": "Confirmed medley. “As We Seek Your Face” Dave Bilbrough (Thankyou Music, CCLI 442375) plus “Jesus, Draw Me Close” Rick Founds (Maranatha, CCLI 443680). Both 1990. Confirmed from chart notes 22 Sept 2026.",
+    "notes": "Confirmed medley. \u201cAs We Seek Your Face\u201d Dave Bilbrough (Thankyou Music, CCLI 442375) plus \u201cJesus, Draw Me Close\u201d Rick Founds (Maranatha, CCLI 443680). Both 1990. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -457,7 +475,7 @@
     "notes": "Paul Baloche / Mitch Wong, 2019. Official CCLI 7133698. Catalog had 7133721. Same writers, same lyric.",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/behold-him.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -483,7 +501,7 @@
     "notes": "Confirmed. Communion dates use the Getty / Townend hymn (CCLI 5007588), not the Passion/Stanfill song. Confirmed from chart notes 22 Sept 2026.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/behold-the-lamb-communion-getty.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -506,10 +524,10 @@
     "timesLogged": 3,
     "yearsSeen": "2026",
     "variants": "Behold the Lamb (S&S/Passion); Behold the Lamb (Shane & Shane/Passion)",
-    "notes": "Confirmed Passion / Kristian Stanfill “Behold the Lamb.” This church sings the Shane & Shane arrangement. Distinct from the Getty communion hymn. Confirmed from chart notes 22 Sept 2026.",
+    "notes": "Confirmed Passion / Kristian Stanfill \u201cBehold the Lamb.\u201d This church sings the Shane & Shane arrangement. Distinct from the Getty communion hymn. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -526,7 +544,7 @@
     "notes": "Wickham, Living Hope album, 2018. Brian Johnson is a Bethel co-writer, so the banned-ministry association needs review when this song is graded. Not the older Maher song (CCLI 5242683).",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -543,7 +561,7 @@
     "notes": "Confirmed Brown Bannister / Integrity setting, CCLI 96927. Not Keith Green (CCLI 12996). Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -557,10 +575,10 @@
     "timesLogged": 1,
     "yearsSeen": "2024",
     "variants": "Forever (G)",
-    "notes": "Confirmed Chris Tomlin “Forever” (2001, CCLI 3148428). Confirmed from chart notes 22 Sept 2026.",
+    "notes": "Confirmed Chris Tomlin \u201cForever\u201d (2001, CCLI 3148428). Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -574,10 +592,10 @@
     "timesLogged": 3,
     "yearsSeen": "2023, 2024, 2025",
     "variants": "Glorious Day; Glorious Day (A)",
-    "notes": "Confirmed Casting Crowns “Glorious Day (Living He Loved Me),” CCLI 5638022. Not the older hymn-based One Day. Confirmed from chart notes 22 Sept 2026.",
+    "notes": "Confirmed Casting Crowns \u201cGlorious Day (Living He Loved Me),\u201d CCLI 5638022. Not the older hymn-based One Day. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -594,7 +612,7 @@
     "notes": "Confirmed the traditional spiritual. Year unknown. No standard CCLI in use here. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -611,7 +629,7 @@
     "notes": "Tomlin, Never Lose Sight, 2016. Not the 1984 Phil McHugh song (CCLI 12386).",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -628,7 +646,7 @@
     "notes": "CityAlight 2018 (Farren / Ferguson / Kleyn / Reeves / Robinson / Tealy / Thompson), from the album Yet Not I. Official CCLI is 7121853 (published sources). Catalog previously listed 7139991 and year 2020.",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/god-is-for-us.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -652,10 +670,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Grace Alone; Grace Alone (E)",
     "notes": "Kensrue 2015 is the modern congregational setting this lane uses.",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "2010–2019",
-    "report": null
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "era": "2010\u20132019",
+    "report": "reports/grace-alone.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-18"
   },
   {
     "id": "grace-and-peace",
@@ -671,7 +698,7 @@
     "notes": "SGM Joel Sczebel 2013.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -685,10 +712,10 @@
     "timesLogged": 5,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Great is the Lord; Great is the Lord (G#); Great is the Lord (Ab)",
-    "notes": "McEwan Psalm 48 setting (“Great is the Lord and most worthy of praise…”). Not the Michael W. Smith song (CCLI 1149).",
+    "notes": "McEwan Psalm 48 setting (\u201cGreat is the Lord and most worthy of praise\u2026\u201d). Not the Michael W. Smith song (CCLI 1149).",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -705,7 +732,7 @@
     "notes": "Confirmed as its own setlist title, not a medley with Holy Is the Lord. Tomlin/Reeves 2002, CCLI 3579642. Holy Is the Lord (Tomlin/Giglio, CCLI 4158039) is a separate row. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -719,10 +746,10 @@
     "timesLogged": 5,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "How Can I Keep From Singing; How Can I Keep From Singing (F#); How Can I Keep From Singing (E)",
-    "notes": "Tomlin / Cash / Redman arrangement of the traditional text. Use 2006 as the arrangement year for this church’s version.",
+    "notes": "Tomlin / Cash / Redman arrangement of the traditional text. Use 2006 as the arrangement year for this church\u2019s version.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -756,7 +783,7 @@
     "notes": "Confirmed Arthur Tannous / Integrity chorus, CCLI 22914. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -773,7 +800,7 @@
     "notes": "Confirmed Phil Wickham 2003, CCLI 4306475. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -790,7 +817,7 @@
     "notes": "Confirmed Steve Fry version, CCLI 17672. Confirmed from chart notes 22 Sept 2026.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -807,7 +834,7 @@
     "notes": "Confirmed classic Frederick M. Lehman hymn (1917), CCLI 18409. Not a modern song of the same title. Confirmed from chart notes 22 Sept 2026.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": "reports/the-love-of-god.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -830,10 +857,10 @@
     "timesLogged": 3,
     "yearsSeen": "2024, 2025, 2026",
     "variants": "Theres no one like you; There's No One Like You; There's no one like you (E)",
-    "notes": "Vineyard “There’s No One Like You.” Distinct from SGM “Jesus, There’s No One Like You” and from the LeBlanc song of the same name (CCLI 815649).",
+    "notes": "Vineyard \u201cThere\u2019s No One Like You.\u201d Distinct from SGM \u201cJesus, There\u2019s No One Like You\u201d and from the LeBlanc song of the same name (CCLI 815649).",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -850,7 +877,7 @@
     "notes": "Do not confuse with SGM Psalm 103 'Bless the Lord'.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -867,7 +894,7 @@
     "notes": "Aaron Williams / Aaron Keyes / Jake Fauber, 2021. Official CCLI 7168160. Catalog had 7161600, a digit transposition. Family stays Shane & Shane / Worship Initiative.",
     "status": "graded",
     "recommendation": "Acceptable with notes",
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": "reports/abide.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -919,7 +946,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/all-glory-be-to-christ.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -962,7 +989,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/all-i-have-is-christ.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -988,7 +1015,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": null
   },
   {
@@ -1005,7 +1032,7 @@
     "notes": "Tomlin addition to Newton. Only used when setlist specified 'my chains are gone'.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -1022,7 +1049,7 @@
     "notes": "Official CCLI is 7121851 (published sources). Catalog previously listed 7124591.",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/ancient-of-days.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -1082,7 +1109,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Weak",
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": "reports/as-the-deer.md",
     "rubricVersion": "v1",
     "gradeDate": "2026-10-25",
@@ -1108,7 +1135,7 @@
     "notes": "Only when setlist said 'love ran red'.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -1125,7 +1152,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -1142,7 +1169,7 @@
     "notes": "English versification 1905; ancient Irish text.",
     "status": "graded",
     "recommendation": "Acceptable with notes",
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": "reports/be-thou-my-vision.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -1193,7 +1220,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/behold-our-god.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -1216,10 +1243,10 @@
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Psalm 103 (Bless the Lord); Psalm 103 Bless the Lord (D); Psalm 103 - Bless the Lord (D); Psalm 103 (D)",
-    "notes": "Logged as Psalm 103 / Bless the Lord. Zach Jones setting (first line “Bless the Lord, O my soul, and all that’s within me praise Him”), confirmed by Theodore 18 Nov 2026. Official CCLI is 4764203, © 2005 (Sovereign Grace). Catalog previously listed 7096672 and 2018. Distinct from Redman 10,000 Reasons and from the Fournier / Zimmer Bless the Lord, O My Soul (Psalm 103), CCLI 7190360.",
+    "notes": "Logged as Psalm 103 / Bless the Lord. Zach Jones setting (first line \u201cBless the Lord, O my soul, and all that\u2019s within me praise Him\u201d), confirmed by Theodore 18 Nov 2026. Official CCLI is 4764203, \u00a9 2005 (Sovereign Grace). Catalog previously listed 7096672 and 2018. Distinct from Redman 10,000 Reasons and from the Fournier / Zimmer Bless the Lord, O My Soul (Psalm 103), CCLI 7190360.",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/bless-the-lord-o-my-soul-psalm-103-sovereign-grace.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -1245,7 +1272,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -1262,7 +1289,7 @@
     "notes": "Logged as Boldly / Boldly I Approach.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -1279,7 +1306,7 @@
     "notes": "Housefires/Pat Barrett origin; widely recorded. Not on the banned-ministry list. Co-writer Kirby Kaple has recorded with Bethel Music; review that link at grading.",
     "status": "graded",
     "recommendation": "Weak",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/build-my-life.md",
     "scores": {
       "theologicalAccuracy": 3,
@@ -1306,7 +1333,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -1323,7 +1350,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": "reports/christ-our-hope-in-life-and-death.md",
     "gradeDate": "2026-10-28",
     "scores": {
@@ -1348,7 +1375,7 @@
     "notes": "Official CCLI is 7235315 (SongSelect). Catalog previously listed 7160016.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": "reports/christ-our-wisdom.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -1374,7 +1401,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/christ-the-sure-and-steady-anchor.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -1397,11 +1424,20 @@
     "timesLogged": 6,
     "yearsSeen": "2025, 2026",
     "variants": "Christus Victor",
-    "notes": "Recent Getty/Papa hymn; matches 2024–2026 usage.",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "2020–2025",
-    "report": null
+    "notes": "Recent Getty/Papa hymn; matches 2024\u20132026 usage.",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "era": "2020\u20132025",
+    "report": "reports/christus-victor-amen.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-18"
   },
   {
     "id": "come-all-ye-unfaithful",
@@ -1417,7 +1453,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": null
   },
   {
@@ -1434,7 +1470,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/come-behold-the-wondrous-mystery.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -1460,7 +1496,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -1475,10 +1511,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Come Praise & Glorify; Come praise and glorify; Come Praise & Glorify (A); Come Praise and Glorify (A#)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "2010–2019",
-    "report": null
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "era": "2010\u20132019",
+    "report": "reports/come-praise-and-glorify.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-18"
   },
   {
     "id": "come-thou-fount-of-every-blessing",
@@ -1537,7 +1582,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -1554,7 +1599,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Weak",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/everlasting-god.md",
     "gradeDate": "2026-10-28",
     "scores": {
@@ -1579,7 +1624,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -1596,7 +1641,7 @@
     "notes": "Official CCLI is 7190362 (SongSelect). Catalog previously listed 7196566. Writer credit per Sovereign Grace: Lisa Clow and Lacy Hudson.",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": "reports/from-everlasting-psalm-90.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -1622,7 +1667,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -1639,7 +1684,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -1656,7 +1701,7 @@
     "notes": "Official CCLI is 6271684 (SongSelect). Catalog previously listed 6271860.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/glorious-christ.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -1682,7 +1727,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -1699,7 +1744,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -1733,7 +1778,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -1767,7 +1812,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/he-is-our-god.md",
     "gradeDate": "2026-10-28",
     "scores": {
@@ -1792,7 +1837,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -1806,10 +1851,10 @@
     "timesLogged": 8,
     "yearsSeen": "2025, 2026",
     "variants": "He will be; He Will Be; He Will Be - A; He Will Be (Bb)",
-    "notes": "Fits 2025–2026 appearance pattern.",
+    "notes": "Fits 2025\u20132026 appearance pattern.",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": "reports/he-will-be.md",
     "gradeDate": "2026-10-28",
     "scores": {
@@ -1832,10 +1877,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "He Will Hold Me Fast; He Will Hold Me Fast (F); He will hold me fast (G)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "2010–2019",
-    "report": null
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "era": "2010\u20132019",
+    "report": "reports/he-will-hold-me-fast.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-18"
   },
   {
     "id": "he-will-keep-you-psalm-121",
@@ -1851,7 +1905,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": null
   },
   {
@@ -1868,7 +1922,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Acceptable with notes",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/here-i-am-to-worship.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -1920,7 +1974,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/his-mercy-is-more.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -1946,7 +2000,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -1980,7 +2034,7 @@
     "notes": "Vineyard setting; setlists mark this separately from the hymn.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -1997,7 +2051,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -2012,10 +2066,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Hosanna (Praise is Rising); Hosanna (Praise is Rising) (F); Hosanna (Praise is Rising) - F#; Hosanna / Praise is rising (F)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "2000–2009",
-    "report": null
+    "status": "graded",
+    "recommendation": "Weak",
+    "era": "2000\u20132009",
+    "report": "reports/hosanna-praise-is-rising.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-18"
   },
   {
     "id": "how-firm-a-foundation",
@@ -2048,7 +2111,7 @@
     "notes": "Project calibration example of Weak.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -2065,7 +2128,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -2082,7 +2145,7 @@
     "notes": "Inspired by How Great Thou Art; distinct song.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -2099,7 +2162,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -2116,7 +2179,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Acceptable with notes",
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": "reports/humble-king.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -2142,7 +2205,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -2159,7 +2222,7 @@
     "notes": "Distinct from Redman 'I Will Offer Up My Life'.",
     "status": "graded",
     "recommendation": "Weak",
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": "reports/i-offer-my-life.md",
     "scores": {
       "theologicalAccuracy": 3,
@@ -2183,10 +2246,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "I stand amazed; I Stand Amazed; I Stand Amazed (F); I stand amazed (F)",
     "notes": "Often sung in Tomlin arrangement (2006) of Gabriel hymn. Year of text is 1905.",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "1900–1989",
-    "report": null
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
+    "era": "1900\u20131989",
+    "report": "reports/i-stand-amazed-how-marvelous.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-18"
   },
   {
     "id": "i-stand-in-awe",
@@ -2202,7 +2274,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -2236,7 +2308,7 @@
     "notes": "Official CCLI is 3337435 (SongSelect). Catalog previously listed 3331619.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/i-will-glory-in-my-redeemer.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -2262,7 +2334,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Acceptable with notes",
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": "reports/i-will-offer-up-my-life.md",
     "gradeDate": "2026-10-28",
     "scores": {
@@ -2304,7 +2376,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Acceptable with notes",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/i-will-trust-my-savior-jesus.md",
     "gradeDate": "2026-10-28",
     "scores": {
@@ -2329,7 +2401,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -2346,7 +2418,7 @@
     "notes": "Project gold-standard example.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/in-christ-alone.md",
     "gradeDate": "2026-10-28",
     "scores": {
@@ -2371,7 +2443,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -2388,7 +2460,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -2405,7 +2477,7 @@
     "notes": "Shane & Shane arrangement is used in this church. Project gold-standard example.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -2439,7 +2511,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": "reports/it-was-finished-upon-that-cross.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -2482,7 +2554,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -2516,7 +2588,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/jesus-thank-you.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -2542,7 +2614,7 @@
     "notes": "Distinct from LeBlanc 'There's No One Like You'. Official CCLI is 7096630 (published sources). Catalog previously listed 7121851, which is CityAlight's Ancient of Days.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -2559,7 +2631,7 @@
     "notes": "Official SGM / SongSelect CCLI 7138116. Catalog had 7132960. Same lyric, same writers.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/jesus-your-mercy.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -2602,7 +2674,7 @@
     "notes": "Logged under both titles; treat as one song. Official CCLI 7057478 (Keyes / James). Catalog had 7064739, a one-digit mistype.",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/king-forevermore-god-the-uncreated-one.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -2627,10 +2699,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Knowing you; Knowing You; Knowing You (C)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "1990–1999",
-    "report": null
+    "status": "graded",
+    "recommendation": "Strong",
+    "era": "1990\u20131999",
+    "report": "reports/knowing-you-all-i-once-held-dear.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-18"
   },
   {
     "id": "let-everything-that-has-breath",
@@ -2646,7 +2727,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -2663,7 +2744,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -2680,7 +2761,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/let-your-kingdom-come.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -2706,7 +2787,7 @@
     "notes": "Brian Johnson co-write. Bethel Music Publishing holds half the song. Avoid on that association.",
     "status": "graded",
     "recommendation": "Avoid",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/living-hope.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -2733,7 +2814,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -2750,7 +2831,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -2784,7 +2865,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -2801,7 +2882,7 @@
     "notes": "Based on 1878 Greenwell hymn 'I Am Not Skilled to Understand'.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -2818,7 +2899,7 @@
     "notes": "Official CCLI is 7190363 (Sovereign Grace chord file). Sovereign Grace credits Keaton Bunting and Bob Kauflin, 2022. Catalog previously listed 7163949, Bob Kauflin / David Zimmer, and 2021.",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": "reports/my-soul-will-wait-psalm-62.md",
     "scores": {
       "theologicalAccuracy": 4,
@@ -2844,7 +2925,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -2861,7 +2942,7 @@
     "notes": "Often titled Down at Your Feet / No Higher Calling.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -2875,10 +2956,10 @@
     "timesLogged": 3,
     "yearsSeen": "2024, 2026",
     "variants": "Nothing But the Blood (what can wash away my sin); Nothing but the blood (What can wash away my sin); Nothing But the Blood (what can wash away my sin) (A)",
-    "notes": "BCC has only used the Matt Redman setting (Facedown, 2004), never the standalone Robert Lowry hymn. The chorus echoes Lowry’s first line. Grade CCLI 4329411, not hymn CCLI 21332.",
+    "notes": "BCC has only used the Matt Redman setting (Facedown, 2004), never the standalone Robert Lowry hymn. The chorus echoes Lowry\u2019s first line. Grade CCLI 4329411, not hymn CCLI 21332.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -2895,7 +2976,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/now-why-this-fear.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -2964,7 +3045,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/o-great-god.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -2990,7 +3071,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/o-lord-my-rock-and-my-redeemer.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -3016,7 +3097,7 @@
     "notes": "Christmas setlists sometimes use a Christmas lyric variant of the same song.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -3033,7 +3114,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -3048,10 +3129,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Once again; Once Again; Once Again (D); Once Again - E",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "1990–1999",
-    "report": null
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
+    "era": "1990\u20131999",
+    "report": "reports/once-again.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "rubricVersion": "v1",
+    "gradeDate": "2026-11-18"
   },
   {
     "id": "only-a-holy-god",
@@ -3064,10 +3154,10 @@
     "timesLogged": 8,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Only a Holy God; Only a Holy God (D); Only a Holy God - D",
-    "notes": "Official CCLI is 7073332 (published sources). Catalog previously listed 7073335, which is CityAlight’s What Love My God.",
+    "notes": "Official CCLI is 7073332 (published sources). Catalog previously listed 7073335, which is CityAlight\u2019s What Love My God.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/only-a-holy-god.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -3093,7 +3183,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -3110,7 +3200,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -3144,7 +3234,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": null
   },
   {
@@ -3161,7 +3251,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -3195,7 +3285,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -3212,7 +3302,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/speak-o-lord.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -3238,7 +3328,7 @@
     "notes": "Official CCLI is 2986533 (SongSelect). Catalog previously listed 5162676. Published year is 2000.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/the-glory-of-the-cross.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -3264,7 +3354,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -3281,7 +3371,7 @@
     "notes": "Official CCLI is 7063694 (SongSelect). Catalog previously listed 7065022.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/the-lord-is-my-salvation.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -3307,7 +3397,7 @@
     "notes": "Gateway addition to Ken doxology.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -3324,7 +3414,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -3341,7 +3431,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -3384,7 +3474,7 @@
     "notes": "Logged as a medley.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -3401,7 +3491,7 @@
     "notes": "Tomlin refrain added to Watts 'When I Survey' family. Grade as this text when titled The Wonderful Cross.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -3435,7 +3525,7 @@
     "notes": "Co-writer Jeremy Riddle has led worship at Bethel Church; review that link at grading.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -3452,7 +3542,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -3503,7 +3593,7 @@
     "notes": "Rewrite of 1922 hymn; grade as this text when SG is marked.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -3520,7 +3610,7 @@
     "notes": "Keep distinct from Sovereign Grace rewrite.",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -3537,7 +3627,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -3588,7 +3678,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -3605,7 +3695,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1900–1989",
+    "era": "1900\u20131989",
     "report": null
   },
   {
@@ -3622,7 +3712,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -3639,7 +3729,7 @@
     "notes": "Project gold-standard example.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": "reports/yet-not-i-but-through-christ-in-me.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -3665,7 +3755,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -3682,7 +3772,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -3699,7 +3789,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -3716,7 +3806,7 @@
     "notes": "",
     "status": "graded",
     "recommendation": "Strong",
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": "reports/you-are-my-king-amazing-love.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -3742,7 +3832,7 @@
     "notes": "Published sources: Steve & Vikki Cook / Bob Kauflin, 2009, CCLI 5605079. Catalog previously listed different writers/year/CCLI.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": "reports/you-made-us-your-own.md",
     "scores": {
       "theologicalAccuracy": 5,
@@ -3768,7 +3858,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2010–2019",
+    "era": "2010\u20132019",
     "report": null
   },
   {
@@ -3785,7 +3875,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "2000–2009",
+    "era": "2000\u20132009",
     "report": null
   },
   {
@@ -3802,7 +3892,7 @@
     "notes": "",
     "status": "not-graded",
     "recommendation": null,
-    "era": "1990–1999",
+    "era": "1990\u20131999",
     "report": null
   },
   {
@@ -3819,7 +3909,7 @@
     "notes": "CityAlight Passion-week song is the standard match in this repertoire.",
     "status": "graded",
     "recommendation": "Excellent / Prefer",
-    "era": "2020–2025",
+    "era": "2020\u20132025",
     "report": "reports/your-will-be-done.md",
     "gradeDate": "2026-10-20",
     "scores": {

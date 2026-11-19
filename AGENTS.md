@@ -168,3 +168,18 @@ GitHub Actions runs the validator on pull requests.
 When an agent writes a JS file through a tool that base64-encodes or re-encodes content, literal entities get decoded or stripped. The resulting script fails to parse. Catalog and Insights then render blank.
 
 Keep the runtime construction. If you must touch `esc()`, copy the existing pattern exactly. After any JS change, hard-refresh and confirm the page still draws its lists. Bump the `?v=` cache string on the HTML that loads the file.
+
+## songs.json (do not overwrite with placeholders)
+
+`songs.json` is the live catalog. The site parses it on load. If the file is not valid JSON, the catalog and Insights show 0 graded and blank lists.
+
+Never write a placeholder, a shell command, or a literal string into `songs.json`. Do not commit `FULL_SONGS_CONTENT_HERE`, `PLACEHOLDER_FOR_SONGS_CONTENT`, `$(cat /tmp/songs-updated.json)`, or any other stand-in.
+
+When updating the catalog:
+
+1. Generate the full valid JSON locally.
+2. Validate it (`node scripts/validate.js songs.json`) before committing.
+3. Confirm the file starts with `[` and ends with `]`, and that `python3 -c "import json; json.load(open('songs.json'))"` succeeds.
+4. Commit the real file. Do not leave a placeholder for a later step.
+
+If a merge or agent step has left `songs.json` as a non-JSON string, restore the last valid commit of the file before doing anything else. The site is broken until that restore lands.

@@ -488,5 +488,19 @@
       "congregationalUsefulness": 4
     },
     "note": "Official grade. Song batch 9. Avoid on Bethel association (Bethel Music Publishing, Bethel Music recording, co-writer on Bethel staff); lyric scores 4 across. Alternative song suggestions included."
+  },
+  {
+    "id": "you-alone-can-rescue",
+    "date": "2026-11-23",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 9. Salvation by God alone, sung corporately; Jesus and the cross never named. Year 2008 -> 2009 (PraiseCharts copyright line)."
   }
 ]

@@ -3763,18 +3763,27 @@
     "id": "you-alone-can-rescue",
     "title": "You Alone Can Rescue",
     "writers": "Matt Redman / Jonas Myrin",
-    "year": "2008",
+    "year": "2009",
     "ccli": "5376377",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "You alone can rescue; You alone can rescue (Bb)",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Band chart reads \"their own soul could heal\" (some charts read \"sin\").",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/you-alone-can-rescue.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "you-are-holy-prince-of-peace",

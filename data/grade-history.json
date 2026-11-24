@@ -516,5 +516,19 @@
       "congregationalUsefulness": 2
     },
     "note": "Official grade. Song batch 9. Psalm 103 opening without the psalm's reasons; Christ, sin, and the cross never named. Alternative song suggestions included. Old SHOUT! (Hillsong) publishing credit noted; graded on the lyric."
+  },
+  {
+    "id": "hallelujah-what-a-savior",
+    "date": "2026-11-23",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 9. Full gospel from incarnation to return; substitution stated plainly. Arrangement CCLI still to confirm."
   }
 ]

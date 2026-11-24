@@ -1767,11 +1767,20 @@
     "timesLogged": 6,
     "yearsSeen": "2025, 2026",
     "variants": "Hallelujah, What a savior; Hallelujah, What a Savior",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Band uses the Ascend the Hill or Kara Young / Maggie Boswell arrangement, Bliss stanzas only (no added chorus), not always all five. Distinct from Hillsong 'Man of Sorrows' (2013). Arrangement CCLI not confirmed.",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/hallelujah-what-a-savior.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "happy-day",

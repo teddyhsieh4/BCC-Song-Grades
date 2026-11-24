@@ -460,5 +460,19 @@
       "congregationalUsefulness": 2
     },
     "note": "Official grade. Song batch 7. Christ, sin, and the cross never named. Alternative song suggestions included. CCLI on row (165547) pending SongSelect check; publisher line gives 1375252."
+  },
+  {
+    "id": "offering",
+    "date": "2026-11-23",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 9. Blood and mercy named as the way to God; no sin, cross, or resurrection. CCLI on row changed from 4216091 to 3956562 (PraiseCharts); year 2002 to 2003."
   }
 ]

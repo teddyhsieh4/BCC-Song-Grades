@@ -3087,18 +3087,27 @@
     "id": "offering",
     "title": "Offering",
     "writers": "Paul Baloche",
-    "year": "2002",
-    "ccli": "4216091",
+    "year": "2003",
+    "ccli": "3956562",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Offering; Offering (Christmas); Offering (Christmas) (E); Offering (Paul Baloche) - E; Christmas \"Offering\"; Offering (E)",
-    "notes": "Christmas setlists sometimes use a Christmas lyric variant of the same song.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Christmas setlists use the Christmas version of the same song (same CCLI 3956562). Distinct from the separate \"Christmas Offering\" listing, CCLI 7005509.",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/offering.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "oh-lord-youre-beautiful",

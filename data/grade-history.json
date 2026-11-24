@@ -544,5 +544,19 @@
       "congregationalUsefulness": 5
     },
     "note": "Official grade. Song batch 9. Full doctrine of God and the Trinity from Isaiah 6 and Revelation 4; Christ and the cross never named."
+  },
+  {
+    "id": "how-great-you-are",
+    "date": "2026-11-23",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 9. Creation, cross, and return in three stanzas; substitution and resurrection stated."
   }
 ]

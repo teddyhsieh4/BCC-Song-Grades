@@ -2170,10 +2170,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "How Great You Are; How Great You Are (G); How Great You Are - G",
     "notes": "Inspired by How Great Thou Art; distinct song.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/how-great-you-are.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "how-high-and-how-wide",

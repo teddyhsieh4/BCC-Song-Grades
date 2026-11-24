@@ -1,9 +1,9 @@
 {
-  "asOf": "23 Nov 2026",
+  "asOf": "24 Nov 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
-  "graded": 77,
-  "notGraded": 117,
+  "graded": 78,
+  "notGraded": 116,
   "setlistMentionsRaw": 965,
   "timesLoggedSum": 965,
   "families": [
@@ -89,7 +89,7 @@
     },
     {
       "name": "Strong",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Acceptable with notes",
@@ -111,7 +111,7 @@
     },
     {
       "name": "Strong",
-      "count": 137
+      "count": 143
     },
     {
       "name": "Acceptable with notes",
@@ -126,8 +126,8 @@
       "count": 19
     }
   ],
-  "loggedGraded": 647,
-  "loggedNotGraded": 318,
+  "loggedGraded": 653,
+  "loggedNotGraded": 312,
   "mostLogged": [
     {
       "title": "King Forevermore (God the Uncreated One)",

@@ -558,5 +558,19 @@
       "congregationalUsefulness": 5
     },
     "note": "Official grade. Song batch 9. Creation, cross, and return in three stanzas; substitution and resurrection stated."
+  },
+  {
+    "id": "jesus-i-my-cross-have-taken",
+    "date": "2026-11-24",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 9. Cost of discipleship grounded in adoption and the Trinity; gospel named in one line. CCLI still to confirm."
   }
 ]

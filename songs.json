@@ -2562,7 +2562,7 @@
   {
     "id": "jesus-i-my-cross-have-taken",
     "title": "Jesus I My Cross Have Taken",
-    "writers": "Henry F. Lyte",
+    "writers": "Henry F. Lyte; Bill Moore (music, Indelible Grace)",
     "year": "1824",
     "ccli": "3414460",
     "family": "Hymn",
@@ -2570,11 +2570,20 @@
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Jesus I My Cross Have Taken; Jesus I My Cross Have Taken (E)",
-    "notes": "Often sung in Indelible Grace / modern folk hymn arrangement.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Sung in the Indelible Grace setting (music Bill Moore, 2001), all six stanzas. CCLI unconfirmed; sources give 49479 among others. Check SongSelect.",
+    "status": "graded",
+    "recommendation": "Strong",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/jesus-i-my-cross-have-taken.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "jesus-messiah",

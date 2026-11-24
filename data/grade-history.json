@@ -474,5 +474,19 @@
       "congregationalUsefulness": 3
     },
     "note": "Official grade. Song batch 9. Blood and mercy named as the way to God; no sin, cross, or resurrection. CCLI on row changed from 4216091 to 3956562 (PraiseCharts); year 2002 to 2003."
+  },
+  {
+    "id": "this-is-amazing-grace",
+    "date": "2026-11-23",
+    "action": "published",
+    "recommendation": "Avoid",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 9. Avoid on Bethel association (Bethel Music Publishing, Bethel Music recording, co-writer on Bethel staff); lyric scores 4 across. Alternative song suggestions included."
   }
 ]

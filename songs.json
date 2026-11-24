@@ -3531,11 +3531,20 @@
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "This is amazing grace; This is Amazing Grace; This is amazing grace (E); This is Amazing Grace (F)",
-    "notes": "Co-writer Jeremy Riddle has led worship at Bethel Church; review that link at grading.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Co-writer Jeremy Riddle was a Bethel Church worship pastor (2011-2019); Bethel Music Publishing is on the copyright line and Bethel Music recorded it. The church sings the Phil Wickham version; Bethel still holds part of the credit.",
+    "status": "graded",
+    "recommendation": "Avoid",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/this-is-amazing-grace.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "this-is-my-fathers-world",

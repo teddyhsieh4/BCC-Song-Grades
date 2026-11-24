@@ -874,11 +874,20 @@
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "10000 reasons; Bless the Lord (10000 Reasons); 10,000 Reasons (Eb); 10000 reasons (Eb)",
-    "notes": "Do not confuse with SGM Psalm 103 'Bless the Lord'.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Do not confuse with SGM Psalm 103 'Bless the Lord'. Original 2011 credits listed SHOUT! Music Publishing (Hillsong), most likely Myrin's share; current credits name Atlas Mountain Songs. Reviewed at grading; graded on the lyric.",
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/10-000-reasons-bless-the-lord.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 1,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 2
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "abide",

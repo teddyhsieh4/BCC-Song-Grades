@@ -502,5 +502,19 @@
       "congregationalUsefulness": 4
     },
     "note": "Official grade. Song batch 9. Salvation by God alone, sung corporately; Jesus and the cross never named. Year 2008 -> 2009 (PraiseCharts copyright line)."
+  },
+  {
+    "id": "10-000-reasons-bless-the-lord",
+    "date": "2026-11-23",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 1,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 2
+    },
+    "note": "Official grade. Song batch 9. Psalm 103 opening without the psalm's reasons; Christ, sin, and the cross never named. Alternative song suggestions included. Old SHOUT! (Hillsong) publishing credit noted; graded on the lyric."
   }
 ]

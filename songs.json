@@ -2032,11 +2032,20 @@
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Holy Holy Holy - hymn; Holy Holy Holy (C); Holy holy holy (C)",
-    "notes": "Traditional hymn. Distinct from Vineyard 'Holy Holy Holy'.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Traditional hymn, plain setting, usually all four stanzas. Distinct from Vineyard 'Holy Holy Holy'.",
+    "status": "graded",
+    "recommendation": "Strong",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/holy-holy-holy.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 2,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "holy-holy-holy-vineyard",

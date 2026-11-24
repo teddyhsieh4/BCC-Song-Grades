@@ -530,5 +530,19 @@
       "congregationalUsefulness": 5
     },
     "note": "Official grade. Song batch 9. Full gospel from incarnation to return; substitution stated plainly. Arrangement CCLI still to confirm."
+  },
+  {
+    "id": "holy-holy-holy",
+    "date": "2026-11-23",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 2,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 9. Full doctrine of God and the Trinity from Isaiah 6 and Revelation 4; Christ and the cross never named."
   }
 ]

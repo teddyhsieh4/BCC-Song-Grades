@@ -9,7 +9,7 @@
 - **Arrangement year:** 2001 (Indelible Grace, *Pilgrim Days*)
 - **Family:** Hymn
 - **Era:** Before 1900 (hymns)
-- **CCLI:** 3414460 (catalog; see Identification notes)
+- **CCLI:** 3874967
 - **Times logged (2023–Sept 2026):** 6
 - **Years seen:** 2023, 2024, 2025, 2026 (at least four years in this window)
 - **Setlist variants:** Jesus I My Cross Have Taken; Jesus I My Cross Have Taken (E)
@@ -173,7 +173,7 @@ The church sings Lyte's text in the Indelible Grace setting, with music by Bill 
 
 The band sings the Indelible Grace setting with all six stanzas.
 
-The catalog row lists CCLI 3414460, and that number is still unconfirmed. PraiseCharts does not carry the Indelible Grace setting, and the Indelible Grace hymnbook page gives only the copyright line, © 2001 Bill Moore Music, with no CCLI number. Church bulletins and lyric sites that print this setting give several different numbers. Two of them, a lyric listing and a church bulletin, give CCLI 49479. Check SongSelect for "Jesus, I My Cross Have Taken" by Henry Lyte and Bill Moore before the catalog number is changed.
+The church reports this setting as CCLI 3874967, confirmed by Theodore on 2026-11-24. The older catalog row listed 3414460. PraiseCharts does not carry the Indelible Grace setting, and the Indelible Grace hymnbook page gives only the copyright line, © 2001 Bill Moore Music.
 
 ---
 

@@ -9,7 +9,7 @@
 - **Arrangement year:** not on file (Ascend the Hill, or Kara Young / Maggie Boswell)
 - **Family:** Hymn
 - **Era:** Before 1900 (hymns)
-- **CCLI:** 29515 (catalog; see Identification notes)
+- **CCLI:** 29530
 - **Times logged (2023–Sept 2026):** 6
 - **Years seen:** 2025, 2026
 - **Setlist variants:** Hallelujah, What a savior; Hallelujah, What a Savior
@@ -172,7 +172,7 @@ This is Philip Bliss's hymn, sometimes indexed by its first line, "Man of Sorrow
 
 The band sings two arrangements: Ascend the Hill's, and one by Kara Young and Maggie Boswell. Both keep Bliss's stanzas, and the band sings them with "helpless we" in stanza 3. The Ascend the Hill recording adds a chorus of repeated "Hallelujah" between stanzas, which the band does not sing. This report grades Bliss's stanzas, so the grade is the same for both arrangements.
 
-The catalog row lists CCLI 29515. No CCLI number for either arrangement could be confirmed from published sources. PraiseCharts carries a different arrangement, Tommy Walker's (2004, Integrity's Hosanna! Music, CCLI 5065729), which the band does not use. Hymndex lists the plain hymn as CCLI 5243833. The catalog number stays as it is until the band's charts show which number to report.
+The church reports this hymn as CCLI 29530, confirmed by Theodore on 2026-11-24. The older catalog row listed 29515. PraiseCharts carries a different arrangement, Tommy Walker's (2004, Integrity's Hosanna! Music, CCLI 5065729), which the band does not use.
 
 ---
 

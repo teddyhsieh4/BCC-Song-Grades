@@ -2901,17 +2901,26 @@
     "title": "My Life Is an Offering",
     "writers": "Joel Sczebel / Pat Sczebel (Sovereign Grace)",
     "year": "2013",
-    "ccli": "6572078",
+    "ccli": "6565620",
     "family": "Sovereign Grace",
     "confidence": "High",
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "My life is an offering; My Life is an Offering; My Life is an Offering (D)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/my-life-is-an-offering.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-24",
+    "rubricVersion": "v1"
   },
   {
     "id": "my-savior-my-god",

@@ -11,10 +11,19 @@
     "yearsSeen": "2024",
     "variants": "Christ in me (D)",
     "notes": "Maranatha/CCCM chorus: \u201cChrist in me is to live, to die is to gain.\u201d",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "1900\u20131989",
-    "report": null
+    "report": "reports/christ-in-me.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-25",
+    "rubricVersion": "v1"
   },
   {
     "id": "for-you-are-holy",
@@ -28,10 +37,19 @@
     "yearsSeen": "2024",
     "variants": "For you are holy",
     "notes": "From SGM album Awesome God.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/for-you-are-holy.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 2,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-25",
+    "rubricVersion": "v1"
   },
   {
     "id": "grace",
@@ -70,11 +88,20 @@
     "timesLogged": 1,
     "yearsSeen": "2025",
     "variants": "Habitation, Oh Lord my heart",
-    "notes": "Confirmed Mark Altrogge / SGM song. CCLI not in SongSelect. Year 1994 stands. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Mark Altrogge / SGM. Teddy confirmed the writer from church records (Nov 2026). CCLI not in SongSelect. Year 1994 stands. Some unsigned chord sites credit Janice Huse.",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "1990\u20131999",
-    "report": null
+    "report": "reports/habitation-oh-lord-my-heart-longs-to-be.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-25",
+    "rubricVersion": "v1"
   },
   {
     "id": "hail-to-the-king",
@@ -88,10 +115,19 @@
     "yearsSeen": "2024, 2025",
     "variants": "Hail to the King; Hail to the king",
     "notes": "Vineyard \u201cHail to the King\u201d (The River Is Here / Blessed Be the Name era).",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Strong",
     "era": "1990\u20131999",
-    "report": null
+    "report": "reports/hail-to-the-king.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-25",
+    "rubricVersion": "v1"
   },
   {
     "id": "he-is-worthy",
@@ -174,18 +210,27 @@
     "id": "jesus-youre-the-sweetest-name-of-all",
     "title": "Jesus, You're the Sweetest Name of All",
     "writers": "Tommy Coomes",
-    "year": "1974",
-    "ccli": "1509",
+    "year": "1980",
+    "ccli": "24023",
     "family": "Chorus",
     "confidence": "High",
     "timesLogged": 1,
     "yearsSeen": "2026",
     "variants": "Jesus, youre the sweetest name",
-    "notes": "Confirmed Tommy Coomes 1974, CCLI 1509. John Jones is a cover/recording name only. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Year 1980 and CCLI 24023 from the \u00a9 1980 Coomesietunes footer. Catalog previously listed 1974 and 1509. John Jones is a cover name only.",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "1900\u20131989",
-    "report": null
+    "report": "reports/jesus-youre-the-sweetest-name-of-all.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-25",
+    "rubricVersion": "v1"
   },
   {
     "id": "make-us-a-prayer",
@@ -199,10 +244,19 @@
     "yearsSeen": "2024",
     "variants": "Make us a prayer",
     "notes": "Confirmed Rita Springer / Vineyard, CCLI 855388. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "1990\u20131999",
-    "report": null
+    "report": "reports/make-us-a-prayer.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 2,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-25",
+    "rubricVersion": "v1"
   },
   {
     "id": "may-the-words-of-my-mouth-psalm-19",
@@ -215,28 +269,46 @@
     "timesLogged": 4,
     "yearsSeen": "2023, 2024, 2025",
     "variants": "May the Words of My Mouth; May the Words of My Mouth (C)",
-    "notes": "Confirmed Terry Butler Vineyard Psalm 19 setting, CCLI 1773823. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Confirmed Terry Butler Vineyard Psalm 19 setting, CCLI 1773823. A stray PDF figure 750737 is a CCLI license number, not the song number.",
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "1990\u20131999",
-    "report": null
+    "report": "reports/may-the-words-of-my-mouth-psalm-19.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-25",
+    "rubricVersion": "v1"
   },
   {
     "id": "my-delight",
     "title": "My Delight",
     "writers": "Andy Park (Vineyard)",
-    "year": "1993",
+    "year": "1987",
     "ccli": "72161",
     "family": "Vineyard",
     "confidence": "High",
     "timesLogged": 1,
     "yearsSeen": "2026",
     "variants": "My delight",
-    "notes": "Confirmed Andy Park Vineyard setting, CCLI 72161. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "1990\u20131999",
-    "report": null
+    "notes": "Confirmed Andy Park Vineyard setting, CCLI 72161. Year corrected from 1993 to 1987 (likely; Evangeliums.net). Spirit stanza is part of the text.",
+    "status": "graded",
+    "recommendation": "Weak",
+    "era": "1900\u20131989",
+    "report": "reports/my-delight.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-25",
+    "rubricVersion": "v1"
   },
   {
     "id": "name-above-all-names",
@@ -276,10 +348,19 @@
     "yearsSeen": "2023, 2024, 2026",
     "variants": "No other savior; No Other Savior; No other savior - F; No Other Saviour (F)",
     "notes": "Confirmed Starfield \u201cNo Other Saviour,\u201d CCLI 5683259. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Strong",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/no-other-savior.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-25",
+    "rubricVersion": "v1"
   },
   {
     "id": "sacrifice-of-love",
@@ -293,10 +374,19 @@
     "yearsSeen": "2025, 2026",
     "variants": "Sacrifice of Love",
     "notes": "Confirmed John Barnett Vineyard, CCLI 675197, year 1990. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Strong",
     "era": "1990\u20131999",
-    "report": null
+    "report": "reports/sacrifice-of-love.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-25",
+    "rubricVersion": "v1"
   },
   {
     "id": "son-of-god",

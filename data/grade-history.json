@@ -614,5 +614,145 @@
       "congregationalUsefulness": 5
     },
     "note": "Official grade. Song batch 9. Sin, wrath, failure of works, and Christ's cross alone; hope at the judgment. Year 1763 -> 1776 (publication)."
+  },
+  {
+    "id": "christ-in-me",
+    "date": "2026-11-25",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 10. Maranatha chorus compresses Philippians 1:21 into titles. No cross or resurrection."
+  },
+  {
+    "id": "for-you-are-holy",
+    "date": "2026-11-25",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 2,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 10. Incomparable holy God in a list of attributes. Son and cross unnamed."
+  },
+  {
+    "id": "habitation-oh-lord-my-heart-longs-to-be",
+    "date": "2026-11-25",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 10. Blood and price are implied. Healing-hands line is the caution. Writer confirmed Altrogge from church records."
+  },
+  {
+    "id": "hail-to-the-king",
+    "date": "2026-11-25",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 10. Incarnation, cross, and Philippians 2. Resurrection assumed in risen King."
+  },
+  {
+    "id": "jesus-youre-the-sweetest-name-of-all",
+    "date": "2026-11-25",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 10. Verse 2 names the death and the first and last. Refrain is sweetness. Year 1974 -> 1980. CCLI 1509 -> 24023."
+  },
+  {
+    "id": "make-us-a-prayer",
+    "date": "2026-11-25",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 2,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 10. House of prayer without Christ. Alternative song suggestions included."
+  },
+  {
+    "id": "may-the-words-of-my-mouth-psalm-19",
+    "date": "2026-11-25",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 10. Psalm 19:14 plus a servant desire. Law of the LORD never sung. Alternative song suggestions included. CCLI 1773823. Stray 750737 is a license number."
+  },
+  {
+    "id": "my-delight",
+    "date": "2026-11-25",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 10. Father, Son, and Spirit named. Son is pure and kind, with no cross. Alternative song suggestions included. Year 1993 -> 1987."
+  },
+  {
+    "id": "no-other-savior",
+    "date": "2026-11-25",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 10. Sacrifice for us, grave overcome, high priest at the right hand. Sin and wrath unnamed."
+  },
+  {
+    "id": "sacrifice-of-love",
+    "date": "2026-11-25",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 10. Blood washes guilt. He bore the cross the singer should have had. Resurrection unnamed."
   }
 ]

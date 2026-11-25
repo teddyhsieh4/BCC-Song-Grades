@@ -149,7 +149,42 @@ article.page h1, article.page .lede { text-align: left; margin-left: 0; }
 .chart-note { color: var(--muted); font-size: 0.92rem; margin: -0.4rem 0 0; }
 .chart-note + .chart { margin-top: 1rem; }
 .chart + .chart-note { margin: -1.2rem 0 2.2rem; }
-.barline { display: grid; grid-template-columns: 11rem 1fr 5.2rem; gap: 0.6rem; align-items: center; margin: 0.35rem 0; font-size: 0.92rem; }
+.barline {
+  display: grid;
+  grid-template-columns: 11rem minmax(0, 1fr) 5.2rem auto;
+  grid-template-areas: "label meter count go";
+  gap: 0.6rem;
+  align-items: center;
+  margin: 0.35rem 0;
+  font-size: 0.92rem;
+}
+.barline .label { grid-area: label; min-width: 0; }
+.barline .meter { grid-area: meter; }
+.barline .c { grid-area: count; }
+.barline .bar-go { grid-area: go; }
+/* One link per row. touch-action lets a vertical scroll win; the click only fires on a tap. */
+.chart a.barline {
+  margin: 0.12rem 0;
+  padding: 0.5rem 0.45rem;
+  border-radius: 6px;
+  color: inherit;
+  text-decoration: none;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: rgba(46, 122, 184, 0.18);
+}
+.chart a.barline:hover,
+.chart a.barline:focus-visible { text-decoration: none; }
+.chart a.barline:focus-visible { background: #eef3f8; }
+.bar-go {
+  color: var(--blue);
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.2;
+  white-space: nowrap;
+}
+@media (hover: hover) {
+  .chart a.barline:hover { background: #eef3f8; }
+}
 .meter { background: #e4ebf2; height: 0.7rem; border-radius: 99px; overflow: hidden; }
 .meter > i { display: block; height: 100%; background: var(--navy); }
 .meter > i.prefer { background: #d4af37; }
@@ -300,6 +335,16 @@ footer { max-width: 980px; margin: 2.5rem auto 0; padding: 1.2rem 1.25rem 2rem; 
 }
 .controls .search-row input, .controls .search-row select { width: 100%; min-width: 0; }
 .count { color: var(--muted); font-size: 0.92rem; margin: 0.45rem 0 0.4rem; }
+.count-line {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin: 0.45rem 0 0.4rem;
+}
+.count-line .count { margin: 0; flex: 1 1 auto; min-width: 0; }
+.reset-filters { flex: none; white-space: nowrap; }
+.reset-filters[hidden] { display: none !important; }
 
 /* Catalog rows: no number, title and grade on one line, one meta line */
 .list.catalog .row { grid-template-columns: minmax(0, 1fr) auto; align-items: start; row-gap: 0.15rem; }
@@ -388,9 +433,25 @@ details.rsec > .rbody > :first-child { margin-top: 0; }
   .row .badges { grid-column: 2; justify-self: start; align-items: flex-start; margin-top: 0.25rem; }
   .row .badge { grid-column: 2; justify-self: start; margin-top: 0.25rem; }
   .idgrid { grid-template-columns: 1fr; }
-  /* Insights charts: label and count on one line, bar underneath */
-  .barline { grid-template-columns: minmax(0, 1fr) auto; gap: 0.2rem 0.6rem; margin: 0.55rem 0; }
-  .barline .meter { grid-column: 1 / -1; grid-row: 2; }
+  /* Insights charts: label and count on one line, bar underneath. Linked rows keep a 44px target. */
+  .barline {
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-template-areas:
+      "label count"
+      "meter meter";
+    gap: 0.2rem 0.6rem;
+    margin: 0.55rem 0;
+  }
+  .chart a.barline {
+    grid-template-areas:
+      "label count"
+      "go ."
+      "meter meter";
+    min-height: 2.75rem;
+    padding: 0.5rem 0.4rem;
+    margin: 0.28rem 0;
+  }
+  .reset-filters { min-height: 2.75rem; }
   .grade-defs li { grid-template-columns: 1fr; }
 
   /* Catalog: shorter first screen */
@@ -444,8 +505,19 @@ details.rsec > .rbody > :first-child { margin-top: 0; }
   html[data-theme="dark"] .stat, html[data-theme="dark"] .list, html[data-theme="dark"] .dialog, html[data-theme="dark"] .linkbtn, html[data-theme="dark"] .prevnext a, html[data-theme="dark"] .jump a,
   html[data-theme="dark"] input[type="search"], html[data-theme="dark"] input[type="password"], html[data-theme="dark"] select, html[data-theme="dark"] textarea { background: var(--paper); color: var(--ink); }
   html[data-theme="dark"] .row:hover, html[data-theme="dark"] .prose th, html[data-theme="dark"] .prose code, html[data-theme="dark"] .note, html[data-theme="dark"] .dialog-close:hover { background: var(--tint); }
+  html[data-theme="dark"] .chart a.barline:focus-visible { background: var(--tint); }
+  @media (hover: hover) {
+    html[data-theme="dark"] .chart a.barline:hover { background: var(--tint); }
+  }
   html[data-theme="dark"] .meter { background: #26313e; }
+  /* Default bars (family, era) lighten so they show on the dark page.
+     Grade colors stay the label colors; this rule would otherwise win on specificity. */
   html[data-theme="dark"] .meter > i { background: #7fa3cf; }
+  html[data-theme="dark"] .meter > i.prefer { background: #d4af37; }
+  html[data-theme="dark"] .meter > i.strong { background: #1f6b45; }
+  html[data-theme="dark"] .meter > i.acceptable { background: #e3b341; }
+  html[data-theme="dark"] .meter > i.weak { background: #5c6777; }
+  html[data-theme="dark"] .meter > i.avoid { background: #9b2c2c; }
   html[data-theme="dark"] .badge.wait { color: #b4bfcc; background: #26313e; border-color: #3a4757; }
   html[data-theme="dark"] .dialog-backdrop { background: rgba(0, 0, 0, 0.6); }
 }
@@ -455,7 +527,7 @@ details.rsec > .rbody > :first-child { margin-top: 0; }
   @page { margin: 1.6cm; }
   html, body { background: #fff !important; color: #000; }
   body { font-size: 11pt; }
-  header.site, footer, #gate, .crumb, .back-link, .prevnext, .pn-count, #toggle-all, .filters, .jump { display: none !important; }
+  header.site, footer, #gate, .crumb, .back-link, .prevnext, .pn-count, #toggle-all, .filters, .jump, .bar-go, .reset-filters { display: none !important; }
   .wrap { max-width: none; padding: 0; }
   article.page { padding-top: 0; }
   a { color: inherit; }

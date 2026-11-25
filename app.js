@@ -155,16 +155,47 @@ function rowScores(song) {
   return parts.length ? `<p class="row-scores" aria-label="Scores out of 5">${parts.join("")}</p>` : "";
 }
 
+function optionLabel(el) {
+  if (!el || el.selectedIndex < 0) return "";
+  const opt = el.options[el.selectedIndex];
+  return opt ? opt.text : el.value;
+}
+
+/* Active search, filters, and a non-default sort. Empty when the catalog is at its defaults. */
+function activeFilterParts() {
+  const parts = [];
+  const q = ($("#q")?.value || "").trim();
+  if (q) parts.push("\u201c" + q + "\u201d");
+  const family = $("#family")?.value || "";
+  if (family) parts.push(family);
+  const era = $("#era")?.value || "";
+  if (era) parts.push(era);
+  const status = $("#status");
+  if (status && status.value) parts.push(optionLabel(status));
+  const sort = $("#sort");
+  if (sort && sort.value && sort.value !== "az") parts.push(optionLabel(sort));
+  return parts;
+}
+
+function renderCount(songs) {
+  const count = $("#count");
+  const reset = $("#reset-filters");
+  const n = songs.length;
+  const parts = activeFilterParts();
+  if (count) {
+    const noun = n === 1 ? "song" : "songs";
+    count.textContent = parts.length ? n + " " + noun + " \u00b7 " + parts.join(" \u00b7 ") : n + " " + noun;
+  }
+  if (reset) reset.hidden = parts.length === 0;
+}
+
 function renderList(songs) {
   const host = $("#results");
-  const count = $("#count");
   if (!host) return;
   if (!songs.length) {
     host.innerHTML = '<p class="empty">No songs match that search.</p>';
-    if (count) count.textContent = "0 songs";
     return;
   }
-  if (count) count.textContent = songs.length + (songs.length === 1 ? " song" : " songs");
   host.innerHTML = songs.map((s) => `
     <a class="row" href="song.html?id=${encodeURIComponent(s.id)}">
       <h2>${esc(s.title)}</h2>
@@ -264,9 +295,10 @@ async function initHome() {
   const families = [...new Set(all.map((s) => s.family))].sort();
   const eras = [...new Set(all.map((s) => s.era))];
   fillSelect($("#family"), families, "All families");
-  fillSelect($("#era"), [
+  const eraOrder = (typeof BCC_GRADES !== "undefined" && BCC_GRADES.ERAS) || [
     "Before 1900 (hymns)", "1900–1989", "1990–1999", "2000–2009", "2010–2019", "2020–2025", "Unknown / traditional"
-  ].filter((e) => eras.includes(e)), "All eras");
+  ];
+  fillSelect($("#era"), eraOrder.filter((e) => eras.includes(e)), "All eras");
 
   const FIELDS = ["q", "family", "era", "status", "sort"];
   const params = new URLSearchParams(location.search);
@@ -281,8 +313,21 @@ async function initHome() {
   const draw = () => {
     const list = sortSongs(applyFilters(all), $("#sort")?.value || "az");
     renderList(list);
+    renderCount(list);
     rememberCatalog(FIELDS, list);
   };
+  const resetBtn = $("#reset-filters");
+  if (resetBtn) {
+    resetBtn.addEventListener("click", () => {
+      FIELDS.forEach((id) => {
+        const el = document.getElementById(id);
+        if (!el) return;
+        el.value = id === "sort" ? "az" : "";
+      });
+      /* replaceState inside rememberCatalog, so Back still leaves the catalog. */
+      draw();
+    });
+  }
   FIELDS.forEach((id) => {
     const el = document.getElementById(id);
     if (el) el.addEventListener("input", draw);

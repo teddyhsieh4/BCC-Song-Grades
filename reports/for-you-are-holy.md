@@ -27,7 +27,7 @@ God has no rival. He is without beginning, the maker of the skies, truth, wisdom
 
 Acceptable with notes
 
-Use it when the sermon is on the holiness and incomparability of God, and put a song with the cross next to it. One log, in 2024, is the whole record in this window. Keep both verses. The chorus only repeats “You are holy.” The verses are worth singing. They never name the Son or the cross, so this cannot be the gospel song of the morning.
+Use it when the sermon is on the holiness and incomparability of God, and put a song with the cross next to it. The church has logged it once in this window, in 2024. Keep both verses. The chorus only repeats “You are holy.” The verses are worth singing. They never name the Son or the cross, so this cannot be the gospel song of the morning.
 
 ---
 
@@ -76,7 +76,7 @@ The verses carry the confession. “Only You are never sinning / Only You have n
 | Resurrection | No | |
 | Reign / session | No | |
 | Repentance | No | |
-| Lordship | Title only | “Lord, there is none like You.” |
+| Lordship | Yes | “Lord, there is none like You.” |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
@@ -104,9 +104,9 @@ A member of another religion who confesses one holy God could sing a great deal 
 
 ## Theological Accuracy and Biblical Fidelity: 4
 
-“O God, there’s none like You / In all the earth” follows Psalm 86:8, “There is none like you among the gods, O Lord.” “Who can compare to You” is the question of Isaiah 40:25, “To whom then will you compare me?” “Only You have no beginning” says what Psalm 90:2 says of God, “from everlasting to everlasting.” “Only You could make the skies” is creation, Genesis 1:6-8. “Only You are always wise” is the confession of Romans 16:27, “the only wise God.”
+“O God, there’s none like You / In all the earth” follows Psalm 86:8, “There is none like you among the gods, O Lord.” “O God, who can compare / To You” is the question of Isaiah 40:25, “To whom then will you compare me?” “Only You have no beginning” says what Psalm 90:2 says of God, “from everlasting to everlasting.” “Only You could make the skies” is creation, Genesis 1:6-8. “Only You are always wise” is the confession of Romans 16:27, “the only wise God.”
 
-“Only You are never sinning” confesses the God “who is light, and in him is no darkness at all” (1 John 1:5). “Only You have never lied” is Titus 1:2, “God, who never lies.” “Only You cannot be tempted” shortens James 1:13, “God cannot be tempted with evil.” “Only You can never die” is the immortal God of 1 Timothy 1:17. “For You are holy” is the seraphim’s word in Isaiah 6:3. The verses are accurate. They list the claims rather than stay inside one passage and say it through.
+“Only You are never sinning” confesses the God of 1 John 1:5: “God is light, and in him is no darkness at all.” “Only You have never lied” is Titus 1:2, “God, who never lies.” “Only You cannot be tempted” shortens James 1:13, “God cannot be tempted with evil.” Hebrews 4:15 says the Son “in every respect has been tempted as we are, yet without sin.” The song’s line is James 1:13, said of God. “Only You can never die” is 1 Timothy 6:16, “who alone has immortality,” and 1 Timothy 1:17, the “immortal” God. “For You are holy” is the seraphim’s word in Isaiah 6:3. The verses are accurate. They list the claims and do not stay with one passage long enough to explain it.
 
 ---
 
@@ -136,7 +136,7 @@ The lines are short and the contrasts are easy to sing. One hearing will not exh
 
 ## Tone
 
-The tone is reverent. The line that sets it is “For You are holy / Lord You are holy,” after a verse that has already said God does not sin and cannot be tempted.
+The tone is reverent. The line that sets it is “For You are holy, Lord / You are holy,” after a verse that has already said God does not sin and cannot be tempted.
 
 ---
 
@@ -163,4 +163,4 @@ This is the Zach Jones song from the Sovereign Grace album *Awesome God* (2004).
 
 ## Why this overall label
 
-The verses give the church a real list of what God is, tied to texts the church already reads. They never mention Christ or the way a holy God receives sinners. That is a song to use beside the gospel, with both verses kept.
+*Holy, Holy, Holy* (Heber) is Strong, with Christ-Exalting at 2 and the other four scores at 5. It works Isaiah 6 and Revelation 4 through. This song’s scores are 4s. The verses list attributes from several texts. Christ is unnamed, and so is the way a holy God receives sinners. Use it beside the gospel, with both verses kept.

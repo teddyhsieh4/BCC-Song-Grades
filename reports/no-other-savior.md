@@ -27,7 +27,7 @@ Jesus is Lord of every age, author of faith, the first and the last, Prince of P
 
 Strong
 
-Use it regularly when the sermon is on the person and work of Christ, and keep the second stanza. Five logs, in 2023, 2024, and 2026, means the room has already met it. “Sacrificed to death / For us, Your final breath / You died, the world to save / To overcome the grave” is the stanza that has to stay. “You died, the world to save” is broad. The line before it says the death was “for us.” Sin and wrath are not named. The song can still teach the cross, the grave, the priesthood, and the reign.
+Use it regularly when the sermon is on the person and work of Christ, and keep the second stanza. The church has logged it five times in this window (2023, 2024, 2026), so the room has already met it. “Sacrificed to death / For us, Your final breath / You died, the world to save / To overcome the grave” is the stanza that has to stay. “You died, the world to save” follows John 3:17 and 1 John 4:14. The line before it says the death was “for us.” Sin and wrath are not named. The song can still teach the cross, the grave, the priesthood, and the reign.
 
 ---
 
@@ -84,7 +84,7 @@ It begins with titles of dignity: Lord of ages, author of faith, first and last,
 
 ## Persons of the Trinity named
 
-Jesus is named, and he is the Lamb, the high priest, and the one throned at God’s right hand. “God” in that line is the Father’s place in Psalm 110:1 and Mark 16:19, though the song does not say “Father.” The Spirit is unnamed.
+Jesus is named, and he is the Lamb, the high priest, and the one throned at God’s right hand. “God” in that line is the Father’s place in Psalm 110:1 and Hebrews 1:3, where the Son “sat down at the right hand of the Majesty on high.” The song does not say “Father.” The Spirit is unnamed.
 
 ---
 
@@ -104,9 +104,9 @@ No. “Jesus, Lamb of God,” “no other Savior,” “Sacrificed to death,” 
 
 ## Theological Accuracy and Biblical Fidelity: 4
 
-“Author of our faith” is Hebrews 12:2. The ESV says “the founder and perfecter of our faith.” The song’s “Author” is the older wording of that office. “The First, the Last, the same” joins Revelation 22:13, “the first and the last,” with Hebrews 13:8, “the same yesterday and today and forever.” “Glorious Prince of Peace” is Isaiah 9:6. “Throned at God’s right hand” is Mark 16:19, “sat down at the right hand of God,” and Psalm 110:1. “The world at Your command” says what that session means for his rule.
+“Author of our faith” is Hebrews 12:2. The ESV says “the founder and perfecter of our faith.” The song’s “Author” is the older wording of that office. “The First, the Last, the same” joins Revelation 22:13, “the first and the last,” with Hebrews 13:8, “the same yesterday and today and forever.” “Glorious Prince of Peace” is Isaiah 9:6. “Throned at God’s right hand” is Hebrews 1:3, “he sat down at the right hand of the Majesty on high,” and Psalm 110:1. “The world at Your command” says what that session means for his rule.
 
-“Merciful High Priest” is Hebrews 4:14-16. “Sacrificed to death / For us, Your final breath” says a death in the place of “us.” “You died, the world to save” is broad in the way John 3:16 and 1 John 2:2 speak of the world. It does not say that every person is saved, and it does not name the sin. The previous line’s “for us” is the substitution. “To overcome the grave” says the resurrection as victory over death. “Every knee bows down” is Philippians 2:10. “At your renown” is the song’s addition. “You will reign forever” agrees with the reign those texts look toward. The second stanza is Scripture-shaped. Several opening lines are titles stacked in a list.
+“Merciful High Priest” is Hebrews 4:14-16. “Sacrificed to death / For us, Your final breath” says a death in the place of “us.” “You died, the world to save” says what John 3:17 says, that God sent the Son “in order that the world might be saved through him,” and what 1 John 4:14 says, that the Father “sent his Son to be the Savior of the world.” It does not say that every person is saved, and it does not name the sin. The previous line’s “for us” is the substitution. “To overcome the grave” says the resurrection as victory over death. “Every knee bows down” is Philippians 2:10. “At your renown” is the song’s addition. “You will reign forever” agrees with the reign those texts look toward. The second stanza is Scripture-shaped. Several opening lines are titles stacked in a list.
 
 ---
 
@@ -124,7 +124,7 @@ The song declares who Christ is and what he did. “How great You are” is prai
 
 ## Description of God’s Character: 4
 
-The list is long: Lord of every age, author of faith, first and last, majesty, Prince of Peace, high priest, mercy, meekness, care for the least and the weak, the Lamb, the Savior, the one who reigns. Holiness and wrath are unnamed. Justice is present as the world under his command and every knee bowing. Mercy is named on the high priest, which is the right office for it. The gentler words, generous and meek, sit beside the sacrifice rather than replacing it, as long as the second stanza is sung.
+The list is long: Lord of every age, author of faith, first and last, majesty, Prince of Peace, high priest, mercy, meekness, care for the least and the weak, the Lamb, the Savior, the one who reigns. Holiness and wrath are unnamed. Justice is present as the world under his command and every knee bowing. Mercy is named on the high priest, which is the right office for it. The gentler words, generous and meek, stand beside the sacrifice, and the sacrifice is still there as long as the second stanza is sung.
 
 ---
 
@@ -148,7 +148,7 @@ The congregation never names sin, wrath, repentance, or the cross by that word, 
 
 ## Setlist notes
 
-- **When it serves the sermon.** Hebrews 4, Hebrews 12:2, Philippians 2:9-11, Isaiah 9:6, or the death and resurrection together. The second stanza belongs with the cross and the grave. The first stanza belongs with the session.
+- **When it serves the sermon.** Hebrews 1:3, Hebrews 4, Hebrews 12:2, Philippians 2:9-11, Isaiah 9:6, John 3:17, or the death and resurrection together. The second stanza belongs with the cross and the grave. The first stanza belongs with the session.
 - **Gaps the rest of the hour must cover.** Sin named as sin, and the wrath borne. Pair it with *Jesus, Your Mercy* when the sacrifice needs guilt and mercy in plainer words.
 - **Diet sentence.** Five uses in three years adds a modern text that actually says the sacrifice, the grave, the priesthood, and the reign. It does not add a confession of sin or of wrath.
 - **What not to do.** Do not live on the chorus and skip “Sacrificed to death.” Do not treat “the world to save” as a statement that every person is saved. Do not cut “for us” when the world line is kept.
@@ -157,10 +157,10 @@ The congregation never names sin, wrath, repentance, or the cross by that word, 
 
 ## Identification notes
 
-Tim Neufeld and Jon Neufeld, Starfield, from *The Saving One* (2010). A 2010 chart prints “Words & Music by Jon Neufeld & Tim Neufeld ©2010 Stonebrook Music Company” and CCLI 5683259, with the lyric graded here. The catalog order of the names is Tim then Jon. The chart reverses them. Same two writers. The catalog year and number match. “No Other Saviour” and the F-key labels are the same song. One lyric site prints “Your final battle” where the chart prints “Your final breath.” This grade follows “final breath,” which is the wording on the copyrighted chart. No arrangement year is on file.
+Tim Neufeld and Jon Neufeld, Starfield, from *The Saving One* (2010). A 2010 chart prints “Words & Music by Jon Neufeld & Tim Neufeld ©2010 Stonebrook Music Company” and CCLI 5683259, with the lyric graded here. The catalog order of the names is Tim then Jon. The chart reverses them. Same two writers. The catalog year and number match. “No Other Saviour” and the F-key labels are the same song. “Your final breath” is the wording on that chart and is the line graded here. A lyric site’s “final battle” is a bad copy of the same line. No arrangement year is on file.
 
 ---
 
 ## Why this overall label
 
-The second stanza says he was sacrificed, that the last breath was for us, that he died to save, and that he overcame the grave, after the song has already seated him at God’s right hand as high priest. Sin and wrath are unnamed, and several lines are titles. The church can use this often if that sacrifice stanza is sung.
+The second stanza says he was sacrificed, that the last breath was for us, that he died to save the world, and that he overcame the grave, after the song has already seated him at God’s right hand as high priest. Sin and wrath are unnamed, and several lines are titles. The church can use this often if that sacrifice stanza is sung.

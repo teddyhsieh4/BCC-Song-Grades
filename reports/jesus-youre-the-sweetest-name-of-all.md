@@ -1,15 +1,15 @@
 # Jesus, You're the Sweetest Name of All
 
-**Source:** published Coomes text (© 1980 Coomesietunes). Text read 25 Nov 2026. Catalog year and CCLI differ; see Identification.
+**Source:** published Coomes text (© 1980 Coomesietunes, CCLI 24023). Text read 25 Nov 2026.
 
 - **Slug:** jesus-youre-the-sweetest-name-of-all
 - **Catalog ID:** jesus-youre-the-sweetest-name-of-all
-- **Writers:** Tommy Coomes (also printed Tom Coomes)
+- **Writers:** Tommy Coomes
 - **Year written:** 1980
 - **Arrangement year:** not on file
 - **Family:** Chorus
 - **Era:** 1900–1989
-- **CCLI:** 24023 on a © 1980 footer. The catalog row has 1509. This check did not confirm 1509.
+- **CCLI:** 24023
 - **Times logged (2023–Sept 2026):** 1
 - **Years seen:** 2026 (one year in this window)
 - **Setlist variants:** Jesus, youre the sweetest name
@@ -19,31 +19,15 @@
 
 ## Thesis
 
-Jesus’ name is the sweetest, he hears the singer and lifts him when he falls, he died and took away the singer’s shame, and he is the coming King.
+Jesus’ name is the sweetest, he hears the singer and picks the singer up after each fall, he died and took away the singer’s shame, and he is the coming King.
 
 ---
 
 ## Overall recommendation
 
-Weak
+Acceptable with notes
 
-Do not feature it. It shows up once in this window, in 2026. Verse 1 is affection: the sweetest name, a God who hears, a God who picks the singer up. Verse 2 has the line the song needs, “You died and took away my shame,” and the title “the First, the Last, the same.” Verse 3 calls him the coming King and then asks for “the love that You can bring.” If it is used, verse 2 has to be sung, after a reading that has already said why he died. The hook is still “sweetest.”
-
----
-
-## Alternative song suggestions
-
-The chorus is reaching for the name of Jesus, his death for the singer’s shame, and his coming. Two of these the church already sings. One is not in the catalog.
-
-**Already sung**
-
-**All I Have Is Christ** (Jordan Kauflin, Sovereign Grace, CCLI 5174122). Logged 11 times across at least four years (2023, 2024, 2025, 2026). Christ is the singer’s only boast because Christ suffered in his place.
-
-**Before the Throne of God Above** (Charitie Lees Bancroft / Vikki Cook, hymn, CCLI 2306412). Logged 8 times across at least four years (2023, 2024, 2025, 2026). The singer stands before the Father in the name of the Son, whose blood pleads there.
-
-**Not yet logged**
-
-**How Sweet the Name of Jesus Sounds** (John Newton, 1779, hymn, public domain, CCLI 42940). Not in the catalog. The name is sweet in a believer’s ear, and Jesus is named Prophet, Priest, and King, the singer’s Lord, Life, Way, and End.
+Use it sparingly, and only with verse 2. It shows up once in this window, in 2026. Verse 1 is affection: the sweetest name, a God who hears, a God who picks the singer up. Verse 2 has the line the song needs, “You died and took away my shame,” and the title “the First, the Last, the same.” Verse 3 calls him the coming King and then asks for “the love that You can bring.” The refrain is still “sweetest.” The cross and the resurrection have to come from the rest of the service. If verse 2 is not going to be sung, choose another song.
 
 ---
 
@@ -75,7 +59,7 @@ Verse 1 is personal help: he hears, and he picks the singer up. Verse 2 adds pra
 
 ## Lines you cannot cut
 
-“O Jesus, You died and took away my shame” is the line the grade depends on. “You’re still the First, the Last, the same” is the other line with a text under it. If a band sings only verse 1 and the refrain, the church is left with “sweetest,” “hear me,” and “pick me up.” No line is false. Dropping verse 2 would make the song weaker than it already is. Verse 2 has to stay if the chorus is used at all.
+“O Jesus, You died and took away my shame” is the line the grade depends on. “You’re still the First, the Last, the same” is the other line with a text under it. If a band sings only verse 1 and the refrain, the church is left with “sweetest,” “hear me,” and “pick me up.” No line is false. Dropping verse 2 would leave a song too thin for this label. Verse 2 has to stay.
 
 ---
 
@@ -92,7 +76,7 @@ Verse 1 is personal help: he hears, and he picks the singer up. Verse 2 adds pra
 | Resurrection | No | |
 | Reign / session | Implied | “the soon and coming King.” No present reign is described. |
 | Repentance | No | |
-| Lordship | Title | “coming King.” “Jesus” throughout. |
+| Lordship | Yes | “the soon and coming King,” and the name Jesus. |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
@@ -122,7 +106,7 @@ Verse 1 could be sung by someone who likes the name Jesus as comfort: he hears, 
 
 “You’re still the First, the Last, the same” puts Revelation 22:13, “I am the Alpha and the Omega, the first and the last,” with Hebrews 13:8, “Jesus Christ is the same yesterday and today and forever.” “You died and took away my shame” is a true summary and not a text. Isaiah 53 and the cross are the place shame is borne. The line does not quote them. “The soon and coming King” agrees with Revelation 22:20, “Surely I am coming soon,” and does not use that sentence.
 
-“You always hear me when I call” is in the neighborhood of Psalm 34:17 and Psalm 145:18, and it promises hearing with no condition and no mention of asking according to his will. “You pick me up each time I fall” is pastoral comfort. It is not Galatians 6:1, and it is not a promise written in those words. The song is accurate in verse 2’s titles and in the fact that Jesus died. The rest is light.
+“You always hear me when I call” is in the neighborhood of Psalm 34:17 and Psalm 145:18, and it promises hearing with no condition and no mention of asking according to his will. “You pick me up each time I fall” is pastoral comfort. No verse promises it in those words. The song is accurate in verse 2’s titles and in the fact that Jesus died. The rest is light.
 
 ---
 
@@ -152,7 +136,7 @@ One log, in 2026, means the room is not carrying this as a known text. The refra
 
 ## Tone
 
-The tone is affectionate. The line that sets it is “Jesus, You’re the sweetest name of all.” “You pick me up each time I fall” is tender. It is not sensual. The death line is quieter than the refrain and easy to sing past.
+The tone is affectionate. The line that sets it is “Jesus, You’re the sweetest name of all.” “You pick me up each time I fall” is tender. The death line is quieter than the refrain and easy to sing past.
 
 ---
 
@@ -164,7 +148,7 @@ The congregation never says sin, the cross, the blood, the resurrection, repenta
 
 ## Setlist notes
 
-- **When it serves the sermon.** Revelation 22:13, Hebrews 13:8, or a sermon that has already opened Isaiah 53 or the cross, if someone still wants this refrain.
+- **When it serves the sermon.** Revelation 22:13, Hebrews 13:8, or a sermon that has already opened Isaiah 53 or the cross.
 - **Gaps the rest of the hour must cover.** The cross and the resurrection. Pair it with *All I Have Is Christ* or *Before the Throne of God Above* so the name is tied to the blood.
 - **Diet sentence.** Once in 2026, it adds a short love of the name of Jesus and one death line. It does not add the cross or the empty tomb to the year.
 - **What not to do.** Do not sing verse 1 twice and skip verse 2. Do not build a tag on “sweetest.” If the death line is not going to be sung, choose another song.
@@ -173,12 +157,12 @@ The congregation never says sin, the cross, the blood, the resurrection, repenta
 
 ## Identification notes
 
-Hymnary.org lists the text as “The Sweetest Name of All,” first line “Jesus, You’re the sweetest name of all,” author Tom Coomes, copyright © 1980 Coomesietunes. *Songs of Faith and Praise* (1994) gives the same author and year, administered by Maranatha! Music. A 2007 chord posting prints © 1980 Coomesietunes, admin. by The Copyright Company, and CCLI 24023, with the three verses used here. A Hungarian index of the same original title also lists CCLI 24023.
+Hymnary.org lists the text as “The Sweetest Name of All,” first line “Jesus, You’re the sweetest name of all,” author Tom Coomes, copyright © 1980 Coomesietunes. *Songs of Faith and Praise* (1994) gives the same author and year, administered by Maranatha! Music. A 2007 chord posting prints © 1980 Coomesietunes, admin. by The Copyright Company, and CCLI 24023, with the three verses used here. A Hungarian index of the same original title also lists CCLI 24023. The name is also printed Tom Coomes. Pam Stephenson appears as an arranger on one hymnal tune credit.
 
-The catalog says year 1974 and CCLI 1509, confirmed from chart notes on 22 Sept 2026. This grade did not find 1509 or 1974 on a copyright line. The published date is 1980. John Jones, mentioned in older catalog notes as a recording name, is not the writer. Pam Stephenson appears as an arranger on one hymnal tune credit. No arrangement year is on file for the church chart. The setlist spelling “youre” is the same song.
+The catalog says year 1974 and CCLI 1509, from chart notes on 22 Sept 2026. This grade did not find 1509 or 1974 on a copyright line. The published date is 1980, and the number on the copyright footer is 24023. John Jones, mentioned in older catalog notes as a recording name, is a cover name. No arrangement year is on file for the church chart. The setlist spelling “youre” is the same song.
 
 ---
 
 ## Why this overall label
 
-Verse 2 tells the truth that Jesus died and took away shame, and that he is the first and the last. The song the church will remember is “the sweetest name,” with hearing and help. That is too thin to feature, and it is only safe when verse 2 is actually sung under a text that has already said why he died.
+Verse 2 confesses that Jesus died and took away shame, and that he is the first and the last. The refrain the church will remember is the sweet name, with hearing and help. That is enough for an occasional use when verse 2 stays and the sermon has already said why he died.

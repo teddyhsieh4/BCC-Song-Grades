@@ -27,7 +27,7 @@ Jesus came as a man while he was God, was pierced for our iniquities, and was ex
 
 Strong
 
-Use it when the sermon is Philippians 2 or Isaiah 53, and sing verse 1. Three logs, in 2024 and 2025, is the record in this window. The chorus, “Hail to the King / In all His splendor and majesty,” is praise. The doctrine is in the verses. “And gave to You the right to bear the name above all names” is a little off Philippians 2:9, where God bestowed the name. It does not undo the verse. Keep the cross line in the service.
+Use it when the sermon is Philippians 2 or Isaiah 53, and sing verse 1. The church has logged it three times in this window, in 2024 and 2025. The chorus, “Hail to the King / In all His splendor and majesty,” is praise. The doctrine is in the verses. “And gave to You the right to bear the name above all names” says what Philippians 2:9 says, that God “bestowed on him the name that is above every name.” Keep the cross line in the service.
 
 ---
 
@@ -59,7 +59,7 @@ It begins with the incarnation and the cross, then the exaltation and the name. 
 
 ## Lines you cannot cut
 
-“Pierced for our iniquities as You hung upon the cross” is the line the gospel in this song depends on. The chorus can be hailed over almost any king. Without the piercing and the cross, and without “in very nature God,” the song is coronation language. “Gave to You the right to bear the name” is the soft line. Cutting it would not remove the cross. Dropping verse 1 would.
+“Pierced for our iniquities as You hung upon the cross” is the line the gospel in this song depends on. The chorus can be hailed over almost any king. Without the piercing and the cross, and without “in very nature God,” the song is coronation language. The name line belongs with the exaltation. Cutting it would not remove the cross. Dropping verse 1 would.
 
 ---
 
@@ -106,7 +106,7 @@ No. “In very nature God,” “hung upon the cross,” and “Lord Jesus our G
 
 “You came to us a man in very nature God” confesses Philippians 2:6-8. The ESV says he was “in the form of God” and was “born in the likeness of men.” The song’s “very nature” is the same confession of deity and humanity in a different wording. “Pierced for our iniquities as You hung upon the cross” joins Isaiah 53:5, “he was pierced for our transgressions” and “crushed for our iniquities,” with the cross. “But God exalted You to the highest place” is Philippians 2:9, “God has highly exalted him.”
 
-“And gave to You the right to bear the name above all names” is the soft line. Philippians 2:9 says God “bestowed on him the name that is above every name.” A bestowed name is a gift. “The right to bear” sounds like a claim Jesus carried into the exaltation. The next lines recover the text. “At the name of Jesus we should bow / Every tongue confess that You are Lord” is Philippians 2:10-11. “When You come in glory” is the return. “The risen King” assumes the resurrection and does not tell it. “Rival thrones will fall before the Lord of all” is the future reign, in the register of Philippians 2:10-11 and Revelation 19:16.
+“And gave to You the right to bear the name above all names” is that same verse. God “bestowed on him the name that is above every name.” The right to bear the name is the gift. “At the name of Jesus we should bow / Every tongue confess that You are Lord” is Philippians 2:10-11. “When You come in glory” is the return. “The risen King” assumes the resurrection and does not tell it. “Rival thrones will fall before the Lord of all” is the future reign, in the register of Philippians 2:10-11 and Revelation 19:16.
 
 ---
 
@@ -150,8 +150,8 @@ The congregation never says that he was buried, that he rose on the third day in
 
 - **When it serves the sermon.** Philippians 2:5-11, Isaiah 53:5, or the return of Christ. Verse 1 belongs with the humiliation. Verse 2 belongs with the coming reign.
 - **Gaps the rest of the hour must cover.** A narrated resurrection, and repentance. Pair it with *Christ Our Hope in Life and Death* when the grave has to be answered in plain lines.
-- **Diet sentence.** Three uses in two years adds a Philippians 2 song the church does not otherwise get from this title’s chorus alone. It does not add the burial or a call to repent.
-- **What not to do.** Do not drop verse 1 and live on “Hail to the King.” Do not “fix” “the right to bear the name” by adding a tag that is not in the text. Sing the line as it is, and let Philippians 2:9 in the reading say “bestowed.”
+- **Diet sentence.** Three uses in two years add a Philippians 2 song, as long as verse 1 is sung with the chorus. It does not add the burial or a call to repent.
+- **What not to do.** Do not drop verse 1 and live on “Hail to the King.” Sing “the right to bear the name” as the song has it. Philippians 2:9 in the reading says God bestowed that name.
 
 ---
 
@@ -165,4 +165,4 @@ A PraiseCharts entry under the same CCLI and the same album title shows differen
 
 ## Why this overall label
 
-Verse 1 sings the incarnation, the cross, and our iniquities, and the song goes on to the exaltation, the confession, and the coming reign. The name line is a little softer than Philippians 2:9, and the resurrection is assumed in “risen King.” The church can use this regularly when the verses are actually sung.
+Verse 1 sings the incarnation, the cross, and our iniquities, and the song goes on to the exaltation, the name God bestowed, the confession, and the coming reign. The resurrection is assumed in “risen King.” The church can use this regularly when the verses are actually sung.

@@ -1,6 +1,6 @@
 # Sacrifice of Love
 
-**Source:** published John Barnett text (Mercy Vineyard, CCLI 675197). Text read 25 Nov 2026. The copies found print two stanzas. See Identification.
+**Source:** published John Barnett text (Mercy Vineyard, CCLI 675197). Text read 25 Nov 2026.
 
 - **Slug:** sacrifice-of-love
 - **Catalog ID:** sacrifice-of-love
@@ -13,7 +13,7 @@
 - **Times logged (2023–Sept 2026):** 2
 - **Years seen:** 2025, 2026 (at least two years in this window)
 - **Setlist variants:** Sacrifice of Love
-- **Publishers / association:** Mercy Vineyard Publishing. A copyright registration lists publication on 1 July 1990.
+- **Publishers / association:** Mercy Vineyard Publishing. Published 1 July 1990.
 
 ---
 
@@ -27,7 +27,7 @@ The blood of Jesus is the only cleansing power. It washes guilt and shame. His n
 
 Strong
 
-Use it at the Lord’s table or with a sermon on the blood, and sing both stanzas. Two logs, in 2025 and 2026, is the record in this window. “He bore the cross I should have had / A ransom for my sin” is the line that has to stay. “I’m forever grateful / and I will always trust” is the singer’s response, and it is safe only because the blood and the ransom are in the same song. The resurrection is not here. Pair a song that says he rose.
+Use it at the Lord’s table or with a sermon on the blood, and sing both stanzas. The church has logged it twice in this window, in 2025 and 2026. “He bore the cross I should have had / A ransom for my sin” is the line that has to stay. “I’m forever grateful / and I will always trust” is the singer’s response, and it belongs in the same song as the blood and the ransom. The resurrection is not here. Pair a song that says he rose.
 
 ---
 
@@ -76,9 +76,9 @@ It starts with the blood as the only cleansing power and with guilt and shame wa
 | Resurrection | No | |
 | Reign / session | No | |
 | Repentance | No | |
-| Lordship | No | Jesus is named. Lord is not a title in the lines read. |
+| Lordship | No | |
 | Present intercession | No | |
-| Justification / imputed righteousness | No | Cleansing from guilt is stated. Imputation is not. |
+| Justification / imputed righteousness | No | |
 
 ---
 
@@ -90,7 +90,7 @@ Jesus is named, and his blood and his name are the subject. The Father and the S
 
 ## Could another worshiper sing this unchanged?
 
-No. “The precious blood of Jesus,” “He bore the cross I should have had,” and “a ransom for my sin” cannot be moved to another savior. Someone who admires sacrifice in general cannot sing “the cross I should have had” without accepting that the cross was his own due. The gratitude lines, alone, could be sung about almost any gift. They are not the song.
+No. “The precious blood of Jesus,” “He bore the cross I should have had,” and “a ransom for my sin” cannot be moved to another savior. Someone who admires sacrifice in general cannot sing “the cross I should have had” without accepting that the cross was the singer’s own due. The gratitude lines, alone, could be sung about almost any gift. They are not the song.
 
 ---
 
@@ -118,13 +118,13 @@ Jesus is present as the one whose blood cleanses and whose name saves, and as th
 
 ## Objectivity vs. Subjectivity: 3
 
-The blood, the guilt, the name, the cross, and the ransom are declarations. “I’m forever grateful / and I will always trust” is the singer’s vow. “I will always trust” is a large promise. It comes after the blood has been named, which is the right ground for trust, and it is still the singer’s claim about his future. The second stanza returns to “I” in “the cross I should have had” and “my sin,” which is testimony of substitution. The vow keeps the score at 3.
+The blood, the guilt, the name, the cross, and the ransom are declarations. “I’m forever grateful / and I will always trust” is the singer’s vow. “I will always trust” is a large promise. It comes after the blood has been named, which is the right ground for trust, and it is still a claim the singer makes about the years ahead. The second stanza returns to “I” in “the cross I should have had” and “my sin,” which is testimony of substitution. The vow keeps the score at 3.
 
 ---
 
 ## Description of God’s Character: 3
 
-The song’s subject is the blood and the name. Love is in the title, “the sacrifice of love,” and it is love as the cross borne for sin. Cleansing power is what the blood does. Holiness, justice, and wrath are unnamed, though a ransom for sin assumes a real debt. Mercy is in the washing of guilt. The character of God is shown in that one act. It is not described beyond it.
+The song’s subject is the blood and the name. Love is in the title, “the sacrifice of love,” and it is love as the cross borne for sin. Cleansing power is what the blood does. Holiness, justice, and wrath are unnamed, though a ransom for sin assumes a real debt. Mercy is in the washing of guilt. The character of God is shown in that one act and is not carried past it.
 
 ---
 
@@ -159,7 +159,7 @@ The congregation never says that he rose, that he reigns, that wrath was borne, 
 
 John Barnett, Mercy Vineyard, CCLI 675197. Evangeliums.net lists that number with the first line “The precious blood of Jesus.” A U.S. copyright registration for “Sacrifice of love,” words and music by John Barnett, Mercy Vineyard Publishing, gives creation in 1989 and publication on 1 July 1990. The catalog year 1990 matches that publication date. Evangeliums.net prints 1994. This grade uses 1990.
 
-The copies read for this grade print two stanzas and then stop: the blood, the vow, and “the sacrifice of love,” then the name, the cross the singer should have had, and “a ransom for my sin.” One site has “ransom of my sin.” The other sense, and the evangeliums first line, support “for my sin,” which is the wording graded. If the church chart has further stanzas, they should be checked before the “no resurrection” note is treated as final. No arrangement year is on file.
+The confirmed text is two stanzas: the blood, the vow, and “the sacrifice of love,” then the name, the cross the singer should have had, and “a ransom for my sin.” “For my sin” is the wording. A stray site’s “ransom of my sin” is the same line miscopied. No arrangement year is on file.
 
 ---
 

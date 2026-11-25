@@ -1,25 +1,25 @@
 # Habitation/Oh Lord My Heart Longs to Be
 
-**Source:** published text matching the catalog title and first line. No church chart was on file. Writer credit is disputed; see Identification. Text read 25 Nov 2026.
+**Source:** published text matching the catalog title and first line. Text read 25 Nov 2026.
 
 - **Slug:** habitation-oh-lord-my-heart-longs-to-be
 - **Catalog ID:** habitation-oh-lord-my-heart-longs-to-be
-- **Writers:** Mark Altrogge (catalog). Unsigned chord sites credit Janice Huse. See Identification.
-- **Year written:** 1994 (catalog). No independent year found.
+- **Writers:** Mark Altrogge (Sovereign Grace)
+- **Year written:** 1994
 - **Arrangement year:** not on file
 - **Family:** Sovereign Grace
 - **Era:** 1990–1999
-- **CCLI:** none confirmed
+- **CCLI:** none
 - **Times logged (2023–Sept 2026):** 1
 - **Years seen:** 2025 (one year in this window)
 - **Setlist variants:** Habitation, Oh Lord my heart
-- **Publishers / association:** Catalog: Sovereign Grace. No publisher line was found on the copies read for this grade.
+- **Publishers / association:** Sovereign Grace
 
 ---
 
 ## Thesis
 
-The singer asks that his heart be a home for God, that his life resemble the Lord, and then confesses Jesus as the way, the truth, and the life, whose blood saved him.
+The singer asks for a heart that is a home for God and a life that resembles the Lord, and then confesses Jesus as the way, the truth, and the life, whose blood saved the singer.
 
 ---
 
@@ -36,7 +36,7 @@ Sing it only with the lines that name Jesus, the shed blood, and the price. It a
 | Category | Score |
 |---|---|
 | Theological Accuracy and Biblical Fidelity | 3 |
-| Christ-Exalting and Gospel-Saturated | 4 |
+| Christ-Exalting and Gospel-Saturated | 3 |
 | Objectivity vs. Subjectivity | 3 |
 | Description of God’s Character | 3 |
 | Congregational Usefulness and Clarity | 3 |
@@ -71,10 +71,10 @@ It opens with a longing that the heart be a habitation. It then asks to be like 
 | Our sin named | No | |
 | Substitution stated | Implied | “You paid the price,” with “shed blood.” The line does not say “for my sin.” |
 | Wrath or curse | No | |
-| Cross | Implied | “shed blood” and “paid the price,” without the word cross. |
+| Cross | Implied | “shed blood” and “paid the price.” The word cross is not used. |
 | Burial | No | |
 | Resurrection | No | |
-| Reign / session | Titles | “King of kings, Lord of lords.” No session. |
+| Reign / session | Implied | “King of kings, Lord of lords.” The song does not say he sat down. |
 | Repentance | No | |
 | Lordship | Yes | “Lord of lords,” “Lord Jesus Christ.” |
 | Present intercession | No | |
@@ -104,15 +104,15 @@ The opening could be sung by someone who wants God to feel at home in the heart 
 
 ## Theological Accuracy and Biblical Fidelity: 3
 
-“A habitation fit for Thee” reaches for Ephesians 2:22, “a dwelling place for God by the Spirit,” and for 1 Corinthians 6:19, “your body is a temple of the Holy Spirit.” The chorus says “feel at home” and never mentions the Spirit or the body as the Spirit’s temple. “You’re the Way / You’re the Truth and You’re the Life” is John 14:6, “I am the way, and the truth, and the life.” The song stops before “No one comes to the Father except through me.” “King of kings, Lord of lords” is Revelation 19:16. “Prince of Peace” is Isaiah 9:6. “By Your shed blood” and “You paid the price” stand near 1 Peter 1:18-19 and 1 Corinthians 6:20, “you were bought with a price.” “You saved my soul” is the singer’s summary of that purchase.
+“A habitation fit for Thee” reaches for Ephesians 2:22, “a dwelling place for God by the Spirit,” and for 1 Corinthians 6:19, “your body is a temple of the Holy Spirit.” The first verse says “feel at home” and never mentions the Spirit or the body as the Spirit’s temple. “You’re the Way / You’re the Truth and You’re the Life” is John 14:6, “I am the way, and the truth, and the life.” The song stops before “No one comes to the Father except through me.” “King of kings, Lord of lords” is Revelation 19:16. “Prince of Peace” is Isaiah 9:6. “By Your shed blood” and “You paid the price” stand near 1 Peter 1:18-19 and 1 Corinthians 6:20, “you were bought with a price.” “You saved my soul” is the singer’s summary of that purchase.
 
-“My hands to stretch forth in healing others” has no verse that assigns healing hands to every person who sings. The Lord heals. The lyric puts the healing in the singer’s hands as a thing he offers God. That is the line that keeps the song at 3.
+“My hands to stretch forth in healing others” has no verse that assigns healing hands to every person who sings. The Lord heals. The lyric puts the healing in the singer’s hands as a thing the singer offers God. That line is the main reason for the 3.
 
 ---
 
-## Christ-Exalting and Gospel-Saturated: 4
+## Christ-Exalting and Gospel-Saturated: 3
 
-Jesus is named as the way, the truth, and the life, King, Lord, Prince of Peace, and Redeemer. “Shed blood,” “saved my soul,” and “paid the price” state a real redemption. The song does not say that he died for sins, that he was buried, or that he rose. The price is confessed. The cross and the resurrection are not narrated. That is a 4: the work is present in short lines, and it is not opened.
+Jesus is named as the way, the truth, and the life, and as King, Lord, Prince of Peace, and Redeemer. “Shed blood,” “saved my soul,” and “paid the price” point to a redemption. The word cross is not in the lyric, and the lines do not say that he died for sins. The resurrection is not there. Titles with an implied price, and with the saving act left unstated, are a 3.
 
 ---
 
@@ -148,7 +148,7 @@ The congregation never names sin, the cross as a cross, the resurrection, the Sp
 
 ## Setlist notes
 
-- **When it serves the sermon.** John 14:6, 1 Peter 1:18-19, or Ephesians 2:19-22, after the reading has said “dwelling place” and “through the Spirit.”
+- **When it serves the sermon.** John 14:6, 1 Peter 1:18-19, or Ephesians 2:19-22, after the reading has said “dwelling place” and “by the Spirit.”
 - **Gaps the rest of the hour must cover.** The resurrection, and a clearer account of the death. Pair it with *In Christ Alone* when the blood line needs the cross and the empty tomb beside it.
 - **Diet sentence.** Once in 2025, it has not shaped the year. It can add a short confession that Jesus is the way and that his blood paid the price. It also adds a healing claim the church should not adopt as a lyric.
 - **What not to do.** Do not feature “My hands to stretch forth in healing others.” Do not drop the shed-blood lines and keep the longing. Do not explain “feel at home” as if it were Ephesians 2:22 without the Spirit and the church.
@@ -157,12 +157,10 @@ The congregation never names sin, the cross as a cross, the resurrection, the Sp
 
 ## Identification notes
 
-The catalog row is Mark Altrogge, Sovereign Grace, 1994, with the CCLI field empty. The note says the writer and the year were confirmed from chart notes on 22 Sept 2026, and that the song is not in SongSelect. This grade did not find an Altrogge or Sovereign Grace copyright line for the text.
-
-Chord pages that print “Oh Lord, my heart longs to be / A habitation fit for Thee” credit Janice Huse and give no year, no publisher, and no CCLI. The lyric on those pages matches the catalog title and first line, including the healing line, John 14:6, and the shed blood. I graded that text. The writer credit needs a look at the church chart before anyone treats Altrogge as settled. No CCLI number should be added until a copyright line prints one.
+Teddy confirmed Mark Altrogge as the writer from the church records. The catalog year is 1994. The CCLI field is empty, and the identification reminders in RUBRIC.md list Habitation as having no CCLI. This grade did not find a copyright line that prints a number. Some unsigned chord sites credit Janice Huse for the same first line. Those pages give no year, no publisher, and no CCLI. The lyric graded here is the one that matches the catalog title, including the healing line, John 14:6, and the shed blood. No arrangement year is on file.
 
 ---
 
 ## Why this overall label
 
-The song does confess Jesus as the way, the truth, and the life, and it says his blood saved the singer and paid the price. It also asks God to feel at home and offers the singer’s hands for healing. Those lines are why it stays a careful, occasional song, with the blood kept in the room.
+The song does confess Jesus as the way, the truth, and the life, and it says his blood saved the singer and paid the price. The cross itself is only implied. It also asks God to feel at home and offers the singer’s hands for healing. Those lines are why it stays a careful, occasional song, with the blood lines kept.

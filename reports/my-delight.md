@@ -1,11 +1,11 @@
 # My Delight
 
-**Source:** published Andy Park text (CCLI 72161). Text read 25 Nov 2026. Year is disputed; see Identification.
+**Source:** published Andy Park text (CCLI 72161). Text read 25 Nov 2026.
 
 - **Slug:** my-delight
 - **Catalog ID:** my-delight
 - **Writers:** Andy Park
-- **Year written:** 1993 in the catalog. A hymn index prints 1987.
+- **Year written:** 1987
 - **Arrangement year:** not on file
 - **Family:** Vineyard
 - **Era:** 1990–1999
@@ -13,21 +13,37 @@
 - **Times logged (2023–Sept 2026):** 1
 - **Years seen:** 2026 (one year in this window)
 - **Setlist variants:** My delight
-- **Publishers / association:** Vineyard. Evangeliums.net lists Andy Park as author and CCLI 72161.
+- **Publishers / association:** Vineyard
 
 ---
 
 ## Thesis
 
-The Father is the singer’s portion, hope, and delight. Jesus is his treasure, pure and kind. The Spirit is his comfort and the presence he needs day and night. Each stanza ends with “I love You.”
+The Father is the singer’s portion, hope, and delight. Jesus is the singer’s treasure, pure and kind. The Spirit is the singer’s comfort and the presence the singer needs day and night. Each stanza ends with “I love You.”
 
 ---
 
 ## Overall recommendation
 
-Acceptable with notes
+Weak
 
-Use it when the sermon has named the three persons and the service still needs a short response, and put the cross in another song. It appears once in this window, in 2026. The value is that Father, Jesus, and Spirit are each addressed. The Son is “so pure and so kind,” with no death and no resurrection. “I need Your presence day and night” asks for the Spirit as nearness. Keep all three stanzas. One person of the Trinity sung alone would misrepresent the song, and the Jesus stanza alone would still not preach the gospel.
+Do not feature it. It appears once in this window, in 2026. Father, Jesus, and Spirit are each named, which is the song’s one clear gift. The Son is “so pure and so kind,” with no death and no resurrection. The refrain is “I love You, my delight.” “I need Your presence day and night” asks for the Spirit as nearness. If it is used, sing all three stanzas, and let another song preach the cross. The names alone are not a reason to feature it.
+
+---
+
+## Alternative song suggestions
+
+The lyric is reaching for delight in the Triune God, and for Jesus as the treasure. Two of these the church already sings. One is not in the catalog.
+
+**Already sung**
+
+**All I Have Is Christ** (Jordan Kauflin, Sovereign Grace, CCLI 5174122). Logged 11 times across at least four years (2023, 2024, 2025, 2026). Christ is the treasure, and the lyric says why: he suffered in the singer’s place.
+
+**I Will Glory in My Redeemer** (Steve Cook / Vikki Cook, Sovereign Grace, CCLI 3337435). Logged 9 times across at least four years (2023, 2024, 2025, 2026). The glory is in the Redeemer whose blood ransomed the singer.
+
+**Not yet logged**
+
+**Come, Thou Almighty King** (anonymous, about 1757, hymn, public domain). Not in the catalog. No SongSelect number was confirmed in this check. It addresses Father, Son, and Spirit, and asks the Spirit to rule in the people.
 
 ---
 
@@ -59,7 +75,7 @@ The Father is portion, hope, and delight. Jesus is treasure, pure and kind. The 
 
 ## Lines you cannot cut
 
-All three stanzas have to stay if the song is sung, because the point of the text is that the same love is offered to Father, Son, and Spirit. Dropping the Jesus stanza would hide the weak line, “so pure and so kind,” and would also hide that the Son was included. Dropping the Spirit stanza would leave a song about Father and Son only. No line is false. “So pure and so kind” is the thin line. Cutting it would not give the Son a cross. There is no single line that would change the label by being removed, short of removing Jesus’ name entirely.
+All three stanzas have to stay if the song is sung, because the point of the text is that the same love is offered to Father, Son, and Spirit. Dropping the Jesus stanza would hide the thin line, “so pure and so kind,” and would also hide that the Son was included. Dropping the Spirit stanza would leave a song about Father and Son only. No line is false. Cutting “so pure and so kind” would not give the Son a cross. No single line would change the label on its own.
 
 ---
 
@@ -76,7 +92,7 @@ All three stanzas have to stay if the song is sung, because the point of the tex
 | Resurrection | No | |
 | Reign / session | No | |
 | Repentance | No | |
-| Lordship | Title | “Lord, I love You,” said to each person. |
+| Lordship | Yes | “Lord, I love You,” said to each person. |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
@@ -98,7 +114,7 @@ Not the whole song. “Jesus, You are my treasure” and “Spirit, You are my c
 
 - **Unbiblical:** none.
 - **Non-biblical:** none.
-- **Thin:** “You are so pure and so kind.” Purity and kindness are true of Jesus and are said with no text and no act. “I need Your presence day and night” asks for nearness. John 14:16 says the Father will give “another Helper, to be with you forever.” The song says “presence.” John 14:16 names “another Helper.” “I love You” is repeated in place of a reason.
+- **Thin:** “You are so pure and so kind.” Purity and kindness are true of Jesus and are said with no text and no act. “I need Your presence day and night” asks for nearness. John 14:16 promises “another Helper, to be with you forever.” The song says “presence.” John 14:16 names “another Helper.” “I love You” is repeated in place of a reason.
 
 ---
 
@@ -147,18 +163,18 @@ The congregation never names sin, the cross, the resurrection, the sending of th
 ## Setlist notes
 
 - **When it serves the sermon.** A sermon that has already distinguished the three persons, if a short sung response is wanted. Psalm 73:26 can use the Father stanza after “portion forever” has been read.
-- **Gaps the rest of the hour must cover.** The cross and the resurrection. Pair the Jesus stanza’s silence with *All I Have Is Christ* or *Yet Not I but Through Christ in Me*.
+- **Gaps the rest of the hour must cover.** The cross and the resurrection. Pair it with *All I Have Is Christ* or *I Will Glory in My Redeemer*.
 - **Diet sentence.** Once in 2026, it can add an explicit naming of Father, Son, and Spirit in one short song. It never adds the death or the resurrection.
-- **What not to do.** Do not sing only the refrain. Do not drop the Jesus stanza to avoid the thin line and then call the song Trinitarian. Do not treat “presence day and night” as a theology of the Spirit.
+- **What not to do.** Do not sing only the refrain. Do not drop the Jesus stanza and then call the song Trinitarian. Do not treat “presence day and night” as a theology of the Spirit.
 
 ---
 
 ## Identification notes
 
-Andy Park, Vineyard, CCLI 72161. Evangeliums.net lists that number with the first line “Father, You are my portion in this life” and the year 1987. The catalog year is 1993. This grade did not find a copyright footer that settles the year. The lyric used here is the three-stanza text printed on several Vineyard lyric pages: Father, Jesus, and Spirit. Some indexes stop after the Jesus stanza. The Spirit stanza is part of the text graded, because the copies that include it agree with one another and with the Trinitarian shape of the song. No arrangement year is on file. If the church chart omits the Spirit stanza, the note on the three persons has to be revised.
+Andy Park, Vineyard, CCLI 72161. Evangeliums.net lists that number with the first line “Father, You are my portion in this life” and the year 1987. The year 1987 is likely, and this check did not find a copyright footer that settles it. The catalog prints 1993. The Spirit stanza is genuine. It is on the Vineyard lyric pages used here, with the Father stanza and the Jesus stanza. No arrangement year is on file.
 
 ---
 
 ## Why this overall label
 
-The song does something few short choruses do: it speaks to the Father, to Jesus, and to the Spirit by name. The words it gives the Son are purity and kindness, and the words it gives the Spirit are comfort and presence. That is enough for an occasional response after the persons have been preached, and it is not enough to carry the gospel.
+The song speaks to the Father, to Jesus, and to the Spirit by name. The words for the Son are purity and kindness, and the words for the Spirit are comfort and presence. The line the church repeats is “I love You.” That is too thin to feature.

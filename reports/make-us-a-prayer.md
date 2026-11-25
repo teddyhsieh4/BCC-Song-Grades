@@ -27,7 +27,7 @@ The singer asks to be made a prayer, humbled so that God will draw near, and set
 
 Weak
 
-Do not feature it. One log, in 2024, is the record in this window. “House of prayer” is a biblical phrase for God’s house. Here it is the singer, and then the people, crying out for “this land.” Christ is never named. Sin is never named. “Humble my heart so that You may draw nigh” makes God’s nearness wait on the singer’s humility. If it is used at all, use the plural stanza, after Isaiah 56 or Matthew 21 has been read, and let another song say the cross.
+Do not feature it. The church has logged it once in this window, in 2024. “House of prayer” is a biblical phrase for God’s house, and the New Testament also calls the people his house. Here the singers cry out for “this land.” Christ is never named. Sin is never named. “Humble my heart so that You may draw nigh” makes God’s nearness wait on the singer’s humility. If it is used at all, use the plural stanza, after Isaiah 56 or Matthew 21 has been read, and let another song say the cross.
 
 ---
 
@@ -43,7 +43,7 @@ The lyric is reaching for a humbled people who pray, and for God’s cause in th
 
 **Not yet logged**
 
-**Approach, My Soul, the Mercy Seat** (John Newton, 1779, hymn, public domain). Not in the catalog. No SongSelect number was confirmed in this check. The singer comes to the mercy seat with the blood of Christ and dares to ask because of that blood.
+**Approach, My Soul, the Mercy Seat** (John Newton, 1779, hymn, public domain). Not in the catalog. No SongSelect number was confirmed for the original text. Later arrangements carry their own numbers. The singer comes to the mercy seat where Jesus answers prayer, with the promise and the blood as the plea.
 
 ---
 
@@ -93,7 +93,7 @@ There is no gospel line to protect and no line that is false on its own. “To s
 | Reign / session | No | |
 | Repentance | Implied | “Humble my heart.” Humility is asked. Repentance is not named. |
 | Lordship | No | |
-| Present intercession | The ask | The song is a prayer that the people would pray. Christ is not said to intercede. |
+| Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
 ---
@@ -120,9 +120,9 @@ Yes. A worshiper who prays to God and wants a humbler heart and a better land ca
 
 ## Theological Accuracy and Biblical Fidelity: 3
 
-“To stand as a house of prayer” takes the phrase of Isaiah 56:7, “my house shall be called a house of prayer for all peoples,” which Jesus quotes in Matthew 21:13 while he drives the sellers out of the temple. In those texts the house is God’s house. In the song the house is the singer, and then the people, standing and crying for “this land.” The phrase is biblical. The referent has moved.
+“To stand as a house of prayer” takes the phrase of Isaiah 56:7, “my house shall be called a house of prayer for all peoples,” which Jesus quotes in Matthew 21:13 while he drives the sellers out of the temple. 1 Peter 2:5 calls the church “a spiritual house,” and Hebrews 3:6 says “we are his house.” The song uses that second sense. The people stand as the house, and they cry out for “this land.” It never says the house is Christ’s, or that the prayer is offered through him.
 
-“Humble my heart so that You may draw nigh” is near James 4:8, “Draw near to God, and he will draw near to you.” James 4:8-10 also says “Cleanse your hands, you sinners,” and “Humble yourselves before the Lord, and he will exalt you.” The song keeps the drawing near and the humility. It does not call the singer a sinner, and it puts God’s nearness after the heart has been humbled, as the result the singer can secure by the prayer. That is a 3. The words are recognizable. The temple saying and the James passage are both shortened.
+“Humble my heart so that You may draw nigh” is near James 4:8, “Draw near to God, and he will draw near to you.” James 4:8-10 also says “Cleanse your hands, you sinners,” and “Humble yourselves before the Lord, and he will exalt you.” The song keeps the drawing near and the humility. It does not call the singer a sinner, and it puts God’s nearness after the heart has been humbled, as the result the singer can secure by the prayer. That is a 3. The words are recognizable. The house-of-prayer saying and the James passage are both shortened.
 
 ---
 
@@ -152,7 +152,7 @@ The second stanza gives the church “us,” which the first stanza does not. Th
 
 ## Tone
 
-The tone is earnest petition. The line that sets it is “Let my prayer be a cry” and “Humble my heart so that You may draw nigh.” It is solemn. It is not playful, and it is not addressed to Christ.
+The tone is earnest petition. The lines that set it are “Let my prayer be a cry” and “Humble my heart so that You may draw nigh.” It is solemn. It is not playful, and it is not addressed to Christ.
 
 ---
 
@@ -164,7 +164,7 @@ The congregation never names the Father, the Son, the Spirit, sin, the cross, th
 
 ## Setlist notes
 
-- **When it serves the sermon.** Isaiah 56:7 or Matthew 21:12-13, after the reading has said whose house the phrase belongs to. James 4, if the sermon has already said “you sinners.”
+- **When it serves the sermon.** Isaiah 56:7 or Matthew 21:12-13, after the reading has said whose house the phrase belongs to, or 1 Peter 2:5 and Hebrews 3:6 if the sermon is on the people as God’s house. James 4, if the sermon has already said “you sinners.”
 - **Gaps the rest of the hour must cover.** Christ and the cross. Pair it with *O Great God* when the humility needs sin and grace, and with *Let Your Kingdom Come* when “this land” needs the kingdom prayer.
 - **Diet sentence.** Once in 2024, it adds a short consecration to prayer. It never adds the name of Jesus or the gospel.
 - **What not to do.** Do not treat “house of prayer” as a slogan for the band. Do not drop the plural stanza and leave the church singing only “make me.” Do not explain “draw nigh” as if humility were the ground of access.
@@ -179,4 +179,4 @@ Rita Springer, © 1991 Vineyard Worship Publishing USA. PraiseCharts and a Music
 
 ## Why this overall label
 
-“House of prayer” is a real phrase, and a prayer for humility is a right thing to ask. The song never says who God is, never names Christ, and never says what the people are praying for, except “this land.” That is too thin to feature.
+“House of prayer” is a real phrase, for God’s temple and for his people. A prayer for humility is a right thing to ask. The song never says who God is, never names Christ, and never says what the people are praying for, except “this land.” That is too thin to feature.

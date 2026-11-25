@@ -2987,17 +2987,26 @@
     "title": "No Higher Calling (Down at Your Feet)",
     "writers": "Lenny LeBlanc / Greg Gulley",
     "year": "1989",
-    "ccli": "208526",
+    "ccli": "121799",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "No Higher Calling (Down At Your Feet); No Higher Calling; Down At Your Feet; Down at your feet; No Higher Calling (A); Down at Your Feet (A)",
     "notes": "Often titled Down at Your Feet / No Higher Calling.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "1900\u20131989",
-    "report": null
+    "report": "reports/no-higher-calling-down-at-your-feet.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 1,
+      "objectivity": 2,
+      "godsCharacter": 2,
+      "congregationalUsefulness": 2
+    },
+    "gradeDate": "2026-11-24",
+    "rubricVersion": "v1"
   },
   {
     "id": "nothing-but-the-blood-what-can-wash-away-my-sin",

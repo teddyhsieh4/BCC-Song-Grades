@@ -874,11 +874,20 @@
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "10000 reasons; Bless the Lord (10000 Reasons); 10,000 Reasons (Eb); 10000 reasons (Eb)",
-    "notes": "Do not confuse with SGM Psalm 103 'Bless the Lord'.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Do not confuse with SGM Psalm 103 'Bless the Lord'. Original 2011 credits listed SHOUT! Music Publishing (Hillsong), most likely Myrin's share; current credits name Atlas Mountain Songs. Reviewed at grading; graded on the lyric.",
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/10-000-reasons-bless-the-lord.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 1,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 2
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "abide",
@@ -1752,17 +1761,26 @@
     "title": "Hallelujah, What a Savior",
     "writers": "Philip P. Bliss",
     "year": "1875",
-    "ccli": "29515",
+    "ccli": "29530",
     "family": "Hymn",
     "confidence": "High",
     "timesLogged": 6,
     "yearsSeen": "2025, 2026",
     "variants": "Hallelujah, What a savior; Hallelujah, What a Savior",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Band uses the Ascend the Hill or Kara Young / Maggie Boswell arrangement, Bliss stanzas only (no added chorus), not always all five. Distinct from Hillsong 'Man of Sorrows' (2013).",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/hallelujah-what-a-savior.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "happy-day",
@@ -2014,11 +2032,20 @@
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Holy Holy Holy - hymn; Holy Holy Holy (C); Holy holy holy (C)",
-    "notes": "Traditional hymn. Distinct from Vineyard 'Holy Holy Holy'.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Traditional hymn, plain setting, usually all four stanzas. Distinct from Vineyard 'Holy Holy Holy'.",
+    "status": "graded",
+    "recommendation": "Strong",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/holy-holy-holy.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 2,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "holy-holy-holy-vineyard",
@@ -2143,10 +2170,19 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "How Great You Are; How Great You Are (G); How Great You Are - G",
     "notes": "Inspired by How Great Thou Art; distinct song.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/how-great-you-are.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "how-high-and-how-wide",
@@ -2526,19 +2562,28 @@
   {
     "id": "jesus-i-my-cross-have-taken",
     "title": "Jesus I My Cross Have Taken",
-    "writers": "Henry F. Lyte",
+    "writers": "Henry F. Lyte; Bill Moore (music, Indelible Grace)",
     "year": "1824",
-    "ccli": "3414460",
+    "ccli": "3874967",
     "family": "Hymn",
     "confidence": "High",
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Jesus I My Cross Have Taken; Jesus I My Cross Have Taken (E)",
-    "notes": "Often sung in Indelible Grace / modern folk hymn arrangement.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Sung in the Indelible Grace setting (music Bill Moore, 2001), all six stanzas.",
+    "status": "graded",
+    "recommendation": "Strong",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/jesus-i-my-cross-have-taken.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "jesus-messiah",
@@ -2856,17 +2901,26 @@
     "title": "My Life Is an Offering",
     "writers": "Joel Sczebel / Pat Sczebel (Sovereign Grace)",
     "year": "2013",
-    "ccli": "6572078",
+    "ccli": "6565620",
     "family": "Sovereign Grace",
     "confidence": "High",
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "My life is an offering; My Life is an Offering; My Life is an Offering (D)",
     "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/my-life-is-an-offering.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-24",
+    "rubricVersion": "v1"
   },
   {
     "id": "my-savior-my-god",
@@ -2933,17 +2987,26 @@
     "title": "No Higher Calling (Down at Your Feet)",
     "writers": "Lenny LeBlanc / Greg Gulley",
     "year": "1989",
-    "ccli": "208526",
+    "ccli": "121799",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "No Higher Calling (Down At Your Feet); No Higher Calling; Down At Your Feet; Down at your feet; No Higher Calling (A); Down at Your Feet (A)",
     "notes": "Often titled Down at Your Feet / No Higher Calling.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "1900\u20131989",
-    "report": null
+    "report": "reports/no-higher-calling-down-at-your-feet.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 1,
+      "objectivity": 2,
+      "godsCharacter": 2,
+      "congregationalUsefulness": 2
+    },
+    "gradeDate": "2026-11-24",
+    "rubricVersion": "v1"
   },
   {
     "id": "nothing-but-the-blood-what-can-wash-away-my-sin",
@@ -3087,18 +3150,27 @@
     "id": "offering",
     "title": "Offering",
     "writers": "Paul Baloche",
-    "year": "2002",
-    "ccli": "4216091",
+    "year": "2003",
+    "ccli": "3956562",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Offering; Offering (Christmas); Offering (Christmas) (E); Offering (Paul Baloche) - E; Christmas \"Offering\"; Offering (E)",
-    "notes": "Christmas setlists sometimes use a Christmas lyric variant of the same song.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Christmas setlists use the Christmas version of the same song (same CCLI 3956562). Distinct from the separate \"Christmas Offering\" listing, CCLI 7005509.",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/offering.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "oh-lord-youre-beautiful",
@@ -3258,18 +3330,27 @@
     "id": "rock-of-ages",
     "title": "Rock of Ages",
     "writers": "Augustus Toplady / Thomas Hastings",
-    "year": "1763",
+    "year": "1776",
     "ccli": "40588",
     "family": "Hymn",
     "confidence": "High",
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Rock of Ages; Rock of Ages (A)",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Toplady text; band uses the Ascend the Hill or Norton Hall Band arrangement. Distinct from Indelible Grace 'Rock of Ages' (Kevin Twit).",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/rock-of-ages.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-24",
+    "rubricVersion": "v1"
   },
   {
     "id": "salvation-belongs-to-our-god",
@@ -3522,11 +3603,20 @@
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "This is amazing grace; This is Amazing Grace; This is amazing grace (E); This is Amazing Grace (F)",
-    "notes": "Co-writer Jeremy Riddle has led worship at Bethel Church; review that link at grading.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Co-writer Jeremy Riddle was a Bethel Church worship pastor (2011-2019); Bethel Music Publishing is on the copyright line and Bethel Music recorded it. The church sings the Phil Wickham version; Bethel still holds part of the credit.",
+    "status": "graded",
+    "recommendation": "Avoid",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/this-is-amazing-grace.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "this-is-my-fathers-world",
@@ -3745,18 +3835,27 @@
     "id": "you-alone-can-rescue",
     "title": "You Alone Can Rescue",
     "writers": "Matt Redman / Jonas Myrin",
-    "year": "2008",
+    "year": "2009",
     "ccli": "5376377",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 7,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "You alone can rescue; You alone can rescue (Bb)",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Band chart reads \"their own soul could heal\" (some charts read \"sin\").",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/you-alone-can-rescue.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-23",
+    "rubricVersion": "v1"
   },
   {
     "id": "you-are-holy-prince-of-peace",

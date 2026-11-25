@@ -14,9 +14,40 @@ function badgeClass(song) {
   return "wait";
 }
 
-function bars(rows, hostId, colorFor) {
+/* Catalog links reuse the query keys index.html already understands.
+   A zero count is not a link: there is nothing to open. */
+function catalogQuery(params) {
+  const qs = new URLSearchParams();
+  Object.keys(params).forEach((key) => {
+    if (params[key]) qs.set(key, params[key]);
+  });
+  const search = qs.toString();
+  return "index.html" + (search ? "?" + search : "");
+}
+
+function barAria(name, count, unit, extra) {
+  const n = count || 0;
+  if (unit === "time") {
+    const noun = n === 1 ? "time sung" : "times sung";
+    let text = "View " + name + " songs";
+    if (extra) text += ", " + extra;
+    return text + ". " + n + " " + noun + ".";
+  }
+  const noun = n === 1 ? "song" : "songs";
+  return "View " + n + " " + name + " " + noun + ".";
+}
+
+/* Each bar with a count is its own <a>. The browser cancels a tap that
+   becomes a scroll, so do not navigate from touchstart or pointerdown.
+   A zero count stays plain text. */
+function bars(rows, hostId, opts) {
   const host = document.getElementById(hostId);
   if (!host) return;
+  const options = opts || {};
+  const colorFor = options.colorFor;
+  const hrefFor = options.hrefFor;
+  const unit = options.unit || "song";
+  const extra = options.extra || "";
   const max = Math.max(...rows.map((r) => r.count || 0), 1);
   const total = rows.reduce((sum, r) => sum + (r.count || 0), 0);
   const pct = (n) => {
@@ -24,13 +55,20 @@ function bars(rows, hostId, colorFor) {
     const p = (n / total) * 100;
     return p < 1 ? "<1%" : `${Math.round(p)}%`;
   };
-  host.innerHTML = rows.map((r) => `
-    <div class="barline">
+  host.innerHTML = rows.map((r) => {
+    const count = r.count || 0;
+    const href = count > 0 && hrefFor ? hrefFor(r) : "";
+    const tone = colorFor ? colorFor(r.name) : "";
+    const open = href
+      ? `<a class="barline" href="${esc(href)}" aria-label="${esc(barAria(r.name, count, unit, extra))}">`
+      : `<div class="barline">`;
+    const close = href ? "</a>" : "</div>";
+    return `${open}
       <div class="label">${esc(r.name)}</div>
-      <div class="meter"><i class="${colorFor ? esc(colorFor(r.name)) : ""}" style="width:${((r.count || 0) / max) * 100}%"></i></div>
-      <div class="c">${r.count || 0} <span class="pct">${esc(pct(r.count || 0))}</span></div>
-    </div>
-  `).join("");
+      <div class="meter"><i class="${tone ? esc(tone) : ""}" style="width:${(count / max) * 100}%"></i></div>
+      <div class="c">${count} <span class="pct">${esc(pct(count))}</span></div>
+    ${close}`;
+  }).join("");
 }
 
 async function init() {
@@ -46,15 +84,31 @@ async function init() {
     const meta = typeof BCC_GRADES !== "undefined" && BCC_GRADES.LABEL_META ? BCC_GRADES.LABEL_META[name] : null;
     return meta ? meta.cls : "";
   };
-  bars(d.recommendations || [], "grade-bars", labelClass);
-  bars(d.recommendationsByLogs || [], "grade-log-bars", labelClass);
+  bars(d.recommendations || [], "grade-bars", {
+    colorFor: labelClass,
+    unit: "song",
+    hrefFor: (r) => catalogQuery({ status: r.name })
+  });
+  /* The bar counts times sung. The catalog still lists songs, most sung first. */
+  bars(d.recommendationsByLogs || [], "grade-log-bars", {
+    colorFor: labelClass,
+    unit: "time",
+    extra: "most sung first",
+    hrefFor: (r) => catalogQuery({ status: r.name, sort: "logged" })
+  });
   set("n-logged-graded", d.loggedGraded);
   const allLogs = (d.loggedGraded || 0) + (d.loggedNotGraded || 0);
   set("n-logged-notgraded", d.loggedNotGraded);
   set("n-logged-all", allLogs);
   set("n-logged-notgraded-pct", allLogs ? `${Math.round((d.loggedNotGraded / allLogs) * 100)}%` : "0%");
-  bars(d.families, "family-bars");
-  bars(d.eras, "era-bars");
+  bars(d.families, "family-bars", {
+    unit: "song",
+    hrefFor: (r) => catalogQuery({ family: r.name })
+  });
+  bars(d.eras, "era-bars", {
+    unit: "song",
+    hrefFor: (r) => catalogQuery({ era: r.name })
+  });
   const top = document.getElementById("top-list");
   if (top) {
     top.innerHTML = d.mostLogged.map((s, i) => `

@@ -25,7 +25,7 @@ try {
   document.documentElement.setAttribute("data-theme", t);
 } catch (e) {}
   </script>
-  <link rel="stylesheet" href="style.css?v=31">
+  <link rel="stylesheet" href="style.css?v=33">
   <script src="theme.js?v=1" defer></script>
 </head>
 <body>
@@ -86,13 +86,16 @@ try {
       <option value="recent">Recently graded</option>
     </select>
   </div>
-  <p class="count" id="count"></p>
+  <div class="count-line">
+    <p class="count" id="count" aria-live="polite"></p>
+    <button type="button" class="linkbtn reset-filters" id="reset-filters" hidden>Reset filters</button>
+  </div>
   </div>
   <div class="list catalog" id="results"></div>
 </main>
 <footer>Staff tool. Identified from setlists, 2023 through Sept 2026. Full lyrics stay off these pages.</footer>
 <script src="gate.js?v=12"></script>
 <script src="lib/grades.js?v=13"></script>
-<script src="app.js?v=24"></script>
+<script src="app.js?v=25"></script>
 </body>
 </html>

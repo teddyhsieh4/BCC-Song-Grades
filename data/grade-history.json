@@ -600,5 +600,19 @@
       "congregationalUsefulness": 2
     },
     "note": "Official grade. Song batch 9. One idea (humility before the throne); Christ, sin, and the gospel never named. Alternative song suggestions included. CCLI 208526 -> 121799 (PraiseCharts)."
+  },
+  {
+    "id": "rock-of-ages",
+    "date": "2026-11-24",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 9. Sin, wrath, failure of works, and Christ's cross alone; hope at the judgment. Year 1763 -> 1776 (publication)."
   }
 ]

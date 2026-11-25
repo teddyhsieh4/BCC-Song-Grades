@@ -3330,18 +3330,27 @@
     "id": "rock-of-ages",
     "title": "Rock of Ages",
     "writers": "Augustus Toplady / Thomas Hastings",
-    "year": "1763",
+    "year": "1776",
     "ccli": "40588",
     "family": "Hymn",
     "confidence": "High",
     "timesLogged": 6,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Rock of Ages; Rock of Ages (A)",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Toplady text; band uses the Ascend the Hill or Norton Hall Band arrangement. Distinct from Indelible Grace 'Rock of Ages' (Kevin Twit).",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/rock-of-ages.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-24",
+    "rubricVersion": "v1"
   },
   {
     "id": "salvation-belongs-to-our-god",

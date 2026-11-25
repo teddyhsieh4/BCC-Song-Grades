@@ -151,8 +151,8 @@ article.page h1, article.page .lede { text-align: left; margin-left: 0; }
 .chart + .chart-note { margin: -1.2rem 0 2.2rem; }
 .barline {
   display: grid;
-  grid-template-columns: 11rem minmax(0, 1fr) 5.2rem auto;
-  grid-template-areas: "label meter count go";
+  grid-template-columns: 11rem minmax(0, 1fr) 5.2rem;
+  grid-template-areas: "label meter count";
   gap: 0.6rem;
   align-items: center;
   margin: 0.35rem 0;
@@ -161,11 +161,11 @@ article.page h1, article.page .lede { text-align: left; margin-left: 0; }
 .barline .label { grid-area: label; min-width: 0; }
 .barline .meter { grid-area: meter; }
 .barline .c { grid-area: count; }
-.barline .bar-go { grid-area: go; }
-/* One link per row. touch-action lets a vertical scroll win; the click only fires on a tap. */
+/* One link per row. touch-action lets a vertical scroll win; the click only fires on a tap.
+   The name stays church blue with a light underline, so the row reads as a link before hover. */
 .chart a.barline {
   margin: 0.12rem 0;
-  padding: 0.5rem 0.45rem;
+  padding: 0.45rem 0.45rem;
   border-radius: 6px;
   color: inherit;
   text-decoration: none;
@@ -175,15 +175,17 @@ article.page h1, article.page .lede { text-align: left; margin-left: 0; }
 .chart a.barline:hover,
 .chart a.barline:focus-visible { text-decoration: none; }
 .chart a.barline:focus-visible { background: #eef3f8; }
-.bar-go {
+.chart a.barline:focus-visible .label { text-decoration-color: var(--blue); }
+.chart a.barline .label {
   color: var(--blue);
-  font-size: 0.82rem;
-  font-weight: 600;
-  line-height: 1.2;
-  white-space: nowrap;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.14em;
+  text-decoration-color: color-mix(in srgb, var(--blue) 55%, transparent);
 }
 @media (hover: hover) {
   .chart a.barline:hover { background: #eef3f8; }
+  .chart a.barline:hover .label { text-decoration-color: var(--blue); }
 }
 .meter { background: #e4ebf2; height: 0.7rem; border-radius: 99px; overflow: hidden; }
 .meter > i { display: block; height: 100%; background: var(--navy); }
@@ -443,13 +445,9 @@ details.rsec > .rbody > :first-child { margin-top: 0; }
     margin: 0.55rem 0;
   }
   .chart a.barline {
-    grid-template-areas:
-      "label count"
-      "go ."
-      "meter meter";
     min-height: 2.75rem;
-    padding: 0.5rem 0.4rem;
-    margin: 0.28rem 0;
+    padding: 0.55rem 0.4rem;
+    margin: 0.2rem 0;
   }
   .reset-filters { min-height: 2.75rem; }
   .grade-defs li { grid-template-columns: 1fr; }
@@ -527,7 +525,8 @@ details.rsec > .rbody > :first-child { margin-top: 0; }
   @page { margin: 1.6cm; }
   html, body { background: #fff !important; color: #000; }
   body { font-size: 11pt; }
-  header.site, footer, #gate, .crumb, .back-link, .prevnext, .pn-count, #toggle-all, .filters, .jump, .bar-go, .reset-filters { display: none !important; }
+  header.site, footer, #gate, .crumb, .back-link, .prevnext, .pn-count, #toggle-all, .filters, .jump, .reset-filters { display: none !important; }
+  .chart a.barline .label { color: inherit; text-decoration: none; }
   .wrap { max-width: none; padding: 0; }
   article.page { padding-top: 0; }
   a { color: inherit; }

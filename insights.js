@@ -27,12 +27,14 @@ function catalogQuery(params) {
 
 function barAria(name, count, unit, extra) {
   const n = count || 0;
-  const noun = unit === "time"
-    ? (n === 1 ? "time sung" : "times sung")
-    : (n === 1 ? "song" : "songs");
-  let text = name + ", " + n + " " + noun + ". View those songs in the catalog";
-  if (extra) text += ", " + extra;
-  return text + ".";
+  if (unit === "time") {
+    const noun = n === 1 ? "time sung" : "times sung";
+    let text = "View " + name + " songs";
+    if (extra) text += ", " + extra;
+    return text + ". " + n + " " + noun + ".";
+  }
+  const noun = n === 1 ? "song" : "songs";
+  return "View " + n + " " + name + " " + noun + ".";
 }
 
 /* Each bar with a count is its own <a>. The browser cancels a tap that
@@ -61,12 +63,10 @@ function bars(rows, hostId, opts) {
       ? `<a class="barline" href="${esc(href)}" aria-label="${esc(barAria(r.name, count, unit, extra))}">`
       : `<div class="barline">`;
     const close = href ? "</a>" : "</div>";
-    const cue = href ? `<span class="bar-go">View songs ›</span>` : "";
     return `${open}
       <div class="label">${esc(r.name)}</div>
       <div class="meter"><i class="${tone ? esc(tone) : ""}" style="width:${(count / max) * 100}%"></i></div>
       <div class="c">${count} <span class="pct">${esc(pct(count))}</span></div>
-      ${cue}
     ${close}`;
   }).join("");
 }

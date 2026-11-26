@@ -754,5 +754,103 @@
       "congregationalUsefulness": 4
     },
     "note": "Official grade. Song batch 10. Blood washes guilt. He bore the cross the singer should have had. Resurrection unnamed."
+  },
+  {
+    "id": "christus-victor-amen",
+    "date": "2026-11-19",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 8. Redeeming blood, the Son of Man's living, dying, and rising, and the Lamb upon the throne."
+  },
+  {
+    "id": "grace-alone",
+    "date": "2026-11-19",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 8. The Father's predestining love, the Son's paid debt, and the Spirit's awakening."
+  },
+  {
+    "id": "the-fathers-love",
+    "date": "2026-11-19",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 8. The Father sends the Son, calls blameless, and gives the Spirit for sonship."
+  },
+  {
+    "id": "hosanna-praise-is-rising",
+    "date": "2026-11-19",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 8. God who saves and a welcome to the Lord Jesus, without the cross. Alternative song suggestions included."
+  },
+  {
+    "id": "knowing-you-all-i-once-held-dear",
+    "date": "2026-11-19",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 8. Philippians 3: all counted loss, righteousness by faith, and the power of the risen life."
+  },
+  {
+    "id": "i-stand-amazed-how-marvelous",
+    "date": "2026-11-19",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 8. The unclean sinner, the garden prayer, and the burden borne to Calvary."
+  },
+  {
+    "id": "once-again",
+    "date": "2026-11-19",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 8. The cross and the pouring out to death. Sin, blood, and the resurrection unnamed."
   }
 ]

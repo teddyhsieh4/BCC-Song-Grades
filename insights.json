@@ -1,9 +1,9 @@
 {
-  "asOf": "25 Nov 2026",
+  "asOf": "26 Nov 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
-  "graded": 91,
-  "notGraded": 103,
+  "graded": 101,
+  "notGraded": 93,
   "setlistMentionsRaw": 965,
   "timesLoggedSum": 965,
   "families": [
@@ -63,7 +63,7 @@
     },
     {
       "name": "1990–1999",
-      "count": 26
+      "count": 27
     },
     {
       "name": "2000–2009",
@@ -79,13 +79,13 @@
     },
     {
       "name": "Unknown / traditional",
-      "count": 2
+      "count": 1
     }
   ],
   "recommendations": [
     {
       "name": "Excellent / Prefer",
-      "count": 43
+      "count": 45
     },
     {
       "name": "Strong",
@@ -93,11 +93,11 @@
     },
     {
       "name": "Acceptable with notes",
-      "count": 16
+      "count": 19
     },
     {
       "name": "Weak",
-      "count": 11
+      "count": 16
     },
     {
       "name": "Avoid",
@@ -107,7 +107,7 @@
   "recommendationsByLogs": [
     {
       "name": "Excellent / Prefer",
-      "count": 356
+      "count": 362
     },
     {
       "name": "Strong",
@@ -115,19 +115,19 @@
     },
     {
       "name": "Acceptable with notes",
-      "count": 101
+      "count": 102
     },
     {
       "name": "Weak",
-      "count": 62
+      "count": 75
     },
     {
       "name": "Avoid",
       "count": 19
     }
   ],
-  "loggedGraded": 691,
-  "loggedNotGraded": 274,
+  "loggedGraded": 711,
+  "loggedNotGraded": 254,
   "mostLogged": [
     {
       "title": "King Forevermore (God the Uncreated One)",

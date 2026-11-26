@@ -1090,5 +1090,159 @@
       "congregationalUsefulness": 5
     },
     "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "it-is-good-to-praise-the-lord",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Label change. Acceptable with notes -> Weak. Scores unchanged. Theological Accuracy 3, Christ-Exalting 2, and another worshiper could sing it unchanged."
+  },
+  {
+    "id": "son-of-god",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 11. Lamb, blood, and the return. Altar of love and a chorus of being overcome."
+  },
+  {
+    "id": "stir-up-a-hunger",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 11. Lost soul and a heart of stone. Hunger for an unnamed Lord. Alternative song suggestions included. Year unknown -> 1998."
+  },
+  {
+    "id": "unfailing-love",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 11. The Holy One who does not change. Forever vow with no cross. Alternative song suggestions included. Writers add Cary Pierce. CCLI 4222088 -> 4403227."
+  },
+  {
+    "id": "amazing-grace",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 11. Newton's six stanzas. Jesus and the cross are unnamed. CCLI 22000 -> 22025."
+  },
+  {
+    "id": "as-we-seek-jesus-draw-me-close",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 11. Holy cry and a desire to obey. Feeling presence and acceptance. Alternative song suggestions included."
+  },
+  {
+    "id": "behold-the-lamb-passion-shane-shane",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 11. The cross, the shame borne, the cost paid, and the resurrection. CCLI 7132682 -> 7122996."
+  },
+  {
+    "id": "create-in-me-a-clean-heart",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 11. Psalm 51:10-12. David's fear of losing the Spirit needs the sermon. Year 1981 -> 1982."
+  },
+  {
+    "id": "forever",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 11. Psalm 136 refrain and the exodus arm. A reborn life without Jesus. Alternative song suggestions included."
+  },
+  {
+    "id": "glorious-day",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 11. Birth, death, burial, justification, and the return. Writer John Wilbanks -> J. Wilbur Chapman."
+  },
+  {
+    "id": "go-tell-it-on-the-mountain",
+    "date": "2026-11-26",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 11. Luke 2 announcement of the birth. No CCLI. The cross is outside the carol."
   }
 ]

@@ -852,5 +852,243 @@
       "congregationalUsefulness": 3
     },
     "note": "Official grade. Song batch 8. The cross and the pouring out to death. Sin, blood, and the resurrection unnamed."
+  },
+  {
+    "id": "as-the-deer",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "all-creatures-of-our-god-and-king",
+    "date": "2026-10-25",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 3,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "all-glory-be-to-christ",
+    "date": "2026-10-26",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "before-the-throne-of-god-above",
+    "date": "2026-10-28",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "christ-our-hope-in-life-and-death",
+    "date": "2026-10-28",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "everlasting-god",
+    "date": "2026-10-28",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "he-is-our-god",
+    "date": "2026-10-28",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "he-will-be",
+    "date": "2026-10-28",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "i-will-offer-up-my-life",
+    "date": "2026-10-28",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "i-will-trust-my-savior-jesus",
+    "date": "2026-10-28",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "in-christ-alone",
+    "date": "2026-10-28",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "in-remembrance-of-me-do-this-in-remembrance",
+    "date": "2026-10-28",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "the-love-of-god",
+    "date": "2026-11-02",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "o-great-god",
+    "date": "2026-11-02",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "o-lord-my-rock-and-my-redeemer",
+    "date": "2026-11-02",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "only-a-holy-god",
+    "date": "2026-11-02",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 4,
+      "objectivity": 5,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
+  },
+  {
+    "id": "you-are-my-king-amazing-love",
+    "date": "2026-11-02",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Backfill. Published report had no history row. Label and scores copied from the catalog."
   }
 ]

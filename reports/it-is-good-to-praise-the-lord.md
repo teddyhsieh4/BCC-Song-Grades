@@ -25,9 +25,27 @@ The lyric states that it is good to praise the Lord, to gaze upon His majesty, a
 
 ## Overall recommendation
 
-Acceptable with notes
+Weak
 
-Use sparingly. The lines are true and rest on a clear text. They teach almost nothing beyond the fact that praise is good and that God is loving and faithful. The song never names Christ, sin, the cross, or the resurrection. If it is used, put it after a sermon or another song that has already stated the gospel, and keep it short. The church has logged it six times across four years; the lyric supports only light use.
+Do not feature it. The church has logged it 6 times across at least four years (2023, 2024, 2025, 2026). The lines restate Psalm 92:1–2, and no line is false. Christ is never named. A worshiper who does not confess Jesus can sing every line unchanged. If it is used at all, keep it short, after Psalm 92 has been read, and let another song say why the Lord is praised.
+
+---
+
+## Alternative song suggestions
+
+The lyric is reaching for the goodness of praising the Lord, morning and night, for his love and faithfulness. Three of these the church already sings. One is not in the catalog.
+
+**Already sung**
+
+**Come Praise and Glorify** (Tim Chester / Bob Kauflin, Sovereign Grace, CCLI 5886875). Logged 6 times across at least four years (2023, 2024, 2025, 2026). The praise names the Father's blessing in Christ, redemption by sacrifice, and the Spirit's seal.
+
+**Bless the Lord, O My Soul (Psalm 103)** (Zach Jones, Sovereign Grace, CCLI 4764203). Logged 7 times across at least four years (2023, 2024, 2025, 2026). The soul blesses the Lord who forgives iniquity and whose steadfast love is as high as the heavens.
+
+**How Great You Are** (Joel Sczebel / Pat Sczebel, Sovereign Grace, CCLI 6271677). Logged 6 times across at least four years (2023, 2024, 2025, 2026). The praise runs from the Father of creation to the Son crushed for rebellion, who died and rose, and to the King who returns.
+
+**Not yet logged**
+
+**Praise, My Soul, the King of Heaven** (Henry Francis Lyte, hymn, CCLI 800443). Not in the catalog. This is the public-domain text. The soul sings because it has been ransomed, healed, restored, and forgiven.
 
 ---
 
@@ -161,4 +179,4 @@ One song. Writers match the catalog (Lenny LeBlanc). Year 1989 and CCLI 121782 m
 
 ## Why this overall label
 
-The lyric is a true, short restatement of Psalm 92:1–2. Nothing is false. It never names Christ or the gospel, and a non-Christian could sing every line without tension. It is usable sparingly when the rest of the set supplies what it lacks. The thinness and the absence of the gospel keep it at Acceptable with notes rather than Strong.
+The lyric is an accurate, short restatement of Psalm 92:1–2. No line is false. It can be sung sparingly after that psalm is read. Christ is unnamed, and another worshiper could sing the whole song unchanged. The claims are about the Lord's majesty, love, and faithfulness. The label is Weak.

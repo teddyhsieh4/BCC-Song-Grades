@@ -193,7 +193,7 @@
     "variants": "It is good to praise the Lord; It is Good to Praise the Lord; It is good to praise the Lord (C); It is good to praise - C",
     "notes": "Confirmed Lenny LeBlanc setting, CCLI 121782. Confirmed from chart notes 22 Sept 2026.",
     "status": "graded",
-    "recommendation": "Acceptable with notes",
+    "recommendation": "Weak",
     "era": "1900\u20131989",
     "report": "reports/it-is-good-to-praise-the-lord.md",
     "scores": {
@@ -400,27 +400,45 @@
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Son of God; Son of God (E); Son of God - E",
     "notes": "Starfield \u201cSon of God\u201d (Beauty in the Broken, 2006).",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/son-of-god.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "stir-up-a-hunger",
     "title": "Stir Up a Hunger",
     "writers": "Paul Baloche / Rita Baloche",
-    "year": "unknown",
+    "year": "1998",
     "ccli": "2422248",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 1,
     "yearsSeen": "2024",
     "variants": "Stir up a hunger (F)",
-    "notes": "Confirmed Paul Baloche / Rita Baloche, CCLI 2422248. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
-    "era": "Unknown / traditional",
-    "report": null
+    "notes": "Confirmed Paul Baloche / Rita Baloche, CCLI 2422248, year 1998. Integrity's Hosanna! Music and Maranatha! Music.",
+    "status": "graded",
+    "recommendation": "Weak",
+    "era": "1990\u20131999",
+    "report": "reports/stir-up-a-hunger.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "the-fathers-love",
@@ -477,19 +495,28 @@
   {
     "id": "unfailing-love",
     "title": "Unfailing Love",
-    "writers": "Chris Tomlin / Ed Cash",
+    "writers": "Cary Pierce / Chris Tomlin / Ed Cash",
     "year": "2004",
-    "ccli": "4222088",
+    "ccli": "4403227",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 1,
     "yearsSeen": "2024",
     "variants": "Unfailing love (F)",
-    "notes": "Tomlin \u201cUnfailing Love\u201d (Arriving, 2004).",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Tomlin \u201cUnfailing Love\u201d (Arriving, 2004). Writers Cary Pierce / Chris Tomlin / Ed Cash. CCLI 4403227. The old catalog number 4222088 was not this song.",
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/unfailing-love.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "all-things",
@@ -522,17 +549,26 @@
     "title": "Amazing Grace",
     "writers": "John Newton",
     "year": "1779",
-    "ccli": "22000",
+    "ccli": "22025",
     "family": "Hymn",
     "confidence": "High",
     "timesLogged": 1,
     "yearsSeen": "2024",
     "variants": "Amazing Grace - C",
-    "notes": "Confirmed traditional Newton hymn. Distinct from Amazing Grace (My Chains Are Gone). Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Confirmed traditional Newton hymn. Distinct from Amazing Grace (My Chains Are Gone). CCLI 22025. Catalog 22000 and 4755360 could not be confirmed.",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/amazing-grace.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "as-we-seek-jesus-draw-me-close",
@@ -546,10 +582,19 @@
     "yearsSeen": "2023, 2024, 2026",
     "variants": "As we seek, Jesus draw me close; As we seek / Jesus draw me close (F); As we gather / Jesus draw me close - D",
     "notes": "Confirmed medley. \u201cAs We Seek Your Face\u201d Dave Bilbrough (Thankyou Music, CCLI 442375) plus \u201cJesus, Draw Me Close\u201d Rick Founds (Maranatha, CCLI 443680). Both 1990. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "1990\u20131999",
-    "report": null
+    "report": "reports/as-we-seek-jesus-draw-me-close.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "behold-him",
@@ -608,17 +653,26 @@
     "title": "Behold the Lamb (Passion / Shane & Shane)",
     "writers": "Kristian Stanfill / Melodie Malone / Phil Wickham (Passion); Shane & Shane arrangement",
     "year": "2019",
-    "ccli": "7132682",
+    "ccli": "7122996",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 3,
     "yearsSeen": "2026",
     "variants": "Behold the Lamb (S&S/Passion); Behold the Lamb (Shane & Shane/Passion)",
-    "notes": "Confirmed Passion / Kristian Stanfill \u201cBehold the Lamb.\u201d This church sings the Shane & Shane arrangement. Distinct from the Getty communion hymn. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Confirmed Passion / Kristian Stanfill \u201cBehold the Lamb,\u201d CCLI 7122996. This church sings the Shane & Shane arrangement. Distinct from the Getty communion hymn. Catalog 7132682 was not confirmed.",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/behold-the-lamb-passion-shane-shane.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "christ-is-risen",
@@ -641,18 +695,27 @@
     "id": "create-in-me-a-clean-heart",
     "title": "Create in Me a Clean Heart",
     "writers": "Brown Bannister",
-    "year": "1981",
+    "year": "1982",
     "ccli": "96927",
     "family": "Chorus",
     "confidence": "High",
     "timesLogged": 1,
     "yearsSeen": "2024",
     "variants": "Create in me a clean heart",
-    "notes": "Confirmed Brown Bannister / Integrity setting, CCLI 96927. Not Keith Green (CCLI 12996). Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Confirmed Brown Bannister / Integrity setting, CCLI 96927, year 1982. Not Keith Green (CCLI 12996). Catalog year had been 1981.",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "1900\u20131989",
-    "report": null
+    "report": "reports/create-in-me-a-clean-heart.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "forever",
@@ -666,15 +729,24 @@
     "yearsSeen": "2024",
     "variants": "Forever (G)",
     "notes": "Confirmed Chris Tomlin \u201cForever\u201d (2001, CCLI 3148428). Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/forever.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "glorious-day",
     "title": "Glorious Day",
-    "writers": "Mark Hall / Michael Bleecker / John Wilbanks (Casting Crowns)",
+    "writers": "John Wilbur Chapman / Mark Hall / Michael Bleecker (Casting Crowns)",
     "year": "2009",
     "ccli": "5638022",
     "family": "Modern",
@@ -682,11 +754,20 @@
     "timesLogged": 3,
     "yearsSeen": "2023, 2024, 2025",
     "variants": "Glorious Day; Glorious Day (A)",
-    "notes": "Confirmed Casting Crowns \u201cGlorious Day (Living He Loved Me),\u201d CCLI 5638022. Not the older hymn-based One Day. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Casting Crowns \u201cGlorious Day (Living He Loved Me),\u201d 2009 setting of J. Wilbur Chapman\u2019s \u201cOne Day\u201d (1910). CCLI 5638022. Not John Wilbanks.",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/glorious-day.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "go-tell-it-on-the-mountain",
@@ -700,10 +781,19 @@
     "yearsSeen": "2023",
     "variants": "Go tell it on the mountain",
     "notes": "Confirmed the traditional spiritual. Year unknown. No standard CCLI in use here. Confirmed from chart notes 22 Sept 2026.",
-    "status": "not-graded",
-    "recommendation": null,
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "1900\u20131989",
-    "report": null
+    "report": "reports/go-tell-it-on-the-mountain.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-26",
+    "rubricVersion": "v1"
   },
   {
     "id": "god-and-god-alone",

@@ -53,7 +53,7 @@ First person singular, speaking to God. “Create in me,” “Cast me not away,
 
 ## How the text moves
 
-It opens with the ask that gives the song its title: a clean heart, and a right spirit renewed. The verse asks not to be cast away from God's presence and not to have the Holy Spirit taken. It asks for the joy of salvation restored, and it repeats the right spirit. The bridge asks the Lord to renew the singer's spirit and restore the singer's soul. The prayer does not move on to a confession of a particular sin, or to a sacrifice, or to the Son. It stays on the work the singer asks God to do in him.
+It opens with the ask that gives the song its title: a clean heart, and a right spirit renewed. The verse asks not to be cast away from God's presence and not to have the Holy Spirit taken. It asks for the joy of salvation restored, and it repeats the right spirit. The bridge asks the Lord to renew the singer's spirit and restore the singer's soul. The prayer does not move on to a confession of a particular sin, or to a sacrifice, or to the Son. It stays on the work the singer asks God to do in the singer's own heart.
 
 ---
 
@@ -108,7 +108,7 @@ A person who prays to God for a clean heart can sing the chorus without saying t
 
 The chorus and the verse follow Psalm 51:10-12. The ESV reads, “Create in me a clean heart, O God, and renew a right spirit within me. Cast me not away from your presence, and take not your Holy Spirit from me. Restore to me the joy of your salvation, and uphold me with a willing spirit.” The song says “O Lord my God” where the psalm says “O God,” keeps “Thy,” repeats “a right spirit,” and does not sing “a willing spirit.” Those are small differences of address and of one phrase. The prayer is still David's.
 
-Psalm 51:11 belongs with 1 Samuel 16:14, “the Spirit of the LORD departed from Saul.” David has seen an anointed king lose the Spirit, and he prays not to be that man. Ephesians 1:13-14 says those who believed the gospel were “sealed with the promised Holy Spirit, who is the guarantee of our inheritance.” The song quotes David faithfully. It does not say the later promise. A church that sings the line on a Sunday has to say both, or the room will hear a threat the New Covenant does not make.
+Psalm 51:11 belongs with 1 Samuel 16:14, “the Spirit of the LORD departed from Saul.” David has seen an anointed king lose the Spirit, and he prays not to be that man. Ephesians 1:13-14 says those who believed the gospel were “sealed with the promised Holy Spirit, who is the guarantee of our inheritance.” John 14:16 says, “And I will ask the Father, and he will give you another Helper, to be with you forever.” The song quotes David faithfully. It does not say either promise. A church that sings the line on a Sunday has to say both, or the room will hear a threat the New Covenant does not make.
 
 The song also begins at verse 10. Psalm 51:1-4, the mercy, the confession, “against you, you only, have I sinned,” is not in the lyric. “Create” is still the right verb. The clean heart is God's work. Ezekiel 36:26 is the same work promised to the people: a new heart, and the heart of stone removed. The chorus agrees with that. It does not say the blood. Psalm 51:7, “Purge me with hyssop,” is earlier in the psalm and is not in this setting.
 
@@ -122,7 +122,7 @@ The Son is not named. The cross is not named. The Spirit is named, and the salva
 
 ## Objectivity vs. Subjectivity: 3
 
-The singer is asking, and the ask is about his own heart, his own spirit, his own joy, his own soul. The verbs he uses for God are create, renew, cast not away, take not, restore. The subject of the prayer is God's work, which keeps the song from being a report of feelings. “The joy of Thy salvation” is the one phrase that names an experience, and it names it as something God restores. There is no vow that the singer will do better. The score stays at 3 because the whole text is one person's plea, and the plea is for God to act.
+The singer is asking, and the ask is about the singer's own heart, spirit, joy, and soul. The verbs the singer uses for God are create, renew, cast not away, take not, restore. The subject of the prayer is God's work, which keeps the song from being a report of feelings. “The joy of Thy salvation” is the one phrase that names an experience, and it names it as something God restores. There is no vow that the singer will do better. The score stays at 3 because the whole text is one person's plea, and the plea is for God to act.
 
 ---
 

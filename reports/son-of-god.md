@@ -19,7 +19,7 @@
 
 ## Thesis
 
-The Son of God shaped the stars, was given by the Father, and was broken so that freedom would be in his blood. He is the holy one, the redeemer of the soul, and the king who will come again and lead his people home. The singer answers that he is forgiven, and overcome by that love.
+The Son of God shaped the stars, was given by the Father, and was broken so that freedom would be in his blood. He is the holy one, the redeemer of the soul, and the king who will come again and lead his people home. The singer answers as one forgiven, and overcome by that love.
 
 ---
 

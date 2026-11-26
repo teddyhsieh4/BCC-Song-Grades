@@ -91,8 +91,8 @@ It opens with thanks to the Lord, God and King, and with the line the verses rep
 | Wrath or curse | No | |
 | Cross | No | |
 | Burial | No | |
-| Resurrection | Implied | “The life that's been reborn.” New life is named. The resurrection of Jesus is not. |
-| Reign / session | Yes | “Our God and King.” |
+| Resurrection | No | “The life that's been reborn” is new birth. The resurrection of Jesus is not said. |
+| Reign / session | Implied | “Our God and King.” The title is sung. A reign from the throne is not told. |
 | Repentance | No | |
 | Lordship | Yes | “Lord, our God and King.” |
 | Present intercession | No | |
@@ -102,7 +102,7 @@ It opens with thanks to the Lord, God and King, and with the line the verses rep
 
 ## Persons of the Trinity named
 
-“The Lord,” “our God and King,” and “God” are the names. Father, Son, and Spirit are unnamed. “The life that's been reborn” does not say who was raised, or who gives the new birth.
+“The Lord,” “our God and King,” and “God” are the names. Father, Son, and Spirit are unnamed. “The life that's been reborn” names a new birth. It does not say that Jesus rose, and it does not say who gives that birth.
 
 ---
 

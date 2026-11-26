@@ -19,15 +19,15 @@
 
 ## Thesis
 
-Jesus came from the praise of heaven into a world whose sin was black, born of a virgin, the Word made flesh. Living, he loved the singer. Dying, he saved him. Buried, he carried the singer's sins far away. Rising, he justified him freely, and the verdict stands. He is coming again. On the way the hymn walks through Calvary, the grave, the ascension, and the trumpet.
+Jesus came from the praise of heaven into a world whose sin was black, born of a virgin, the Word made flesh. Living, he loved the singer. Dying, he saved the singer. Buried, he carried the singer's sins far away. Rising, he justified the singer freely, and the verdict stands. He is coming again. On the way the hymn walks through Calvary, the grave, the ascension, and the trumpet.
 
 ---
 
 ## Overall recommendation
 
-Strong
+Excellent / Prefer
 
-Use it when the service needs the gospel from the birth to the return, and sing the chorus every time. The church has logged it 3 times across at least three years (2023, 2024, 2025). “Living, He loved me / Dying, He saved me / Buried, He carried my sins far away / Rising, He justified freely forever” is the stanza that has to stay, with the Calvary verse. “Dwelt among men, my example is He” is true and smaller than the verse it sits in. Do not let that line become what the room remembers of the incarnation. “My Savior Jesus is mine” is testimony at the end. It belongs after the trumpet, once the cross has already been sung.
+Feature it when the service needs the gospel from the birth to the return, and sing the chorus every time. The church has logged it 3 times across at least three years (2023, 2024, 2025). “Living, He loved me / Dying, He saved me / Buried, He carried my sins far away / Rising, He justified freely forever” is the stanza that has to stay, with the Calvary verse. “Dwelt among men, my example is He” is the example Jesus names in John 13:15, and it belongs in the verse with the virgin birth and the Word made flesh. “My Savior Jesus is mine” is testimony after the trumpet. The bridge's coming belongs with 1 Thessalonians 4:14.
 
 ---
 
@@ -35,7 +35,7 @@ Use it when the service needs the gospel from the birth to the return, and sing 
 
 | Category | Score |
 |---|---|
-| Theological Accuracy and Biblical Fidelity | 4 |
+| Theological Accuracy and Biblical Fidelity | 5 |
 | Christ-Exalting and Gospel-Saturated | 5 |
 | Objectivity vs. Subjectivity | 4 |
 | Description of God’s Character | 4 |
@@ -59,7 +59,7 @@ It starts in heaven's praise and in sin “as black as could be,” then the vir
 
 ## Lines you cannot cut
 
-The chorus is the block the grade depends on. “Dying, He saved me,” “Buried, He carried my sins far away,” and “Rising, He justified freely forever” have to be sung. A band that shortens the chorus to “O glorious day” loses those verbs. The Calvary stanza has to stay with them: “Bearing our sins, my Redeemer is He” and “took the nails from me.” “Dwelt among men, my example is He” is the line that can be misunderstood if verse 1 is all the room hears. It is a true smaller claim inside a verse that also says the virgin birth and the Word made flesh. No line denies the gospel. Dropping the chorus and keeping “my example is He” would waste the song. Dropping “Rising, He justified” would leave death and burial without the verdict Paul ties to the resurrection.
+The chorus is the block the grade depends on. “Dying, He saved me,” “Buried, He carried my sins far away,” and “Rising, He justified freely forever” have to be sung. A band that shortens the chorus to “O glorious day” loses those verbs. The Calvary stanza has to stay with them: “Bearing our sins, my Redeemer is He” and “took the nails from me.” “Dwelt among men, my example is He” is John 13:15 inside the incarnation stanza. If verse 1 is all the room hears, the chorus is what they miss. No line denies the gospel. Dropping the chorus and keeping “my example is He” would waste the song. Dropping “Rising, He justified” would leave death and burial without the verdict Paul ties to the resurrection.
 
 ---
 
@@ -97,18 +97,18 @@ No. “Jesus came forth to be born of a virgin,” “The Word became flesh,” 
 ## Unbiblical, non-biblical, thin
 
 - **Unbiblical:** none.
-- **Non-biblical:** “Wonderful day, my beloved one bringing.” The grammar is hard to parse. The next line, “My Savior Jesus is mine,” is the clear claim. Who is brought, and by whom, the bridge does not settle.
-- **Thin:** “Dwelt among men, my example is He.” First Peter 2:21 says Christ suffered for you, “leaving you an example.” The song sets the example on the years he dwelt among men, in the incarnation stanza, before Calvary has been sung. The example is true. It is the smaller thing that verse is saying. “Sin was as black as could be” is the song's picture of sin's depth. The plain confession is “bearing our sins.”
+- **Non-biblical:** none.
+- **Thin:** “Sin was as black as could be.” That is the song's picture of sin's depth. The plain confession is “bearing our sins.”
 
 ---
 
-## Theological Accuracy and Biblical Fidelity: 4
+## Theological Accuracy and Biblical Fidelity: 5
 
-“Jesus came forth to be born of a virgin” is the birth the Gospels tell. “The Word became flesh / And the light shined among us / His glory revealed” follows John 1:14, “And the Word became flesh and dwelt among us, and we have seen his glory,” and John 1:9, the true light coming into the world. “Dwelt among men, my example is He” is a true smaller claim. The example in 1 Peter 2:21 is the suffering. This stanza attaches the word to the incarnation. The verse is still the virgin birth and the Word made flesh.
+“Jesus came forth to be born of a virgin” is the birth the Gospels tell. “The Word became flesh / And the light shined among us / His glory revealed” follows John 1:14, “And the Word became flesh and dwelt among us, and we have seen his glory,” and John 1:9, the true light coming into the world. “Dwelt among men, my example is He” agrees with John 13:15, “For I have given you an example, that you also should do just as I have done to you.” First Peter 2:21 sets the same example in his suffering. This stanza sets the word on the years he dwelt among men, in the verse that also says the virgin birth and the Word made flesh.
 
-“Despised and rejected” is Isaiah 53:3. “Bearing our sins” is Isaiah 53:12 and 1 Peter 2:24, “He himself bore our sins in his body on the tree.” “Took the nails from me” is the same exchange in the song's picture: the nails belong to the singer, and they are in his hands. “Buried, He carried my sins far away” joins the burial to the removal of sins. Psalm 103:12 says the transgressions are removed “as far as the east is from the west.” The burial is the chorus's word for where that carrying happened. “Rising, He justified freely forever” agrees with Romans 4:25, “raised for our justification,” and with Romans 3:24, “justified by his grace as a gift.” “Freely” is the gift. “Forever” says the verdict stands. “Death could not hold Him” agrees with Acts 2:24, “it was not possible for him to be held by it.” “Now is ascended, my Lord evermore” is Acts 1 and Ephesians 1:20-21. “The trumpet will sound for His coming” is 1 Corinthians 15:52.
+“Despised and rejected” is Isaiah 53:3. “Bearing our sins” is Isaiah 53:12 and 1 Peter 2:24, “He himself bore our sins in his body on the tree.” “Took the nails from me” is the same exchange in the song's picture: the nails belong to the singer, and they are in Jesus' hands. “Buried, He carried my sins far away” joins the burial to the removal of sins. Psalm 103:12 says the transgressions are removed “as far as the east is from the west.” The burial is the chorus's word for where that carrying happened. “Rising, He justified freely forever” agrees with Romans 4:25, “raised for our justification,” and with Romans 3:24, “justified by his grace as a gift.” “Freely” is the gift. “Forever” says the verdict stands. “Death could not hold Him” agrees with Acts 2:24, “it was not possible for him to be held by it.” “Now is ascended, my Lord evermore” is Acts 1 and Ephesians 1:20-21. “The trumpet will sound for His coming” is 1 Corinthians 15:52.
 
-“My beloved one bringing” is the line that will not settle into a sentence. “My Savior Jesus is mine” is testimony the church has long sung, and it comes after the trumpet. The body of the hymn is accurate. The example line and the muddy bridge are why the score is 4.
+“Wonderful day, my beloved one bringing” is compressed. 1 Thessalonians 4:14 says, “For since we believe that Jesus died and rose again, even so, through Jesus, God will bring with him those who have fallen asleep.” The chorus has already said the dying, the rising, and the coming. The bridge reaches that bringing. “My Savior Jesus is mine” is the testimony that follows the trumpet. The course from the virgin birth to the trumpet is told in lines that can be tied to those texts.
 
 ---
 
@@ -138,7 +138,7 @@ Three logs across at least three years means the church knows the song and does 
 
 ## Tone
 
-The tone is narrative and wondering. The line that sets it is the chorus, “Living, He loved me / Dying, He saved me,” under the name “O glorious day.” Calvary is heavier: anguish, despised and rejected, the nails. The bridge warms into “My Savior Jesus is mine.” The wonder stays tied to the events. The song does not smirk at the cross.
+The tone is narrative and wondering. The line that sets it is the chorus, “Living, He loved me / Dying, He saved me,” under the name “O glorious day.” Calvary is heavier: anguish, despised and rejected, the nails. The bridge warms into “My Savior Jesus is mine.” The wonder stays tied to the events.
 
 ---
 
@@ -167,4 +167,4 @@ Word to Worship and PraiseCharts both print “took the nails from me.” Word t
 
 ## Why this overall label
 
-The chorus tells the church that Jesus loved them living, saved them dying, carried their sins in the burial, justified them rising, and is coming. The stanzas walk the virgin birth, Calvary, the grave, and the trumpet. “My example is He” is a smaller true line in the first stanza, and one bridge line is hard to parse. With the chorus and the Calvary stanza left intact, the church can use this song often.
+The chorus tells the church that Jesus loved the singer living, saved the singer dying, carried the singer's sins in the burial, justified the singer rising, and is coming. The stanzas walk the virgin birth, Calvary, the grave, and the trumpet. “My example is He” is the example Jesus gave in John 13:15. The coming that brings his people is 1 Thessalonians 4:14. With the chorus and the Calvary stanza sung, this is a text to feature.

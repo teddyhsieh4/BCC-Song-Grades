@@ -39,13 +39,13 @@ The lyric is reaching for the face of God, for nearness, and for a life that wor
 
 **Jesus, Your Mercy** (Bob Kauflin / Jordan Kauflin / Nathan Stiff, Sovereign Grace, CCLI 7138116). Logged 14 times across at least four years (2023, 2024, 2025, 2026). Nearness is asked at the point of mercy, and the mercy has a cross in view.
 
-**Before the Throne of God Above** (Charitie Lees Bancroft / Vikki Cook, hymn, CCLI 2306412). Logged 8 times across at least four years (2023, 2024, 2025, 2026). The singer draws near the throne because a great High Priest pleads there, and the plea is his blood.
+**Before the Throne of God Above** (Charitie Lees Bancroft / Vikki Cook, hymn, CCLI 2306412). Logged 8 times across at least four years (2023, 2024, 2025, 2026). The singer draws near the throne because a great High Priest ever lives and pleads there, and the sinless Savior's death satisfied God's justice.
 
 **Be Thou My Vision** (Irish hymn, translated by Mary E. Byrne, versified by Eleanor Hull, CCLI 30639). Logged 7 times across at least four years (2023, 2024, 2025, 2026). The desire is for the Lord as sight, wisdom, and ruler, through the length of the life.
 
 **Not yet logged**
 
-**Come, Ye Sinners, Poor and Needy** (Joseph Hart, hymn, CCLI 3189607). Not in the catalog. Lifeway prints that number for Hart's text with the Southern Harmony tune. “Jesus ready stands to save you,” and the singer answers, “I will arise and go to Jesus.” The drawing near has a Savior in it.
+**Come, Ye Sinners, Poor and Needy** (Joseph Hart, hymn, CCLI 22111). Not in the catalog. This is the public-domain Hart text. “Jesus ready stands to save you,” and the singer answers, “I will arise and go to Jesus.” The drawing near has a Savior in it.
 
 ---
 
@@ -124,7 +124,7 @@ Bilbrough's half can be sung by anyone seeking a holy sovereign presence. “Fee
 
 “As we seek Your face” agrees with Psalm 27:8, “Your face, LORD, do I seek.” “At Your feet we fall / Sovereign Lord / We cry holy, holy” agrees with the seraphim in Isaiah 6:3, “Holy, holy, holy is the LORD of hosts,” and with Revelation 4:8. The song cries the first two words and does not go on to “the whole earth is full of his glory” or “who was and is and is to come.” Falling at his feet fits Revelation 1:17, where John falls as though dead before the risen Christ. The chorus does not say that.
 
-“Jesus, draw me close” is close to James 4:8, “Draw near to God, and he will draw near to you.” James's next words are “Cleanse your hands, you sinners.” The chorus has the nearness and, at the end, “worship and obey.” It does not have the sinners or the cleansing. “I desire to worship and obey” is a right desire. Psalm 42, which Founds has named as the psalm he was reading when he wrote the chorus, is a thirst for the living God in trouble. The lyric does not sing the trouble, the tears, or the “Why?”
+“Jesus, draw me close” is close to James 4:8, “Draw near to God, and he will draw near to you.” James's next words are “Cleanse your hands, you sinners.” The chorus has the nearness and, at the end, “worship and obey.” It does not have the sinners or the cleansing. “I desire to worship and obey” is a right desire. Founds's own story sheet for this chorus (rickfounds.com, “The story behind the song,” CCLI 443680) says he was reading Psalm 42 when he wrote it. Psalm 42 is a thirst for the living God in trouble. The lyric does not sing the trouble, the tears, or the “Why?”
 
 “Feel Your presence, acceptance” and “Let the world around me fade away” cannot be tied to a text in its ordinary sense. The face, the holy cry, and the desire to obey can. The medley gives those three less time than the feelings.
 
@@ -132,7 +132,7 @@ Bilbrough's half can be sung by anyone seeking a holy sovereign presence. “Fee
 
 ## Christ-Exalting and Gospel-Saturated: 2
 
-Jesus is named once, as the Lord who is asked to draw the singer close. There is no cross, no blood, no sin, no burial, and no resurrection. “Worship and obey” is lordship language with the saving work left out. Bilbrough's “Sovereign Lord” and “holy, holy” could be sung to God without ever reaching the Son. The medley exalts a near Jesus. It does not exalt his finished work.
+Jesus is named once, as the Lord who is asked to draw the singer close. There is no cross, no blood, no sin, no burial, and no resurrection. “Worship and obey” is lordship language with the saving work left out. Bilbrough's “Sovereign Lord” and “holy, holy” could be sung to God without ever reaching the Son. The medley exalts a near Jesus and leaves his finished work unsung.
 
 ---
 
@@ -179,7 +179,7 @@ The congregation never says that Jesus died for sin and rose, never names a tran
 
 Two songs, one catalog row, which matches the way the setlists log them. Bilbrough, “As We Seek Your Face,” 1990, Thankyou Music, CCLI 442375. Founds, “Jesus, Draw Me Close,” 1990, Maranatha Praise, CCLI 443680. Both numbers match the catalog. Integrity's text of Bilbrough has three short units: seek your face, move among us, and the holy cry at his feet. Founds's sheet is the six lines ending in worship and obey. A setlist label reads “As we gather / Jesus draw me close.” The catalog note identifies the medley as Bilbrough plus Founds. This grade follows that note. If “As we gather” was a third chorus on one Sunday, that Sunday is not what this report scores. Keys on the variants are F and D. No arrangement year is on file.
 
-CCLI 3189607, named above for *Come, Ye Sinners*, is the number Lifeway prints for Hart's text. Another public list prints 22111 for the same hymn. Confirm the number on SongSelect before it is reported.
+CCLI 22111, named above for *Come, Ye Sinners*, is the public-domain Hart text.
 
 ---
 

@@ -76,7 +76,7 @@ The refrain states the errand before any scene: tell it on the mountain, over th
 | Resurrection | No | |
 | Reign / session | No | |
 | Repentance | No | |
-| Lordship | Yes | “Jesus Christ.” “Our Savior.” |
+| Lordship | No | “Jesus Christ” and “our Savior” name the child. The lyric does not say that he is Lord. |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
@@ -159,7 +159,7 @@ The congregation never says that the child will die for sin and rise, never name
 
 ## Identification notes
 
-One traditional song. The catalog names an African American spiritual, leaves the year as “unknown / pub. 1907,” and leaves CCLI empty, which matches the note in the rubric that Go Tell It has no CCLI. The header year 1907 is the publication of the stanzas in common use. The refrain is older. Hymnary's Presbyterian and Lutheran printings credit the stanzas to John Wesley Work Jr. and keep the refrain as the spiritual. This grade follows those three stanzas: the watching shepherds and the holy light; the fear and the angel chorus hailing the Savior's birth; the lowly manger, the humble Christ, and the salvation God sent.
+One traditional song. The catalog names an African American spiritual, leaves the year as “unknown / pub. 1907,” and leaves CCLI empty, which matches the note in the rubric that Go Tell It has no CCLI. The header year 1907 is the stanza publication date. The refrain is older. Hymnary's Presbyterian and Lutheran printings credit the stanzas to John Wesley Work Jr. and keep the refrain as the spiritual. This grade follows those three stanzas: the watching shepherds and the holy light; the fear and the angel chorus hailing the Savior's birth; the lowly manger, the humble Christ, and the salvation God sent.
 
 Edition-specific numbers exist and were not adopted. A hymn site prints 5342545. One denominational list prints 7040771. A modern arrangement prints 7197607. They are not one settled number for the spiritual, and the catalog rightly has none. Some books add a stanza beginning “When I was a seeker.” That stanza is not in the three scored here. If the church chart includes it, the leader should know this grade did not. No arrangement year is on file. The setlist variant does not print a key.
 

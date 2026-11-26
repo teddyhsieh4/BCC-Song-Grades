@@ -9,7 +9,7 @@
 - **Arrangement year:** not on file
 - **Family:** Hymn
 - **Era:** Before 1900 (hymns)
-- **CCLI:** 4755360
+- **CCLI:** 22025
 - **Times logged (2023–Sept 2026):** 1
 - **Years seen:** 2024 (one year in this window)
 - **Setlist variants:** Amazing Grace - C
@@ -19,7 +19,7 @@
 
 ## Thesis
 
-Grace saved a wretch. It taught the heart to fear and then relieved the fear. It has brought the singer through dangers and will lead him home. The Lord's word secures hope. He is shield and portion. When flesh fails, and when the earth gives way, the God who called the singer will be his forever.
+Grace saved a wretch. It taught the heart to fear and then relieved the fear. It has brought the singer through dangers, and it will lead the singer home. The Lord's word secures hope. He is shield and portion. When flesh fails, and when the earth gives way, the God who called the singer will be the singer's forever.
 
 ---
 
@@ -112,7 +112,7 @@ The “ten thousand years” stanza, if the church adds it, is unending praise. 
 
 “'Twas grace that taught my heart to fear, / And grace my fears relieved” agrees with Psalm 130:4, “with you there is forgiveness, that you may be feared.” Fear and relief are both from God. “The hour I first believed” is the singer's date for faith. Ephesians 2:8 says salvation is by grace through faith. The hour is the singer's testimony. No verse dates it. “His word my hope secures” agrees with Psalm 119:49, the word in which God has made his servant hope. “He will my shield and portion be” joins Psalm 28:7, “The LORD is my strength and my shield,” and Psalm 73:26, “God is the strength of my heart and my portion forever.”
 
-“Within the veil” is Hebrews 6:19, the hope that “enters into the inner place behind the curtain.” “The earth shall soon dissolve like snow” is Newton's picture. Second Peter 3:10 says the heavenly bodies will be dissolved and the earth laid bare. The snow is his. “God, who called me here below” agrees with Romans 8:30, “those whom he predestined he also called,” and with 1 Corinthians 1:9, the God by whom the church was called into the fellowship of his Son. The hymn says “called” and does not say “his Son.” The Olney heading, 1 Chronicles 17:16, is David's “Who am I.” Newton's hymn reviews grace from that place. The lines are accurate. The cross is not told.
+“Within the veil” is Hebrews 6:19, the hope that “enters into the inner place behind the curtain.” “The earth shall soon dissolve like snow” is Newton's picture. Second Peter 3:10 says the heavenly bodies will be “burned up and dissolved,” and the earth and its works “will be exposed.” The snow is his. “God, who called me here below” agrees with Romans 8:30, “those whom he predestined he also called,” and with 1 Corinthians 1:9, the God by whom the church was called into the fellowship of his Son. The hymn says “called” and does not say “his Son.” The Olney heading, 1 Chronicles 17:16, is David's “Who am I.” Newton's hymn reviews grace from that place. The lines are accurate. The cross is not told.
 
 ---
 
@@ -130,7 +130,7 @@ The hymn is testimony. Almost every verb has “I” or “me” as its object o
 
 ## Description of God’s Character: 4
 
-Grace saves, teaches fear, relieves fear, brings the singer through snares, and will lead him home. The Lord promises good. His word secures hope. He is shield and portion for the length of life. He is the God who calls and who remains when flesh fails and when the world gives way. Fear belongs with his holiness. The word and the promise belong with his faithfulness. Shield and portion belong with his care. Wrath is not named. A grace that teaches the heart to fear is still a holy grace. The cross is outside the hymn. The attributes that are here are sung as works: saving, teaching fear, securing hope, shielding, calling.
+Grace saves, teaches fear, relieves fear, brings the singer through snares, and will lead the singer home. The Lord promises good. His word secures hope. He is shield and portion for the length of life. He is the God who calls and who remains when flesh fails and when the world gives way. Fear belongs with his holiness. The word and the promise belong with his faithfulness. Shield and portion belong with his care. Wrath is not named. A grace that teaches the heart to fear is still a holy grace. The cross is outside the hymn. The attributes that are here are sung as works: saving, teaching fear, securing hope, shielding, calling.
 
 ---
 
@@ -165,7 +165,7 @@ The congregation never says the name of Jesus, never says that he died for sin a
 
 One hymn. John Newton, 1779, six stanzas in *Olney Hymns*. The catalog title, writer, and year match that text, and the catalog already separates it from *Amazing Grace (My Chains Are Gone)*. The tune in ordinary American use is New Britain. No arrangement year is on file. The setlist only says the key of C, so the stanza list on the church chart is unknown.
 
-The catalog prints CCLI 22000. This pass could not find 22000 on a public SongSelect citation. A church sheet for a short text (Newton, Rees, and Excell, with the ten thousand years stanza) prints CCLI 22025. Two other public sheets print CCLI Song # 4755360, with the SongSelect terms line, for the public-domain Newton text in the four-stanza form that includes “ten thousand years.” *My Chains Are Gone* is a different number (CCLI 4768151 on one of those same sheets) and a different song. The header uses 4755360 because that is the number on the license lines found for the traditional text. SongSelect itself was not opened. The reviewer should confirm the number before anyone reports the song.
+The catalog prints CCLI 22000. 22000 and 4755360 could not be confirmed for this hymn. The header uses 22025, the number on a public sheet of the Newton text that also names Rees and Excell and includes the ten thousand years stanza. *Amazing Grace (My Chains Are Gone)* is a different song.
 
 The stanza beginning “When we've been there ten thousand years” does not appear in *Olney Hymns*. American books later joined this wandering stanza to Newton's words, notably Edwin O. Excell's *Coronation Hymns* (1910). Some printings credit John P. Rees. This grade does not count it as Newton's. If it is sung, it says that praise in heaven does not run out. It still does not name Christ.
 

@@ -116,13 +116,13 @@ Yes. A worshiper who believes in one great God can sing the whole text. “God o
 
 - **Unbiblical:** none.
 - **Non-biblical:** “Still You make time for me / I can't understand.” The God who holds all things is mindful of man, which is Psalm 8:4. “Make time” is a schedule. The line cannot be checked against a verse.
-- **Thin:** “How beautiful is Your unfailing love,” “You are my song / And I sing for You,” and “God of grace and power.” Grace and power are named. The song never says what the power did or whom the grace forgave. “The Holy One and my unfailing love” can be sung as a title for God, the love that does not fail the singer. It can also be heard as the singer's own love, said to be unfailing. The first reading fits “You remain.” The second reading is a claim no Christian should make about his own affection.
+- **Thin:** “How beautiful is Your unfailing love,” “You are my song / And I sing for You,” and “God of grace and power.” Grace and power are named. The song never says what the power did or whom the grace forgave. “The Holy One and my unfailing love” can be sung as a title for God. Psalm 144:2 says of the LORD, “he is my steadfast love.” It can also be heard as the singer's own love, said to be unfailing. The first reading fits “You remain” and fits the psalm. The second reading is a claim no Christian should make about his own affection.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 3
 
-“You never change” agrees with Malachi 3:6, “For I the LORD do not change.” “The Holy One” is the title in Isaiah 43:3, “the Holy One of Israel, your Savior.” The song keeps the title and does not keep “your Savior.” “You are my rock” agrees with Psalm 18:2, “The LORD is my rock.” “Everything You hold in Your hand” agrees with Psalm 95:4, “In his hand are the depths of the earth.” “You are my strength” and “God of grace and power” are true and general.
+“You never change” agrees with Malachi 3:6, “For I the LORD do not change.” “The Holy One” is the title in Isaiah 43:3, “the Holy One of Israel, your Savior.” The song keeps the title and does not keep “your Savior.” “The Holy One and my unfailing love” takes the shape of Psalm 144:2, “he is my steadfast love,” with the love as a name for God. “You are my rock” agrees with Psalm 18:2, “The LORD is my rock.” “Everything You hold in Your hand” agrees with Psalm 95:4, “In his hand are the depths of the earth.” “You are my strength” and “God of grace and power” are true and general.
 
 “You have my heart / And I am Yours forever” is a vow. It does not quote a verse. “Still You make time for me” takes the wonder of Psalm 8:4, “what is man that you are mindful of him,” and says it as a gap in a calendar. The chorus is accurate where it says he does not change and he is the Holy One. The vow and the pre-chorus are the reason the score stays at 3.
 
@@ -175,7 +175,7 @@ The congregation never names Jesus, never says that sinners are forgiven by his 
 
 ## Identification notes
 
-This is the song on *Arriving* (2004), not a different title that happens to use the words “unfailing love.” Word to Worship and PraiseCharts agree on the writers Cary Pierce, Chris Tomlin, and Ed Cash, and on CCLI 4403227. The catalog names Tomlin and Cash and prints CCLI 4222088. This check could not attach 4222088 to this lyric. The header uses 4403227, and the header restores Pierce. The setlist key is F. No arrangement year is on file. The reading of “my unfailing love” as a title for God, set out under Thin above, is a judgment call. A reviewer who hears it as the singer's own unfailing affection should treat that hearing as the harder one.
+This is the song on *Arriving* (2004), not a different title that happens to use the words “unfailing love.” Word to Worship and PraiseCharts agree on the writers Cary Pierce, Chris Tomlin, and Ed Cash, and on CCLI 4403227. The catalog names Tomlin and Cash and prints CCLI 4222088. This check could not attach 4222088 to this lyric. The header uses 4403227 and adds Pierce. The setlist key is F. No arrangement year is on file. The reading of “my unfailing love” as a title for God, set out under Thin above, is the sense of Psalm 144:2, “he is my steadfast love.” A reviewer who hears it as the singer's own unfailing affection should treat that hearing as the harder one.
 
 ---
 

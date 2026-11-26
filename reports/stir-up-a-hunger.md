@@ -39,7 +39,7 @@ The lyric is reaching for a lost soul turned, a hard heart made tender, and a hu
 
 **All I Have Is Christ** (Jordan Kauflin, Sovereign Grace, CCLI 5174122). Logged 11 times across at least four years (2023, 2024, 2025, 2026). The singer was lost, and Christ is the treasure because he suffered in the singer's place.
 
-**O Great God** (Bob Kauflin, Sovereign Grace, CCLI 4804015). Logged 8 times across at least four years (2023, 2024, 2025, 2026). The prayer is that God would overcome a rebel heart, and the prayer is tied to the blood of Christ.
+**O Great God** (Bob Kauflin, Sovereign Grace, CCLI 4804015). Logged 8 times across at least four years (2023, 2024, 2025, 2026). The prayer is that God would conquer every rebel power in the heart, and it rests on the God who loved and purchased the singer.
 
 **Come Thou Fount of Every Blessing** (Robert Robinson, hymn, CCLI 3199992). Logged 9 times across at least four years (2023, 2024, 2025, 2026). “Prone to wander” names the heart that will not stay, and the singer asks to be bound to the God who sought him.
 

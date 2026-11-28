@@ -1,6 +1,6 @@
 # Boldly I Approach (The Art of Celebration)
 
-**Source:** published Rend Collective text, Gareth Gilkeson and Chris Llewellyn (2014). Lyrics read 28 Nov 2026 on PraiseCharts and Integrity Worship. Those listings print CCLI 7014655. Copyright line: Thankyou Music, 2014.
+**Source:** published Rend Collective text, Gareth Gilkeson and Chris Llewellyn (2014). Lyrics read 27 Nov 2026 on PraiseCharts and Integrity Worship. Those listings print CCLI 7014655. Copyright line: Thankyou Music, 2014.
 
 - **Slug:** boldly-i-approach-the-art-of-celebration
 - **Catalog ID:** boldly-i-approach-the-art-of-celebration
@@ -19,7 +19,7 @@
 
 ## Thesis
 
-By grace alone the singer stands where angels fear to tread, invited by redeeming love before the throne, pulled close by nail-scarred hands. When condemnation and Satan press in, the Great I Am is here and fights for the singer. By his blood the singer approaches, blameless, welcomed as his own. The Son is risen, spotless in righteousness, and the celebration is freedom from condemnation because he made an end to the singer's sin.
+By grace alone the singer stands where angels fear to tread, invited by redeeming love before the throne, pulled close by nail-scarred hands. When condemnation and Satan press in, the Great I Am is here and fights for the singer. By Christ's blood the singer approaches, blameless, welcomed as Christ's own. The Son is risen, spotless in righteousness, and the celebration is freedom from condemnation because Christ made an end to the singer's sin.
 
 ---
 
@@ -53,7 +53,7 @@ First person, and the chorus speaks to God: "Boldly I approach Your throne," "By
 
 ## How the text moves
 
-It starts with grace alone, a standing where angels fear, redeeming love, the throne, and nail-scarred hands. The next stanza is condemnation, Satan's temptation to despair, the voice of the Great I Am, and the one who fights and shields. The chorus is the approach: blameless, running home, by blood, welcomed, into majesty. A later stanza beholds the risen Son, his beauty, Love himself, and a spotless righteousness that a thousand years of praise cannot exhaust. The bridge names the celebration as knowing freedom from condemnation, and praise to the one who made an end to sin. The chorus is the approach. The verses and the bridge say why the approach is allowed.
+It starts with grace alone, a standing where angels fear, redeeming love, the throne, and nail-scarred hands. The next stanza is condemnation, Satan's temptation to despair, the voice of the Great I Am, and the one who fights and shields. The chorus is the approach: blameless, running home, by blood, welcomed, into majesty. A later stanza beholds the risen Son, the Son's beauty, Love himself, and a spotless righteousness that a thousand years of praise cannot exhaust. The bridge names the celebration as knowing freedom from condemnation, and praise to the one who made an end to sin. The chorus is the approach. The verses and the bridge say why the approach is allowed.
 
 ---
 
@@ -76,7 +76,7 @@ It starts with grace alone, a standing where angels fear, redeeming love, the th
 | Resurrection | Yes | "The bright and risen Son." |
 | Reign / session | Implied | "Before the throne of God above." "Into the arms of majesty." The lyric does not say he is seated. |
 | Repentance | No | |
-| Lordship | Yes | "The Great I Am, the Lord is here." "The risen Son." |
+| Lordship | Implied | "The Great I Am, the Lord is here." |
 | Present intercession | No | |
 | Justification / imputed righteousness | Yes | "Blameless now." "Free from condemnation." "His perfect spotless righteousness." |
 
@@ -104,25 +104,25 @@ No. "Nail-scarred hands," "by Your blood I come," and "the bright and risen Son"
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-"Boldly I approach Your throne" agrees with Hebrews 4:16, drawing near with confidence to the throne of grace. "By grace alone somehow I stand" agrees with Romans 5:2, access by faith into this grace. "By Your blood I come" agrees with Hebrews 10:19, confidence to enter by the blood of Jesus. "Nail-scarred hands" agree with the risen Christ who shows his hands, as in John 20:27. "Free from condemnation" is Romans 8:1. "The bright and risen Son" is the resurrection. "His perfect spotless righteousness" is the righteousness in which the singer stands. "Made an end to all my sin" says the sin has been dealt with by him. "The Great I Am, the Lord is here" uses the name of Exodus 3:14 for the one who scatters fear. The approach, the blood, the scars, and the end of condemnation can be tied to those texts.
+"Boldly I approach Your throne" agrees with Hebrews 4:16, drawing near with confidence to the throne of grace. "By grace alone somehow I stand" agrees with Romans 5:2, access by faith into this grace. "By Your blood I come" agrees with Hebrews 10:19, confidence to enter by the blood of Jesus. "Nail-scarred hands" agree with the risen Christ who shows his hands, as in John 20:27. "Free from condemnation" is Romans 8:1. "The bright and risen Son" is the resurrection. "His perfect spotless righteousness" is the righteousness in which the singer stands. "Made an end to all my sin" says Christ has dealt with the sin. "The Great I Am, the Lord is here" uses the name of Exodus 3:14 for the one who scatters fear. The approach, the blood, the scars, and the end of condemnation can be tied to those texts.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-Redeeming love brings the singer before the throne. Nail-scarred hands pull the singer close. Blood is the way in. The Son is risen, spotless, and he has made an end to sin so that condemnation is over and the singer is blameless and welcomed. The word cross is absent. The scars and the blood are the cross in the lyric. The resurrection is explicit. That is a full gospel of approach.
+Redeeming love brings the singer before the throne. Nail-scarred hands pull the singer close. Blood is the way in. The Son is risen, spotless, and Christ has made an end to sin so that condemnation is over and the singer is blameless and welcomed. The word cross is absent. The scars and the blood are the cross in the lyric. The resurrection is explicit. That is a full gospel of approach.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-"By Your blood I come," "nail-scarred hands," "the risen Son," and "an end to all my sin" declare his work. "Somehow I stand," "when condemnation grips my heart," "I'm running home," and "face to face with Love Himself" are the singer's approach and the singer's fear. The grounds of the boldness are his blood and his scars. The voice is one sinner coming in.
+"By Your blood I come," "nail-scarred hands," "the risen Son," and "an end to all my sin" declare Christ's work. "Somehow I stand," "when condemnation grips my heart," "I'm running home," and "face to face with Love Himself" are the singer's approach and the singer's fear. The grounds of the boldness are Christ's blood and Christ's scars. The voice is one sinner coming in.
 
 ---
 
 ## Description of God’s Character: 5
 
-He is redeeming love, the Lord on the throne, the Great I Am who scatters fear, the one who fights and shields, majestic, the risen Son, spotless in righteousness, and the one who ends sin and condemns no longer. Justice is the condemnation that is finished and the blood that answers it. Mercy is the welcome and the arms. Holiness is the spotless righteousness. The portrait holds the scars and the welcome together.
+The lyric names redeeming love, the Great I Am who scatters fear, the one who fights and shields, the risen Son, spotless in righteousness, and the one who ends sin and condemns no longer. Justice is the condemnation that is finished and the blood that answers it. Mercy is the welcome and the arms. Holiness is the spotless righteousness. The portrait holds the scars and the welcome together.
 
 ---
 

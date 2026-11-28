@@ -1,11 +1,11 @@
 # Amazing Grace (My Chains Are Gone)
 
-**Source:** the John Newton stanzas with the Chris Tomlin / Louie Giglio chorus (2006), CCLI 4768151. Lyrics read 28 Nov 2026 on Word to Worship and on a congregational lyric sheet that prints that CCLI number.
+**Source:** the John Newton stanzas with the Chris Tomlin / Louie Giglio chorus (2006), CCLI 4768151. Lyrics read 27 Nov 2026 on Word to Worship and on a congregational lyric sheet that prints that CCLI number.
 
 - **Slug:** amazing-grace-my-chains-are-gone
 - **Catalog ID:** amazing-grace-my-chains-are-gone
 - **Writers:** John Newton / Chris Tomlin / Louie Giglio
-- **Year written:** 2006 (chorus; Newton's stanzas 1779)
+- **Year written:** 2006
 - **Arrangement year:** not on file
 - **Family:** Modern hymn
 - **Era:** 2000–2009
@@ -27,7 +27,7 @@ Amazing grace saved a wretch, once lost and now found, once blind and now seeing
 
 Strong
 
-Use it regularly when the service is on grace, and keep the chorus. The church has logged this setting once, in 2025. "My God, my Savior has ransomed me" is the line the Tomlin text adds to Newton, and it has to stay. Newton's stanzas never say the cross. The ransom word is as close as this lyric comes. Pair it with a song that tells the death if the sermon is the atonement.
+Use it regularly when the service is on grace, and keep Newton's stanzas with the chorus. The church has logged this setting once, in 2025. The stanzas carry the wretch, the fear grace taught, and the word that secures hope. "My God, my Savior has ransomed me" names the ransom. The chorus does not name the cross, the blood, or Jesus. Pair it with a song that tells that death if the sermon is the atonement.
 
 ---
 
@@ -35,8 +35,8 @@ Use it regularly when the service is on grace, and keep the chorus. The church h
 
 | Category | Score |
 |---|---|
-| Theological Accuracy and Biblical Fidelity | 5 |
-| Christ-Exalting and Gospel-Saturated | 4 |
+| Theological Accuracy and Biblical Fidelity | 4 |
+| Christ-Exalting and Gospel-Saturated | 3 |
 | Objectivity vs. Subjectivity | 4 |
 | Description of God’s Character | 4 |
 | Congregational Usefulness and Clarity | 4 |
@@ -70,13 +70,13 @@ It opens with Newton's sweet sound, the wretch, the lost and found, the blind an
 | Incarnation | No | |
 | Our sin named | Yes | "A wretch like me." "Was blind." |
 | Substitution stated | Implied | "My Savior has ransomed me." The price is not described. |
-| Wrath or curse | Implied | "Grace that taught my heart to fear." Wrath is not named. |
+| Wrath or curse | No | |
 | Cross | No | |
 | Burial | No | |
 | Resurrection | No | |
 | Reign / session | No | "His mercy reigns" is mercy's reign. The lyric does not say Christ is seated. |
 | Repentance | Implied | Lost, then found. Blind, then seeing. A confession is not spoken. |
-| Lordship | Implied | "The Lord has promised good to me." "My God, my Savior." |
+| Lordship | No | |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
@@ -102,15 +102,15 @@ The Newton stanzas can be sung by someone who means a vague mercy, which is an o
 
 ---
 
-## Theological Accuracy and Biblical Fidelity: 5
+## Theological Accuracy and Biblical Fidelity: 4
 
-"Amazing grace, how sweet the sound / That saved a wretch like me / I once was lost, but now I'm found / Was blind, but now I see" is Newton's stanza. Lost and found agree with Luke 15:24. "Twas grace that taught my heart to fear / And grace my fears relieved" agrees with the fear of the Lord and with grace that answers it. "My God, my Savior has ransomed me" agrees with Mark 10:45, the Son of Man giving his life as a ransom. "The Lord has promised good to me / His word my hope secures / He will my shield and portion be" is Newton's confidence in the promise, the word, and the portion. "The earth shall soon dissolve like snow" stands near 2 Peter 3:10, the heavens passing away and the earth exposed. "God, who called me here below" agrees with the call of grace. The chorus adds a ransom to stanzas that were already Scripture-shaped. The lines can be tied to those texts.
+The song carries Newton's stanzas. "Amazing grace, how sweet the sound / That saved a wretch like me / I once was lost, but now I'm found / Was blind, but now I see" agrees with Luke 15:24 in the lost and found. "Twas grace that taught my heart to fear / And grace my fears relieved" is Newton's account of fear and of the grace that relieved it. "The Lord has promised good to me / His word my hope secures / He will my shield and portion be" is his confidence in the promise, the word, and the portion. "The earth shall soon dissolve like snow" stands near 2 Peter 3:10. "God, who called me here below" agrees with the call of grace. The chorus then says "My God, my Savior has ransomed me" and "His mercy reigns." "His mercy reigns" says that he rules. The ransom word agrees with the idea of Mark 10:45, and the line does not say the cross, the blood, or the name Jesus. Newton's lines can be tied to texts. The chorus names the ransom and stops. The score stays at 4.
 
 ---
 
-## Christ-Exalting and Gospel-Saturated: 4
+## Christ-Exalting and Gospel-Saturated: 3
 
-A wretch is saved. A Savior ransoms. Mercy reigns, and the singer is set free. The name Jesus is absent, and the cross, the blood, and the resurrection are absent. The ransom is the finished work in one line. Newton's hymn has always left the death for the preacher or for another text. This chorus names the ransom and still does not tell it. The score is 4 because the Savior and the ransom are explicit and the cross is not.
+Newton's stanzas carry a wretch saved by grace. The chorus names the ransom: "My God, my Savior has ransomed me," and "His mercy reigns." The chorus does not name the cross, the blood, or Jesus. Mercy ruling and a Savior who ransoms are as far as the finished work goes in this setting. The score is 3.
 
 ---
 
@@ -161,4 +161,4 @@ This row is the 2006 Tomlin and Giglio chorus on Newton's stanzas, CCLI 4768151,
 
 ## Why this overall label
 
-Newton's stanzas tell a wretch saved by grace, and the chorus adds that the Savior has ransomed the singer and the chains are gone. The cross and the name Jesus are for another song in the hour. With the ransom line sung, the church can use this setting regularly.
+Newton's stanzas carry the wretch, the grace, and the word that secures hope. The chorus names the ransom, and "His mercy reigns" says that he rules. The chorus does not name the cross, the blood, or Jesus. With Newton's stanzas kept, the church can use this setting regularly.

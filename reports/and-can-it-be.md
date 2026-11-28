@@ -1,6 +1,6 @@
 # And Can It Be
 
-**Source:** Charles Wesley's text, first published 1738, in the five-stanza form sung to SAGINA. Representative text and CCLI 25280 read 28 Nov 2026 on Hymnary and on a public-domain chart of that number. The original sixth stanza, "Still the small inward voice I hear," is the one later books omit.
+**Source:** Charles Wesley wrote the text in 1738. It was published in 1739, in the five-stanza form sung to SAGINA. Representative text and CCLI 25280 read 27 Nov 2026 on Hymnary and on a public-domain chart of that number. The fifth stanza of the 1739 printing, "Still the small inward voice I hear," is the one later books omit.
 
 - **Slug:** and-can-it-be
 - **Catalog ID:** and-can-it-be
@@ -27,7 +27,7 @@ The singer asks how an interest in the Savior's blood can belong to the one who 
 
 Excellent / Prefer
 
-Feature it, and sing the blood and the dungeon and the last stanza. The church has logged it 2 times across at least two years (2024, 2025). "Died He for me, who caused His pain" and "No condemnation now I dread" have to stay. "'Tis mystery all! Th'Immortal dies" is the stanza books sometimes skip. Keep it. The hymn tells the death, the incarnation, and the righteousness. It does not need to be rescued by the rest of the set.
+Feature it, and sing the blood and the dungeon and the last stanza. The church has logged it 2 times across at least two years (2024, 2025). "Died He for me, who caused His pain" and "No condemnation now I dread" have to stay. "'Tis mystery all! Th'Immortal dies" is the stanza books sometimes skip. Keep it. The hymn tells Christ's death, the incarnation, and the righteousness. It does not need to be rescued by the rest of the set.
 
 ---
 
@@ -47,13 +47,13 @@ Rubric version v1. Grade date 2026-11-28.
 
 ## Voice and addressee
 
-First person, speaking to God. "Died He for me," "That Thou, my God, shouldst die for me," "For, O my God, it found out me." The middle stanzas also speak about him: "He left His Father's throne above," "And bled for Adam's helpless race." The church sings one sinner's astonishment at a death that the hymn has already said is for that sinner and for Adam's race.
+First person, speaking to God. "Died He for me," "That Thou, my God, shouldst die for me," "For, O my God, it found out me." The middle stanzas also speak about him: "He left His Father's throne above," "And bled for Adam's helpless race." The church sings one sinner's astonishment at Christ's death, which the hymn has already said is for that sinner and for Adam's race.
 
 ---
 
 ## How the text moves
 
-It opens on the blood and the death pursued by the singer. The next stanza stops at the mystery: the immortal dies, and angels cannot sound the love. The third stanza is the throne he left, the self-emptying, and the blood for Adam's race, which then "found out me." The fourth is the dungeon, the quickening ray, the chains falling, and the following. The last stanza is Romans 8: no condemnation, clothed in righteousness, bold at the throne, the crown claimed through Christ. The refrain returns to "Thou, my God, shouldst die for me." The hymn moves from the blood, to the leaving of the throne, to freedom, to approach.
+It opens on the blood and on Christ's death, pursued by the singer. The next stanza stops at the mystery: the immortal dies, and angels cannot sound the love. The third stanza is the throne he left, the self-emptying, and the blood for Adam's race, which then "found out me." The fourth is the dungeon, the quickening ray, the chains falling, and the following. The last stanza is Romans 8: no condemnation, clothed in righteousness, bold at the throne, the crown claimed through Christ. The refrain returns to "Thou, my God, shouldst die for me." The hymn moves from the blood, to the leaving of the throne, to freedom, to approach.
 
 ---
 
@@ -71,12 +71,12 @@ It opens on the blood and the death pursued by the singer. The next stanza stops
 | Our sin named | Yes | "Who caused His pain." "Who Him to death pursued." "Fast bound in sin and nature's night." |
 | Substitution stated | Yes | "Died He for me." "Bled for Adam's helpless race." |
 | Wrath or curse | No | The omitted stanza names wrath. The five-stanza text does not. |
-| Cross | Implied | The blood and the death. The word cross is not used. |
+| Cross | Implied | The blood and Christ's death. The word cross is not used. |
 | Burial | No | |
-| Resurrection | Implied | "I rose, went forth, and followed Thee" is the singer rising. "Alive in Him, my living Head" is union with the living Christ. His rising is not narrated. |
-| Reign / session | Yes | "He left His Father's throne above." "Bold I approach th'eternal throne." |
-| Repentance | Implied | The singer owns the pursuit of his death. A confession formula is not spoken. |
-| Lordship | Yes | "My living Head." The singer follows him. |
+| Resurrection | No | |
+| Reign / session | Implied | "He left His Father's throne above." |
+| Repentance | Implied | The singer owns the pursuit of Christ's death. A confession formula is not spoken. |
+| Lordship | Implied | "My living Head." |
 | Present intercession | No | |
 | Justification / imputed righteousness | Yes | "No condemnation now I dread." "Clothed in righteousness divine." |
 
@@ -104,25 +104,25 @@ No. "An interest in the Savior's blood," "Thou, my God, shouldst die for me," an
 
 ## Theological Accuracy and Biblical Fidelity: 5
 
-"Died He for me, who caused His pain" agrees with Romans 5:8, Christ dying for sinners. "Th'Immortal dies" and "Emptied Himself of all but love" stand with Philippians 2:6-8, the one in the form of God taking the form of a servant and becoming obedient to death. "Bled for Adam's helpless race" sets that death on the race in Adam. "Fast bound in sin and nature's night" agrees with Ephesians 2:1, dead in trespasses. "My chains fell off, my heart was free" uses the shape of Acts 12:7 for the release. "No condemnation now I dread" is Romans 8:1. "Clothed in righteousness divine" agrees with Isaiah 61:10. "Bold I approach th'eternal throne" agrees with Hebrews 4:16. "Alive in Him, my living Head" agrees with Colossians 1:18. The hymn says the death, the emptying, the freedom, and the approach in that order.
+"Died He for me, who caused His pain" agrees with Romans 5:8, Christ dying for sinners. "Th'Immortal dies" and "Emptied Himself of all but love" stand with Philippians 2:6-8, the one in the form of God taking the form of a servant and becoming obedient to death. "Bled for Adam's helpless race" sets that death on the race in Adam. "Fast bound in sin and nature's night" agrees with Ephesians 2:1, dead in trespasses. "My chains fell off, my heart was free" uses the shape of Acts 12:7 for the release. "No condemnation now I dread" is Romans 8:1. "Clothed in righteousness divine" agrees with Isaiah 61:10. "Bold I approach th'eternal throne" agrees with Hebrews 4:16. "Alive in Him, my living Head" agrees with Colossians 1:18. The hymn says Christ's death, the emptying, the freedom, and the approach in that order.
 
 ---
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-He dies for the one who caused his pain. He leaves the Father's throne, empties himself, and bleeds for Adam's race. The singer's chains fall, condemnation is gone, and the righteousness is Christ's. The word cross is absent. The blood, the death, the incarnation, and the robe are present. The omitted stanza would have added wrath quenched by the blood. The five stanzas still tell a death for sinners and a righteousness the singer wears.
+He dies for the one who caused his pain. He leaves the Father's throne, empties himself, and bleeds for Adam's race. The singer's chains fall, condemnation is gone, and the righteousness is Christ's. The word cross is absent. The blood, Christ's death, the incarnation, and the robe are present. The omitted fifth stanza would have added wrath quenched by the blood. The five stanzas still tell Christ's death for sinners and a righteousness the singer wears.
 
 ---
 
 ## Objectivity vs. Subjectivity: 4
 
-"Died He for me," "bled for Adam's helpless race," and "no condemnation" declare the work. "Who caused His pain," "it found out me," and "long my imprisoned spirit lay" are that work landing on the singer. The amazement is personal because the death is personal. The claims remain his death, his throne, his righteousness.
+"Died He for me," "bled for Adam's helpless race," and "no condemnation" declare the work. "Who caused His pain," "it found out me," and "long my imprisoned spirit lay" are that work landing on the singer. The amazement is personal because Christ's death is personal. The claims remain Christ's death, his throne, and his righteousness.
 
 ---
 
 ## Description of God’s Character: 5
 
-He is the immortal God who dies for the singer, mercy and love beyond an angel's search, free and infinite in grace, the one who left a throne and bled, the living Head, and the righteousness the singer wears. Justice is in the condemnation that is now gone and in the death the singer's pursuit deserved. Mercy is the blood that found the singer out. The portrait is the God who dies and the sinner who approaches.
+He is the immortal God who dies for the singer, mercy and love beyond an angel's search, free and infinite in grace, the one who left a throne and bled, the living Head, and the righteousness the singer wears. Justice is in the condemnation that is now gone and in Christ's death, which the singer's pursuit deserved. Mercy is the blood that found the singer out. The portrait is the God who dies and the sinner who approaches.
 
 ---
 
@@ -134,31 +134,31 @@ Two logs across at least two years means it is known to some and not worn out. T
 
 ## Tone
 
-The tone is astonished and then bold. The line that sets it is "Amazing love! how can it be / That Thou, my God, shouldst die for me?" The dungeon stanza is darker. "No condemnation now I dread" is the boldness. The amazement is aimed at the death.
+The tone is astonished and then bold. The line that sets it is "Amazing love! how can it be / That Thou, my God, shouldst die for me?" The dungeon stanza is darker. "No condemnation now I dread" is the boldness. The amazement is aimed at Christ's death.
 
 ---
 
 ## What the congregation never says
 
-The congregation never says the word cross, never says that wrath was borne, and never names the Spirit. The blood and the death are sung. The wrath is in the stanza this form leaves out.
+The congregation never says the word cross, never says that wrath was borne, and never names the Spirit. The blood and Christ's death are sung. The wrath is in the fifth stanza this form leaves out.
 
 ---
 
 ## Setlist notes
 
 - **When it serves the sermon.** Romans 5, Philippians 2, or Romans 8:1. All five stanzas belong.
-- **Gaps the rest of the hour must cover.** Little, if the five stanzas are sung. The resurrection is implied in the living Head and is not narrated. Pair it with *Christ Our Hope in Life and Death* (logged 8 times) when the empty tomb is the text.
-- **Diet sentence.** Twice in at least two years, it adds a death for the sinner who caused the pain, an emptying from the Father's throne, and a righteousness with no condemnation.
+- **Gaps the rest of the hour must cover.** The resurrection, if the morning is the empty tomb. Pair it with *Christ Our Hope in Life and Death* (logged 8 times) when that is the text.
+- **Diet sentence.** Twice in at least two years, it adds Christ's death for the sinner who caused the pain, an emptying from the Father's throne, and a righteousness with no condemnation.
 - **What not to do.** Do not drop "'Tis mystery all! Th'Immortal dies." Do not replace the middle stanzas with a louder refrain until the blood and the robe are gone.
 
 ---
 
 ## Identification notes
 
-One hymn. Charles Wesley, 1738, CCLI 25280, matching the catalog and the public-domain charts read here. The usual tune is SAGINA, Thomas Campbell, 1825. The catalog names Wesley and not Campbell. Later arrangements carry other CCLI numbers. This grade uses 25280 and the five stanzas that begin "And can it be," "'Tis mystery all," "He left His Father's throne," "Long my imprisoned spirit lay," and "No condemnation now I dread." The 1739 printing had a further stanza, "Still the small inward voice I hear," which names the atoning blood quenching wrath. That stanza is not in the text graded here. Setlist variants do not print a key. No arrangement year is on file.
+One hymn. Charles Wesley, 1738, CCLI 25280, matching the catalog and the public-domain charts read here. The usual tune is SAGINA, Thomas Campbell, 1825. The catalog names Wesley and not Campbell. Later arrangements carry other CCLI numbers. This grade uses 25280 and the five stanzas that begin "And can it be," "'Tis mystery all," "He left His Father's throne," "Long my imprisoned spirit lay," and "No condemnation now I dread." The 1739 printing includes a fifth stanza, "Still the small inward voice I hear," which names the atoning blood quenching wrath. Later books omit that fifth stanza. It is not in the text graded here. Setlist variants do not print a key. No arrangement year is on file.
 
 ---
 
 ## Why this overall label
 
-The hymn says God died for the sinner who caused his pain, left the Father's throne, bled for Adam's race, and clothes that sinner in a righteousness that ends condemnation. The word cross is absent and the wrath is in a stanza this form omits. The blood, the death, and the robe are in the stanzas the church sings. This is a text to feature.
+The hymn says God died for the sinner who caused his pain, left the Father's throne, bled for Adam's race, and clothes that sinner in a righteousness that ends condemnation. The word cross is absent and the wrath is in a stanza this form omits. The blood, Christ's death, and the robe are in the stanzas the church sings. This is a text to feature.

@@ -1,6 +1,6 @@
 # Awesome Is the Lord Most High
 
-**Source:** published Chris Tomlin / Jesse Reeves / Cary Pierce / Jon Abel text (2006). Lyrics and CCLI 4674159 read 28 Nov 2026 on Word to Worship and PraiseCharts.
+**Source:** published Chris Tomlin / Jesse Reeves / Cary Pierce / Jon Abel text (2006). Lyrics and CCLI 4674159 read 27 Nov 2026 on Word to Worship and PraiseCharts.
 
 - **Slug:** awesome-is-the-lord-most-high
 - **Catalog ID:** awesome-is-the-lord-most-high
@@ -92,9 +92,9 @@ It starts with greatness, might, and faithfulness, and with praise offered for h
 | Cross | No | |
 | Burial | No | |
 | Resurrection | No | |
-| Reign / session | Implied | "The Lord most high." |
+| Reign / session | No | |
 | Repentance | No | |
-| Lordship | Implied | "Great are You, Lord." "The Lord most high." |
+| Lordship | No | |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 

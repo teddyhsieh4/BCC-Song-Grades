@@ -1,6 +1,6 @@
 # Blessed Be Your Name
 
-**Source:** published Matt Redman / Beth Redman text (2002), CCLI 3798438. Lyrics read 28 Nov 2026 on Integrity Worship and on congregational sheets that print that number.
+**Source:** published Matt Redman / Beth Redman text (2002), CCLI 3798438. Lyrics read 27 Nov 2026 on Integrity Worship and on congregational sheets that print that number.
 
 - **Slug:** blessed-be-your-name
 - **Catalog ID:** blessed-be-your-name
@@ -53,7 +53,7 @@ First person, speaking to the Lord. "Blessed be Your name," "when I'm found in t
 
 ## How the text moves
 
-It blesses the name in a plentiful land where streams of abundance flow, then in the desert and the wilderness. A turn says every blessing poured out will be turned back to praise, and that when darkness closes in the singer will still say the name. The chorus blesses the name of the Lord and calls it glorious. The next pair is the sun shining, "the world's all as it should be," and then the road marked with suffering, pain in the offering. The bridge is give and take away, and the heart's choice to bless. The name is blessed in both weathers. The bridge is the only line that says God is the one who gives and who takes.
+Both verses bless the name. The first is the plentiful land and then the desert. The second is the sun shining, "the world's all as it should be," and then the road marked with suffering, pain in the offering. The bridge is give and take away, and the heart's choice to bless. The name is blessed in both verses. The bridge is the only line that says God is the one who gives and who takes.
 
 ---
 
@@ -76,7 +76,7 @@ It blesses the name in a plentiful land where streams of abundance flow, then in
 | Resurrection | No | |
 | Reign / session | No | |
 | Repentance | No | |
-| Lordship | Implied | "Blessed be the name of the Lord." |
+| Lordship | No | |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
@@ -116,7 +116,7 @@ Jesus is not named. The cross, the blood, sin, and the resurrection are absent. 
 
 ## Objectivity vs. Subjectivity: 3
 
-"You give and take away" declares what the Lord does. "Blessed be Your name" blesses him. "When I'm found in the desert place," "when the sun's shining down on me," "there's pain in the offering," and "my heart will choose to say" are the singer's place and the singer's choice. The circumstances take four verses. The Lord's act is the bridge. Both are in the song the church actually repeats, and the verses are the larger share.
+"You give and take away" declares what the Lord does. "Blessed be Your name" blesses him. "When I'm found in the desert place," "when the sun's shining down on me," "there's pain in the offering," and "my heart will choose to say" are the singer's place and the singer's choice. The circumstances fill both verses. The Lord's act is the bridge.
 
 ---
 
@@ -128,7 +128,7 @@ His name is blessed and glorious. He pours out blessing. He gives and he takes a
 
 ## Congregational Usefulness and Clarity: 4
 
-Five logs across at least four years means the room knows it. The chorus is easy, and the bridge is the lesson: bless the Lord who gives and who takes. A congregation can learn Job 1:21 from this song if the bridge is sung. They cannot learn the Son. "Pain in the offering" is clear enough. The wilderness verses will teach endurance. They will not teach why the name is glorious. The bridge is what makes the song more than a mood for hard weeks.
+Five logs across at least four years means the room knows it. The chorus is easy, and the bridge is the lesson: bless the Lord who gives and who takes. A congregation can learn Job 1:21 from this song if the bridge is sung. They cannot learn the Son. "Pain in the offering" is clear enough. Both verses set the name in plenty and in want. They will not teach why the name is glorious. The bridge is what makes the song more than a mood for hard weeks.
 
 ---
 
@@ -155,10 +155,10 @@ The congregation never names Jesus, never says why the Lord may take away, and n
 
 ## Identification notes
 
-One song. Matt Redman and Beth Redman, 2002, CCLI 3798438, matching the catalog and the Integrity and Easy Song listings. The text graded includes the plentiful land, the desert, the sun, the road marked with suffering, the chorus "Blessed be the name of the Lord," and the bridge "You give and take away." Setlist keys include A. No arrangement year is on file.
+One song. Matt Redman and Beth Redman, 2002, CCLI 3798438, matching the catalog and the Integrity and Easy Song listings. The text graded includes both verses, the plentiful land and the desert, then the sun and the road marked with suffering, the chorus "Blessed be the name of the Lord," and the bridge "You give and take away." Setlist keys include A. No arrangement year is on file.
 
 ---
 
 ## Why this overall label
 
-The bridge says the Lord gives and takes away, and the singer blesses his name, which is Job 1:21. The verses set that blessing in plenty and in suffering. Jesus is not named, and another worshiper could sing the song unchanged. The Job line is real enough to use with care, when the rest of the hour names the Son.
+The bridge says the Lord gives and takes away, and the singer blesses his name, which is Job 1:21. Both verses set that blessing in plenty and in suffering. Jesus is not named, and another worshiper could sing the song unchanged. The Job line is real enough to use with care, when the rest of the hour names the Son.

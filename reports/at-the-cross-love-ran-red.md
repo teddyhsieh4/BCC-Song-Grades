@@ -1,6 +1,6 @@
 # At the Cross (Love Ran Red)
 
-**Source:** published Chris Tomlin / Ed Cash / Matt Armstrong / Jonas Myrin / Matt Redman text (2014). Lyrics read 28 Nov 2026 on Integrity Worship, Word to Worship, and the official lyric video. Those listings print CCLI 7017786.
+**Source:** published Chris Tomlin / Ed Cash / Matt Armstrong / Jonas Myrin / Matt Redman text (2014). Lyrics read 27 Nov 2026 on Integrity Worship, Word to Worship, and the official lyric video. Those listings print CCLI 7017786.
 
 - **Slug:** at-the-cross-love-ran-red
 - **Catalog ID:** at-the-cross-love-ran-red
@@ -25,9 +25,9 @@ There is a place where mercy reigns and grace runs deep, and the love the singer
 
 ## Overall recommendation
 
-Strong
+Acceptable with notes
 
-Use it when the sermon is the cross, and do not let the surrender line replace the washing. The church has logged it once, in 2025. "Where Your love ran red and my sin washed white" and "Here You saved my life" have to stay. "I surrender my life" and "I'm in awe of You" are the singer's answer. They are not the doctrine. The blood is pictured as love running red. The exchange is not spelled out beyond the washing and the saving.
+Use it sparingly, and only when the sermon has already set the cross in plain words. The church has logged it once, in 2025. "Where Your love ran red and my sin washed white" and "Here You saved my life" have to stay. "I surrender my life" and "I'm in awe of You" share the chorus with that washing. Love running red is the picture of the blood. The resurrection and a fuller account of the exchange belong in the rest of the hour.
 
 ---
 
@@ -161,4 +161,4 @@ One song. The five writers and the year 2014 match the catalog. Integrity Worshi
 
 ## Why this overall label
 
-The chorus puts the singer at the cross, says love ran red and sin washed white, and says Jesus saved the singer's life. The surrender and the awe take as many words as the washing. The resurrection is for another song in the hour. With the washing sung, the church can use this regularly.
+The chorus puts the singer at the cross, says love ran red and sin washed white, and says Jesus saved the singer's life. Surrender and awe take as many words as the washing. With the washing kept, and with the resurrection sung somewhere else in the hour, the church can use this now and then.

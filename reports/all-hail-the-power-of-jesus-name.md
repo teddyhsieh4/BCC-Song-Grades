@@ -1,10 +1,10 @@
 # All Hail the Power of Jesus' Name
 
-**Source:** the public-domain text printed with CCLI 25400. Read 28 Nov 2026 on Word to Worship and in the Cyber Hymnal. Edward Perronet, 1779, with John Rippon's 1787 revision in the stanzas churches usually keep. Tune CORONATION, Oliver Holden, 1793.
+**Source:** the public-domain text printed with CCLI 25400. Read 27 Nov 2026 on Word to Worship and in the Cyber Hymnal. Edward Perronet, 1779, with John Rippon's 1787 revision in the stanzas churches usually keep. Tune CORONATION, Oliver Holden, 1793.
 
 - **Slug:** all-hail-the-power-of-jesus-name
 - **Catalog ID:** all-hail-the-power-of-jesus-name
-- **Writers:** Edward Perronet; John Rippon (revision); Oliver Holden (tune CORONATION)
+- **Writers:** Edward Perronet; John Rippon (1787 revision); Oliver Holden (tune CORONATION)
 - **Year written:** 1779
 - **Arrangement year:** not on file
 - **Family:** Hymn
@@ -74,7 +74,7 @@ It opens on the name and the royal diadem. Later stanzas call the ransomed, name
 | Cross | Implied | "The wormwood and the gall." The word cross is not used. |
 | Burial | No | |
 | Resurrection | No | |
-| Reign / session | Yes | "Bring forth the royal diadem, and crown Him Lord of all." |
+| Reign / session | Implied | "Bring forth the royal diadem, and crown Him Lord of all." |
 | Repentance | Implied | Sinners spread trophies at his feet. A confession is not spoken. |
 | Lordship | Yes | "Crown Him Lord of all." |
 | Present intercession | No | |

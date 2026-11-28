@@ -1,6 +1,6 @@
 # All Sufficient Merit
 
-**Source:** published Bethany Barnard / Bryan Fowler / Shane Barnard text (2023). Lyrics read 28 Nov 2026 on the Shane and Shane lyric video, a Sovereign Grace lyric sheet of the same text, and LifeWay Worship. LifeWay and Essential Music Publishing print CCLI 7212933.
+**Source:** published Bethany Barnard / Bryan Fowler / Shane Barnard text (2023). Lyrics read 27 Nov 2026 on the Shane and Shane lyric video, a Sovereign Grace lyric sheet of the same text, and LifeWay Worship. LifeWay and Essential Music Publishing print CCLI 7212933.
 
 - **Slug:** all-sufficient-merit
 - **Catalog ID:** all-sufficient-merit
@@ -74,9 +74,9 @@ It starts with merit the singer did not earn, forfeited righteousness, and the c
 | Cross | Yes | "My Savior's cross." "Thank Him for the cross." |
 | Burial | No | |
 | Resurrection | No | |
-| Reign / session | Implied | "When I stand accepted before the throne of God." The lyric does not say he is seated. |
+| Reign / session | No | |
 | Repentance | Implied | Empty boasts are laid down. A confession formula is not spoken. |
-| Lordship | Implied | "My Lord Jesus," "my Savior." |
+| Lordship | No | |
 | Present intercession | No | |
 | Justification / imputed righteousness | Yes | "His righteousness is mine." "Stand accepted." "Dressed in my Lord Jesus." |
 
@@ -84,7 +84,7 @@ It starts with merit the singer did not earn, forfeited righteousness, and the c
 
 ## Persons of the Trinity named
 
-Jesus is named, and he is Savior, Lord, the spotless Lamb, and the Maker who was made to die. "The throne of God" names God as the one before whom the singer stands accepted. The Father and the Spirit are not given those titles. The merit is the Son's.
+Jesus is named as Savior and as the spotless Lamb, the Maker who was made to die. "The throne of God" names God as the one before whom the singer stands accepted. The Father and the Spirit are not given those titles. The merit is the Son's.
 
 ---
 
@@ -110,7 +110,7 @@ No. "My Savior's cross," "the pure and spotless Lamb," and "dressed in my Lord J
 
 ## Christ-Exalting and Gospel-Saturated: 5
 
-The Savior's cross is where human righteousness is forfeited and his merit does what the singer could not. He condescends, lives without blemish, dies as the Maker, and is the Lamb the law could not replace. The singer is dressed in him, owes no debt, and thanks him for the cross before the throne. The resurrection is not named. The active obedience, the death, the imputation, and the acceptance are. That is a saturated gospel.
+The Savior's cross is where human righteousness is forfeited and Christ's merit does what the singer could not. Christ condescends, lives without blemish, dies as the Maker, and is the Lamb the law could not replace. The singer is dressed in Christ, owes no debt, and thanks Christ for the cross before the throne. The resurrection is not named. The active obedience, the death, the imputation, and the acceptance are. That is a saturated gospel.
 
 ---
 
@@ -161,4 +161,4 @@ One song. Bethany Barnard, Bryan Fowler, and Shane Barnard, 2023, matching the c
 
 ## Why this overall label
 
-The song says the singer's righteousness was forfeited at the cross, that Christ's merit did what the singer could not, and that the debt is paid so the singer wears his righteousness. The resurrection is for another song in the hour. This is a text to feature.
+The song says the singer's righteousness was forfeited at the cross, that Christ's merit did what the singer could not, and that the debt is paid so the singer wears Christ's righteousness. The resurrection is for another song in the hour. This is a text to feature.

@@ -1,10 +1,10 @@
 # Angels We Have Heard on High
 
-**Source:** the English carol from the French "Les anges dans nos campagnes," translated by James Chadwick and published in Crown of Jesus Music, 1862. Text and CCLI 27721 read 28 Nov 2026 on Hymnary and on public-domain lyric sheets of that number.
+**Source:** the English carol from the French "Les anges dans nos campagnes." The English form is associated with James Chadwick and was printed in Henri Hemy's Crown of Jesus Music (1862). Text and CCLI 27721 read 27 Nov 2026 on Hymnary and on public-domain lyric sheets of that number.
 
 - **Slug:** angels-we-have-heard-on-high
 - **Catalog ID:** angels-we-have-heard-on-high
-- **Writers:** Traditional French; tr. James Chadwick
+- **Writers:** Traditional French; English text associated with James Chadwick
 - **Year written:** 1862 (English; French carol earlier)
 - **Arrangement year:** not on file
 - **Family:** Hymn / Christmas
@@ -19,7 +19,7 @@
 
 ## Thesis
 
-Angels sing over the plains, and the mountains answer. Shepherds are asked why the jubilee. The church is told to come to Bethlehem and see Christ the Lord, the newborn King, and to see him in a manger, with Mary and Joseph there, while the church's hearts rise in love. The refrain is the angels' Gloria.
+Angels sing over the plains, and the mountains answer. Shepherds are asked why the jubilee. The church is told to come to Bethlehem and see Christ, whose birth the angels sing, and to come adore on bended knee Christ the Lord, the newborn King. The manger stanza asks Mary and Joseph to lend their aid while the church's hearts rise in love. The refrain is the angels' Gloria.
 
 ---
 
@@ -27,7 +27,7 @@ Angels sing over the plains, and the mountains answer. Shepherds are asked why t
 
 Acceptable with notes
 
-Use it at Christmas, and do not let it be the only Christ the service names. The church has logged it once, in 2024. "Come to Bethlehem and see / Christ the Lord, the newborn King" has to stay. The carol tells Luke 2 and stops at the manger. The cross and the resurrection belong in the same service if the morning is more than the announcement.
+Use it at Christmas, and do not let it be the only Christ the service names. The church has logged it once, in 2024. "Come adore on bended knee / Christ the Lord, the newborn King" has to stay. The line before it is "Come to Bethlehem and see / Christ whose birth the angels sing." The carol tells Luke 2 and stops at the manger. The cross and the resurrection belong in the same service if the morning is more than the announcement.
 
 ---
 
@@ -53,13 +53,13 @@ The first stanza reports the angels. The second asks the shepherds. The third ca
 
 ## How the text moves
 
-It starts with the song in the sky and the echo on the mountains. The shepherds are asked what the tidings are. The answer is Bethlehem, Christ the Lord, the newborn King, and then the manger, with Mary and Joseph named while the church raises its love. The refrain does not change: Gloria in excelsis Deo. The birth is the whole news. Nothing after the manger tells the cross.
+It starts with the song in the sky and the echo on the mountains. The shepherds are asked what the tidings are. The third stanza answers, "Come to Bethlehem and see / Christ whose birth the angels sing," and then "Come adore on bended knee / Christ the Lord, the newborn King." The fourth stanza sets him in the manger and asks, "Mary, Joseph, lend your aid / While our hearts in love we raise." The refrain does not change: Gloria in excelsis Deo. The birth is the whole news. Nothing after the manger tells the cross.
 
 ---
 
 ## Lines you cannot cut
 
-"Come to Bethlehem and see / Christ the Lord, the newborn King" is the line the grade depends on, with "See Him in a manger laid." "Gloria in excelsis Deo" is the line the room will sing loudest. If the band keeps the Gloria and the mountains and drops Bethlehem and the King, the carol is an echo with no child. No line is false. The third stanza is the one that names him.
+"Come to Bethlehem and see / Christ whose birth the angels sing" and "Come adore on bended knee / Christ the Lord, the newborn King" are the lines the grade depends on, with "See Him in a manger laid." "Gloria in excelsis Deo" is the line the room will sing loudest. If the band keeps the Gloria and the mountains and drops Bethlehem and the King, the carol is an echo with no child. No line is false. The third stanza is the one that names him.
 
 ---
 
@@ -74,9 +74,9 @@ It starts with the song in the sky and the echo on the mountains. The shepherds 
 | Cross | No | |
 | Burial | No | |
 | Resurrection | No | |
-| Reign / session | Implied | "The newborn King." |
+| Reign / session | No | |
 | Repentance | No | |
-| Lordship | Implied | "Christ the Lord." |
+| Lordship | No | |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
@@ -84,7 +84,7 @@ It starts with the song in the sky and the echo on the mountains. The shepherds 
 
 ## Persons of the Trinity named
 
-Christ is named, the Lord and the newborn King, laid in a manger. Mary and Joseph are named beside him. The Father and the Spirit are unnamed. The Gloria is the angels' glory to God, and the stanza that follows puts that glory on the child.
+Christ is named in the third stanza, "Christ whose birth the angels sing" and "Christ the Lord, the newborn King," and the next stanza lays him in a manger. "Mary, Joseph, lend your aid" asks those two, in the manger scene, to join the praise while the church's hearts rise. The Father and the Spirit are unnamed. The Gloria is the angels' glory to God. The third stanza puts that praise on the child.
 
 ---
 
@@ -98,13 +98,13 @@ No. "Christ the Lord, the newborn King" and "See Him in a manger laid" cannot be
 
 - **Unbiblical:** none.
 - **Non-biblical:** "Sweetly singing o'er the plains" and "echoing their joyous strains." The angels' song is Luke 2. Sweetness and the mountain echo are the carol's sound.
-- **Thin:** "Mary, Joseph, lend your aid / While our hearts in love we raise." Mary and Joseph are at the manger in the scene. The aid is the carol's way of bringing them into the praise. The love is the church's.
+- **Thin:** "Mary, Joseph, lend your aid / While our hearts in love we raise." The line asks Mary and Joseph to lend their aid while the church raises its heart in love. The love is the church's.
 
 ---
 
 ## Theological Accuracy and Biblical Fidelity: 4
 
-"Angels we have heard on high" and "Gloria in excelsis Deo" agree with Luke 2:13-14, the heavenly host praising God and saying glory to God in the highest. "Shepherds, why this jubilee?" agrees with the shepherds of Luke 2:8-15. "Come to Bethlehem and see / Christ the Lord, the newborn King" agrees with Luke 2:11, "a Savior, who is Christ the Lord," born in the city of David. "See Him in a manger laid" agrees with Luke 2:7. The carol stays inside that night. It does not go on to Simeon, the cross, or the resurrection. The lines it does sing can be tied to Luke 2. The score stays at 4 because the announcement is faithful and the rest of the gospel is outside the carol.
+"Angels we have heard on high" and "Gloria in excelsis Deo" agree with Luke 2:13-14, the heavenly host praising God and saying glory to God in the highest. "Shepherds, why this jubilee?" agrees with the shepherds of Luke 2:8-15. "Come to Bethlehem and see / Christ whose birth the angels sing" and "Come adore on bended knee / Christ the Lord, the newborn King" agree with Luke 2:11, "a Savior, who is Christ the Lord," born in the city of David. "See Him in a manger laid" agrees with Luke 2:7. The carol stays inside that night. It does not go on to Simeon, the cross, or the resurrection. The lines it does sing can be tied to Luke 2. The score stays at 4 because the announcement is faithful and the rest of the gospel is outside the carol.
 
 ---
 
@@ -149,16 +149,16 @@ The congregation never says that Christ came to save sinners, never says the cro
 - **When it serves the sermon.** Luke 2, at Christmas, with the Bethlehem stanza sung.
 - **Gaps the rest of the hour must cover.** The reason for the birth. *Hark! The Herald Angels Sing* is in the catalog and tells more of the incarnation. If that carol is not up, pair this one with *Come Behold the Wondrous Mystery* (logged 7 times).
 - **Diet sentence.** Once in this window, it adds the angels' Gloria and Christ the Lord in the manger. It never adds the cross.
-- **What not to do.** Do not sing the Gloria three times and drop "Christ the Lord, the newborn King." Do not treat "Mary, Joseph, lend your aid" as a prayer addressed to Mary.
+- **What not to do.** Do not sing the Gloria three times and drop "Christ the Lord, the newborn King." Keep "Mary, Joseph, lend your aid" as the manger scene's request that they join the church's praise.
 
 ---
 
 ## Identification notes
 
-One carol. The catalog's writer line and the year 1862 match the English text: a French noel, translated by James Chadwick, in Henri Hemy's Crown of Jesus Music (1862). CCLI 27721 matches the public-domain sheets read here. The French text is older than 1862. Edward Shippen Barnes arranged GLORIA in 1937. Barnes's work is an arrangement of the tune. The lyric graded is the 1862 English text. The text includes the four English stanzas and the Gloria refrain. Setlist keys include E. No separate arrangement year is on the catalog row.
+One carol. Hymnary describes the English as a free imitation of the French noel by James Chadwick, adapted in Henri Hemy's Crown of Jesus Music (1862). The catalog's year 1862 matches that printing. CCLI 27721 matches the public-domain sheets read here. The French text is older than 1862. Edward Shippen Barnes arranged GLORIA in 1937. Barnes's work is an arrangement of the tune. The lyric graded is the 1862 English text. The text includes the four English stanzas and the Gloria refrain. Setlist keys include E. No separate arrangement year is on the catalog row.
 
 ---
 
 ## Why this overall label
 
-The carol tells the angels' Gloria and calls the church to Bethlehem to see Christ the Lord in the manger. That is Luke 2, and it is the whole song. The cross is for another piece in the service. At Christmas, with the Bethlehem stanza kept, the church can use it.
+The carol tells the angels' Gloria and calls the church to Bethlehem to see the Christ whose birth the angels sing, and to adore Christ the Lord, the newborn King. That is Luke 2, and it is the whole song. The cross is for another piece in the service. At Christmas, with the Bethlehem stanza kept, the church can use it.

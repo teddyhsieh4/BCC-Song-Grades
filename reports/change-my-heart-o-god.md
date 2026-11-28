@@ -1,6 +1,6 @@
 # Change My Heart, O God
 
-**Source:** published Eddie Espinosa text (1982), CCLI 1565. Lyrics read 28 Nov 2026 on Word to Worship and in hymnals that print that number. Copyright 1982, Mercy / Vineyard Publishing.
+**Source:** published Eddie Espinosa text (1982), CCLI 1565. Lyrics read 27 Nov 2026 on Word to Worship and in hymnals that print that number. Copyright 1982, Mercy / Vineyard Publishing.
 
 - **Slug:** change-my-heart-o-god
 - **Catalog ID:** change-my-heart-o-god
@@ -37,7 +37,7 @@ The lyric is reaching for a heart made true, and for God as the potter who shape
 
 **Already sung**
 
-**Rock of Ages** (Augustus Toplady / Thomas Hastings, hymn, CCLI 40588). Logged 6 times across at least four years (2023, 2024, 2025, 2026). The sinner flies to the cleft, and the cleansing is the blood and the water from his side.
+**Rock of Ages** (Augustus Toplady / Thomas Hastings, hymn, CCLI 40588). Logged 6 times across at least four years (2023, 2024, 2025, 2026). The sinner flies to the cleft, and the cleansing is the blood and the water from Christ's side.
 
 **Come Thou Fount of Every Blessing** (Robert Robinson, hymn, CCLI 3199992). Logged 9 times across at least four years (2023, 2024, 2025, 2026). The singer is prone to wander and asks to be bound to the God who sought the singer.
 
@@ -45,7 +45,7 @@ The lyric is reaching for a heart made true, and for God as the potter who shape
 
 **Not yet logged**
 
-**Christ Is Mine Forevermore** (Jonny Robinson / Rich Thompson, CityAlight, CCLI 7036096). Not in the catalog. The heart's treasure is Christ, who paid for every failing, and the life is his.
+**Christ Is Mine Forevermore** (Jonny Robinson / Rich Thompson, CityAlight, CCLI 7036096). Not in the catalog. The heart's treasure is Christ, who paid for every failing, and the life is Christ's.
 
 ---
 
@@ -102,7 +102,7 @@ It asks twice for a changed heart, ever true, and to be like God. Then it gives 
 
 ## Persons of the Trinity named
 
-"God" is the one addressed, and he is the potter. Father, Son, and Spirit are unnamed. "Like You" does not say which person the singer would resemble. The clay does not name the hands.
+"God" is the one addressed, and God is the potter. Father, Son, and Spirit are unnamed. "Like You" does not say which person the singer would resemble. The clay does not name the hands.
 
 ---
 
@@ -140,19 +140,19 @@ Jesus is not named. The cross, the blood, and the resurrection are absent. The p
 
 ## Description of God’s Character: 3
 
-He is the potter who molds and makes. He is the one the singer asks to be like, so the likeness is the hope that he is true and good. Holiness, justice, wrath, love, and faithfulness are unnamed. The potter is a real picture of his freedom over the clay. The chorus does not say any other attribute.
+God is the potter who molds and makes. God is the one the singer asks to resemble, so the likeness is the hope that God is true and good. Holiness, justice, wrath, love, and faithfulness are unnamed. The potter is a real picture of God's freedom over the clay. The chorus does not say any other attribute.
 
 ---
 
 ## Congregational Usefulness and Clarity: 3
 
-One log, in 2024, means it is rare here. The words are few and easy to repeat without thinking. A congregation can learn to ask God to change the heart and to call him the potter. They cannot learn Christ or the new covenant from this chorus. "Ever true" and "like You" will be what they remember if the potter line is not sung. The potter is the line worth keeping, and only after a text that has already named the Son.
+One log, in 2024, means it is rare here. The words are few and easy to repeat without thinking. A congregation can learn to ask God to change the heart and to call God the potter. They cannot learn Christ or the new covenant from this chorus. "Ever true" and "like You" will be what they remember if the potter line is not sung. The potter is the line worth keeping, and only after a text that has already named the Son.
 
 ---
 
 ## Tone
 
-The tone is quiet and earnest. The line that sets it is "Change my heart, O God, make it ever true." The potter line is plainer and heavier than the wish to be like him. Nothing in the chorus is harsh. The prayer is small on purpose, and the smallness is the whole song.
+The tone is quiet and earnest. The line that sets it is "Change my heart, O God, make it ever true." The potter line is plainer and heavier than the wish to be like God. Nothing in the chorus is harsh. The prayer is small on purpose, and the smallness is the whole song.
 
 ---
 
@@ -179,4 +179,4 @@ One chorus. Eddie Espinosa, 1982, CCLI 1565, matching the catalog and the Word t
 
 ## Why this overall label
 
-The chorus asks God to change the heart and calls him the potter, which Isaiah and Jeremiah will support. No line is false. Jesus is not named, the prayer is the whole song, and another worshiper could sing every line unchanged. The label is Weak.
+The chorus asks God to change the heart and calls God the potter, which Isaiah and Jeremiah will support. No line is false. Jesus is not named, the prayer is the whole song, and another worshiper could sing every line unchanged. The label is Weak.

@@ -1244,5 +1244,159 @@
       "congregationalUsefulness": 4
     },
     "note": "Official grade. Song batch 11. Luke 2 announcement of the birth. No CCLI. The cross is outside the carol."
+  },
+  {
+    "id": "christ-is-risen",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Avoid",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 12. Avoid on the Brian Johnson / Bethel Music Publishing credit. Lyric scores left as graded."
+  },
+  {
+    "id": "god-and-god-alone",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 12. One cross and one saving name. The song never states substitution."
+  },
+  {
+    "id": "grace-and-peace",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 12. Lawbreakers under a death sentence, the King pays the blood price, the Lamb atones. CCLI 7005995 -> 7001319."
+  },
+  {
+    "id": "great-is-the-lord",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 12. Two lines of Psalm 48, then personal victory. Christ is unnamed. Alternative song suggestions included."
+  },
+  {
+    "id": "not-to-us",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 12. Psalm 115:1 refrain. The cross is a road. Jesus is not named. Alternative song suggestions included. Year 2002 -> 2001. CCLI 3579642 -> 4046093."
+  },
+  {
+    "id": "how-can-i-keep-from-singing",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 12. Loved by the King, and the Savior lives, inside a song about the singer's own music. Alternative song suggestions included. CCLI 4874344 -> 4822372."
+  },
+  {
+    "id": "i-have-decided-to-follow-jesus",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 2,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 12. A vow to follow. The cross is a direction. Stanza 2 is \"Though none go with me, still I will follow.\" Alternative song suggestions included. Writer Sadhu Sundar Singh -> Simon K. Marak. CCLI 16509 -> 24494."
+  },
+  {
+    "id": "i-just-want-to-praise-you",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 2,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 12. \"I love You\" and a holy name. Jesus is unnamed. Alternative song suggestions included. CCLI 22914 -> 28452."
+  },
+  {
+    "id": "jesus-lord-of-heaven",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 12. One verse pays the debt. The chorus measures love by ocean, heaven, and stars. Year 2003 -> 2005. CCLI 4306475 -> 4176073."
+  },
+  {
+    "id": "lord-i-want-to-know-you-more",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 3,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 12. The last line is Philippians 3:10. The chorus looks into his eyes. Year 1984 -> 1983. CCLI 17672 -> 20560. Published title Oh, I Want to Know You More."
+  },
+  {
+    "id": "theres-no-one-like-you",
+    "date": "2026-11-27",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 12. No one like the Lord, then a heartbeat and a face. Another worshiper could sing it unchanged. Alternative song suggestions included."
   }
 ]

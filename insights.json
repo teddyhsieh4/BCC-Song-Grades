@@ -1,9 +1,9 @@
 {
-  "asOf": "26 Nov 2026",
+  "asOf": "28 Nov 2026",
   "uniqueSongs": 194,
   "highConfidence": 194,
-  "graded": 101,
-  "notGraded": 93,
+  "graded": 112,
+  "notGraded": 82,
   "setlistMentionsRaw": 965,
   "timesLoggedSum": 965,
   "families": [
@@ -85,49 +85,49 @@
   "recommendations": [
     {
       "name": "Excellent / Prefer",
-      "count": 45
+      "count": 46
     },
     {
       "name": "Strong",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Acceptable with notes",
-      "count": 19
+      "count": 21
     },
     {
       "name": "Weak",
-      "count": 16
+      "count": 22
     },
     {
       "name": "Avoid",
-      "count": 2
+      "count": 3
     }
   ],
   "recommendationsByLogs": [
     {
       "name": "Excellent / Prefer",
-      "count": 362
+      "count": 365
     },
     {
       "name": "Strong",
-      "count": 153
+      "count": 158
     },
     {
       "name": "Acceptable with notes",
-      "count": 102
+      "count": 108
     },
     {
       "name": "Weak",
-      "count": 75
+      "count": 94
     },
     {
       "name": "Avoid",
-      "count": 19
+      "count": 24
     }
   ],
-  "loggedGraded": 711,
-  "loggedNotGraded": 254,
+  "loggedGraded": 749,
+  "loggedNotGraded": 216,
   "mostLogged": [
     {
       "title": "King Forevermore (God the Uncreated One)",

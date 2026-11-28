@@ -1398,5 +1398,145 @@
       "congregationalUsefulness": 3
     },
     "note": "Official grade. Song batch 12. No one like the Lord, then a heartbeat and a face. Another worshiper could sing it unchanged. Alternative song suggestions included."
+  },
+  {
+    "id": "all-hail-the-power-of-jesus-name",
+    "date": "2026-11-28",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 13. Crown him Lord of all, ransomed from the fall, God incarnate, and the gall. Writer line adds John Rippon (1787 revision)."
+  },
+  {
+    "id": "all-sufficient-merit",
+    "date": "2026-11-28",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 13. The cross did what the singer could not, the debt is paid, and the righteousness is Christ's. CCLI 7222576 -> 7212933."
+  },
+  {
+    "id": "amazing-grace-my-chains-are-gone",
+    "date": "2026-11-28",
+    "action": "published",
+    "recommendation": "Strong",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 13. Newton's stanzas, and a chorus that names the ransom. \"His mercy reigns\" kept. The chorus does not name the cross, the blood, or Jesus."
+  },
+  {
+    "id": "and-can-it-be",
+    "date": "2026-11-28",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "note": "Official grade. Song batch 13. Christ's death for the sinner who caused his pain, the Father's throne left behind, and righteousness with no condemnation. Written 1738, published 1739. The omitted stanza is the fifth."
+  },
+  {
+    "id": "angels-we-have-heard-on-high",
+    "date": "2026-11-28",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 13. Luke 2 and the Gloria. The song stops at the manger. English text associated with James Chadwick, Crown of Jesus Music, 1862."
+  },
+  {
+    "id": "at-the-cross-love-ran-red",
+    "date": "2026-11-28",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 13. Sin washed white at the cross. Surrender and awe share the chorus. CCLI 7017785 -> 7017786."
+  },
+  {
+    "id": "awesome-is-the-lord-most-high",
+    "date": "2026-11-28",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 13. Mighty and faithful, then a vow to go. Jesus is unnamed. Alternative song suggestions included. CCLI 4674165 -> 4674159."
+  },
+  {
+    "id": "blessed-be-your-name",
+    "date": "2026-11-28",
+    "action": "published",
+    "recommendation": "Acceptable with notes",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 13. Job 1:21 in the bridge. Both verses bless the name in plenty and in suffering. The name is not said to be the Son's."
+  },
+  {
+    "id": "boldly-i-approach-the-art-of-celebration",
+    "date": "2026-11-28",
+    "action": "published",
+    "recommendation": "Excellent / Prefer",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 4
+    },
+    "note": "Official grade. Song batch 13. Approach by blood, nail-scarred hands, a risen Son, and an end to condemnation. Writers Gilkeson / Llewellyn. CCLI 7016362 -> 7014655."
+  },
+  {
+    "id": "change-my-heart-o-god",
+    "date": "2026-11-28",
+    "action": "published",
+    "recommendation": "Weak",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "note": "Official grade. Song batch 13. A potter-and-clay prayer. Jesus is unnamed. Alternative song suggestions included."
   }
 ]

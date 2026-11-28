@@ -1249,7 +1249,7 @@
   {
     "id": "all-hail-the-power-of-jesus-name",
     "title": "All Hail the Power of Jesus' Name",
-    "writers": "Edward Perronet / Oliver Holden",
+    "writers": "Edward Perronet / John Rippon (1787 revision) / Oliver Holden (tune CORONATION)",
     "year": "1779",
     "ccli": "25400",
     "family": "Hymn",
@@ -1257,11 +1257,20 @@
     "timesLogged": 3,
     "yearsSeen": "2023, 2025, 2026",
     "variants": "All hail the power of Jesus Name; All Hail the Power of Jesus Name; All Hail the Power of Jesus' Name (E)",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Edward Perronet, 1779, CCLI 25400. John Rippon's 1787 revision is in the stanzas churches usually keep. Oliver Holden wrote the tune CORONATION (1793).",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/all-hail-the-power-of-jesus-name.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 5,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-28",
+    "rubricVersion": "v1"
   },
   {
     "id": "all-i-have-is-christ",
@@ -1294,17 +1303,26 @@
     "title": "All Sufficient Merit",
     "writers": "Bethany Barnard / Bryan Fowler / Shane Barnard",
     "year": "2023",
-    "ccli": "7222576",
+    "ccli": "7212933",
     "family": "Shane & Shane / Worship Initiative",
     "confidence": "High",
     "timesLogged": 5,
     "yearsSeen": "2026",
     "variants": "All sufficient Merit; All Sufficient Merit; All sufficient merit",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Bethany Barnard, Bryan Fowler, and Shane Barnard, 2023. CCLI 7212933 on LifeWay and Essential. Catalog 7222576 did not attach to this lyric.",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2020\u20132025",
-    "report": null
+    "report": "reports/all-sufficient-merit.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-28",
+    "rubricVersion": "v1"
   },
   {
     "id": "amazing-grace-my-chains-are-gone",
@@ -1317,11 +1335,20 @@
     "timesLogged": 1,
     "yearsSeen": "2025",
     "variants": "Amazing grace (my chains are gone)",
-    "notes": "Tomlin addition to Newton. Only used when setlist specified 'my chains are gone'.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "John Newton stanzas with the Chris Tomlin / Louie Giglio chorus, 2006, CCLI 4768151. Separate from Amazing Grace (CCLI 22025). The chorus says \"His mercy reigns\" and names the ransom without the cross, the blood, or the name Jesus.",
+    "status": "graded",
+    "recommendation": "Strong",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/amazing-grace-my-chains-are-gone.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 4,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-28",
+    "rubricVersion": "v1"
   },
   {
     "id": "ancient-of-days",
@@ -1360,16 +1387,25 @@
     "timesLogged": 2,
     "yearsSeen": "2024, 2025",
     "variants": "And Can It Be?; And can it be?",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Charles Wesley, written 1738, published 1739, CCLI 25280. Five-stanza form sung to SAGINA (Thomas Campbell, 1825). The fifth stanza of the 1739 printing, \"Still the small inward voice I hear,\" is the one later books omit.",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/and-can-it-be.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 5
+    },
+    "gradeDate": "2026-11-28",
+    "rubricVersion": "v1"
   },
   {
     "id": "angels-we-have-heard-on-high",
     "title": "Angels We Have Heard on High",
-    "writers": "Traditional French; tr. James Chadwick",
+    "writers": "Traditional French; English text associated with James Chadwick",
     "year": "1862",
     "ccli": "27721",
     "family": "Hymn / Christmas",
@@ -1377,11 +1413,20 @@
     "timesLogged": 1,
     "yearsSeen": "2024",
     "variants": "Angels we have heard (E)",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "English carol from the French noel. The English form is associated with James Chadwick and was printed in Henri Hemy's Crown of Jesus Music (1862). CCLI 27721. The French text is older. Edward Shippen Barnes arranged the tune GLORIA in 1937.",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "Before 1900 (hymns)",
-    "report": null
+    "report": "reports/angels-we-have-heard-on-high.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 3,
+      "objectivity": 4,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-28",
+    "rubricVersion": "v1"
   },
   {
     "id": "as-the-deer",
@@ -1414,34 +1459,52 @@
     "title": "At the Cross (Love Ran Red)",
     "writers": "Chris Tomlin / Ed Cash / Matt Armstrong / Jonas Myrin / Matt Redman",
     "year": "2014",
-    "ccli": "7017785",
+    "ccli": "7017786",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 1,
     "yearsSeen": "2025",
     "variants": "At the cross (love ran red)",
-    "notes": "Only when setlist said 'love ran red'.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Chris Tomlin, Ed Cash, Matt Armstrong, Jonas Myrin, and Matt Redman, 2014. CCLI 7017786. Catalog 7017785 did not attach to this lyric. Use this row when the setlist said \"love ran red.\"",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/at-the-cross-love-ran-red.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 4,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-28",
+    "rubricVersion": "v1"
   },
   {
     "id": "awesome-is-the-lord-most-high",
     "title": "Awesome Is the Lord Most High",
     "writers": "Chris Tomlin / Jesse Reeves / Cary Pierce / Jon Abel",
     "year": "2006",
-    "ccli": "4674165",
+    "ccli": "4674159",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 3,
     "yearsSeen": "2023, 2024, 2026",
     "variants": "Awesome is the Lord Most High; Awesome is the Lord Most High - F; Awesome is the Lord - F#",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Chris Tomlin, Jesse Reeves, Cary Pierce, and Jon Abel, 2006. CCLI 4674159 on Word to Worship and PraiseCharts. Catalog 4674165 did not attach to this lyric.",
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/awesome-is-the-lord-most-high.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-28",
+    "rubricVersion": "v1"
   },
   {
     "id": "be-thou-my-vision",
@@ -1557,28 +1620,46 @@
     "timesLogged": 5,
     "yearsSeen": "2023, 2024, 2025, 2026",
     "variants": "Blessed Be Your Name; Blessed be your name (A); Blessed be your name; Blessed Be Your Name - A",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Matt Redman and Beth Redman, 2002, CCLI 3798438. Both verses: plentiful land and desert, then sun and the road marked with suffering, plus the bridge \"You give and take away.\"",
+    "status": "graded",
+    "recommendation": "Acceptable with notes",
     "era": "2000\u20132009",
-    "report": null
+    "report": "reports/blessed-be-your-name.md",
+    "scores": {
+      "theologicalAccuracy": 4,
+      "christExalting": 2,
+      "objectivity": 3,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-28",
+    "rubricVersion": "v1"
   },
   {
     "id": "boldly-i-approach-the-art-of-celebration",
     "title": "Boldly I Approach (The Art of Celebration)",
-    "writers": "Rend Collective (Gareth Gilkeson / Chris Llewellyn)",
+    "writers": "Gareth Gilkeson / Chris Llewellyn (Rend Collective)",
     "year": "2014",
-    "ccli": "7016362",
+    "ccli": "7014655",
     "family": "Modern",
     "confidence": "High",
     "timesLogged": 1,
     "yearsSeen": "2023",
     "variants": "Boldly I Approach (G)",
-    "notes": "Logged as Boldly / Boldly I Approach.",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Gareth Gilkeson and Chris Llewellyn, Rend Collective, 2014. CCLI 7014655 on PraiseCharts and Integrity. Catalog 7016362 did not attach to this lyric.",
+    "status": "graded",
+    "recommendation": "Excellent / Prefer",
     "era": "2010\u20132019",
-    "report": null
+    "report": "reports/boldly-i-approach-the-art-of-celebration.md",
+    "scores": {
+      "theologicalAccuracy": 5,
+      "christExalting": 5,
+      "objectivity": 4,
+      "godsCharacter": 5,
+      "congregationalUsefulness": 4
+    },
+    "gradeDate": "2026-11-28",
+    "rubricVersion": "v1"
   },
   {
     "id": "build-my-life",
@@ -1618,11 +1699,20 @@
     "timesLogged": 1,
     "yearsSeen": "2024",
     "variants": "Change my heart, O God (C)",
-    "notes": "",
-    "status": "not-graded",
-    "recommendation": null,
+    "notes": "Eddie Espinosa, 1982, CCLI 1565. Mercy / Vineyard Publishing. Potter-and-clay chorus.",
+    "status": "graded",
+    "recommendation": "Weak",
     "era": "1900\u20131989",
-    "report": null
+    "report": "reports/change-my-heart-o-god.md",
+    "scores": {
+      "theologicalAccuracy": 3,
+      "christExalting": 2,
+      "objectivity": 2,
+      "godsCharacter": 3,
+      "congregationalUsefulness": 3
+    },
+    "gradeDate": "2026-11-28",
+    "rubricVersion": "v1"
   },
   {
     "id": "christ-our-hope-in-life-and-death",

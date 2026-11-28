@@ -4,11 +4,11 @@
 
 - **Slug:** i-have-decided-to-follow-jesus
 - **Catalog ID:** i-have-decided-to-follow-jesus
-- **Writers:** Simon K. Marak (formerly attributed to Sadhu Sundar Singh); Assam folk melody
+- **Writers:** Simon K. Marak (formerly attributed to Sadhu Sundar Singh)
 - **Year written:** unknown (in North American hymnals by 1950)
 - **Arrangement year:** not on file
 - **Family:** Hymn
-- **Era:** 1900–1989
+- **Era:** Unknown/traditional
 - **CCLI:** 24494
 - **Times logged (2023–Sept 2026):** 3
 - **Years seen:** 2023, 2026 (at least two years in this window)
@@ -19,7 +19,7 @@
 
 ## Thesis
 
-The singer has decided to follow Jesus and will not turn back. Though no one else goes along, the singer will still follow. The world is behind and the cross is before, and still there is no turning back.
+The singer has decided to follow Jesus and will not turn back. Stanza 2, the text this church sings, is “Though none go with me, still I will follow.” The world is behind and the cross is before, and still there is no turning back.
 
 ---
 
@@ -37,9 +37,9 @@ The lyric is reaching for a life that follows Jesus, leaves the world, and keeps
 
 **Already sung**
 
-**Jesus, I My Cross Have Taken** (Henry F. Lyte, hymn, CCLI 3874967). Logged 6 times across at least four years (2023, 2024, 2025, 2026). The singer takes up the cross and leaves all else, and the hymn goes on with the Savior who keeps him.
+**Jesus, I My Cross Have Taken** (Henry F. Lyte, hymn, CCLI 3874967). Logged 6 times across at least four years (2023, 2024, 2025, 2026). The singer takes up the cross and leaves all else, and the hymn goes on with the Savior who keeps the singer.
 
-**Come Thou Fount of Every Blessing** (Robert Robinson, hymn, CCLI 3199992). Logged 9 times across at least four years (2023, 2024, 2025, 2026). The singer is prone to wander and asks to be bound to the God who sought him.
+**Come Thou Fount of Every Blessing** (Robert Robinson, hymn, CCLI 3199992). Logged 9 times across at least four years (2023, 2024, 2025, 2026). The singer is prone to wander and asks to be bound to the God who sought the singer.
 
 **In Christ Alone** (Keith Getty / Stuart Townend, Getty, CCLI 3350395). Logged 8 times across at least four years (2023, 2024, 2025, 2026). Following Christ is standing in him, and the song tells the cross, the wrath he bore, and the resurrection.
 
@@ -71,13 +71,13 @@ First person singular. The singer announces a decision to the room: “I have de
 
 ## How the text moves
 
-It states the decision three times and closes each stanza with “no turning back.” The second stanza keeps the same vow when no one else comes. The third stanza names what is left and what is ahead: the world behind, the cross before, and still no turning back. The refrain does not change. Nothing after the decision tells who Jesus is or what the cross did. The song moves from a choice, to loneliness, to a direction.
+It states the decision three times and closes each stanza with “no turning back.” The second stanza is “Though none go with me, still I will follow.” The third stanza names what is left and what is ahead: the world behind, the cross before, and still no turning back. The refrain does not change. Nothing after the decision tells who Jesus is or what the cross did. The song moves from a choice, to loneliness, to a direction.
 
 ---
 
 ## Lines you cannot cut
 
-All three stanzas are the song. “I have decided to follow Jesus” is the vow. “The world behind me, the cross before me” is the only line that names the cross, and it names the cross as what stands in front of the singer. Dropping that stanza would leave a decision to follow and a promise not to turn, with no cross at all. No line is false. No line states the atonement. Cutting any stanza shortens a vow. It does not supply the gospel the vow lacks.
+All three stanzas are the song. “I have decided to follow Jesus” is the vow. “Though none go with me, still I will follow” is the second stanza. “The world behind me, the cross before me” is the only line that names the cross, and it names the cross as what stands in front of the singer. Dropping that stanza would leave a decision to follow and a promise not to turn, with no cross at all. No line is false. No line states the atonement. Cutting any stanza shortens a vow. It does not supply the gospel the vow lacks.
 
 ---
 
@@ -175,7 +175,7 @@ The congregation never says that Jesus died for sinners and rose, never names a 
 
 ## Identification notes
 
-One folk song, three stanzas. The catalog attributes it to Sadhu Sundar Singh and calls the origin unknown, mid-twentieth-century folk. Hymnary now attributes the text to Simon K. Marak, a Garo pastor and teacher, and notes the older attribution to Singh. William J. Reynolds published an arrangement in the Assembly Songbook (1959) after finding the song in an undated Australian collection. The earliest Hymnary listing of a North American printing is 1950. This grade uses the three common stanzas and does not treat Singh as the confirmed author. The header names Marak and keeps the folk origin.
+One folk song, three stanzas. The catalog attributes it to Sadhu Sundar Singh and calls the origin unknown, mid-twentieth-century folk. Hymnary now attributes the text to Simon K. Marak, a Garo pastor and teacher, and notes the older attribution to Singh. William J. Reynolds published an arrangement in the Assembly Songbook (1959) after finding the song in an undated Australian collection. The earliest Hymnary listing of a North American printing is 1950. This grade uses the three stanzas this church sings, in this order: “I have decided to follow Jesus,” “Though none go with me, still I will follow,” and “The world behind me, the cross before me.” Singh is not treated as the confirmed author. The header names Marak. The tune is the Assam folk melody. The era is unknown and traditional.
 
 Hymnary and a worship multitrack listing print CCLI 24494 for the traditional text. The catalog prints 16509. This check could not attach 16509 to these stanzas. Later choruses that add “You gave Yourself for me” are different songs, with their own numbers, and are not this grade. The setlist key is C. No arrangement year is on file.
 

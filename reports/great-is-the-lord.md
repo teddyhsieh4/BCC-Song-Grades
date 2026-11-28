@@ -13,7 +13,7 @@
 - **Times logged (2023–Sept 2026):** 5
 - **Years seen:** 2023, 2024, 2025, 2026 (at least four years in this window)
 - **Setlist variants:** Great is the Lord; Great is the Lord (G#); Great is the Lord (Ab)
-- **Publishers / association:** Body Songs, 1985. Integrity lists the song. Distinct from Michael W. Smith’s “Great Is the Lord” (CCLI 1149).
+- **Publishers / association:** Body Songs, 1985. Integrity lists the song.
 
 ---
 
@@ -108,7 +108,7 @@ It opens with the greatness and the praise, the city of our God, the holy place,
 
 ## Could another worshiper sing this unchanged?
 
-Yes. The city of our God, the holy place, the joy of the earth, the victory, the enemy, the bowing, the unfailing love, and the eternal God can be sung by a worshiper of the God of Israel who does not confess Jesus. No line would force the name. “The works You’ve done in our lives” can be sung by any devout person about his own story.
+Yes. The city of our God, the holy place, the joy of the earth, the victory, the enemy, the bowing, the unfailing love, and the eternal God can be sung by a worshiper of the God of Israel who does not confess Jesus. No line would force the name. “The works You’ve done in our lives” can be sung by any devout person about the singer’s own story.
 
 ---
 
@@ -130,7 +130,7 @@ Yes. The city of our God, the holy place, the joy of the earth, the victory, the
 
 ## Christ-Exalting and Gospel-Saturated: 2
 
-Jesus is not named. The cross, the blood, the resurrection, and the name of Christ are absent. “The victory” has no gospel under it. “You alone are God eternal” is true of God and, in this lyric, is not tied to the Son. A worshiper of one God can receive the whole song as his own.
+Jesus is not named. The cross, the blood, the resurrection, and the name of Christ are absent. “The victory” has no gospel under it. “You alone are God eternal” is true of God and, in this lyric, is not tied to the Son. A worshiper of one God can receive the whole song unchanged.
 
 ---
 
@@ -175,7 +175,7 @@ The congregation never names Jesus, never says that the victory is his cross and
 
 ## Identification notes
 
-One song. Steve McEwan, 1985, CCLI 10769, matching Integrity Worship and Hymnary. The catalog already distinguishes it from Michael W. Smith’s “Great Is the Lord” (CCLI 1149). The text graded is the Integrity and Praise! form: the city, the holy place, the joy of the whole earth, the victory and the enemy, the bowing, and the chorus of lifting the name, thanking God for works in our lives, trusting unfailing love, and confessing “You alone are God eternal.” Setlist keys include G# and A-flat. No arrangement year is on file.
+One song. Steve McEwan, 1985, CCLI 10769, matching Integrity Worship and Hymnary. It is distinct from Michael W. Smith’s “Great Is the Lord” (CCLI 1149). The catalog already keeps the two songs apart. The text graded is the Integrity and Praise! form: the city, the holy place, the joy of the whole earth, the victory and the enemy, the bowing, and the chorus of lifting the name, thanking God for works in our lives, trusting unfailing love, and confessing “You alone are God eternal.” Setlist keys include G# and A-flat. No arrangement year is on file.
 
 ---
 

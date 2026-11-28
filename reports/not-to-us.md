@@ -33,7 +33,7 @@ Do not feature it. It appears once in this window, in 2025. “Not to us, but to
 
 ## Alternative song suggestions
 
-The lyric is reaching for the glory of God’s name, a cross in front of the singer, and a life that is all for him. Three of these the church already sings. One is not in the catalog.
+The lyric is reaching for the glory of God’s name, a cross in front of the singer, and a life that is all for the Lord. Three of these the church already sings. One is not in the catalog.
 
 **Already sung**
 
@@ -108,7 +108,7 @@ It starts with the cross in front and the world behind, no turning back, a banne
 
 ## Could another worshiper sing this unchanged?
 
-The refrain can. “Not to us, but to Your name be the glory” can be sung by any worshiper who wants the honor to go to his god. “The cross before me, the world behind” stops a worshiper who will not have the cross in front of him. Jesus is still not named, and the cross is not said to be a death for sin. Someone who admires sacrifice as a path can sing the first lines without confessing the atonement.
+The refrain can. “Not to us, but to Your name be the glory” can be sung by any worshiper who wants the honor to go to that worshiper’s god. “The cross before me, the world behind” stops a worshiper who will not have the cross in front. Jesus is still not named, and the cross is not said to be a death for sin. Someone who admires sacrifice as a path can sing the first lines without confessing the atonement.
 
 ---
 

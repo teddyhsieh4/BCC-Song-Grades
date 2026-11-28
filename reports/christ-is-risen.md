@@ -98,9 +98,9 @@ It starts with Newton’s grace: a wretch saved, lost then found, blind then see
 | Cross | Implied | “The God who died,” “I’ll see Your scars.” The word cross is not used. |
 | Burial | Implied | “Risen from the grave.” The burial is not narrated. |
 | Resurrection | Yes | “Christ is risen from the grave.” “Came back to life.” |
-| Reign / session | Yes | “The mighty King of kings.” |
+| Reign / session | Implied | “The mighty King of kings.” |
 | Repentance | Implied | The prodigal is welcomed home. The lyric does not put a confession in the singer’s mouth. |
-| Lordship | Yes | “King of kings.” |
+| Lordship | Implied | “King of kings.” |
 | Present intercession | No | |
 | Justification / imputed righteousness | Implied | “The sinner now a saint,” “delivered and redeemed.” The word justified is not used. |
 

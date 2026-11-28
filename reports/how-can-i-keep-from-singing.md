@@ -27,7 +27,7 @@ An endless song echoes in the singer’s soul. Storms come, and the singer holds
 
 Weak
 
-Do not feature it. The church has logged it 5 times across at least four years (2023, 2024, 2025, 2026). “I know my Savior lives” is the line that has to stay if the song is sung at all, and it still does not say the cross. The chorus is the singer who cannot keep from singing because he is loved by the King. Jesus is not named. The death that makes the love amazing is not named. Keep it off the list, or sing it only after another song has already said the cross, and keep it short.
+Do not feature it. The church has logged it 5 times across at least four years (2023, 2024, 2025, 2026). “I know my Savior lives” is the line that has to stay if the song is sung at all, and it still does not say the cross. The chorus is a singer who cannot keep from singing, loved by the King. Jesus is not named. The death that makes the love amazing is not named. Keep it off the list, or sing it only after another song has already said the cross, and keep it short.
 
 ---
 
@@ -94,7 +94,7 @@ It starts inside the singer: an endless song in the soul, music ringing, storms,
 | Resurrection | Implied | “I know my Savior lives.” The empty grave is not told. |
 | Reign / session | Implied | “Loved by the King,” and “the saints around the throne.” |
 | Repentance | No | |
-| Lordship | Yes | “Lord,” “the King,” “my Savior.” |
+| Lordship | Implied | “Lord,” “the King,” “my Savior.” |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
@@ -108,7 +108,7 @@ It starts inside the singer: an endless song in the soul, music ringing, storms,
 
 ## Could another worshiper sing this unchanged?
 
-Most of it, yes, if “Savior” and “Your name” are left vague. “I know my Savior lives” and “shouting Your name” require a savior the singer trusts. They do not require the cross, and they do not say which name. A worshiper who believes in a living king who loves him can sing the chorus without correction. The line that raises the cost is “my Savior lives,” and even that line does not say the Savior died.
+Most of it, yes, if “Savior” and “Your name” are left vague. “I know my Savior lives” and “shouting Your name” require a savior the singer trusts. They do not require the cross, and they do not say which name. A worshiper who believes in a living king who loves that worshiper can sing the chorus without correction. The line that raises the cost is “my Savior lives,” and even that line does not say the Savior died.
 
 ---
 

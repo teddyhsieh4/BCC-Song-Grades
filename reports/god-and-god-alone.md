@@ -13,7 +13,7 @@
 - **Times logged (2023–Sept 2026):** 5
 - **Years seen:** 2023, 2024, 2025 (at least three years in this window)
 - **Setlist variants:** God and God alone; God and God Alone; God and God alone - G; God and God alone (G)
-- **Publishers / association:** sixsteps / worshiptogether lane, from the album *Never Lose Sight*. Distinct from Phil McHugh’s 1984 song of the same title (CCLI 12386).
+- **Publishers / association:** sixsteps / worshiptogether lane, from the album *Never Lose Sight*.
 
 ---
 
@@ -36,7 +36,7 @@ Use it when the service is on the uniqueness of God and the name of Jesus, and s
 | Category | Score |
 |---|---|
 | Theological Accuracy and Biblical Fidelity | 4 |
-| Christ-Exalting and Gospel-Saturated | 5 |
+| Christ-Exalting and Gospel-Saturated | 4 |
 | Objectivity vs. Subjectivity | 4 |
 | Description of God’s Character | 4 |
 | Congregational Usefulness and Clarity | 4 |
@@ -73,7 +73,7 @@ It starts with one church, one faith, one anthem, then one cross, one grace, and
 | Wrath or curse | No | |
 | Cross | Yes | “One cross, one grace, one name that saves.” |
 | Burial | No | |
-| Resurrection | Yes | “Who else can raise us from the grave?” |
+| Resurrection | No | “Who else can raise us from the grave?” The line raises the church. |
 | Reign / session | Yes | “You are forever seated on Your throne.” “Every knee will bow down.” |
 | Repentance | No | |
 | Lordship | Yes | The name that saves, the throne, every knee. |
@@ -104,15 +104,15 @@ No. “One cross, one grace, one name that saves,” “wash our sin away,” �
 
 ## Theological Accuracy and Biblical Fidelity: 4
 
-“One name that saves” agrees with Acts 4:12, that there is no other name under heaven by which we must be saved. “Who else can wash our sin away” agrees with Revelation 1:5, “who loves us and has freed us from our sins by his blood,” in shorter words. The song says wash and does not say blood. “Who else can raise us from the grave” is the resurrection hope. “You are forever seated on Your throne” agrees with Hebrews 1:3, the Son seated at the right hand of the Majesty on high, though the song does not say “at the right hand.” “Every knee will bow down” is Philippians 2:10. “What could separate us from this amazing love” follows Romans 8:39, that nothing in all creation “will be able to separate us from the love of God in Christ Jesus our Lord.” The song says “this amazing love” and “our God” and does not say “in Christ Jesus our Lord” in the bridge. Verse 2 has already named Jesus.
+“One name that saves” agrees with Acts 4:12, that there is no other name under heaven by which we must be saved. “Who else can wash our sin away” agrees with Revelation 1:5, “who loves us and has freed us from our sins by his blood,” in shorter words. The song says wash and does not say blood. “Who else can raise us from the grave” is the hope that God raises his people. “You are forever seated on Your throne” agrees with Hebrews 1:3, the Son seated at the right hand of the Majesty on high, though the song does not say “at the right hand.” “Every knee will bow down” is Philippians 2:10. “What could separate us from this amazing love” follows Romans 8:39, that nothing in all creation “will be able to separate us from the love of God in Christ Jesus our Lord.” The song says “this amazing love” and “our God” and does not say “in Christ Jesus our Lord” in the bridge. Verse 2 has already named Jesus.
 
 “We lift You higher” and “Your name be louder” are the church’s praise. Psalm 34:3 says, “Oh, magnify the LORD with me.” These lines do not add a fact about God. The saving lines can be tied to texts. The chorus spends its time on height and volume.
 
 ---
 
-## Christ-Exalting and Gospel-Saturated: 5
+## Christ-Exalting and Gospel-Saturated: 4
 
-The cross, the grace, and the saving name are in the first verse. Sin is what he washes. The grave is what he raises from. Jesus is named as the one to whom the praise belongs. The throne and every knee are his reign. Wrath and the blood are not the words used. The finished work is still in the verses: a cross, a washing of sin, and a resurrection.
+The song names the cross and the saving name. “One cross, one grace, one name that saves” and “Jesus, all praise to You belongs” put that name on Jesus. “Who else can wash our sin away” says sin is washed. The song never states substitution. The blood and a death in the sinner’s place are absent from the lyric. “Who else can raise us from the grave” raises the church. The verses confess one cross and one saving name, and they leave the exchange unsaid.
 
 ---
 
@@ -150,14 +150,14 @@ The congregation never says that the cross bore wrath, never says “blood,” a
 
 - **When it serves the sermon.** Acts 4:12, Philippians 2, Romans 8:31-39, or the uniqueness of God, with verse 2 left in.
 - **Gaps the rest of the hour must cover.** The wrath borne and the blood. Pair it with *Hallelujah, What a Savior* (logged 6 times) or *It Was Finished Upon That Cross* (logged 11 times) when the sermon is the cost of the cross.
-- **Diet sentence.** Five times in at least three years, it adds one cross, one saving name, a washing of sin, and a resurrection. It never says the word wrath.
+- **Diet sentence.** Five times in at least three years, it adds one cross, one saving name, a washing of sin, and the raising of the church from the grave. It never says the word wrath.
 - **What not to do.** Do not loop “higher” and “louder” and drop “one cross” and “wash our sin away.” Do not sing this as the Phil McHugh song. That is a different text and CCLI 12386.
 
 ---
 
 ## Identification notes
 
-One song. Chris Tomlin, Jonas Myrin, and Jason Ingram, 2016, CCLI 7054550, matching the catalog and the PraiseCharts and Worship Together listings. Album *Never Lose Sight*. The catalog already distinguishes it from Phil McHugh’s 1984 “God and God Alone” (CCLI 12386). Setlist keys include G. No arrangement year is on file. This grade uses the PraiseCharts text: “One cross, one grace, one name that saves,” “Who else can wash our sin away,” “Who else can raise us from the grave,” and “Jesus, all praise to You belongs.”
+One song. Chris Tomlin, Jonas Myrin, and Jason Ingram, 2016, CCLI 7054550, matching the catalog and the PraiseCharts and Worship Together listings. Album *Never Lose Sight*. This text is distinct from Phil McHugh’s 1984 “God and God Alone” (CCLI 12386). The catalog already keeps the two songs apart. Setlist keys include G. No arrangement year is on file. This grade uses the PraiseCharts text: “One cross, one grace, one name that saves,” “Who else can wash our sin away,” “Who else can raise us from the grave,” and “Jesus, all praise to You belongs.”
 
 ---
 

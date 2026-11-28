@@ -13,7 +13,7 @@
 - **Times logged (2023–Sept 2026):** 3
 - **Years seen:** 2023, 2024, 2026 (at least three years in this window)
 - **Setlist variants:** Lord, I want to know you more; Lord I Want to Know You More (E)
-- **Publishers / association:** Birdwing Music and Universal Music–Brentwood Benson. Often sung by Steve Green. The published title is “Oh, I Want to Know You More.”
+- **Publishers / association:** Birdwing Music and Universal Music–Brentwood Benson.
 
 ---
 
@@ -76,7 +76,7 @@ It starts when the singer feels caught in self and bought by worldly wealth. The
 | Resurrection | Yes | “Your death and resurrection.” |
 | Reign / session | No | |
 | Repentance | Implied | Wanderings melt when the Spirit calls. A confession is not spoken. |
-| Lordship | Yes | “Lord” in the church’s title, and the desire to know him. |
+| Lordship | Implied | “Lord” in the church’s title, and the desire to know him. |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
@@ -157,7 +157,7 @@ The congregation never says why Christ died, never says that sinners are forgive
 
 ## Identification notes
 
-One song. The published title is “Oh, I Want to Know You More,” Steve Fry. Word to Worship and an Easy Song listing print CCLI 20560 and a 1983 copyright. The catalog title is “Lord I Want to Know You More,” the year is 1984, and the CCLI is 17672. This check could not attach 17672 to this lyric. The header uses the published title’s number, 20560, and the year 1983, and keeps the church’s title as the report title because that is the row. The text graded includes both verses, the chorus with “looking in Your eyes,” and the ending “I would give my final breath to know You in Your death and resurrection.” Setlist keys include E. No arrangement year is on file.
+One song. The published title is “Oh, I Want to Know You More,” Steve Fry. It is often sung by Steve Green. Word to Worship and an Easy Song listing print CCLI 20560 and a 1983 copyright. The catalog title is “Lord I Want to Know You More,” the year is 1984, and the CCLI is 17672. This check could not attach 17672 to this lyric. The header uses the published title’s number, 20560, and the year 1983, and keeps the church’s title as the report title because that is the row. The text graded includes both verses, the chorus with “looking in Your eyes,” and the ending “I would give my final breath to know You in Your death and resurrection.” Setlist keys include E. No arrangement year is on file.
 
 ---
 

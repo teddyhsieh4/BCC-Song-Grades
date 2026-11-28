@@ -47,7 +47,7 @@ Rubric version v1. Grade date 2026-11-28.
 
 ## Voice and addressee
 
-The stanzas address God as “You.” “Our judgment,” “for me,” “the vilest sinner’s heart,” “my heart.” The singer stands with lawbreakers and then says the grace has come to him. Jesus is not given the name “Jesus” until the riches of Christ in the third stanza. The King and the Lamb are addressed as the one who paid. The church is confessing to God what he has done for sinners, in a singular “me” a whole room can sing.
+The stanzas address God as “You.” “Our judgment,” “for me,” “the vilest sinner’s heart,” “my heart.” The singer stands with lawbreakers and then says the grace has come to the singer. Jesus is not given the name “Jesus” until the riches of Christ in the third stanza. The King and the Lamb are addressed as the one who paid. The church is confessing to God what he has done for sinners, in a singular “me” a whole room can sing.
 
 ---
 
@@ -74,9 +74,9 @@ It opens on the greeting of grace and peace and asks how it can belong to lawbre
 | Cross | Implied | The blood price and the slaughtered Lamb. The word cross is not used. |
 | Burial | No | |
 | Resurrection | No | |
-| Reign / session | Yes | “The matchless King of all.” |
+| Reign / session | Implied | “The matchless King of all.” |
 | Repentance | No | |
-| Lordship | Yes | King, and “the riches of Christ.” |
+| Lordship | Implied | King, and “the riches of Christ.” |
 | Present intercession | No | |
 | Justification / imputed righteousness | Implied | “Loved by God and called as a saint.” The verdict is the call. The word justified is not used. |
 
@@ -90,7 +90,7 @@ Christ is named in “the riches of Christ.” The matchless King and the slaugh
 
 ## Could another worshiper sing this unchanged?
 
-No. “Paid the blood price for me,” “Slaughtered lamb, what atonement You bring,” and “In the riches of Christ” cannot be moved to another savior. A moralist who thinks well of himself cannot sing “lawbreakers and thieves” and “the vilest sinner’s heart” as his own company without accepting the sentence. “Your grace has come to me,” sung alone, is smaller than the song.
+No. “Paid the blood price for me,” “Slaughtered lamb, what atonement You bring,” and “In the riches of Christ” cannot be moved to another savior. A moralist who thinks well of a clean record cannot sing “lawbreakers and thieves” and “the vilest sinner’s heart” as the moralist’s own company without accepting the sentence. “Your grace has come to me,” sung alone, is smaller than the song.
 
 ---
 

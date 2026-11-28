@@ -69,12 +69,12 @@ It opens with Jesus as Lord of heaven and with grace the singer did not deserve,
 |---|---|---|
 | Incarnation | No | |
 | Our sin named | Implied | “I do not deserve the grace,” “My debt.” The sin is not named. |
-| Substitution stated | Implied | “My debt You freely paid.” The debt is the singer’s, and he paid it. The exchange is one line. |
+| Substitution stated | Implied | “My debt You freely paid.” The debt is the singer’s, and Jesus paid it. The exchange is one line. |
 | Wrath or curse | No | |
 | Cross | Implied | “The sacrifice You made.” The word cross is not used. |
 | Burial | No | |
 | Resurrection | No | |
-| Reign / session | Yes | “Jesus, Lord of heaven.” |
+| Reign / session | Implied | “Jesus, Lord of heaven.” |
 | Repentance | No | |
 | Lordship | Yes | “Jesus, Lord of heaven.” |
 | Present intercession | No | |

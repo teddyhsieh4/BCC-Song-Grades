@@ -13,13 +13,13 @@
 - **Times logged (2023–Sept 2026):** 3
 - **Years seen:** 2024, 2025, 2026 (at least three years in this window)
 - **Setlist variants:** Theres no one like you; There's No One Like You; There's no one like you (E)
-- **Publishers / association:** Mercy / Vineyard. Distinct from Sovereign Grace’s “Jesus, There’s No One Like You” and from the Lenny LeBlanc song of the same title (CCLI 815649).
+- **Publishers / association:** Mercy / Vineyard.
 
 ---
 
 ## Thesis
 
-No one is like the Lord, and no one could take his place. The singer’s heart beats to worship him. The singer lives to seek his face, longs for his presence, and calls serving him a reward. He is the singer’s God and everything.
+No one is like the Lord, and no one could take the Lord’s place. The singer’s heart beats to worship the Lord. The singer lives to seek the Lord’s face, longs for the Lord’s presence, and calls serving the Lord a reward. The Lord is the singer’s God and everything.
 
 ---
 
@@ -27,13 +27,13 @@ No one is like the Lord, and no one could take his place. The singer’s heart b
 
 Weak
 
-Do not feature it. The church has logged it 3 times across at least three years (2024, 2025, 2026). “There’s no one like You, my Lord / No one could take Your place” is the line that has to stay if it is sung at all. The rest is a heart that beats to worship, a life spent seeking his face, and a longing for presence. Jesus is not named. A worshiper who does not confess Jesus can sing every line unchanged. Keep it off the list, or sing only a short pass after Scripture has already named the Son.
+Do not feature it. The church has logged it 3 times across at least three years (2024, 2025, 2026). “There’s no one like You, my Lord / No one could take Your place” is the line that has to stay if it is sung at all. The rest is a heart that beats to worship, a life spent seeking the Lord’s face, and a longing for presence. Jesus is not named. A worshiper who does not confess Jesus can sing every line unchanged. Keep it off the list, or sing only a short pass after Scripture has already named the Son.
 
 ---
 
 ## Alternative song suggestions
 
-The lyric is reaching for the uniqueness of the Lord, a heart set on worship, and a life that seeks his face. Three of these the church already sings. One is not in the catalog.
+The lyric is reaching for the uniqueness of the Lord, a heart set on worship, and a life that seeks the Lord’s face. Three of these the church already sings. One is not in the catalog.
 
 **Already sung**
 
@@ -65,13 +65,13 @@ Rubric version v1. Grade date 2026-11-28.
 
 ## Voice and addressee
 
-First person singular, speaking to the Lord. “My Lord,” “my heart,” “I live,” “I long,” “You are my God,” “You’re everything to me.” The claim “there’s no one like You” is about him. The reasons that follow are the singer’s heartbeat, search, and longing.
+First person singular, speaking to the Lord. “My Lord,” “my heart,” “I live,” “I long,” “You are my God,” “You’re everything to me.” The claim “there’s no one like You” is about the Lord. The reasons that follow are the singer’s heartbeat, search, and longing.
 
 ---
 
 ## How the text moves
 
-It says no one is like the Lord and no one could take his place. The singer’s heart beats to worship him, and the singer lives to seek his face. That pair returns. The chorus says he is the singer’s God and everything. A second verse keeps the same uniqueness and adds a longing for presence, with service as the reward. The chorus does not add a work of God. The song moves from uniqueness to the singer’s devotion and stays there.
+It says no one is like the Lord and no one could take the Lord’s place. The singer’s heart beats to worship the Lord, and the singer lives to seek the Lord’s face. That pair returns. The chorus says the Lord is the singer’s God and everything. A second verse keeps the same uniqueness and adds a longing for presence, with service as the reward. The chorus does not add a work of God. The song moves from uniqueness to the singer’s devotion and stays there.
 
 ---
 
@@ -94,7 +94,7 @@ It says no one is like the Lord and no one could take his place. The singer’s 
 | Resurrection | No | |
 | Reign / session | No | |
 | Repentance | No | |
-| Lordship | Yes | “My Lord,” “You are my God.” |
+| Lordship | Implied | “My Lord,” “You are my God.” |
 | Present intercession | No | |
 | Justification / imputed righteousness | No | |
 
@@ -108,7 +108,7 @@ It says no one is like the Lord and no one could take his place. The singer’s 
 
 ## Could another worshiper sing this unchanged?
 
-Yes. “There’s no one like You, my Lord,” “I live just to seek Your face,” and “I long for Your presence” can be sung by any worshiper of one God. Nothing in the lyric names Jesus, a cross, or a resurrection. “To serve You is my reward” can be a devout person’s whole religion. The song would not correct him.
+Yes. “There’s no one like You, my Lord,” “I live just to seek Your face,” and “I long for Your presence” can be sung by any worshiper of one God. Nothing in the lyric names Jesus, a cross, or a resurrection. “To serve You is my reward” can be a devout person’s whole religion. The song would not correct that worshiper.
 
 ---
 
@@ -136,7 +136,7 @@ Jesus is not named. The cross, the blood, sin, and the resurrection are absent. 
 
 ## Objectivity vs. Subjectivity: 2
 
-“There’s no one like You” declares something about God. The lines that explain it are the singer: a heart that beats to worship, a life lived to seek his face, a longing for presence, service as a personal reward, “You’re everything to me.” The uniqueness is one claim. The devotion is the rest of the song, and it is what the chorus repeats.
+“There’s no one like You” declares something about God. The lines that explain it are the singer: a heart that beats to worship, a life lived to seek the Lord’s face, a longing for presence, service as a personal reward, “You’re everything to me.” The uniqueness is one claim. The devotion is the rest of the song, and it is what the chorus repeats.
 
 ---
 
@@ -175,7 +175,7 @@ The congregation never names Jesus, never says that the Lord is the Holy One who
 
 ## Identification notes
 
-The catalog row is Eddie Espinosa, Vineyard, 1987, CCLI 673869, and the notes already separate it from the Sovereign Grace song and from Lenny LeBlanc’s song (CCLI 815649). This grade uses the Espinosa text printed on Vineyard-associated charts: no one like you, no one could take your place, the heart beats to worship, the life seeks his face, presence is longed for, and service is called a reward. A 1998 Vineyard Café listing of a song with the same title adds Steve Mitchinson and Vicky Beeching as writers. That credit line is a different question. This report follows the catalog’s Espinosa-only row. CCLI 673869 is the catalog number. This pass did not find a public SongSelect citation that reprints 673869 beside the lyric, so the reviewer should confirm the number before it is reported. Setlist keys include E. No arrangement year is on file.
+The catalog row is Eddie Espinosa, Vineyard, 1987, CCLI 673869. This text is distinct from Sovereign Grace’s “Jesus, There’s No One Like You” and from Lenny LeBlanc’s song of the same title (CCLI 815649). This grade uses the Espinosa text printed on Vineyard-associated charts: no one like you, no one could take your place, the heart beats to worship, the life seeks his face, presence is longed for, and service is called a reward. A 1998 Vineyard Café listing of a song with the same title adds Steve Mitchinson and Vicky Beeching as writers. That credit line is a different question. This report follows the catalog’s Espinosa-only row. CCLI 673869 is the catalog number. This pass did not find a public SongSelect citation that reprints 673869 beside the lyric, so the reviewer should confirm the number before it is reported. Setlist keys include E. No arrangement year is on file.
 
 ---
 

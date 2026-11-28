@@ -59,7 +59,7 @@ The lyric is reaching for the glory of God’s name, a cross in front of the sin
 | Description of God’s Character | 3 |
 | Congregational Usefulness and Clarity | 3 |
 
-Rubric version v1. Grade date 2026-11-28.
+Rubric version v1. Grade date 2026-11-27.
 
 ---
 

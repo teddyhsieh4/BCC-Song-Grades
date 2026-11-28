@@ -41,7 +41,7 @@ Use it rarely, and do not drop the last line. The church has logged it 3 times a
 | Description of God’s Character | 3 |
 | Congregational Usefulness and Clarity | 3 |
 
-Rubric version v1. Grade date 2026-11-28.
+Rubric version v1. Grade date 2026-11-27.
 
 ---
 

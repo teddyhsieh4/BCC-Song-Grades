@@ -63,7 +63,7 @@ The lyric is reaching for grace that finds a wretch, for Christ risen from the g
 | Description of God’s Character | 3 |
 | Congregational Usefulness and Clarity | 4 |
 
-Rubric version v1. Grade date 2026-11-28.
+Rubric version v1. Grade date 2026-11-27.
 
 These five numbers grade the lyric. The label above them is Avoid because of the Bethel credit.
 

@@ -59,7 +59,7 @@ The lyric is reaching for a life that follows Jesus, leaves the world, and keeps
 | Description of God’s Character | 2 |
 | Congregational Usefulness and Clarity | 3 |
 
-Rubric version v1. Grade date 2026-11-28.
+Rubric version v1. Grade date 2026-11-27.
 
 ---
 

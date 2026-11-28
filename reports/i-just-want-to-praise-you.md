@@ -59,7 +59,7 @@ The lyric is reaching for praise, love toward God, and the exalting of his holy 
 | Description of God’s Character | 2 |
 | Congregational Usefulness and Clarity | 3 |
 
-Rubric version v1. Grade date 2026-11-28.
+Rubric version v1. Grade date 2026-11-27.
 
 ---
 

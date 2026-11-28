@@ -59,7 +59,7 @@ The lyric is reaching for the uniqueness of the Lord, a heart set on worship, an
 | Description of God’s Character | 3 |
 | Congregational Usefulness and Clarity | 3 |
 
-Rubric version v1. Grade date 2026-11-28.
+Rubric version v1. Grade date 2026-11-27.
 
 ---
 

@@ -41,7 +41,7 @@ Feature it. The church has logged it 3 times across at least three years (2023, 
 | Description of God’s Character | 5 |
 | Congregational Usefulness and Clarity | 5 |
 
-Rubric version v1. Grade date 2026-11-28.
+Rubric version v1. Grade date 2026-11-27.
 
 ---
 

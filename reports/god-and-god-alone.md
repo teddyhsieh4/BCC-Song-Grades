@@ -41,7 +41,7 @@ Use it when the service is on the uniqueness of God and the name of Jesus, and s
 | Description of God’s Character | 4 |
 | Congregational Usefulness and Clarity | 4 |
 
-Rubric version v1. Grade date 2026-11-28.
+Rubric version v1. Grade date 2026-11-27.
 
 ---
 

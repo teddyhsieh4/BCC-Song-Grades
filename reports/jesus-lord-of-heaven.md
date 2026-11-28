@@ -41,7 +41,7 @@ Use it sparingly, and do not let the chorus become the whole song. The church ha
 | Description of God’s Character | 3 |
 | Congregational Usefulness and Clarity | 3 |
 
-Rubric version v1. Grade date 2026-11-28.
+Rubric version v1. Grade date 2026-11-27.
 
 ---
 
